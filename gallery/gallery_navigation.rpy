@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2025-12-03 08:54
+﻿# TODO: Translation updated at 2025-12-03 08:54
 
 translate chinese strings:
 
@@ -29,3 +29,4 @@ translate Chinese strings:
     # game/gallery/gallery_navigation.rpy:101
     old "Replay"
     new ""
+
