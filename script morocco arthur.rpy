@@ -328,7 +328,7 @@ translate chinese day14_arthur_start_38954014:
 translate chinese day14_arthur_start_badbfc5a:
 
     # k "Suit yourself."
-    k ""
+    k "随你便。"
 
 # game/script morocco arthur.rpy:170
 translate chinese day14_arthur_start_189107b9:
@@ -436,7 +436,7 @@ translate chinese day14_arthur_start_5a482db1:
 translate chinese day14_arthur_start_9a58adc6:
 
     # a "No."
-    a ""
+    a "没有"
 
 # game/script morocco arthur.rpy:229
 translate chinese day14_arthur_start_a50c24df:
@@ -568,7 +568,7 @@ translate chinese day14_arthur_start_13ca85ef:
 translate chinese day14_arthur_start_98720c2f:
 
     # p "Sir?"
-    p ""
+    p "长官？"
 
 # game/script morocco arthur.rpy:283
 translate chinese day14_arthur_start_0528735f:
@@ -610,7 +610,7 @@ translate chinese day14_arthur_start_1561867a:
 translate chinese day14_arthur_start_f5928b22:
 
     # p "No, sir."
-    p ""
+    p "不会的，长官。"
 
 # game/script morocco arthur.rpy:299
 translate chinese day14_arthur_start_e55d0faf:
@@ -1420,7 +1420,7 @@ translate chinese day14_arthur_start_0505e6f7:
 translate chinese day14_arthur_start_26c8c55e:
 
     # a ". . ."
-    a ""
+    a ". . ."
 
 # game/script morocco arthur.rpy:721
 translate chinese day14_arthur_start_824fe429:
@@ -1618,7 +1618,7 @@ translate chinese day14_arthur_start_faec32da:
 translate chinese day14_arthur_start_469cd171:
 
     # "Maybe."
-    ""
+    "也许吧。"
 
 # game/script morocco arthur.rpy:820
 translate chinese day14_arthur_start_d6b5699d:
@@ -1726,7 +1726,7 @@ translate chinese day14_arthur_start_76c74876:
 translate chinese day14_arthur_start_25e1e0a5:
 
     # "He pauses."
-    ""
+    "他停顿了一下。"
 
 # game/script morocco arthur.rpy:858
 translate chinese day14_arthur_start_9bfe1c7a:
@@ -1906,7 +1906,7 @@ translate chinese day14_arthur_start_03f10fe4:
 translate chinese day14_arthur_start_ccd382ee:
 
     # a "Here."
-    a ""
+    a "给。"
 
 # game/script morocco arthur.rpy:934
 translate chinese day14_arthur_start_6043fb6a:
@@ -2104,7 +2104,7 @@ translate chinese day14_arthur_start_47131d6a:
 translate chinese day14_arthur_start_bd274b0c:
 
     # a "Indeed."
-    a ""
+    a "的确。"
 
 # game/script morocco arthur.rpy:1016
 translate chinese day14_arthur_start_c81f32e3:
@@ -2524,7 +2524,7 @@ translate chinese day14_arthur_start_647ed833:
 translate chinese day14_arthur_start_adc3e2cf:
 
     # "He nods."
-    ""
+    "他点点头。"
 
 # game/script morocco arthur.rpy:1202
 translate chinese day14_arthur_start_88c95c3b:
@@ -3040,7 +3040,7 @@ translate chinese day14_arthur_start_5d72c887:
 translate chinese day14_arthur_start_1939486d:
 
     # "He shrugs."
-    ""
+    "他耸耸肩"
 
 # game/script morocco arthur.rpy:1419
 translate chinese day14_arthur_start_6622045f:
@@ -3220,7 +3220,7 @@ translate chinese day14_arthur_start_9d00a0f7:
 translate chinese day14_arthur_start_c5c4ec8f:
 
     # a "Is that all?"
-    a ""
+    a "就这些？"
 
 # game/script morocco arthur.rpy:1503
 translate chinese day14_arthur_start_55d69615:
@@ -3286,7 +3286,7 @@ translate chinese day14_arthur_start_640313e1:
 translate chinese day14_arthur_start_ef85c08c:
 
     # a "Good."
-    a ""
+    a "不错"
 
 # game/script morocco arthur.rpy:1530
 translate chinese day14_arthur_start_9542d0cd:
@@ -3370,7 +3370,7 @@ translate chinese day14_arthur_start_312c73a9:
 translate chinese day14_arthur_start_d1e9df48:
 
     # a "Hardly."
-    a ""
+    a "才怪"
 
 # game/script morocco arthur.rpy:1566
 translate chinese day14_arthur_start_76c8ed8d:
@@ -3616,7 +3616,7 @@ translate chinese day14_arthur_chess_e112ac33:
 translate chinese day14_arthur_chess_9b9af47f:
 
     # "Arthur nods."
-    ""
+    "Arthur点点头。"
 
 # game/script morocco arthur.rpy:1697
 translate chinese day14_arthur_chess_a3431d2f:
@@ -3934,7 +3934,7 @@ translate chinese day14_arthur_chess_7fed6685:
 translate chinese day14_arthur_chess_6186867a:
 
     # "You nod."
-    ""
+    "你点点头"
 
 # game/script morocco arthur.rpy:1865
 translate chinese day14_arthur_chess_c6ea491a:
@@ -4426,7 +4426,7 @@ translate chinese day14_arthur_chess_8f424cc8:
 translate chinese day14_arthur_chess_e3470d2b:
 
     # a "If you say so."
-    a ""
+    a "随你怎么说。"
 
 # game/script morocco arthur.rpy:2096
 translate chinese day14_arthur_chess_25e1e0a5:
@@ -5116,7 +5116,7 @@ translate chinese day14_arthur_chess_13d9b19b:
 translate chinese day14_arthur_chess_2f6724de:
 
     # "Arthur sighs."
-    ""
+    "Arthur叹了口气。"
 
 # game/script morocco arthur.rpy:2394
 translate chinese day14_arthur_chess_96a628e6:
@@ -5128,7 +5128,7 @@ translate chinese day14_arthur_chess_96a628e6:
 translate chinese day14_arthur_chess_980faf41:
 
     # p "I'm not."
-    p ""
+    p "是的。"
 
 # game/script morocco arthur.rpy:2400
 translate chinese day14_arthur_chess_9d8bdf12:
@@ -5494,7 +5494,7 @@ translate chinese day14_arthur_chess_2a5e93e0:
 translate chinese day14_arthur_chess_80799543:
 
     # a "Very well."
-    a ""
+    a "很好。"
 
 # game/script morocco arthur.rpy:2557
 translate chinese day14_arthur_chess_32632074:
@@ -5818,7 +5818,7 @@ translate chinese day14_arthur_chess_b5f2689d:
 translate chinese day14_arthur_chess_0e1769f3:
 
     # a "Fine."
-    a ""
+    a "好吧"
 
 # game/script morocco arthur.rpy:2718
 translate chinese day14_arthur_chess_e718fbeb:
@@ -5854,7 +5854,7 @@ translate chinese day14_arthur_chess_52d34f1e:
 translate chinese day14_arthur_chess_1113e011:
 
     # a "About what?"
-    a ""
+    a "想什么？"
 
 # game/script morocco arthur.rpy:2737
 translate chinese day14_arthur_chess_44c8620f:
@@ -6130,7 +6130,7 @@ translate chinese day14_arthur_chess_807eebb5:
 translate chinese day14_arthur_chess_f692bdb7:
 
     # a "I know."
-    a ""
+    a "我知道"
 
 # game/script morocco arthur.rpy:2869
 translate chinese day14_arthur_chess_d6e53c63:
@@ -6172,7 +6172,7 @@ translate chinese day14_arthur_chess_2b602aff:
 translate chinese day14_arthur_chess_623b8baf:
 
     # r "Is it?"
-    r ""
+    r "是吗？"
 
 # game/script morocco arthur.rpy:2889
 translate chinese day14_arthur_chess_455f27a0:
@@ -6250,7 +6250,7 @@ translate chinese day14_arthur_chess_d740e63e:
 translate chinese day14_arthur_chess_06398373:
 
     # "She sighs."
-    ""
+    "她叹了口气。"
 
 # game/script morocco arthur.rpy:2929
 translate chinese day14_arthur_chess_2c83b291:
@@ -6340,7 +6340,7 @@ translate chinese day14_arthur_chess_17c1c4ac:
 translate chinese day14_arthur_chess_7c2fcab6:
 
     # a "You don't have to tell me."
-    a ""
+    a "这不用你提醒我"
 
 # game/script morocco arthur.rpy:2969
 translate chinese day14_arthur_chess_66fc8356:
@@ -13800,7 +13800,7 @@ translate Chinese day14_post_chess_dinner_9e17ceea:
 translate Chinese day14_post_chess_dinner_b48aa2d3:
 
     # p "That's all."
-    p ""
+    p "就这样"
 
 # game/script morocco arthur.rpy:3483
 translate Chinese day14_post_chess_dinner_fc9c8e68:
@@ -13968,7 +13968,7 @@ translate Chinese day14_post_chess_dinner_6c887338:
 translate Chinese day14_post_chess_dinner_42b01cbe:
 
     # p "Hey."
-    p ""
+    p "嘿。"
 
 # game/script morocco arthur.rpy:3586
 translate Chinese day14_post_chess_dinner_e9060fbb:
@@ -14052,7 +14052,7 @@ translate Chinese day14_post_chess_dinner_fe1cd634:
 translate Chinese day14_post_chess_dinner_ce989036:
 
     # "Samuel nods."
-    ""
+    "Samuel点了点头"
 
 # game/script morocco arthur.rpy:3623
 translate Chinese day14_post_chess_dinner_436227b4:
@@ -14130,13 +14130,13 @@ translate Chinese day14_post_chess_dinner_a841d399:
 translate Chinese day14_post_chess_dinner_918f9ddd:
 
     # p "Yeah?"
-    p ""
+    p "怎么？"
 
 # game/script morocco arthur.rpy:3659
 translate Chinese day14_post_chess_dinner_2772e2e6:
 
     # s "Why?"
-    s ""
+    s "为什么？"
 
 # game/script morocco arthur.rpy:3661
 translate Chinese day14_post_chess_dinner_dbb4ddff:
@@ -14226,7 +14226,7 @@ translate Chinese day14_post_chess_dinner_3068eb85:
 translate Chinese day14_post_chess_dinner_c01280b2:
 
     # p "Sam?"
-    p ""
+    p "Sam？"
 
 # game/script morocco arthur.rpy:3697
 translate Chinese day14_post_chess_dinner_ff8fa461:
@@ -14634,7 +14634,7 @@ translate Chinese day14_post_chess_dinner_3f2fcb1e:
 translate Chinese day14_post_chess_dinner_8c87ff77:
 
     # s "I'm sorry."
-    s ""
+    s "对不起。"
 
 # game/script morocco arthur.rpy:3867
 translate Chinese day14_post_chess_dinner_7a1ddde6:
@@ -14778,7 +14778,7 @@ translate Chinese day14_post_chess_dinner_3bcca514:
 translate Chinese day14_post_chess_dinner_d7faea87:
 
     # s "It's not."
-    s ""
+    s "不是玩笑"
 
 # game/script morocco arthur.rpy:3936
 translate Chinese day14_post_chess_dinner_daf0d99a:
@@ -14958,7 +14958,7 @@ translate Chinese day14_post_chess_dinner_dd9a41b8:
 translate Chinese day14_post_chess_dinner_53976138:
 
     # "You shake your head."
-    ""
+    "你摇摇头"
 
 # game/script morocco arthur.rpy:4013
 translate Chinese day14_post_chess_dinner_9a7b7e28:
@@ -15552,7 +15552,7 @@ translate Chinese day14_arthur_seekhelp_b8ae35ce:
 translate Chinese day14_arthur_seekhelp_9c667ce5:
 
     # r "Well?"
-    r ""
+    r "怎么样？"
 
 # game/script morocco arthur.rpy:4304
 translate Chinese day14_arthur_seekhelp_3af70e9e:
@@ -15594,7 +15594,7 @@ translate Chinese day14_arthur_seekhelp_5ff36b4c:
 translate Chinese day14_arthur_seekhelp_557b5114:
 
     # r "Enough."
-    r ""
+    r "够了。"
 
 # game/script morocco arthur.rpy:4322
 translate Chinese day14_arthur_seekhelp_697b7a24:
@@ -15726,7 +15726,7 @@ translate Chinese day14_arthur_seekhelp_8bbe3f66:
 translate Chinese day14_arthur_seekhelp_047d324f:
 
     # p "I haven't."
-    p ""
+    p "是没有"
 
 # game/script morocco arthur.rpy:4392
 translate Chinese day14_arthur_seekhelp_90f6d0e6:
@@ -15828,7 +15828,7 @@ translate Chinese day14_arthur_seekhelp_49a375c1:
 translate Chinese day14_arthur_seekhelp_4a875baf:
 
     # p "Yeah..."
-    p ""
+    p "是啊……"
 
 # game/script morocco arthur.rpy:4438
 translate Chinese day14_arthur_seekhelp_00b4c4b2:
@@ -16404,7 +16404,7 @@ translate Chinese day14_arthur_seekhelp_c2c674b8:
 translate Chinese day14_arthur_seekhelp_43cc34db:
 
     # p "Really?"
-    p ""
+    p "认真的？"
 
 # game/script morocco arthur.rpy:4670
 translate Chinese day14_arthur_seekhelp_558a5ff7:
@@ -16482,7 +16482,7 @@ translate Chinese day14_arthur_seekhelp_dbaf6485:
 translate Chinese day14_arthur_seekhelp_7d7f2f20:
 
     # r "Anyway..."
-    r ""
+    r "总之..."
 
 # game/script morocco arthur.rpy:4700
 translate Chinese day14_arthur_seekhelp_6ba1f8c4:
@@ -17058,7 +17058,7 @@ translate Chinese day14_arthur_seekhelp_966efe38:
 translate Chinese day14_arthur_seekhelp_8efe1702:
 
     # r "Maybe..."
-    r ""
+    r "也许吧……"
 
 # game/script morocco arthur.rpy:4934
 translate Chinese day14_arthur_seekhelp_456509ce:
@@ -17208,7 +17208,7 @@ translate Chinese day14_arthur_seekhelp_93305bee:
 translate Chinese day14_arthur_seekhelp_96114ea2:
 
     # "He laughs."
-    ""
+    "他笑了"
 
 # game/script morocco arthur.rpy:5025
 translate Chinese day14_arthur_seekhelp_e1e5c875:
@@ -17406,7 +17406,7 @@ translate Chinese day14_arthur_seekhelp_7631e630:
 translate Chinese day14_arthur_seekhelp_5f815775:
 
     # p "What do you mean?"
-    p ""
+    p "你什么意思？"
 
 # game/script morocco arthur.rpy:5111
 translate Chinese day14_arthur_seekhelp_7a8658fc:
@@ -17874,7 +17874,7 @@ translate Chinese day14_arthur_seekhelp_69e3faa1:
 translate Chinese day14_arthur_seekhelp_3511167b:
 
     # "He grunts."
-    ""
+    "他咕哝了一声"
 
 # game/script morocco arthur.rpy:5313
 translate Chinese day14_arthur_seekhelp_43af7903:
@@ -18744,7 +18744,7 @@ translate Chinese d17_arthur_games_6faa815b:
 translate Chinese d17_arthur_games_8e02f27f:
 
     # "The maned wolf shrugs."
-    ""
+    "鬃狼耸了耸肩。"
 
 # game/script morocco arthur.rpy:5883
 translate Chinese d17_arthur_games_142b5284:
@@ -19134,7 +19134,7 @@ translate Chinese d17_arthur_games_1bfae857:
 translate Chinese d17_arthur_games_93be50a0:
 
     # p "No?"
-    p ""
+    p "没有？"
 
 # game/script morocco arthur.rpy:6159
 translate Chinese d17_arthur_games_1bfae857_1:
@@ -19446,7 +19446,7 @@ translate Chinese d17_arthur_games_9d7b20c9:
 translate Chinese d17_arthur_games_228e3b68:
 
     # n "Well..."
-    n ""
+    n "好吧……"
 
 # game/script morocco arthur.rpy:6349
 translate Chinese d17_arthur_games_db0e7c08:
@@ -19524,7 +19524,7 @@ translate Chinese d17_arthur_games_6538836f:
 translate Chinese d17_arthur_games_33a2c2c9:
 
     # n "Exactly."
-    n ""
+    n "没错"
 
 # game/script morocco arthur.rpy:6387
 translate Chinese d17_arthur_games_5f0dcaf2:
@@ -19644,7 +19644,7 @@ translate Chinese d17_arthur_games_e8aed32e:
 translate Chinese d17_arthur_games_46667e2d:
 
     # "Nomax shakes his head."
-    ""
+    "Nomax摇了摇头"
 
 # game/script morocco arthur.rpy:6452
 translate Chinese d17_arthur_games_19b7c504:
@@ -19668,7 +19668,7 @@ translate Chinese d17_arthur_games_c62b5f29:
 translate Chinese d17_arthur_games_f1da597a:
 
     # "Wolf nods."
-    ""
+    "Wolf点了点头。"
 
 # game/script morocco arthur.rpy:6473
 translate Chinese d17_arthur_games_42602b32:
@@ -19878,7 +19878,7 @@ translate Chinese d17_arthur_games_5f40f24e:
 translate Chinese d17_arthur_games_2ebc1730:
 
     # j "Like what?"
-    j ""
+    j "怎样？"
 
 # game/script morocco arthur.rpy:6598
 translate Chinese d17_arthur_games_2956c6be:
@@ -19968,7 +19968,7 @@ translate Chinese d17_arthur_games_219be2d0:
 translate Chinese d17_arthur_games_8b6d5087:
 
     # p "Wolf?"
-    p ""
+    p "Wolf？"
 
 # game/script morocco arthur.rpy:6658
 translate Chinese d17_arthur_games_8a2fbf6b:
@@ -20058,7 +20058,7 @@ translate Chinese d17_arthur_games_dcd6f250:
 translate Chinese d17_arthur_games_12fe57c8:
 
     # "You shrug."
-    ""
+    "你耸耸肩"
 
 # game/script morocco arthur.rpy:6717
 translate Chinese d17_arthur_games_d055a492:
@@ -20748,7 +20748,7 @@ translate Chinese d17_arthur_games_fd745869:
 translate Chinese d17_arthur_games_cd88fbb2:
 
     # j "Hey!"
-    j ""
+    j "嘿！"
 
 # game/script morocco arthur.rpy:7160
 translate Chinese d17_arthur_games_e41f56b7:
@@ -20976,7 +20976,7 @@ translate Chinese d17_arthur_games_7af5a1a6:
 translate Chinese d17_arthur_games_f406dbb2:
 
     # "Sam shrugs."
-    ""
+    "Sam耸了耸肩。"
 
 # game/script morocco arthur.rpy:7301
 translate Chinese d17_arthur_games_42578324:
@@ -21066,7 +21066,7 @@ translate Chinese d17_arthur_games_d7794148:
 translate Chinese d17_arthur_games_1b640dae:
 
     # p "What?"
-    p ""
+    p "什么问题？"
 
 # game/script morocco arthur.rpy:7343
 translate Chinese d17_arthur_games_b756c295:
@@ -22290,7 +22290,7 @@ translate Chinese d17_arthur_games_79490f07:
 translate Chinese d17_arthur_games_9850f53c:
 
     # "Nothing."
-    ""
+    "没什么"
 
 # game/script morocco arthur.rpy:8066
 translate Chinese d17_arthur_games_9f39b67f:
@@ -22794,7 +22794,7 @@ translate Chinese d17_arthur_games_a869dafe:
 translate Chinese d17_arthur_games_dd5bdf78:
 
     # p "Thank you."
-    p ""
+    p "谢谢你。"
 
 # game/script morocco arthur.rpy:8341
 translate Chinese d17_arthur_games_d8e26e40:
@@ -23796,7 +23796,7 @@ translate Chinese d17_arthur_games_970ac853:
 translate Chinese d17_arthur_games_e80f5281:
 
     # "He sighs."
-    ""
+    "他叹了口气"
 
 # game/script morocco arthur.rpy:8770
 translate Chinese d17_arthur_games_add00309:
@@ -23868,7 +23868,7 @@ translate Chinese d17_arthur_games_6db24a0a:
 translate Chinese d17_arthur_games_8a3ba409:
 
     # "He says nothing."
-    ""
+    "他什么也没说。"
 
 # game/script morocco arthur.rpy:8796
 translate Chinese d17_arthur_games_5f2641d3:
@@ -23904,7 +23904,7 @@ translate Chinese d17_arthur_games_503b3aef:
 translate Chinese d17_arthur_games_32ec74fa:
 
     # p "That's..."
-    p ""
+    p "那是……"
 
 # game/script morocco arthur.rpy:8814
 translate Chinese d17_arthur_games_9b6a3da0:
@@ -24732,7 +24732,7 @@ translate Chinese d17_arthur_games_df87cd67:
 translate Chinese d17_arthur_games_32fb53c2:
 
     # a "Hm?"
-    a ""
+    a "嗯？"
 
 # game/script morocco arthur.rpy:9161
 translate Chinese d17_arthur_games_6d95ad8c:
@@ -24990,7 +24990,7 @@ translate Chinese d17_arthur_games_74f56e87:
 translate Chinese d17_arthur_games_e88a0767:
 
     # p "Sorry."
-    p ""
+    p "抱歉。"
 
 # game/script morocco arthur.rpy:9261
 translate Chinese d17_arthur_games_c4bb67e6:
@@ -25044,7 +25044,7 @@ translate Chinese d17_arthur_games_509709d1:
 translate Chinese d17_arthur_games_98d40682:
 
     # a "Perhaps."
-    a ""
+    a "或许吧"
 
 # game/script morocco arthur.rpy:9283
 translate Chinese d17_arthur_games_23b4a520:
@@ -25242,7 +25242,7 @@ translate Chinese d17_arthur_games_2df429c0:
 translate Chinese d17_arthur_games_ce1fcaed:
 
     # a "Mm."
-    a ""
+    a "唔。"
 
 # game/script morocco arthur.rpy:9357
 translate Chinese d17_arthur_games_425e85ca:
@@ -26250,7 +26250,7 @@ translate Chinese day17_arthur_bed_419d5750:
 translate Chinese day17_arthur_bed_1d83294d:
 
     # p "Are you sure?"
-    p ""
+    p "你确定吗？"
 
 # game/script morocco arthur.rpy:9834
 translate Chinese day17_arthur_bed_00d3770e:
@@ -26298,7 +26298,7 @@ translate Chinese day17_arthur_bed_d2d7459b:
 translate Chinese day17_arthur_bed_546b0da7:
 
     # a "Mr. [family_name]."
-    a ""
+    a "[family_name]先生。"
 
 # game/script morocco arthur.rpy:9854
 translate Chinese day17_arthur_bed_1057fd89:
@@ -26526,7 +26526,7 @@ translate Chinese day17_arthur_bed_2e46bbd2:
 translate Chinese day17_arthur_bed_300701d2:
 
     # p "I..."
-    p ""
+    p "我……"
 
 # game/script morocco arthur.rpy:9965
 translate Chinese day17_arthur_bed_c1d587f7:
@@ -26862,7 +26862,7 @@ translate Chinese day17_arthur_bed_63d28b8f:
 translate Chinese day17_arthur_bed_c819fb6b:
 
     # "Wonderful."
-    ""
+    "太好了"
 
 # game/script morocco arthur.rpy:10103
 translate Chinese day17_arthur_bed_47570768:
@@ -27156,7 +27156,7 @@ translate Chinese day17_arthur_bed_0a545ddd:
 translate Chinese day17_arthur_bed_746457f8:
 
     # a "Up."
-    a ""
+    a "起来。"
 
 # game/script morocco arthur.rpy:10221
 translate Chinese day17_arthur_bed_3152d413:
@@ -27180,7 +27180,7 @@ translate Chinese day17_arthur_bed_129cf22f:
 translate Chinese day17_arthur_bed_992bb2c6:
 
     # p "I'm sorry?"
-    p ""
+    p "你说什么？"
 
 # game/script morocco arthur.rpy:10229
 translate Chinese day17_arthur_bed_3106eede:
@@ -27246,7 +27246,7 @@ translate Chinese day17_arthur_bed_4d29c20f:
 translate Chinese day17_arthur_bed_d854a72a:
 
     # "You do."
-    ""
+    "你照做了"
 
 # game/script morocco arthur.rpy:10273
 translate Chinese day17_arthur_bed_d2f21b70:
@@ -27462,7 +27462,7 @@ translate Chinese day17_arthur_bed_b04ca6b7:
 translate Chinese day17_arthur_bed_0f35311e:
 
     # "You think."
-    ""
+    "你思考着。"
 
 # game/script morocco arthur.rpy:10376
 translate Chinese day17_arthur_bed_606ac525:
@@ -27534,13 +27534,13 @@ translate Chinese day17_arthur_bed_50f3b23c:
 translate Chinese day17_arthur_bed_e6515c6a:
 
     # a "Fuck..."
-    a ""
+    a "操……"
 
 # game/script morocco arthur.rpy:10400
 translate Chinese day17_arthur_bed_fb57db1d:
 
     # a "Fuck!"
-    a ""
+    a "靠！"
 
 # game/script morocco arthur.rpy:10402
 translate Chinese day17_arthur_bed_870678a9:
@@ -28320,7 +28320,7 @@ translate Chinese day17_arthur_nobed_123a9b07:
 translate Chinese day17_arthur_nobed_210c06eb:
 
     # a "Yes."
-    a ""
+    a "水温刚刚好。"
 
 # game/script morocco arthur.rpy:10774
 translate Chinese day17_arthur_nobed_cde92cc7:
@@ -28554,7 +28554,7 @@ translate Chinese day17_arthur_nobed_fc6ff045:
 translate Chinese day17_arthur_nobed_10cca7e7:
 
     # p "Sir."
-    p ""
+    p "长官"
 
 # game/script morocco arthur.rpy:10876
 translate Chinese day17_arthur_nobed_1e9a5814:
@@ -28782,7 +28782,7 @@ translate Chinese day17_arthur_nobed_e3d5e15a:
 translate Chinese day17_arthur_nobed_dfcc6456:
 
     # p "Hang on."
-    p ""
+    p "坚持住。"
 
 # game/script morocco arthur.rpy:11017
 translate Chinese day17_arthur_nobed_b051cabf:
@@ -28908,7 +28908,7 @@ translate Chinese day17_arthur_nobed_22f5f7cc:
 translate Chinese day17_arthur_nobed_e4be4986:
 
     # n "Naturally."
-    n ""
+    n "那是自然"
 
 # game/script morocco arthur.rpy:11095
 translate Chinese day17_arthur_nobed_abdedf69:
@@ -28932,7 +28932,7 @@ translate Chinese day17_arthur_nobed_13be1e5b:
 translate Chinese day17_arthur_nobed_4ad37661:
 
     # p "You are."
-    p ""
+    p "你确实明白"
 
 # game/script morocco arthur.rpy:11107
 translate Chinese day17_arthur_nobed_7b614dfc:
@@ -28968,7 +28968,7 @@ translate Chinese day17_arthur_nobed_df1fe750:
 translate Chinese day17_arthur_nobed_34487dec:
 
     # s "Aye."
-    s ""
+    s "没错"
 
 # game/script morocco arthur.rpy:11141
 translate Chinese day17_arthur_nobed_cac800d9:
@@ -29004,7 +29004,7 @@ translate Chinese day17_arthur_nobed_6740534e:
 translate Chinese day17_arthur_nobed_6cfd4a85:
 
     # j "Yes?"
-    j ""
+    j "怎么了？"
 
 # game/script morocco arthur.rpy:11157
 translate Chinese day17_arthur_nobed_baf0247c:
@@ -29040,7 +29040,7 @@ translate Chinese day17_arthur_nobed_98d57e83:
 translate Chinese day17_arthur_nobed_cd2f6f1c:
 
     # p "I just..."
-    p ""
+    p "我只是……"
 
 # game/script morocco arthur.rpy:11174
 translate Chinese day17_arthur_nobed_d12e6dac:
@@ -29244,7 +29244,7 @@ translate Chinese day17_arthur_nobed_827d5df9:
 translate Chinese day17_arthur_nobed_29a8b0b2:
 
     # s "See what?"
-    s ""
+    s "看什么？"
 
 # game/script morocco arthur.rpy:11336
 translate Chinese day17_arthur_nobed_0fca4099:

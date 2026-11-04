@@ -4,43 +4,43 @@
 translate chinese day_2_morningshift_5ae443b3:
 
     # a "Well done Samuel. You are all looking ready."
-    a ""
+    a "不错，Samuel，看来你们都准备好了。"
 
 # game/script day2.rpy:16
 translate chinese day_2_morningshift_e38ca69b:
 
     # "Arthur stands in front of you with his hands behind his back. He slowly gives each of you a quick visual inspection from head to toe."
-    ""
+    "Arthur双手背在身后，站在你们面前，慢条斯理地上下打量着你们每个人。"
 
 # game/script day2.rpy:18
 translate chinese day_2_morningshift_df43aa31:
 
     # s "Of course."
-    s ""
+    s "当然"
 
 # game/script day2.rpy:20
 translate chinese day_2_morningshift_07e371ce:
 
     # a "Since I didn't start you three yesterday, this'll be your first shift."
-    a ""
+    a "既然昨天没让你们三个开始干活，今天就是你们的第一个班了。"
 
 # game/script day2.rpy:22
 translate chinese day_2_morningshift_614bc4ff:
 
     # a "To give you a little time to settle in and get acclimatized."
-    a ""
+    a "让你们先适应适应，熟悉一下环境。"
 
 # game/script day2.rpy:24
 translate chinese day_2_morningshift_9ef91a78:
 
     # a "You three will join Samuel in my larboard watch.{w} We have two watches on this ship, so you'll follow the usual schedule of 4 hours on and 4 hours off."
-    a ""
+    a "你们三个和Samuel来我的左舷班。{w} 我们船上分两班轮值，所以你们也按四值四休的规矩来。"
 
 # game/script day2.rpy:26
 translate chinese day_2_morningshift_af5f37bf:
 
     # a "With the two dog watches from 16:00 to 20:00 for dinner time."
-    a ""
+    a "16:00 到 20:00 是晚饭时间，期间会分成两个“狗班”。"
 
 # game/script day2.rpy:28
 translate chinese day_2_morningshift_72655f60:
@@ -52,13 +52,13 @@ translate chinese day_2_morningshift_72655f60:
 translate chinese day_2_morningshift_bbe6db98:
 
     # a "You've organised breakfast for them, I presume?"
-    a ""
+    a "早餐应该都给他们安排好了吧？"
 
 # game/script day2.rpy:32
 translate chinese day_2_morningshift_f04b0466:
 
     # s "Affirm, sir."
-    s ""
+    s "是的，长官。"
 
 # game/script day2.rpy:36
 translate chinese day_2_morningshift_959c23cf:
@@ -70,79 +70,79 @@ translate chinese day_2_morningshift_959c23cf:
 translate chinese day_2_morningshift_619bdf71:
 
     # a "We've had a quiet night.{w} Course is steady for now, however we may be required to tack with both watches at the end of the watch if the wind stays as it is."
-    a ""
+    a "昨晚很平静。{w} 目前航向也很稳定，但如果风况一直不变的话，我们可能要在交班的时候两个班一起抢风调向。"
 
 # game/script day2.rpy:43
 translate chinese day_2_morningshift_5cf6bf51:
 
     # p "Should we be prepared for that, too?"
-    p ""
+    p "那我们也要准备一下吗？"
 
 # game/script day2.rpy:47
 translate chinese day_2_morningshift_725ec22d:
 
     # "Arthur exhales slowly but audibly through his nose. His eyes are fixed on you with obvious annoyance."
-    ""
+    "Arthur从鼻子里重重地哼了一声，带着明显的怒意瞪着你。"
 
 # game/script day2.rpy:49
 translate chinese day_2_morningshift_8f0b2833:
 
     # a "What do you think we pay you for?"
-    a ""
+    a "那你以为我们花钱请你来是干什么的？"
 
 # game/script day2.rpy:51
 translate chinese day_2_morningshift_7d0cc800:
 
     # a "You can pull a sheet?{w} Or is that another thing you don't know anything about?"
-    a ""
+    a "你会拉帆脚索吗？{w} 还是说，你又是点都不会？"
 
 # game/script day2.rpy:53
 translate chinese day_2_morningshift_01bf7211:
 
     # "Your stomach sinks as he scolds you in front of the others. You take a breath and struggle to get the answer past your lips, which suddenly feel terribly dry."
-    ""
+    "被他当着其他人的面这么训斥，你的心猛地一沉。你深吸一口气，费了好大力气才把回答从干涩的嘴唇间挤出来。"
 
 # game/script day2.rpy:55
 translate chinese day_2_morningshift_9aa6b81d:
 
     # "You can't see them, but it sure feels like the other's eyes are trained on you, too."
-    ""
+    "你看不到他们，却能感觉到其他人的目光似乎也都落在了你身上。"
 
 # game/script day2.rpy:57
 translate chinese day_2_morningshift_8658048b:
 
     # j "M-My apologies, sir.{w} Of course. I can."
-    j ""
+    j "对、对不起，长官。{w} 我当然会的。"
 
 # game/script day2.rpy:59
 translate chinese day_2_morningshift_3d1d880f:
 
     # a "There you go. I really cannot be sure with you anymore, and I don't like that."
-    a ""
+    a "这不就对了。我现在对你真是没个底了，我可不喜欢这样。"
 
 # game/script day2.rpy:63
 translate chinese day_2_morningshift_300d09e9:
 
     # a "It'll be a miracle if you manage to keep the same rhythm as the others.{w} But I won't hold my breath."
-    a ""
+    a "你要是能跟上其他人的节奏，那可真是神了。{w} 不过我可不抱什么希望。"
 
 # game/script day2.rpy:65
 translate chinese day_2_morningshift_b97f8c18:
 
     # "With an exasperated sigh he turns away from you and back to Samuel."
-    ""
+    "他无奈地叹了口气，转头看向Samuel。"
 
 # game/script day2.rpy:68
 translate chinese day_2_morningshift_fd88089e:
 
     # j "Should we be ready for that as well?"
-    j ""
+    j "那我们也要准备一下吗？"
 
 # game/script day2.rpy:72
 translate chinese day_2_morningshift_9b5c0a66:
 
     # a "Naturally.{w} You can pull a sheet, or am I mistaken?"
-    a ""
+    a "sheet不是帆桁是帆脚索，帆脚索是用来控制风帆角度的绳索，用来控制航向。帆桁是用来横着撑开帆的木杆。"
 
 # game/script day2.rpy:74
 translate chinese day_2_morningshift_2cdf67ba:
@@ -190,31 +190,31 @@ translate chinese day_2_morningshift_17d431f4:
 translate chinese day_2_morningshift_491ca647:
 
     # s "Yes, sir?"
-    s ""
+    s "是，长官？"
 
 # game/script day2.rpy:95
 translate chinese day_2_morningshift_8e132029:
 
     # a "You did well bringing the other two up to speed. I won't hold this one against you."
-    a ""
+    a "你把另外俩小子带得不错，这次我就不怪你了。"
 
 # game/script day2.rpy:97
 translate chinese day_2_morningshift_8024ea2e:
 
     # "He waves dismissively at you, causing your ears to drop low in shame."
-    ""
+    "他不耐烦地冲你挥挥手，你羞愧得耷拉下耳朵。"
 
 # game/script day2.rpy:99
 translate chinese day_2_morningshift_adbd62f4:
 
     # a "You are free to keep them occupied as you see fit until someone requests a helping hand."
-    a ""
+    a "你先自己看着安排，别让他们闲着，等有人需要帮忙的时候再说。"
 
 # game/script day2.rpy:102
 translate chinese day_2_morningshift_9ff24436:
 
     # a "You did well integrating them so far. You are free to keep them occupied as you see fit until someone requests a helping hand."
-    a ""
+    a "目前为止你把他们带的还不错。你先自己看着安排，别让他们闲着，等有人需要帮忙的时候再说。"
 
 # game/script day2.rpy:104
 translate chinese day_2_morningshift_58d3baef:
@@ -232,25 +232,25 @@ translate chinese day_2_morningshift_39d98798:
 translate chinese day_2_morningshift_f9956746:
 
     # s "Understood."
-    s ""
+    s "明白了"
 
 # game/script day2.rpy:111
 translate chinese day_2_morningshift_1d00c6fe:
 
     # "Arthur nods in return and leaves your group to its own devices."
-    ""
+    "Arthur点点头走了，让你们自己看着办。"
 
 # game/script day2.rpy:117
 translate chinese day_2_morningshift_b69aea68:
 
     # p "How does the power feel, Sam?"
-    p ""
+    p "当官的感觉怎么样，Sam？"
 
 # game/script day2.rpy:122
 translate chinese day_2_morningshift_77ee7366:
 
     # s "Huh?"
-    s ""
+    s "嗯？"
 
 # game/script day2.rpy:124
 translate chinese day_2_morningshift_77e4afa9:
@@ -268,7 +268,7 @@ translate chinese day_2_morningshift_57ea3c25:
 translate chinese day_2_morningshift_bd669897:
 
     # s "Oh, ya bet it does, pussycat."
-    s ""
+    s "哦，那可不，小宝贝儿。"
 
 # game/script day2.rpy:138
 translate chinese day_2_morningshift_3dba5768:
@@ -388,25 +388,25 @@ translate chinese day_2_morningshift_2c12da01:
 translate chinese day_2_morningshift_7e9c30fb:
 
     # w "Not the worst thing to start the day with."
-    w ""
+    w "用这种活开启一天还不算最糟。"
 
 # game/script day2.rpy:194
 translate chinese day_2_morningshift_ad4c2b55:
 
     # "Wolf says and tosses the piece of holystone in the air as he walks up the steps of the forecastle."
-    ""
+    "将手里的磨石抛向空中，走上前甲板的台阶。"
 
 # game/script day2.rpy:196
 translate chinese day_2_morningshift_9e4aea62:
 
     # w "I'm still not feeling quite awake, so this is probably the extent of what I can deal with for now."
-    w ""
+    w "也就"
 
 # game/script day2.rpy:199
 translate chinese day_2_morningshift_2211b205:
 
     # "With the first bucket being emptied, you begin your work."
-    ""
+    "随着第一桶水泼洒而出，"
 
 # game/script day2.rpy:201
 translate chinese day_2_morningshift_b2b0b36e:
@@ -436,7 +436,7 @@ translate chinese day_2_morningshift_93500df0:
 translate chinese day_2_morningshift_d6a2f63e:
 
     # "At first you try to avoid it and squat down on your paws, but eventually you just give in when it becomes too uncomfortable a position to scrub in."
-    ""
+    "用爪子蹲着，"
 
 # game/script day2.rpy:213
 translate chinese day_2_morningshift_db12c10e:
@@ -454,7 +454,7 @@ translate chinese day_2_morningshift_79087f5d:
 translate chinese day_2_morningshift_52aaa155:
 
     # j "[name]?"
-    j ""
+    j "[name]?"
 
 # game/script day2.rpy:219
 translate chinese day_2_morningshift_5261994f:
@@ -502,7 +502,7 @@ translate chinese day_2_morningshift_a4fde08e:
 translate chinese day_2_morningshift_a475dd4c:
 
     # j "What?"
-    j ""
+    j "什么问题？"
 
 # game/script day2.rpy:240
 translate chinese day_2_morningshift_7fae0b48:
@@ -580,7 +580,7 @@ translate chinese day_2_morningshift_d15ffd8f:
 translate chinese day_2_morningshift_8562bda0:
 
     # s "With Perce, I presume?"
-    s ""
+    s "我猜是和珀斯一起的吧？"
 
 # game/script day2.rpy:278
 translate chinese day_2_morningshift_43490b83:
@@ -610,13 +610,13 @@ translate chinese day_2_morningshift_39001c1d:
 translate chinese day_2_morningshift_dfc82195:
 
     # s "I'm jokin'. Don't get along very well with the fucker, but not gonna go as far as wishing death on him."
-    s ""
+    s "开玩笑的。我跟那混蛋处不来，但还不至于咒他死。"
 
 # game/script day2.rpy:288
 translate chinese day_2_morningshift_70271840:
 
     # p "He seemed alright under the circumstances? She mentioned things are looking better as we changed the bandages."
-    p ""
+    p "看起来好多了"
 
 # game/script day2.rpy:290
 translate chinese day_2_morningshift_c9d0684d:
@@ -634,7 +634,7 @@ translate chinese day_2_morningshift_9fabb5cd:
 translate chinese day_2_morningshift_babf8cbc:
 
     # w "Rajeeyah. I take it she is the ship's surgeon?"
-    w ""
+    w "船医"
 
 # game/script day2.rpy:300
 translate chinese day_2_morningshift_47cd1d79:
@@ -670,7 +670,7 @@ translate chinese day_2_morningshift_54405dc5:
 translate chinese day_2_morningshift_b4130f7e:
 
     # p "If she feels he's getting better, then hopefully it won't cause any troubles anymore."
-    p ""
+    p "既然Rajeeyah觉得Perce在好转，希望之后不会再出什么问题了"
 
 # game/script day2.rpy:322
 translate chinese day_2_morningshift_ddb3b4fb:
@@ -724,7 +724,7 @@ translate chinese day_2_morningshift_8d1889b1_1:
 translate chinese day_2_morningshift_cd3bfe2c:
 
     # s "Rajeeyah. She's our surgeon. We saw [name] with her yesterday."
-    s ""
+    s "船医"
 
 # game/script day2.rpy:347
 translate chinese day_2_morningshift_e5749cd8:
@@ -838,7 +838,7 @@ translate chinese day_2_morningshift_c4285c81:
 translate chinese day_2_morningshift_437de20f:
 
     # "Wolf finds himself right in the way of perhaps a too strong swing of the bucket. He tries to jump aside to avoid getting his breeches too drenched by it."
-    ""
+    "裤子被溅得太湿"
 
 # game/script day2.rpy:408
 translate chinese day_2_morningshift_0ed8bef7:
@@ -850,7 +850,7 @@ translate chinese day_2_morningshift_0ed8bef7:
 translate chinese day_2_morningshift_85ab175e:
 
     # "Even if it does send him tumbling backwards right onto his backside."
-    ""
+    "即使"
 
 # game/script day2.rpy:412
 translate chinese day_2_morningshift_49a2f5f4:
@@ -898,7 +898,7 @@ translate chinese day_2_morningshift_8e174062:
 translate chinese day_2_morningshift_9efb4b57:
 
     # w "Yes."
-    w ""
+    w "水温刚刚好。"
 
 # game/script day2.rpy:442
 translate chinese day_2_morningshift_26ee7cf7:
@@ -916,7 +916,7 @@ translate chinese day_2_morningshift_f696d953:
 translate chinese day_2_morningshift_5c7dbcdc:
 
     # w "Why is that such a surprise?{w} I didn't know it was forbidden to own an instrument."
-    w ""
+    w "我倒不知道连乐器都成违禁品了。"
 
 # game/script day2.rpy:452
 translate chinese day_2_morningshift_cdd248f9:
@@ -1000,7 +1000,7 @@ translate chinese day_2_morningshift_964fdbd9:
 translate chinese day_2_morningshift_1a0e1da5:
 
     # w "Someone gave it to me and I didn't want to leave it behind.{w} I didn't bring it with the intention of playing it."
-    w ""
+    w "不是为了演奏"
 
 # game/script day2.rpy:495
 translate chinese day_2_morningshift_0a600aef:
@@ -1036,7 +1036,7 @@ translate chinese day_2_morningshift_d40e3648:
 translate chinese day_2_morningshift_84aa8ba0:
 
     # p "You said it was a gift?"
-    p ""
+    p "你说这是个礼物？"
 
 # game/script day2.rpy:521
 translate chinese day_2_morningshift_9efb4b57_1:
@@ -1084,7 +1084,7 @@ translate chinese day_2_morningshift_c9195f2b:
 translate chinese day_2_morningshift_258c822f:
 
     # p "Yet clearly that's not all you care about."
-    p ""
+    p "不只是钱"
 
 # game/script day2.rpy:537
 translate chinese day_2_morningshift_18c73e53:
@@ -1096,7 +1096,7 @@ translate chinese day_2_morningshift_18c73e53:
 translate chinese day_2_morningshift_80396a2c:
 
     # "You motion broadly around you to include the others and the ship in your point."
-    ""
+    "你抬手朝四周大致一挥，将其他人连同整艘船都划进了你意指的范围里。"
 
 # game/script day2.rpy:541
 translate chinese day_2_morningshift_641eeaa9:
@@ -1108,13 +1108,13 @@ translate chinese day_2_morningshift_641eeaa9:
 translate chinese day_2_morningshift_b3c67d0d:
 
     # w "Would this have been my first choice?"
-    w ""
+    w "这是我的首选吗？"
 
 # game/script day2.rpy:548
 translate chinese day_2_morningshift_66b95cc8:
 
     # w "No.{w} It wouldn't have been."
-    w ""
+    w "不是。{w}从来都不是。"
 
 # game/script day2.rpy:550
 translate chinese day_2_morningshift_984517fd:
@@ -1150,7 +1150,7 @@ translate chinese day_2_morningshift_8473075f:
 translate chinese day_2_morningshift_bc0ed17a:
 
     # p "Probably because I am lucky enough to where I was able to choose this as what I wanted to do."
-    p ""
+    p "可能是因为我足够幸运，才能选择这个作为我想做的事。"
 
 # game/script day2.rpy:568
 translate chinese day_2_morningshift_961186ad:
@@ -1168,7 +1168,7 @@ translate chinese day_2_morningshift_3372c276:
 translate chinese day_2_morningshift_d90973e3:
 
     # w "So my apologies, but for me this really is just a means to an end right now."
-    w ""
+    w "所以抱歉"
 
 # game/script day2.rpy:574
 translate chinese day_2_morningshift_5b74d85e:
@@ -1192,7 +1192,7 @@ translate chinese day_2_morningshift_be4f6718:
 translate chinese day_2_morningshift_c6faaf8e:
 
     # w "I can very well appreciate quiet company. You know that by now."
-    w ""
+    w "到现在，你该懂了。"
 
 # game/script day2.rpy:585
 translate chinese day_2_morningshift_b6dc4d75:
@@ -1234,13 +1234,13 @@ translate chinese day_2_morningshift_e024b5d4:
 translate chinese day_2_morningshift_fbbc05b6:
 
     # s "I can imagine how difficult it is to learn and the anxiety of feeling like ya not good enough that comes with it."
-    s ""
+    s "我能想象学习演奏会有多难，以及随之而来的那种“觉得自己不够好”的焦虑。"
 
 # game/script day2.rpy:614
 translate chinese day_2_morningshift_fbaf20f7:
 
     # "Wolf glares back with obvious annoyance, his ears fold back to leave his head to take on a triangular shape."
-    ""
+    "瞪了回来"
 
 # game/script day2.rpy:616
 translate chinese day_2_morningshift_c6806d5c:
@@ -1258,7 +1258,7 @@ translate chinese day_2_morningshift_2aa3280a:
 translate chinese day_2_morningshift_b181cb25:
 
     # w "And it would be a blessing to never hear you talk again."
-    w ""
+    w "而要是你们能从此闭上嘴，那可就太好了。"
 
 # game/script day2.rpy:625
 translate chinese day_2_morningshift_5e28b441:
@@ -1288,7 +1288,7 @@ translate chinese day_2_morningshift_7669addc:
 translate chinese day_2_morningshift_a2cb22b6:
 
     # w "And you will all get your badly played 30 second long fife concert."
-    w ""
+    w "然后你们就能听到我那磕磕绊绊的30秒短笛演奏了。"
 
 # game/script day2.rpy:643
 translate chinese day_2_morningshift_f04056dd:
@@ -1450,7 +1450,7 @@ translate chinese day_2_morningshift_66303d55:
 translate chinese day_2_morningshift_cdbf0f8b:
 
     # "You must look a bit awkward as you try to find the right moment to speak up while Julian was talking."
-    ""
+    "Julian说话时，你试图找到合适的时机插话，那模样想必有些局促。"
 
 # game/script day2.rpy:719
 translate chinese day_2_morningshift_849f6222:
@@ -1570,13 +1570,13 @@ translate chinese day_2_morningshift_bb0eb3b2:
 translate chinese day_2_morningshift_5e1d6b18:
 
     # j "Wolf, no. You weren't there when I told the story. You don-"
-    j ""
+    j "别打岔"
 
 # game/script day2.rpy:786
 translate chinese day_2_morningshift_dd61efa1:
 
     # p "Oh you bet! It was what we were waiting for all story long!"
-    p ""
+    p "当然在！"
 
 # game/script day2.rpy:788
 translate chinese day_2_morningshift_871b4f7c:
@@ -1738,7 +1738,7 @@ translate chinese day_2_morningshift_8c1f6c8d:
 translate chinese day_2_morningshift_de4a10ab:
 
     # w "Thank you."
-    w ""
+    w "谢谢你。"
 
 # game/script day2.rpy:876
 translate chinese day_2_morningshift_e92f26ec:
@@ -1840,7 +1840,7 @@ translate chinese day_2_morningshift_f1c9c03c:
 translate chinese day_2_morningshift_2f1fb184:
 
     # "Julian says, probably finding the first non-confrontational words he ever said to Wolf."
-    ""
+    "不带火药味"
 
 # game/script day2.rpy:921
 translate chinese day_2_morningshift_2d965b55:
@@ -1924,13 +1924,13 @@ translate chinese day_2_morningshift_2e0c1823:
 translate chinese day_2_morningshift_49fc9cf2:
 
     # j "Really?{w} I appreciate the kind words for wanting to help..."
-    j ""
+    j "愿意"
 
 # game/script day2.rpy:963
 translate chinese day_2_morningshift_d691955b:
 
     # s "I mean, have you actually stopped to listen to yourself when you're around him?"
-    s ""
+    s "我是说，你在围着Wolf转的时候，有没有停下来听听自己都说了什么？"
 
 # game/script day2.rpy:965
 translate chinese day_2_morningshift_2c2ba663:
@@ -1984,7 +1984,7 @@ translate chinese day_2_morningshift_873bde43:
 translate chinese day_2_morningshift_493b1f94:
 
     # w "Could you stop talking about me in the third person so that we can get this done here?"
-    w ""
+    w "能不能别用第三人称谈论我了？"
 
 # game/script day2.rpy:994
 translate chinese day_2_morningshift_01256ef1:
@@ -2068,7 +2068,7 @@ translate chinese day_2_morningshift_be876c45:
 translate chinese day_2_morningshift_237bcf3f:
 
     # w "Yes, but..."
-    w ""
+    w "是的，但是……"
 
 # game/script day2.rpy:1027
 translate chinese day_2_morningshift_e92ad233:
@@ -2086,7 +2086,7 @@ translate chinese day_2_morningshift_d850699e:
 translate chinese day_2_morningshift_8bb4a5b1:
 
     # w "And?"
-    w ""
+    w "然后呢？"
 
 # game/script day2.rpy:1033
 translate chinese day_2_morningshift_f733d72a:
@@ -2230,7 +2230,7 @@ translate chinese day_2_morningshift_7b91b3b3:
 translate chinese day_2_morningshift_b6cd059d:
 
     # w "I don't like having lizard gunk all over it."
-    w ""
+    w "我不喜欢它上面沾满蜥蜴的污垢。"
 
 # game/script day2.rpy:1101
 translate chinese day_2_morningshift_501c3eb4:
@@ -2314,7 +2314,7 @@ translate chinese day_2_morningshift_d38b82d6:
 translate chinese day_2_morningshift_86d425d8:
 
     # s "Quiet! All of you."
-    s ""
+    s "都给我安静"
 
 # game/script day2.rpy:1142
 translate chinese day_2_morningshift_61abf916:
@@ -2380,7 +2380,7 @@ translate chinese day_2_morningshift_963f7586:
 translate chinese day_2_morningshift_ae1c19a3:
 
     # s "Very well."
-    s ""
+    s "很好。"
 
 # game/script day2.rpy:1171
 translate chinese day_2_morningshift_f9b042cd:
@@ -2590,13 +2590,13 @@ translate chinese day_2_morningshift_dc9260c8:
 translate chinese day_2_morningshift_8fdcd61c:
 
     # s "Just don't get too excited.{w} Harbor districts are notorious for trying to make you part with your wages."
-    s ""
+    s "总会想方设法把你的"
 
 # game/script day2.rpy:1279
 translate chinese day_2_morningshift_45df6eaa:
 
     # s "They know exactly what you want after a few weeks out at sea, and they're happy to take the coin you're bringing along."
-    s ""
+    s "他们真的太懂你在海上漂泊数周之后想要什么了"
 
 # game/script day2.rpy:1284
 translate chinese day_2_morningshift_87fd46bc:
@@ -2614,7 +2614,7 @@ translate chinese day_2_morningshift_3cf5fef1:
 translate chinese day_2_morningshift_eb619674:
 
     # s "Uh..."
-    s ""
+    s "呃..."
 
 # game/script day2.rpy:1290
 translate chinese day_2_morningshift_b3bccf4a:
@@ -2632,7 +2632,7 @@ translate chinese day_2_morningshift_4f57d008:
 translate chinese day_2_morningshift_893eaba4:
 
     # "But nothing more comes of it, and he turns his attention back to the conversation."
-    ""
+    "注意力"
 
 # game/script day2.rpy:1296
 translate chinese day_2_morningshift_f7ea46c3:
@@ -2722,7 +2722,7 @@ translate chinese day_2_morningshift_3f9c294d:
 translate chinese day_2_morningshift_7aa16cb9:
 
     # s "Shut up."
-    s ""
+    s "闭嘴。"
 
 # game/script day2.rpy:1339
 translate chinese day_2_morningshift_c50ae591:
@@ -2770,7 +2770,7 @@ translate chinese day_2_morningshift_cf08b1aa:
 translate chinese day_2_morningshift_cd88fbb2:
 
     # j "Hey!"
-    j ""
+    j "嘿！"
 
 # game/script day2.rpy:1367
 translate chinese day_2_morningshift_2f703010:
@@ -2914,7 +2914,7 @@ translate chinese day2_morningshift_decision_aec1e0c5:
 translate chinese day2_morningshift_decision_9f84cf11:
 
     # "The mustelid closes the last few meters between you before he stops abruptly with an unexpected grace for his size."
-    ""
+    "鼬科水手"
 
 # game/script day2.rpy:1445
 translate chinese day2_morningshift_decision_cc4ac5ee:
@@ -3064,13 +3064,13 @@ translate chinese day2_spicydream_samuel_a24e18af:
 translate chinese day2_spicydream_samuel_055b0a87:
 
     # p "Well you see it's...personal."
-    p ""
+    p "嗯，这个嘛……是私事。"
 
 # game/script day2.rpy:1555
 translate chinese day2_spicydream_samuel_927d2717:
 
     # s "Personal?"
-    s ""
+    s "私事？"
 
 # game/script day2.rpy:1557
 translate chinese day2_spicydream_samuel_891d9110:
@@ -3124,7 +3124,7 @@ translate chinese day2_nervoussleep_samuel_166e314c:
 translate chinese day2_nervoussleep_samuel_d12acfe4:
 
     # p "If only I could reach the ground from that high up."
-    p ""
+    p "够得到地面"
 
 # game/script day2.rpy:1586
 translate chinese day2_nervoussleep_samuel_dcc3ce5e:
@@ -3304,7 +3304,7 @@ translate chinese day2_repair_samuel_4b7530bd:
 translate chinese day2_repair_samuel_68ed165d:
 
     # p "Are you sure? That could have killed you."
-    p ""
+    p "你确定？那可能会要了你的命。"
 
 # game/script day2.rpy:1685
 translate chinese day2_repair_samuel_d5a284cc:
@@ -3610,7 +3610,7 @@ translate chinese day2_arthur_report_e46a6bb3:
 translate chinese day2_arthur_report_443c27cd:
 
     # a "Did I say you were?"
-    a ""
+    a "我说你打扰他了吗？"
 
 # game/script day2.rpy:1831
 translate chinese day2_arthur_report_cbd9e3b5:
@@ -3646,7 +3646,7 @@ translate chinese day2_arthur_report_54ed538e:
 translate chinese day2_arthur_report_0f865591:
 
     # "Despite clearly being a hard worker, he tripped and fell and made enough of a mess that sometimes, he was more trouble than it was worth."
-    ""
+    "尽管他显然是个勤劳的人，但他总是磕磕绊绊的，惹出的乱子时不时比他那点用处还多。"
 
 # game/script day2.rpy:1846
 translate chinese day2_arthur_report_4e56a140:
@@ -3892,7 +3892,7 @@ translate chinese day2_rajeeyah_talk_1e44b9f2:
 translate chinese day2_rajeeyah_talk_7846418e:
 
     # "Rajeeyah's gaze holds the uncertain quality of someone who got far too little sleep. Fatigue seems to only accentuate the dark lines around her eyes. Still, it only takes a moment for her to recognize this isn't a social visit, her brows furrow as she focuses on Samuel."
-    ""
+    "Rajeeyah的眼神带着睡眠严重不足者特有的茫然。倦意将她眼周的暗纹衬得越发深了。然而，她很快就意识到这并非是一次社交拜访，目光聚焦在Samuel身上时，她的眉头皱了起来。"
 
 # game/script day2.rpy:1975
 translate chinese day2_samuel_injured_03069964:
@@ -4168,7 +4168,7 @@ translate chinese day2_samuel_stitch_f145f483:
 translate chinese day2_samuel_stitch_c576fe78:
 
     # "With the box in hand, you then notice the neatly folded cloths near the foot of the bed. They are meticulously arranged, reflecting Rajeeyah's organized nature. You pick up a couple of the clean cloths and hand the gathered supplies to Rajeeyah, who takes them with a nod of appreciation."
-    ""
+    "你拿起木盒，随即留意到床脚处叠放整齐的布巾。它们摆放得一丝不苟，透着Rajeeyah惯有的条理。你取了几块干净的布巾，将备好的物品一并递给她；她点头表示感谢并接了过去。"
 
 # game/script day2.rpy:2153
 translate chinese day2_samuel_stitch_60ac70df:
@@ -4234,7 +4234,7 @@ translate chinese day2_arthur_incident_talk_55bf3b57:
 translate chinese day2_arthur_incident_talk_6a108d8a:
 
     # s "Jeez, don't be too concerned about my well-bein' in all of this."
-    s ""
+    s "可别为这事替我担心了"
 
 # game/script day2.rpy:2205
 translate chinese day2_arthur_incident_talk_a11622de:
@@ -4264,7 +4264,7 @@ translate chinese day2_arthur_incident_talk_04d828a5:
 translate chinese day2_arthur_incident_talk_01471dc0:
 
     # a "You."
-    a ""
+    a "你"
 
 # game/script day2.rpy:2219
 translate chinese day2_arthur_incident_talk_d505a14f:
@@ -4444,7 +4444,7 @@ translate chinese day2_stay_and_work_with_wolf_and_julian_02beac90:
 translate chinese day2_stay_and_work_with_wolf_and_julian_b774e75d:
 
     # sailschwartz "Are you coming?"
-    sailschwartz ""
+    sailschwartz "你要下来吗？"
 
 # game/script day2.rpy:2315
 translate chinese day2_stay_and_work_with_wolf_and_julian_1563e5c3:
@@ -4660,7 +4660,7 @@ translate chinese day2_pretend_to_know_what_that_means_54c25a3c:
 translate chinese day2_pretend_to_know_what_that_means_ab3d4455:
 
     # p "I guess..."
-    p ""
+    p "我想是吧..."
 
 # game/script day2.rpy:2423
 translate chinese day2_pretend_to_know_what_that_means_80eb21e8:
@@ -4780,7 +4780,7 @@ translate chinese day2_pretend_to_know_what_that_means_fdc3f3a4:
 translate chinese day2_pretend_to_know_what_that_means_8ae271da:
 
     # w "He wants to know what it means more broadly."
-    w ""
+    w "他想知道这背后更深层的意思。"
 
 # game/script day2.rpy:2479
 translate chinese day2_pretend_to_know_what_that_means_f636b3e9:
@@ -4798,7 +4798,7 @@ translate chinese day2_pretend_to_know_what_that_means_b77f275f:
 translate chinese day2_pretend_to_know_what_that_means_e765d66c:
 
     # p "How old is it? To tell you the truth, I don't really know that much about it..."
-    p ""
+    p "它有多老了？说实话，我对它真的了解不多……"
 
 # game/script day2.rpy:2485
 translate chinese day2_pretend_to_know_what_that_means_e9bd17dd:
@@ -4864,7 +4864,7 @@ translate chinese day2_pretend_to_know_what_that_means_62ff2028:
 translate chinese day2_pretend_to_know_what_that_means_da9820a9:
 
     # p "I figured that as long as I knew which way was wet..."
-    p ""
+    p "我当时想着，只要分得清海与天就……"
 
 # game/script day2.rpy:2515
 translate chinese day2_pretend_to_know_what_that_means_3d50ecb6:
@@ -4894,7 +4894,7 @@ translate chinese day2_pretend_to_know_what_that_means_3e004083:
 translate chinese day2_pretend_to_know_what_that_means_66c7a7d8:
 
     # j "So over two decades? Maybe three?"
-    j ""
+    j "所以已经超过20年了？也许30年？"
 
 # game/script day2.rpy:2528
 translate chinese day2_pretend_to_know_what_that_means_67d7c365:
@@ -4912,7 +4912,7 @@ translate chinese day2_pretend_to_know_what_that_means_58dc8203:
 translate chinese day2_pretend_to_know_what_that_means_b34370f0:
 
     # w "Will you two get back to it? I didn't realize that I signed up to do the work of you two as well."
-    w ""
+    w "你们聊完了没？我当初可没答应要连你俩的活儿也一并包了。"
 
 # game/script day2.rpy:2534
 translate chinese day2_pretend_to_know_what_that_means_38fa14c0:
@@ -4942,7 +4942,7 @@ translate chinese day2_the_who_610a830d:
 translate chinese day2_the_who_3a1634a7:
 
     # "You pick up Wolf's snort of laughter, so quiet that you almost miss it."
-    ""
+    "你听见沃尔夫一声压得极低的嗤笑，轻得几乎被漏掉。"
 
 # game/script day2.rpy:2550
 translate chinese day2_the_who_01ae182c:
@@ -4960,13 +4960,13 @@ translate chinese day2_the_who_a581cd24:
 translate chinese day2_the_who_fd5f55ba:
 
     # p "Oh."
-    p ""
+    p "哦。"
 
 # game/script day2.rpy:2558
 translate chinese day2_the_who_7a93bc2d:
 
     # "You feel rather stupid not knowing something probably so obvious, however Julian doesn't seem to mind."
-    ""
+    "你为自己连这么明显的事都不明白感到有些蠢"
 
 # game/script day2.rpy:2560
 translate chinese day2_the_who_79c9adad:
@@ -5020,7 +5020,7 @@ translate chinese day2_the_who_f8ec752e:
 translate chinese day2_the_who_2bc87766:
 
     # p "That sounds bad?"
-    p ""
+    p "听起来不太妙？"
 
 # game/script day2.rpy:2584
 translate chinese day2_the_who_6a85fcb3:
@@ -5194,7 +5194,7 @@ translate chinese day2_the_who_0a03bcbd:
 translate chinese day2_the_who_1e1f469a:
 
     # j "Yes..."
-    j ""
+    j "是啊……"
 
 # game/script day2.rpy:2662
 translate chinese day2_the_who_b34370f0:
@@ -5380,7 +5380,7 @@ translate chinese day2_nomax_morningwalk_92b229b8:
 translate chinese day2_nomax_morningwalk_85a058f2:
 
     # w "Of course..."
-    w ""
+    w "当然了……"
 
 # game/script day2.rpy:2754
 translate chinese day2_nomax_morningwalk_87270876:
@@ -5644,7 +5644,7 @@ translate chinese day2_nomax_morningwalk_ae6285ff:
 translate chinese day2_nomax_morningwalk_8a006ff0:
 
     # p "Don't mention it."
-    p ""
+    p "举手之劳。"
 
 # game/script day2.rpy:2877
 translate chinese day2_nomax_morningwalk_644a85bd:
@@ -5668,7 +5668,7 @@ translate chinese day2_nomax_morningwalk_56e3d082:
 translate chinese day2_nomax_morningwalk_40dc8f79:
 
     # "If it were possible for the painted dog to turn green, you think he might well do so."
-    ""
+    "painted dog"
 
 # game/script day2.rpy:2888
 translate chinese day2_nomax_morningwalk_a6f375a3:
@@ -5746,7 +5746,7 @@ translate chinese day2_nomax_morningwalk_b4e9a6e9:
 translate chinese day2_nomax_morningwalk_f99780f0:
 
     # j "Don't mind him. He's just playing it up to be the big bad wolf."
-    j ""
+    j "别搭理他。他就爱演那出“大恶狼”的戏码。"
 
 # game/script day2.rpy:2922
 translate chinese day2_nomax_morningwalk_2e70f3f5:
@@ -5764,7 +5764,7 @@ translate chinese day2_nomax_morningwalk_fb252e8b:
 translate chinese day2_nomax_morningwalk_00e4b1fa:
 
     # j "See?"
-    j ""
+    j "看到了吧？"
 
 # game/script day2.rpy:2930
 translate chinese day2_nomax_morningwalk_0a79aeab:
@@ -5980,7 +5980,7 @@ translate chinese day2_nomax_morningwalk_9780a3e3:
 translate chinese day2_nomax_morningwalk_228e3b68:
 
     # n "Well..."
-    n ""
+    n "好吧……"
 
 # game/script day2.rpy:3040
 translate chinese day2_nomax_morningwalk_c3c20bae:
@@ -6040,7 +6040,7 @@ translate chinese day2_nomax_morningwalk_abc3d4b8:
 translate chinese day2_nomax_morningwalk_af049f1b:
 
     # w "Imagine wanting to know what we were all in for..."
-    w ""
+    w "居然有人想知道我们这趟是来遭什么罪的……"
 
 # game/script day2.rpy:3072
 translate chinese day2_nomax_morningwalk_a179f8f9:
@@ -6094,7 +6094,7 @@ translate chinese day2_nomax_morningwalk_3d759ecb:
 translate chinese day2_nomax_morningwalk_08b7595d:
 
     # w "Right."
-    w ""
+    w "好吧"
 
 # game/script day2.rpy:3094
 translate chinese day2_nomax_morningwalk_9b90a14d:
@@ -6160,7 +6160,7 @@ translate chinese day2_nomax_morningwalk_bf8eee73:
 translate chinese day2_nomax_morningwalk_851f2d0c:
 
     # "The painted dog realizes that this sort of 'work' is a far cry from that of a deck gang."
-    ""
+    "painted dog"
 
 # game/script day2.rpy:3129
 translate chinese day2_nomax_morningwalk_f5a40ac7:
@@ -6364,7 +6364,7 @@ translate chinese day2_nomax_morningwalk_8e3621b2:
 translate chinese day2_nomax_morningwalk_fcc0fd21:
 
     # p "Anyway..."
-    p ""
+    p "总之..."
 
 # game/script day2.rpy:3224
 translate chinese day2_nomax_morningwalk_69de6dec:
@@ -6388,7 +6388,7 @@ translate chinese day2_nomax_morningwalk_3e94d53e:
 translate chinese day2_nomax_morningwalk_7171d29e:
 
     # p "Me?"
-    p ""
+    p "我？"
 
 # game/script day2.rpy:3234
 translate chinese day2_nomax_morningwalk_0bd888a2:
@@ -6562,7 +6562,7 @@ translate chinese day2_sneak_off_to_nomax_214b1181:
 translate chinese day2_sneak_off_to_nomax_be4cbf21:
 
     # p "Julian?"
-    p ""
+    p "Julian?"
 
 # game/script day2.rpy:3327
 translate chinese day2_sneak_off_to_nomax_0dbbaaf6:
@@ -6706,7 +6706,7 @@ translate chinese day2_sneak_off_to_nomax_b2f24d62:
 translate chinese day2_sneak_off_to_nomax_231f5ff1:
 
     # p "So you're not even happy with what we get here on the ship? You really are a spoiled brat."
-    p ""
+    p "所以你连船上的东西都不满意？"
 
 # game/script day2.rpy:3381
 translate chinese day2_sneak_off_to_nomax_449e7e60:
@@ -6736,7 +6736,7 @@ translate chinese day2_sneak_off_to_nomax_28fd5288:
 translate chinese day2_sneak_off_to_nomax_9d1c5256:
 
     # j "I know what my time is worth and some proper stuff will be a much better motivator."
-    j ""
+    j "我知道自己的时间有多值钱"
 
 # game/script day2.rpy:3402
 translate chinese day2_sneak_off_to_nomax_042e3cb7:
@@ -6916,7 +6916,7 @@ translate chinese day2_sneak_off_to_nomax_5576e3f4:
 translate chinese day2_sneak_off_to_nomax_fb789bda:
 
     # p "I hope he doesn't mind me not bringing in someone else..."
-    p ""
+    p "希望他不会介意，我没有套娃式地再找别人来帮忙……"
 
 # game/script day2.rpy:3496
 translate chinese day2_sneak_off_to_nomax_0f03397e:
@@ -6958,7 +6958,7 @@ translate chinese day2_sneak_off_to_nomax_e4bdea92:
 translate chinese day2_sneak_off_to_nomax_f5a68d6e:
 
     # p "I didn't expect to go partying first thing...{w} so I didn't bring anything to cover that."
-    p ""
+    p "我没想到一上来就要去聚会……{w}所以没带够钱应付这个。"
 
 # game/script day2.rpy:3527
 translate chinese day2_sneak_off_to_nomax_ff8e8ee7:
@@ -6970,13 +6970,13 @@ translate chinese day2_sneak_off_to_nomax_ff8e8ee7:
 translate chinese day2_sneak_off_to_nomax_94285da7:
 
     # j "I understand."
-    j ""
+    j "我明白"
 
 # game/script day2.rpy:3531
 translate chinese day2_sneak_off_to_nomax_d0bec5e2:
 
     # j "Just make sure that you send someone to help us up here then."
-    j ""
+    j "那就确保你能派个人上来帮我们。"
 
 # game/script day2.rpy:3533
 translate chinese day2_sneak_off_to_nomax_302937c6:
@@ -7084,13 +7084,13 @@ translate chinese day2_sneak_off_to_nomax_10c23e99:
 translate chinese day2_sneak_off_to_nomax_7b9cae44:
 
     # "His hand runs through the fur at the back of his neck as he waits for you to answer."
-    ""
+    "他的手捋过后颈的毛发，等着你回答。"
 
 # game/script day2.rpy:3583
 translate chinese day2_sneak_off_to_nomax_a9a3a5cb:
 
     # p "I'm looking for someone to do the rest of my shift for me in exchange for some booze."
-    p ""
+    p "顶完剩下的这班"
 
 # game/script day2.rpy:3585
 translate chinese day2_sneak_off_to_nomax_78490b84:
@@ -7126,7 +7126,7 @@ translate chinese day2_sneak_off_to_nomax_4178940e:
 translate chinese day2_sneak_off_to_nomax_6186867a:
 
     # "You nod."
-    ""
+    "你点点头"
 
 # game/script day2.rpy:3601
 translate chinese day2_sneak_off_to_nomax_45263d59:
@@ -7252,7 +7252,7 @@ translate chinese day2_sneak_off_to_nomax_8941410b:
 translate chinese day2_sneak_off_to_nomax_a2585d83:
 
     # p "I need someone to cover for me for the rest of this shift. Would you be up for it?"
-    p ""
+    p "顶完剩下的这班"
 
 # game/script day2.rpy:3666
 translate chinese day2_sneak_off_to_nomax_8742aa50:
@@ -7264,7 +7264,7 @@ translate chinese day2_sneak_off_to_nomax_8742aa50:
 translate chinese day2_sneak_off_to_nomax_449d81e9:
 
     # k "Does the bear shit in the woods?"
-    k ""
+    k "补了后半句跟下一句接不上吧"
 
 # game/script day2.rpy:3670
 translate chinese day2_sneak_off_to_nomax_2795d3a4:
@@ -7312,7 +7312,7 @@ translate chinese day2_sneak_off_to_nomax_8c7e6a68:
 translate chinese day2_sneak_off_to_nomax_fed67d52:
 
     # "These ships were never meant to carry passengers with any degree of luxury, it is simply a way for the owner to make some extra income whenever there is some space left unoccupied."
-    ""
+    "这种船本就不是为体面载客造的，船主只是有空处便塞人好多挣点外快罢了。"
 
 # game/script day2.rpy:3706
 translate chinese day2_sneak_off_to_nomax_9b82cbc1:
@@ -7816,7 +7816,7 @@ translate chinese day2_nomax_entered_32c413b6:
 translate chinese day2_nomax_entered_39ca4ea6:
 
     # p "His sense of humour is, well. Sometimes he can push it a bit too far."
-    p ""
+    p "有时候可能有点过头。"
 
 # game/script day2.rpy:3963
 translate chinese day2_nomax_entered_7b3f8bf7:
@@ -7900,13 +7900,13 @@ translate chinese day2_nomax_entered_e6486532:
 translate chinese day2_nomax_entered_d277e3a6:
 
     # "You begin to feel that you have him on a tighter leash than you expected."
-    ""
+    "你开始感到自己对他的掌控比预想中更牢了。"
 
 # game/script day2.rpy:3998
 translate chinese day2_nomax_entered_90265bb1:
 
     # "Certainly way beyond anything you expected just a few minutes ago."
-    ""
+    "这进展远超出你几分钟前的预料。"
 
 # game/script day2.rpy:4000
 translate chinese day2_nomax_entered_8e7db81f:
@@ -7942,7 +7942,7 @@ translate chinese day2_nomax_entered_a229a328_1:
 translate chinese day2_nomax_entered_c2df4bb9:
 
     # n "That is one way of putting it. A dump might be another."
-    n ""
+    n "也可以这么说。"
 
 # game/script day2.rpy:4016
 translate chinese day2_nomax_entered_9205b1ee:
@@ -7966,7 +7966,7 @@ translate chinese day2_nomax_entered_2bb4d383:
 translate chinese day2_nomax_entered_f57c63cc:
 
     # n "We saw how that privacy worked out, did we not?"
-    n ""
+    n "我们刚刚就见识了我有多少隐私，不是吗？"
 
 # game/script day2.rpy:4024
 translate chinese day2_nomax_entered_3ad267a2:
@@ -7984,7 +7984,7 @@ translate chinese day2_nomax_entered_af1b81ef:
 translate chinese day2_nomax_entered_4f6d5216:
 
     # "He sighs audibly."
-    ""
+    "他大声地叹了口气。"
 
 # game/script day2.rpy:4030
 translate chinese day2_nomax_entered_f40eb66d:
@@ -8260,7 +8260,7 @@ translate chinese day2_nomax_entered_0db99eba:
 translate chinese day2_nomax_entered_e098c55d:
 
     # p "How so?"
-    p ""
+    p "怎么说？"
 
 # game/script day2.rpy:4142
 translate chinese day2_nomax_entered_89760cf3:
@@ -8416,13 +8416,13 @@ translate chinese day2_nomax_entered_69d5a523:
 translate chinese day2_nomax_entered_d374dd7f:
 
     # n "I-"
-    n ""
+    n "是我——"
 
 # game/script day2.rpy:4216
 translate chinese day2_nomax_entered_2ecefd37:
 
     # n "Ah!"
-    n ""
+    n "啊！"
 
 # game/script day2.rpy:4218
 translate chinese day2_nomax_entered_70833702:
@@ -8446,7 +8446,7 @@ translate chinese day2_nomax_entered_02bcbfb4_1:
 translate chinese day2_nomax_entered_e9ba5c6f:
 
     # "His tail curls over your hand as he attempts to hide what you're doing."
-    ""
+    "他的尾巴卷曲着覆上你的手"
 
 # game/script day2.rpy:4239
 translate chinese day2_nomax_entered_afbed831:
@@ -8566,7 +8566,7 @@ translate chinese day2_nomax_entered_a7702fdb:
 translate chinese day2_nomax_entered_48a877ed:
 
     # "A gasp from his lips announces the arrival of your fingertips as you gently drag the tip of your fingers along the underside of his penis."
-    ""
+    "他唇间逸出一声轻喘，宣告着你的指尖已悄然游移至他阴茎下侧，轻柔划过。"
 
 # game/script day2.rpy:4302
 translate chinese day2_nomax_entered_c2ac2f94:
@@ -8578,7 +8578,7 @@ translate chinese day2_nomax_entered_c2ac2f94:
 translate chinese day2_nomax_entered_4b811565:
 
     # "Each gentle pump causes Nomax to melt ever so slightly until you notice his stance is becoming a little unsteady. A slight wobble of the leg, his knees bending ever so lightly."
-    ""
+    "每一次轻柔的抽送都让Nomax微微融化，直到你注意到他的站姿开始有些不稳——腿部轻微摇晃，膝盖正微微弯曲。"
 
 # game/script day2.rpy:4308
 translate chinese day2_nomax_entered_1f32f09b:
@@ -8608,13 +8608,13 @@ translate chinese day2_nomax_entered_8279fff9:
 translate chinese day2_nomax_entered_270bc98f:
 
     # "To make it easier for him, you undo your belt and the buttons on your breeches, giving him the view he seems to want so badly"
-    ""
+    "为了让他更方便，你解开腰带和马裤的纽扣，满足他如此渴望的视线。"
 
 # game/script day2.rpy:4327
 translate chinese day2_nomax_entered_6c046686:
 
     # "Your feline length slides into the open just as readily, by now out of your sheath and mostly erect yourself."
-    ""
+    "你的猫科长度同样轻易地滑出，此刻已脱离鞘套，大部分挺立着。"
 
 # game/script day2.rpy:4329
 translate chinese day2_nomax_entered_72a90e90:
@@ -8854,7 +8854,7 @@ translate chinese day2_nomax_entered_3778d3f9:
 translate chinese day2_nomax_entered_061e5381:
 
     # p "Yes?"
-    p ""
+    p "怎么了？"
 
 # game/script day2.rpy:4452
 translate chinese day2_nomax_entered_66d2c6e2:
@@ -9088,7 +9088,7 @@ translate chinese day2_nomax_entered_31349412:
 translate chinese day2_nomax_entered_f14d5acb:
 
     # n "Perhaps."
-    n ""
+    n "或许吧"
 
 # game/script day2.rpy:4597
 translate chinese day2_nomax_entered_e622f4d7:
@@ -9148,7 +9148,7 @@ translate chinese day2_nomax_entered_e9fbfd1d:
 translate chinese day2_nomax_entered_cde92cc7:
 
     # p "No."
-    p ""
+    p "没有"
 
 # game/script day2.rpy:4622
 translate chinese day2_nomax_entered_096e87ae:
@@ -9232,7 +9232,7 @@ translate chinese day2_nomax_entered_88c38d29:
 translate chinese day2_nomax_entered_39319be1:
 
     # n "Very funny."
-    n ""
+    n "真有意思"
 
 # game/script day2.rpy:4664
 translate chinese day2_nomax_entered_b7c1757e:
@@ -9418,13 +9418,13 @@ translate chinese day2_nomax_entered_fe3deabc:
 translate chinese day2_nomax_entered_aa26a747:
 
     # n "It would not help me feeling underdressed."
-    n ""
+    n "那我只会觉得自己更衣不蔽体了。"
 
 # game/script day2.rpy:4744
 translate chinese day2_nomax_entered_d5913d17:
 
     # p "That's the whole point."
-    p ""
+    p "要的就是这效果"
 
 # game/script day2.rpy:4746
 translate chinese day2_nomax_entered_9377c39c:
@@ -9622,7 +9622,7 @@ translate chinese day2_nomax_entered_1b1072ee:
 translate chinese day2_nomax_entered_d3101e91:
 
     # n "You really are a greedy one."
-    n ""
+    n "贪得无厌"
 
 # game/script day2.rpy:4839
 translate chinese day2_nomax_entered_838a66db:
@@ -9670,7 +9670,7 @@ translate chinese day2_nomax_entered_0fb6914c:
 translate chinese day2_nomax_entered_24796dbe:
 
     # n ". . ."
-    n ""
+    n ". . ."
 
 # game/script day2.rpy:4863
 translate chinese day2_nomax_entered_b1482a2b:
@@ -9736,7 +9736,7 @@ translate chinese day2_nomax_notentered_21fcb9ee:
 translate chinese day2_nomax_notentered_f5120f85:
 
     # p "Never mind."
-    p ""
+    p "算了"
 
 # game/script day2.rpy:4899
 translate chinese day2_nomax_notentered_2fca5eec:
@@ -9838,7 +9838,7 @@ translate chinese day2_nomax_notentered_a5577da2:
 translate chinese day2_nomax_notentered_73e23985:
 
     # n "Stuffed in an unused hold. Just my luck, is it not?"
-    n ""
+    n "我运气挺好的吧？"
 
 # game/script day2.rpy:4947
 translate chinese day2_nomax_notentered_f04286c2:
@@ -9850,7 +9850,7 @@ translate chinese day2_nomax_notentered_f04286c2:
 translate chinese day2_nomax_notentered_d4d7cefe:
 
     # p "It's not the most luxurious room, I'll give you that, but at least you have a room and some privacy."
-    p ""
+    p "同上，应与上文保持一致"
 
 # game/script day2.rpy:4951
 translate chinese day2_nomax_notentered_9e17371b:
@@ -10132,7 +10132,7 @@ translate chinese day2_nomax_notentered_3071f953:
 translate chinese day2_nomax_notentered_a012c470:
 
     # n "These?"
-    n ""
+    n "这些？"
 
 # game/script day2.rpy:5068
 translate chinese day2_nomax_notentered_2f53585c:
@@ -10372,7 +10372,7 @@ translate chinese day2_nomax_notentered_9b4ec757:
 translate chinese day2_nomax_notentered_950a31f7:
 
     # p "Strange..."
-    p ""
+    p "奇怪……"
 
 # game/script day2.rpy:5175
 translate chinese day2_nomax_afterchoice_563ad719:
@@ -10672,7 +10672,7 @@ translate chinese day2_nomax_afterchoice_6958afba:
 translate chinese day2_nomax_afterchoice_9e5cf7a5:
 
     # p "If anything, I'm surprised at your turnaround, and how chipper you are sounding."
-    p ""
+    p "这么有精神"
 
 # game/script day2.rpy:5311
 translate chinese day2_nomax_afterchoice_330af960:
@@ -10696,7 +10696,7 @@ translate chinese day2_nomax_afterchoice_7aac4145:
 translate chinese day2_nomax_afterchoice_bb102d6b:
 
     # p "In the cabin's defence, we haven't exactly helped the issue."
-    p ""
+    p "为船舱辩护一下，我们也没怎么改善这个问题。"
 
 # game/script day2.rpy:5325
 translate chinese day2_nomax_afterchoice_e8bd926d:
@@ -11380,7 +11380,7 @@ translate chinese day2_nomax_afterchoice_53ae1c25:
 translate chinese day2_nomax_afterchoice_c866b222:
 
     # k "Don't get the flutters. It's nothing life-threatening. Our surgeon's already taking care of him."
-    k ""
+    k "船医"
 
 # game/script day2.rpy:5656
 translate chinese day2_nomax_afterchoice_8b5de62b:
@@ -11422,7 +11422,7 @@ translate chinese day2_samuel_recovery_c90d2156:
 translate chinese day2_samuel_recovery_91b79bf5:
 
     # r "Come in."
-    r ""
+    r "进来。"
 
 # game/script day2.rpy:5695
 translate chinese day2_samuel_recovery_ef6b52b5:
@@ -11452,7 +11452,7 @@ translate chinese day2_samuel_recovery_ec3b7a20:
 translate chinese day2_samuel_recovery_c70f4e75:
 
     # "The concern is evident in her voice."
-    ""
+    "她声音里的关切显而易见。"
 
 # game/script day2.rpy:5711
 translate chinese day2_samuel_recovery_205ae5e4:
@@ -11476,7 +11476,7 @@ translate chinese day2_samuel_recovery_1915f6bc:
 translate chinese day2_samuel_recovery_36e294bb:
 
     # r "If you say so."
-    r ""
+    r "随你怎么说。"
 
 # game/script day2.rpy:5721
 translate chinese day2_samuel_recovery_90eaf892:
@@ -11530,7 +11530,7 @@ translate chinese day2_samuel_recovery_ae08f96d:
 translate chinese day2_samuel_recovery_9bc992ef:
 
     # s "Thanks mum, but I can speak. It's fine, just a scratc-"
-    s ""
+    s "谢了老妈，但我还能说话。没事，就一点擦——"
 
 # game/script day2.rpy:5747
 translate chinese day2_samuel_recovery_e0a63328:
@@ -11704,7 +11704,7 @@ translate chinese day2_samuel_recovery_bottle_8f105c6a:
 translate chinese day2_samuel_recovery_bottle_e91534ce:
 
     # r "You're welcome. Just make sure that Mother Rum won't be blowing you a massive hangover right alongside, will you?"
-    r ""
+    r "当然，但要确保朗姆酒妈妈不会顺便也给你来一场厉害的宿醉就行？"
 
 # game/script day2.rpy:5838
 translate chinese day2_samuel_recovery_bottle_a1aee91f_1:
@@ -11728,7 +11728,7 @@ translate chinese day2_samuel_recovery_bottle_d7ee8cbe:
 translate chinese day2_samuel_recovery_bottle_76b76c82:
 
     # p "Trying my best."
-    p ""
+    p "我正尽力而为呢。"
 
 # game/script day2.rpy:5848
 translate chinese day2_samuel_recovery_bottle_e5a5acd9:
@@ -12058,7 +12058,7 @@ translate chinese day2_on_your_way_back_e1adc27e:
 translate chinese day2_on_your_way_back_54bc036b:
 
     # j "Rajeewho? ...Oh wait. Probably someone patchin' him up, right?"
-    j ""
+    j "Rajee啥？……哦等等，是那个给他包扎伤口的人吧？"
 
 # game/script day2.rpy:6028
 translate chinese day2_on_your_way_back_bef5b764:
@@ -12088,7 +12088,7 @@ translate chinese day2_on_your_way_back_4adfbddc:
 translate chinese day2_on_your_way_back_14ebc491:
 
     # p "Cheetah, tall, ship's surgeon, having me in tow? Getti-"
-    p ""
+    p "船医"
 
 # game/script day2.rpy:6042
 translate chinese day2_on_your_way_back_ea37ef28:
@@ -12142,19 +12142,19 @@ translate chinese day2_on_your_way_back_5f8400a8:
 translate chinese day2_on_your_way_back_c75db608:
 
     # w "But survived is the right word for it. He was practically dead as soon as you left. We still got plenty more wood to polish at a later time."
-    w ""
+    w "但’活下来‘这个词用得很准确，你一走他就像死了一样，我们之后还有很多木材要抛光呢"
 
 # game/script day2.rpy:6072
 translate chinese day2_on_your_way_back_d8f38db4:
 
     # j "I'm sure you know aaaaall about polishin' wood, eh?"
-    j ""
+    j "我敢打赌你对’抛光木材‘了如指掌，不是吗？"
 
 # game/script day2.rpy:6074
 translate chinese day2_on_your_way_back_03250874:
 
     # "That, of course, was a phrase Julian couldn't just let slide by."
-    ""
+    "Julian当然不会放过这句双关。"
 
 # game/script day2.rpy:6089
 translate chinese day2_wolf_flirt_6884d78d:
@@ -12202,7 +12202,7 @@ translate chinese day2_wolf_flirt_2edae38c:
 translate chinese day2_julian_work_b41f0375:
 
     # "As Julian's teasing words hang in the air, you decide to turn it on Julian instead."
-    ""
+    "抛光木材"
 
 # game/script day2.rpy:6116
 translate chinese day2_julian_work_1938cd6f:
@@ -12226,13 +12226,13 @@ translate chinese day2_julian_work_101eda46:
 translate chinese day2_julian_work_39327c78:
 
     # j "Wait."
-    j ""
+    j "等等"
 
 # game/script day2.rpy:6128
 translate chinese day2_julian_work_0508a589:
 
     # j "Forget what I said, I didn't think that one through."
-    j ""
+    j "忘了我刚才说的，我没仔细想。"
 
 # game/script day2.rpy:6133
 translate chinese day2_julian_work_b25af01a:
@@ -12286,7 +12286,7 @@ translate chinese day2_julian_arthur_d2de98a4:
 translate chinese day2_julian_arthur_87357aaf:
 
     # j "Did I put a target on my back today, or why are you all hitting me?!"
-    j ""
+    j "都在攻击我"
 
 # game/script day2.rpy:6164
 translate chinese day2_julian_arthur_88d74e30:
@@ -12334,7 +12334,7 @@ translate chinese day2_julian_arthur_f7786845:
 translate chinese day2_julian_arthur_47a6a4a7:
 
     # p "Understandable."
-    p ""
+    p "可以理解"
 
 # game/script day2.rpy:6186
 translate chinese day2_julian_arthur_ff36d48d:
@@ -12400,7 +12400,7 @@ translate chinese day2_julian_arthur_45ca0e4f:
 translate chinese day2_julian_arthur_9e86d55a:
 
     # w "I..."
-    w ""
+    w "我……"
 
 # game/script day2.rpy:6222
 translate chinese day2_julian_arthur_6f437b58:
@@ -12544,7 +12544,7 @@ translate chinese day2_julian_arthur_cee8d16f:
 translate chinese day2_julian_arthur_857e4204:
 
     # w "Julian!"
-    w ""
+    w "Julian！"
 
 # game/script day2.rpy:6293
 translate chinese day2_julian_arthur_96681e5f:
@@ -12736,7 +12736,7 @@ translate chinese day2_julian_arthur_77ef2820:
 translate chinese day2_julian_arthur_8d009fa8:
 
     # "Before you can chime in on the lizard's charming lack of work ethic, Julian pipes up again."
-    ""
+    "没等你对那蜥蜴令人钦佩的怠工精神发表意见，他就又开口了"
 
 # game/script day2.rpy:6401
 translate chinese day2_julian_arthur_728f9747:
@@ -12802,7 +12802,7 @@ translate chinese day2_julian_arthur_7087b6ff:
 translate chinese day2_julian_arthur_0bc5e120:
 
     # j "He doesn't appear like the most pleasant guy, no."
-    j ""
+    j "的那种人"
 
 # game/script day2.rpy:6428
 translate chinese day2_julian_arthur_95fe90ea:
@@ -12850,7 +12850,7 @@ translate chinese day2_julian_arthur_5ce20cd9:
 translate chinese day2_julian_arthur_8c3710af:
 
     # "It's a comforting thought, one that helps ease the nervousness building in your belly as you approach the helm."
-    ""
+    "令你感到宽慰"
 
 # game/script day2.rpy:6455
 translate chinese day2_julian_arthur_887ed86c:
@@ -12862,7 +12862,7 @@ translate chinese day2_julian_arthur_887ed86c:
 translate chinese day2_julian_arthur_546b0da7:
 
     # a "Mr. [family_name]."
-    a ""
+    a "[family_name]先生。"
 
 # game/script day2.rpy:6459
 translate chinese day2_julian_arthur_8e5de291:
@@ -12880,7 +12880,7 @@ translate chinese day2_julian_arthur_aa235a12:
 translate chinese day2_julian_arthur_10cca7e7:
 
     # p "Sir."
-    p ""
+    p "长官"
 
 # game/script day2.rpy:6465
 translate chinese day2_julian_arthur_a9e8f047:
@@ -12904,7 +12904,7 @@ translate chinese day2_julian_arthur_c4729057:
 translate chinese day2_julian_arthur_b2c856c0:
 
     # p "Yes, sir."
-    p ""
+    p "是的，长官。"
 
 # game/script day2.rpy:6475
 translate chinese day2_julian_arthur_b1834a80:
@@ -12934,7 +12934,7 @@ translate chinese day2_julian_arthur_7833fbae:
 translate chinese day2_julian_arthur_f2fcd513:
 
     # a "However..."
-    a ""
+    a "不过……"
 
 # game/script day2.rpy:6489
 translate chinese day2_julian_arthur_8168040d:
@@ -13030,7 +13030,7 @@ translate chinese day2_julian_arthur_b2c856c0_1:
 translate chinese day2_julian_arthur_a108c20c:
 
     # "You confirm, wanting to give a straightforward answer."
-    ""
+    "你给出了肯定的答复，力求简洁。"
 
 # game/script day2.rpy:6558
 translate chinese day2_julian_arthur_7a78c823:
@@ -13054,7 +13054,7 @@ translate chinese day2_julian_arthur_7833fbae_1:
 translate chinese day2_julian_arthur_046884db:
 
     # a "But..."
-    a ""
+    a "但是……"
 
 # game/script day2.rpy:6568
 translate chinese day2_julian_arthur_8168040d_1:
@@ -13192,7 +13192,7 @@ translate chinese day2_arthur_bold_087f0b9e:
 translate chinese day2_arthur_bold_67bfe0d8:
 
     # "You quickly nod, acknowledging the officer's point."
-    ""
+    "长官"
 
 # game/script day2.rpy:6641
 translate chinese day2_arthur_bold_99b2b251:
@@ -13252,13 +13252,13 @@ translate chinese day2_arthur_scrub_22b6fe40:
 translate chinese day2_arthur_scrub_44e9ea65:
 
     # a "Of course. I assume Wolf and Julian will vouch for you? It's rather difficult to trust the word of those that haven't proven themselves yet, wouldn't you agree?"
-    a ""
+    a "自然，想来Wolf和Julian会为你作证？毕竟，尚未自证之人，其言总难轻信，你觉得呢？"
 
 # game/script day2.rpy:6677
 translate chinese day2_arthur_scrub_fc41870f:
 
     # a "{cps=5000}Of course. I assume Wolf and Julian will vouch for you? It's rather difficult to trust the word of those that haven't proven themselves yet, wouldn't you agree?{/cps}" nointeract
-    a "" nointeract
+    a "{cps=5000}自然，想来Wolf和Julian会为你作证？毕竟，尚未自证之人，其言总难轻信，你觉得呢？{/cps}" nointeract
 
 # game/script day2.rpy:6687
 translate chinese day2_arthur_defend_them_99bb5e8c:
@@ -13408,7 +13408,7 @@ translate chinese day2_arthur_nomax_apology_b753feaf:
 translate chinese day2_arthur_nomax_apology_e8a25a4c:
 
     # "You admit, your voice carries a tinge of regret. The intensity of Arthur's gaze doesn't waver as he studies you, his skepticism almost palpable."
-    ""
+    "目光未有半分松动，他的那份怀疑几乎触手可及。"
 
 # game/script day2.rpy:6763
 translate chinese day2_arthur_nomax_apology_029c2a47:
@@ -13438,7 +13438,7 @@ translate chinese day2_arthur_nomax_apology_a450d753:
 translate chinese day2_arthur_nomax_apology_7115ca0b:
 
     # a "You should be well aware that neglecting your duties is a serious matter. Should I consider keeping a closer eye on you, or do you think you can manage the tasks assigned to you?"
-    a ""
+    a "还是你认为你能胜任分配给你的任务？"
 
 # game/script day2.rpy:6773
 translate chinese day2_arthur_nomax_apology_50c95dd7:
@@ -13636,7 +13636,7 @@ translate chinese day2_arthur_defend_4340af96:
 translate chinese day2_arthur_defend_66905c14:
 
     # a "Very well. Just remember, trust is earned."
-    a ""
+    a "信任是挣来的。"
 
 # game/script day2.rpy:6879
 translate chinese day2_arthur_meek_386f9d8d:
@@ -13894,7 +13894,7 @@ translate chinese day2_arthur_abandon_12d67120:
 translate chinese day2_arthur_abandon_9d9f0a2c:
 
     # a "There is no concept of 'fair' here. You get what you've earned. Furthermore, you haven't been officially accused of anything. Keep that in mind. I have my thoughts, but that's an entirely separate matter."
-    a ""
+    a "这儿不讲“公不公平”。你得到什么，全凭自己挣来。再者，眼下也没人正式指控你什么。记住这点。至于我个人怎么想，那是另一回事。"
 
 # game/script day2.rpy:6996
 translate chinese day2_arthur_abandon_f2fcd513:
@@ -13924,7 +13924,7 @@ translate chinese day2_arthur_abandon_d6560126:
 translate chinese day2_arthur_abandon_f4d4ad58:
 
     # "A heavy silence descends, the gravity of his words lingering in the air. Your anger begins to ebb, a sigh of surrender escaping your lips as you let the tension dissipate in a long breath."
-    ""
+    "沉重的寂静降临，他的话在空气中留下凝重的分量。你的愤怒开始消退，一声投降般的叹息从你唇边逸出，你长长地呼出一口气，让紧张感随之消散。"
 
 # game/script day2.rpy:7008
 translate chinese day2_arthur_abandon_21fd23ea:
@@ -14098,7 +14098,7 @@ translate chinese day2_angered_arthur_c001b090:
 translate chinese day2_angered_arthur_1e684d43:
 
     # a "Have I made myself clear?"
-    a ""
+    a "我说清楚了吗？"
 
 # game/script day2.rpy:7078
 translate chinese day2_angered_arthur_cafe857f:
@@ -14716,7 +14716,7 @@ translate chinese after_morningshift_2d6a691b:
 translate chinese after_morningshift_2b5908f4:
 
     # w "With you?"
-    w ""
+    w "和你一起？"
 
 # game/script day2.rpy:7471
 translate chinese after_morningshift_01780fdd:
@@ -14914,7 +14914,7 @@ translate chinese day2_julian_wolf_dice_88f20f28:
 translate chinese day2_julian_wolf_dice_b0ee12de:
 
     # j "A bit of a gambler then, Wolf?"
-    j ""
+    j "看来是有点赌瘾嘛"
 
 # game/script day2.rpy:7598
 translate chinese day2_julian_wolf_dice_042c800f:
@@ -15256,13 +15256,13 @@ translate chinese day2_julian_wolf_dice_9458be1b:
 translate chinese day2_julian_wolf_dice_59b0236e:
 
     # p "Maybe I'll have to watch you instead, and try to avoid you crossing my path."
-    p ""
+    p "从我面前经过"
 
 # game/script day2.rpy:7836
 translate chinese day2_julian_wolf_dice_c007b6f0:
 
     # j "Isn't that saying about black cats?"
-    j ""
+    j "不是只有黑猫这样做才会带来厄运吗？"
 
 # game/script day2.rpy:7838
 translate chinese day2_julian_wolf_dice_e061b512:
@@ -15286,7 +15286,7 @@ translate chinese day2_julian_wolf_dice_256a59dd:
 translate chinese day2_julian_wolf_dice_2968d6e7:
 
     # w "Whoa, whoa, when did you grow some teeth?"
-    w ""
+    w "没必要加注释吧"
 
 # game/script day2.rpy:7848
 translate chinese day2_julian_wolf_dice_0142be3c:
@@ -15430,7 +15430,9 @@ translate chinese day2_julian_wolf_dice_0bf62ff4:
 translate chinese day2_julian_wolf_dice_a88fbeb7:
 
     # p "Works for him.{w} For you though I do like your cute approach."
-    p ""
+    p "他吃这套。{w}但对于你嘛，我倒挺喜欢你那股可爱劲儿。
+
+"
 
 # game/script day2.rpy:7952
 translate chinese day2_julian_wolf_dice_9ab3ecaf:
@@ -15472,13 +15474,13 @@ translate chinese day2_julian_wolf_dice_5dd8d85b:
 translate chinese day2_julian_wolf_dice_2f237e15:
 
     # w "You better not start talking about polishing wood again."
-    w ""
+    w "抛光木材"
 
 # game/script day2.rpy:7970
 translate chinese day2_julian_wolf_dice_2ca05f46:
 
     # w "I already have more thoughts about the two of you in my mind than I ever wanted to have."
-    w ""
+    w "我脑子里已经对你们两个产生了比我这辈子想要的还多的画面了。"
 
 # game/script day2.rpy:7972
 translate chinese day2_julian_wolf_dice_4f1392d7:
@@ -15526,7 +15528,7 @@ translate chinese day2_julian_wolf_dice_4f1392d7_1:
 translate chinese day2_julian_wolf_dice_fea1d347:
 
     # p "Very wolf-like of you."
-    p ""
+    p "真不愧是头狼呐。"
 
 # game/script day2.rpy:8010
 translate chinese day2_julian_wolf_dice_d6e05db0_1:
@@ -15616,7 +15618,7 @@ translate chinese day2_julian_wolf_dice_c7dc0fd3:
 translate chinese day2_julian_wolf_dice_a17a1bf2:
 
     # j "The fife?"
-    j ""
+    j "六孔竖笛？"
 
 # game/script day2.rpy:8073
 translate chinese day2_julian_wolf_dice_21de255a:
@@ -15778,19 +15780,19 @@ translate chinese day2_declined_bet_840b8f60:
 translate chinese day2_declined_bet_3b871130:
 
     # j "You quaking in your boots too, Wolf? Why even play against me, then?"
-    j ""
+    j "那为什么还要跟我玩？"
 
 # game/script day2.rpy:8211
 translate chinese day2_declined_bet_2dbc4f97:
 
     # w "For the look on your face when you lose."
-    w ""
+    w "为了看你输掉时的表情。"
 
 # game/script day2.rpy:8215
 translate chinese day2_declined_bet_39e13517:
 
     # j "It's cute of you to actually believe you're going to win. I didn't know you did cute."
-    j ""
+    j "你居然真以为自己能赢，真可爱。我以前都不知道你还有可爱的一面呢。"
 
 # game/script day2.rpy:8220
 translate chinese day2_declined_bet_856a8707:
@@ -15868,7 +15870,7 @@ translate chinese day2_julian_win_nobet_07c66fe8:
 translate chinese day2_julian_win_nobet_76911c0d:
 
     # "Julian takes his seat again, arms folded and face smug. Wolf groans, placing his face in his hands. You can almost imagine him seeing his life flash before his eyes now that he owes Julian a favor. The canine then looks up at you."
-    ""
+    "你几乎能想象"
 
 # game/script day2.rpy:8288
 translate chinese day2_julian_win_nobet_33f829c5:
@@ -15898,7 +15900,7 @@ translate chinese day2_julian_win_nobet_e8620e43:
 translate chinese day2_julian_win_nobet_b5a7b713:
 
     # j "Wolf? Say something you {i}like{/i} about me."
-    j ""
+    j "说点你{i}喜欢{/i}我的地方。"
 
 # game/script day2.rpy:8306
 translate chinese day2_julian_win_nobet_f0ee0608:
@@ -16000,7 +16002,7 @@ translate chinese day2_julian_win_nobet_789a2c2c:
 translate chinese day2_julian_win_nobet_3af5ee70:
 
     # w "Can't you help me out here? You've got a brain, unlike him."
-    w ""
+    w "你是有脑子的人，不像他。"
 
 # game/script day2.rpy:8351
 translate chinese day2_julian_win_nobet_5d9ec442:
@@ -16018,7 +16020,7 @@ translate chinese day2_julian_win_nobet_2e3505b1:
 translate chinese day2_julian_win_nobet_e3481d94:
 
     # "Wolf grunts."
-    ""
+    "Wolf咕哝了一声"
 
 # game/script day2.rpy:8357
 translate chinese day2_julian_win_nobet_31789c19:
@@ -16030,13 +16032,13 @@ translate chinese day2_julian_win_nobet_31789c19:
 translate chinese day2_julian_win_nobet_416782c3:
 
     # w "I like it when you sleep, because you don't talk."
-    w ""
+    w "因为你不说话。"
 
 # game/script day2.rpy:8365
 translate chinese day2_julian_win_nobet_c9108713:
 
     # j "Oh, come on, that's not something you like about me. That's liking an absence of me, it doesn't count."
-    j ""
+    j "那算什么喜欢我的地方。那完全是喜欢没我的时候，不算数。"
 
 # game/script day2.rpy:8369
 translate chinese day2_julian_win_nobet_91181f1b:
@@ -16096,7 +16098,7 @@ translate chinese day2_julian_win_nobet_eefddbf4:
 translate chinese day2_julian_win_nobet_2c6e100b:
 
     # w "You played my fife. I guess that's something you did, not something about you."
-    w ""
+    w "你吹过我的短笛。不过那是你做的事，不能说是你的什么地方。"
 
 # game/script day2.rpy:8398
 translate chinese day2_julian_win_nobet_dd2d5b95:
@@ -16180,13 +16182,13 @@ translate chinese day2_julian_win_nobet_c8085389:
 translate chinese day2_julian_win_nobet_ede72822:
 
     # p "Well, you managed it, Wolf. I knew there had to be something. Even if it did look like you were pulling teeth."
-    p ""
+    p "有什么能说的"
 
 # game/script day2.rpy:8432
 translate chinese day2_julian_win_nobet_4452ae10:
 
     # w "He didn't say I had to like it."
-    w ""
+    w "他又没说我非得喜欢。"
 
 # game/script day2.rpy:8434
 translate chinese day2_julian_win_nobet_ed88fd2d:
@@ -16276,7 +16278,7 @@ translate chinese day2_wolf_win_nobet_d0344f0c:
 translate chinese day2_wolf_win_nobet_24898f12:
 
     # w "Why?"
-    w ""
+    w "为什么？"
 
 # game/script day2.rpy:8481
 translate chinese day2_wolf_win_nobet_b7143dce:
@@ -16312,7 +16314,7 @@ translate chinese day2_wolf_win_nobet_9b2e7aab:
 translate chinese day2_wolf_win_nobet_17697de5:
 
     # j "What is it?"
-    j ""
+    j "怎么了？"
 
 # game/script day2.rpy:8500
 translate chinese day2_wolf_win_nobet_e0aa9b15:
@@ -16360,7 +16362,7 @@ translate chinese day2_wolf_win_nobet_2c4f24d6:
 translate chinese day2_wolf_win_nobet_965d0567:
 
     # p "Usually, it's 'cat got your tongue', but I guess the wolf took yours this time, huh?"
-    p ""
+    p "若不用“猫叼走了你的舌头（缄默无言）”的字面意思作为译文的话，可以把现在译文里的狼换成蜥蜴以对应剧情"
 
 # game/script day2.rpy:8524
 translate chinese day2_wolf_win_nobet_f59177fb:
@@ -16444,7 +16446,7 @@ translate chinese day2_player_win_d3f70d80:
 translate chinese day2_player_win_02ae56f7:
 
     # j "I'm not sure if that's a compliment, but I'll take it as one. Hm, though, funny or stupid..."
-    j ""
+    j "不过是有趣还是愚蠢呢……"
 
 # game/script day2.rpy:8571
 translate chinese day2_player_win_4f2be625:
@@ -16474,7 +16476,7 @@ translate chinese day2_player_win_ffba422c:
 translate chinese day2_player_win_7152cb79:
 
     # j "I think I've picked something sufficiently entertaining and high brow for you two gentlemen!"
-    j ""
+    j "有趣"
 
 # game/script day2.rpy:8585
 translate chinese day2_player_win_e7fdcd08:
@@ -16618,7 +16620,7 @@ translate chinese day2_player_win_f6f74ab7:
 translate chinese day2_player_win_96114ea2:
 
     # "He laughs."
-    ""
+    "他笑了"
 
 # game/script day2.rpy:8645
 translate chinese day2_player_win_50a95f46:
@@ -16666,7 +16668,7 @@ translate chinese day2_player_win_bef3d286:
 translate chinese day2_player_win_8d995714:
 
     # "He spreads out his hands, then shakes his right hand vigorously."
-    ""
+    "他摊开双手，接着使劲甩了甩右手。"
 
 # game/script day2.rpy:8663
 translate chinese day2_player_win_d502cd5c:
@@ -16732,7 +16734,7 @@ translate chinese day2_player_win_4d34ba35:
 translate chinese day2_player_win_fcceffc0:
 
     # j "Yeah."
-    j ""
+    j "没错"
 
 # game/script day2.rpy:8691
 translate chinese day2_player_win_6d08972d:
@@ -16912,7 +16914,7 @@ translate chinese day2_player_win_ccdf60d4:
 translate chinese day2_player_win_5aa19942:
 
     # p "Well-"
-    p ""
+    p "这个——"
 
 # game/script day2.rpy:8782
 translate chinese day2_player_win_6c912158:
@@ -17044,7 +17046,7 @@ translate chinese day2_player_win_d875411c:
 translate chinese day2_player_win_2aa4bea0:
 
     # "You deflate a bit at him no-selling your attempt at being flirty."
-    ""
+    "你见他没接你调情的茬，顿时有点泄气。"
 
 # game/script day2.rpy:8855
 translate chinese day2_player_win_8231aff3:
@@ -17800,7 +17802,7 @@ translate chinese day2_player_win_wolf_question_4309ad3a:
 translate chinese day2_player_win_wolf_question_2a30b737:
 
     # j "But-"
-    j ""
+    j "但是——"
 
 # game/script day2.rpy:9233
 translate chinese day2_player_win_wolf_question_2f56fbd1:
@@ -17824,7 +17826,7 @@ translate chinese day2_player_win_wolf_question_aa0c5ccc_1:
 translate chinese day2_player_win_wolf_question_675d3507:
 
     # p "Yep."
-    p ""
+    p "是的。"
 
 # game/script day2.rpy:9243
 translate chinese day2_player_win_wolf_question_36bd1091:
@@ -18424,7 +18426,7 @@ translate chinese day2_player_win_wolf_option1_86e2a679:
 translate chinese day2_player_win_wolf_option1_adc3e2cf:
 
     # "He nods."
-    ""
+    "他点点头。"
 
 # game/script day2.rpy:9543
 translate chinese day2_player_win_wolf_option1_d2a192d6:
@@ -18436,7 +18438,7 @@ translate chinese day2_player_win_wolf_option1_d2a192d6:
 translate chinese day2_player_win_wolf_option1_1939486d:
 
     # "He shrugs."
-    ""
+    "他耸耸肩"
 
 # game/script day2.rpy:9549
 translate chinese day2_player_win_wolf_option1_5820203b:
@@ -18508,7 +18510,7 @@ translate chinese day2_player_win_wolf_option1_b53c4532:
 translate chinese day2_player_win_wolf_option1_a25d1b00:
 
     # p "Did you fall into something?"
-    p ""
+    p "上了吗？"
 
 # game/script day2.rpy:9575
 translate chinese day2_player_win_wolf_option1_4633632e:
@@ -18550,13 +18552,13 @@ translate chinese day2_player_win_wolf_option1_088a9ac1:
 translate chinese day2_player_win_wolf_option1_2922f1cf:
 
     # w "Are we done here?"
-    w ""
+    w "我们结束了吗？"
 
 # game/script day2.rpy:9596
 translate chinese day2_player_win_wolf_option1_b8aa792f:
 
     # p "I guess."
-    p ""
+    p "我想也是"
 
 # game/script day2.rpy:9606
 translate chinese day2_player_win_wolf_option2_114e2840:
@@ -18748,7 +18750,7 @@ translate chinese day2_julian_win_5107fdc4:
 translate chinese day2_julian_win_159127d8:
 
     # j "Would you be a dear and pick it up again?"
-    j ""
+    j "你能当个好人再把它捡起来吗？"
 
 # game/script day2.rpy:9719
 translate chinese day2_julian_win_e8d94030:
@@ -18760,7 +18762,7 @@ translate chinese day2_julian_win_e8d94030:
 translate chinese day2_julian_win_c6696949:
 
     # p "This is the favor? To collect the die off the ground again?"
-    p ""
+    p "这就是还人情的方式?就是再去地上捡骰子？"
 
 # game/script day2.rpy:9725
 translate chinese day2_julian_win_b775dc35:
@@ -18802,7 +18804,7 @@ translate chinese day2_julian_win_cf7e0888:
 translate chinese day2_julian_win_a6606b5a:
 
     # "You're on your knees just as before, more theatrically if anything, to play up the stupidity of the favor."
-    ""
+    "“人情"还起来有多蠢"
 
 # game/script day2.rpy:9750
 translate chinese day2_julian_win_b55390a8:
@@ -18832,7 +18834,7 @@ translate chinese day2_julian_win_05febb9e:
 translate chinese day2_julian_win_3f534883:
 
     # j "I very much am. If you just do it the same way as before, it wouldn't be much of a favor, would it?"
-    j ""
+    j "忙"
 
 # game/script day2.rpy:9760
 translate chinese day2_julian_win_226ad658:
@@ -19012,7 +19014,7 @@ translate chinese day2_julian_win_27712f89:
 translate chinese day2_julian_win_992bb2c6:
 
     # p "I'm sorry?"
-    p ""
+    p "你说什么？"
 
 # game/script day2.rpy:9844
 translate chinese day2_julian_win_d42ac75a:
@@ -19312,7 +19314,7 @@ translate chinese day2_tell_julian_about_arthur_2354bbed:
 translate chinese day2_tell_julian_about_arthur_05f44d45:
 
     # "You roll your eyes."
-    ""
+    "你翻了个白眼"
 
 # game/script day2.rpy:10025
 translate chinese day2_tell_julian_about_arthur_81ea0c1e:
@@ -19480,7 +19482,7 @@ translate chinese day2_tell_julian_about_julian_9cf5fa03:
 translate chinese day2_tell_julian_about_julian_494c53da:
 
     # p "You're definitely an interesting man. Who knew the loudest mouth this side of the world would be joining us for our voyage? I hope they hauled you onboard with the rest of the luggage with pride."
-    p ""
+    p "最能说的家伙"
 
 # game/script day2.rpy:10210
 translate chinese day2_tell_julian_about_julian_de5defe9:
@@ -19510,7 +19512,7 @@ translate chinese day2_tell_julian_about_julian_77b409e0:
 translate chinese day2_tell_julian_about_julian_1511252d:
 
     # "Wolf looks to strongly consider just walking away then and there. You give him a break, turning away to face Jules."
-    ""
+    "而Wolf看起来正在认真考虑直接走人。你放过了他，转过身面向Jules。"
 
 # game/script day2.rpy:10227
 translate chinese day2_tell_julian_about_julian_0951e325:
@@ -19534,7 +19536,7 @@ translate chinese day2_tell_julian_about_julian_f7737c37:
 translate chinese day2_tell_julian_about_julian_fd18da1a:
 
     # w "What? No!"
-    w ""
+    w "什么？不！"
 
 # game/script day2.rpy:10237
 translate chinese day2_tell_julian_about_julian_c225b0fa:
@@ -19570,7 +19572,7 @@ translate chinese day2_tell_julian_about_julian_5d8f511b:
 translate chinese day2_tell_julian_about_julian_a747bc79:
 
     # "To emphasize his intent, Julian slides the arm that isn't around your shoulders to your chest. You can feel the warmth of his palm and the texture of his scales through your shirt."
-    ""
+    "为了强调他的意图，Julian把那只没搂着你肩膀的手滑到了你的胸前。透过衬衫，你能感受到他手掌的温度和他鳞片的质感。"
 
 # game/script day2.rpy:10263
 translate chinese day2_tell_julian_about_julian_86e6a1f8:
@@ -19588,7 +19590,7 @@ translate chinese day2_tell_julian_about_julian_7f876807:
 translate chinese day2_tell_julian_about_julian_136dac2b:
 
     # "You hope your flush isn't as fierce as it feels on your face. A few thoughts rush through your mind at Julian's touch and closeness, about how he must feel in other places and how he would look. Nude. And free to your hands."
-    ""
+    "想着他赤身裸体会是什么样子——如果他还能任由你的双手探索的话"
 
 # game/script day2.rpy:10271
 translate chinese day2_tell_julian_about_julian_2ba8ce5b:
@@ -19636,7 +19638,7 @@ translate chinese day2_tell_julian_about_julian_d17aa706:
 translate chinese day2_tell_julian_about_julian_12bad19e:
 
     # j "You see how easy it is, Wolf? Why can't you be agreeable like him?"
-    j ""
+    j "讨喜"
 
 # game/script day2.rpy:10330
 translate chinese day2_tell_julian_about_julian_a6aa4ecf:
@@ -19816,7 +19818,7 @@ translate chinese day2_tell_julian_about_nomax_7e924608:
 translate chinese day2_tell_julian_about_nomax_613f9a03:
 
     # p "Oh, calm down. We didn't do anything scandalous like you're assuming. We talked about his interest in botany and his drawings."
-    p ""
+    p "他的画"
 
 # game/script day2.rpy:10487
 translate chinese day2_tell_julian_about_nomax_43dc34cc:
@@ -19852,7 +19854,7 @@ translate chinese day2_tell_julian_about_nomax_e36c1e60:
 translate chinese day2_tell_julian_about_nomax_2d791260:
 
     # "Silence reigns for a moment. You can hear the swaying of the water outside, the occasional thump of a wave hitting the hull. All the while, Julian stares at you, studying you."
-    ""
+    "沉默"
 
 # game/script day2.rpy:10501
 translate chinese day2_tell_julian_about_nomax_951e6c2e:
@@ -20116,7 +20118,7 @@ translate chinese day2_tell_julian_about_nomax_d8772969:
 translate chinese day2_tell_julian_about_nomax_cbedb8b5:
 
     # j "God, what kinda man goes into another man's private cabin and doesn't fuck him? That's so boring."
-    j ""
+    j "做出 赘余了"
 
 # game/script day2.rpy:10692
 translate chinese day2_tell_julian_about_nomax_ba45b231:
@@ -20182,7 +20184,7 @@ translate chinese day2_tell_julian_about_nomax_60d8dec2:
 translate chinese day2_tell_julian_about_nomax_9d615ec6:
 
     # p "So..."
-    p ""
+    p "那么……"
 
 # game/script day2.rpy:10791
 translate chinese day2_tell_julian_about_rajeeyah_af40be47:
@@ -20398,7 +20400,7 @@ translate chinese day2_tell_julian_about_samuel_6fdd61ab:
 translate chinese day2_tell_julian_about_samuel_07220d08:
 
     # w "Now?"
-    w ""
+    w "现在？"
 
 # game/script day2.rpy:10920
 translate chinese day2_tell_julian_about_samuel_1f51dc97:
@@ -20500,7 +20502,7 @@ translate chinese day2_tell_julian_about_samuel_be00bf1c:
 translate chinese day2_tell_julian_about_samuel_c5f2a21c:
 
     # j "Oh, mysterious! Is our Wolf a delinquent after all?"
-    j ""
+    j "少年罪犯"
 
 # game/script day2.rpy:10998
 translate chinese day2_tell_julian_about_samuel_41cf9fc3:
@@ -20530,7 +20532,7 @@ translate chinese day2_tell_julian_about_samuel_87195088:
 translate chinese day2_tell_julian_about_samuel_f1da597a:
 
     # "Wolf nods."
-    ""
+    "Wolf点了点头。"
 
 # game/script day2.rpy:11014
 translate chinese day2_tell_julian_about_samuel_63ca1e35_1:
@@ -20686,7 +20688,7 @@ translate chinese day2_tell_julian_about_wolf_ad2fc5f2:
 translate chinese day2_tell_julian_about_wolf_5a9296fc:
 
     # "It shows just how complex his dark fur truly is, the subtle gradient that you don't normally see until you look for it in good light."
-    ""
+    "充足的光线"
 
 # game/script day2.rpy:11113
 translate chinese day2_tell_julian_about_wolf_2e29c1f4:
@@ -21508,7 +21510,7 @@ translate chinese day2_dice_outro_12bc6391:
 translate chinese day2_dice_outro_97956cca:
 
     # p "Hello, sir. Can we help you?"
-    p ""
+    p "有什么能帮忙的吗？"
 
 # game/script day2.rpy:11613
 translate chinese day2_dice_outro_71522d42:
@@ -21886,7 +21888,7 @@ translate chinese day2_dice_outro_bb3e68c8:
 translate chinese day2_dice_outro_681e3962:
 
     # "You sigh."
-    ""
+    "你叹了口气"
 
 # game/script day2.rpy:11807
 translate chinese day2_dice_outro_6cd7f64f:
@@ -21982,7 +21984,7 @@ translate chinese day2_dice_outro_b1901382:
 translate chinese day2_dice_outro_5e6c3dab:
 
     # j "And the wolf takes a catnap, huh?"
-    j ""
+    j "狼要去猫一会儿了，是吧？"
 
 # game/script day2.rpy:11864
 translate chinese day2_dice_outro_65f5f9c1:
@@ -21994,7 +21996,7 @@ translate chinese day2_dice_outro_65f5f9c1:
 translate chinese day2_dice_outro_8ce0e180:
 
     # p "I hate that term. How did we become associated with being so lazy?"
-    p ""
+    p "我们怎么就被归成懒惰的代表了"
 
 # game/script day2.rpy:11870
 translate chinese day2_dice_outro_8aac844e:
@@ -22102,7 +22104,7 @@ translate chinese day2_dice_outro_bbd3ceef:
 translate chinese day2_dice_outro_980faf41:
 
     # p "I'm not."
-    p ""
+    p "是的。"
 
 # game/script day2.rpy:11932
 translate chinese day2_dice_outro_69248b8e:
@@ -22138,7 +22140,7 @@ translate chinese day2_check_samuel_again_fa9f1f11:
 translate chinese day2_check_samuel_again_9fd2bf77:
 
     # j "No?"
-    j ""
+    j "没有？"
 
 # game/script day2.rpy:11970
 translate chinese day2_check_samuel_again_77930504:
@@ -22414,7 +22416,7 @@ translate chinese day2_check_samuel_again_0eab2e44:
 translate chinese day2_check_samuel_again_de3ee119:
 
     # p "Konrad's ordering Julian and Wolf to try and roll it out as we speak."
-    p ""
+    p "Konrad眼下正吩咐Julian和Wolf立马去想办法把局面稳住"
 
 # game/script day2.rpy:12113
 translate chinese day2_check_samuel_again_a8dfd16c:
@@ -22768,7 +22770,7 @@ translate chinese day2_check_samuel_again_f261a2e5:
 translate chinese day2_check_samuel_again_6255fe4e:
 
     # r "You never stopped to wonder why there are no women on this ship? Or any ship for that matter."
-    r ""
+    r "或者说任何一艘船都是如此？"
 
 # game/script day2.rpy:12280
 translate chinese day2_check_samuel_again_cb0a1570:
@@ -22786,7 +22788,7 @@ translate chinese day2_check_samuel_again_911113d2:
 translate chinese day2_check_samuel_again_29bd8c67:
 
     # p "Tough conditions. Hard work..."
-    p ""
+    p "条件艰苦。工作繁重……"
 
 # game/script day2.rpy:12288
 translate chinese day2_check_samuel_again_eaddd299:
@@ -22804,7 +22806,7 @@ translate chinese day2_check_samuel_again_c24b0413:
 translate chinese day2_check_samuel_again_aa11053d:
 
     # r "I'm the ship's surgeon and don't touch anything in their domain. I assume that is good enough to assuage their beliefs."
-    r ""
+    r "我想这应该足以让他们安心了。"
 
 # game/script day2.rpy:12296
 translate chinese day2_check_samuel_again_2bb87208:
@@ -22822,7 +22824,7 @@ translate chinese day2_check_samuel_again_16da4090:
 translate chinese day2_check_samuel_again_2a6fc527:
 
     # p "But Samuel's been on this ship for years, right? They'd still have problems after all of that?"
-    p ""
+    p "，对吧？经历了这么多后，他们还会对他有意见？"
 
 # game/script day2.rpy:12306
 translate chinese day2_check_samuel_again_b8323db2:
@@ -23074,7 +23076,7 @@ translate chinese day2_check_samuel_again_534db064:
 translate chinese day2_check_samuel_again_78e25cb2:
 
     # r "It is."
-    r ""
+    r "确实"
 
 # game/script day2.rpy:12455
 translate chinese day2_check_samuel_again_0cc36cc1:
@@ -23122,13 +23124,13 @@ translate chinese day2_check_samuel_again_b373ac57:
 translate chinese day2_check_samuel_again_c5b897c1:
 
     # s "It is somehow still a well-kept secret. The only other person who knows is Arthur."
-    s ""
+    s "知情的人只有Arthur"
 
 # game/script day2.rpy:12478
 translate chinese day2_check_samuel_again_b1c98a75:
 
     # p "That Arthur?{w} He has no problem with it?"
-    p ""
+    p "那个Arthur？"
 
 # game/script day2.rpy:12480
 translate chinese day2_check_samuel_again_433a7581:
@@ -23524,7 +23526,7 @@ translate chinese day2_check_samuel_again_bcee3943:
 translate chinese day2_check_samuel_again_ae7a7311:
 
     # a "Now then, would you kindly enlighten me as to what they meant by you spying on them?"
-    a ""
+    a "现在能请你告诉我"
 
 # game/script day2.rpy:12694
 translate chinese day2_check_samuel_again_3336a7a8:
@@ -23890,7 +23892,7 @@ translate chinese day2_nomax_questioning_8b3a161a:
 translate chinese day2_nomax_questioning_a1f03728:
 
     # n "I-... very well, I can do my best to be of assistance. He has not done anything grave, has he?"
-    n ""
+    n "造成什么严重的后果"
 
 # game/script day2.rpy:12903
 translate chinese day2_nomax_questioning_56942e8d:
@@ -24316,7 +24318,7 @@ translate chinese day2_nomax_question2_c2644bfc:
 translate chinese day2_nomax_question2_f5928b22:
 
     # p "No, sir."
-    p ""
+    p "不会的，长官。"
 
 # game/script day2.rpy:13160
 translate chinese day2_nomax_question2_54b55a3e:
@@ -24550,7 +24552,7 @@ translate chinese day2_nomax_question2_7eb7350e:
 translate chinese day2_nomax_question2_3c1b1c9b:
 
     # p "He slipped, sir, most unfortunate. A crash, a yelp, and he was on the ground in a heap."
-    p ""
+    p "一次撞击"
 
 # game/script day2.rpy:13285
 translate chinese day2_nomax_question2_03243e0e:
@@ -25060,7 +25062,7 @@ translate chinese day2_nomax_question4_dfaae962:
 translate chinese day2_nomax_question4_559b7537:
 
     # a "Hmm..."
-    a ""
+    a "哼……"
 
 # game/script day2.rpy:13603
 translate chinese day2_nomax_question4_90071125:
@@ -25204,7 +25206,7 @@ translate chinese day2_nomax_question4_e0b8cd72:
 translate chinese day2_nomax_question4_398e9d05:
 
     # "Well, it never did...but Arthur doesn't need to know that part, of course."
-    ""
+    "好吧，它本来就没动过"
 
 # game/script day2.rpy:13669
 translate chinese day2_nomax_question4_de9bf76f:
@@ -25864,7 +25866,7 @@ translate chinese day2_nomax_afterquestions_eb765238:
 translate chinese day2_nomax_afterquestions_3aa49de1:
 
     # n "Thanks..."
-    n ""
+    n "谢谢……"
 
 # game/script day2.rpy:14012
 translate chinese day2_nomax_afterquestions_3b5d2178:
@@ -26014,7 +26016,7 @@ translate chinese day2_nomax_afterquestions_ffc591bc:
 translate chinese day2_nomax_afterquestions_1154b938:
 
     # a "Maybe so, in any case I've heard what I needed to hear. Both you, Mr. [family_name], and the gentleman are dismissed."
-    a ""
+    a "还有这位绅士"
 
 # game/script day2.rpy:14081
 translate chinese day2_nomax_afterquestions_f2963eec:
@@ -26134,7 +26136,7 @@ translate chinese day2_nomax_afterquestions_07659127:
 translate chinese day2_nomax_afterquestions_30f386fd:
 
     # p "No, no. They'll be fine again, nobody's in any danger."
-    p ""
+    p "好起来的"
 
 # game/script day2.rpy:14133
 translate chinese day2_nomax_afterquestions_7d510bc6:
@@ -26404,7 +26406,7 @@ translate chinese day2_nomax_afterquestions_4be4964c:
 translate chinese day2_nomax_afterquestions_fa60e057:
 
     # p "Well, it was all I could think of so it was either that or having to present your ass."
-    p ""
+    p "把你的屁股交出去了"
 
 # game/script day2.rpy:14270
 translate chinese day2_nomax_afterquestions_71b561e5:
@@ -26416,7 +26418,7 @@ translate chinese day2_nomax_afterquestions_71b561e5:
 translate chinese day2_nomax_afterquestions_3bd8c6a5:
 
     # n "Oh, shut up."
-    n ""
+    n "哦，闭嘴吧。"
 
 # game/script day2.rpy:14274
 translate chinese day2_nomax_afterquestions_bc0dc71e:
@@ -26896,19 +26898,19 @@ translate chinese day2_nomax_afterquestions_57997001:
 translate chinese day2_nomax_afterquestions_9a0f062b:
 
     # "Like a rusty door hinge in a storm."
-    ""
+    "像"
 
 # game/script day2.rpy:14506
 translate chinese day2_nomax_afterquestions_7af69c91:
 
     # "Like a trombone played by a hiccuping penguin."
-    ""
+    "像"
 
 # game/script day2.rpy:14508
 translate chinese day2_nomax_afterquestions_c1710169:
 
     # "Like a flock of seagulls taking yodelling lessons from a mountain goat."
-    ""
+    "像"
 
 # game/script day2.rpy:14510
 translate chinese day2_nomax_afterquestions_edf6334c:
@@ -27532,7 +27534,7 @@ translate chinese day2_eveningchoice_Julian_49700793:
 translate chinese day2_eveningchoice_Julian_11bd6b3c:
 
     # p "What about him?"
-    p ""
+    p "他怎么了？"
 
 # game/script day2.rpy:14867
 translate chinese day2_eveningchoice_Julian_10da8469:
@@ -27586,7 +27588,7 @@ translate chinese day2_eveningchoice_Julian_8d220281:
 translate chinese day2_eveningchoice_Julian_04537e79:
 
     # j "I knew it!"
-    j ""
+    j "我就知道！"
 
 # game/script day2.rpy:14898
 translate chinese day2_eveningchoice_Julian_ace126d7:
@@ -28312,7 +28314,7 @@ translate chinese day2_eveningchoice_Julian_fb28eb46:
 translate chinese day2_eveningchoice_Julian_0ca3dcdf:
 
     # p "No, you won't."
-    p ""
+    p "不，你不能去"
 
 # game/script day2.rpy:15291
 translate chinese day2_eveningchoice_Julian_24cb1707:
@@ -28360,7 +28362,7 @@ translate chinese day2_eveningchoice_Julian_7c889c31:
 translate chinese day2_eveningchoice_Julian_5f7a159e:
 
     # p "Correct."
-    p ""
+    p "没错"
 
 # game/script day2.rpy:15316
 translate chinese day2_eveningchoice_Julian_d72b6cb2:
@@ -30088,7 +30090,7 @@ translate chinese day2_eveningchoice_Julian_jerkyou_e36d1c5d:
 translate chinese day2_eveningchoice_Julian_jerkyou_74b43d91:
 
     # j "We'll have to do whatever else you had in mind later. Here, grab your clothes..."
-    j ""
+    j "下次再说了"
 
 # game/script day2.rpy:16291
 translate chinese day2_eveningchoice_Julian_jerkyou_584c97a7:
@@ -30262,7 +30264,7 @@ translate chinese day2_eveningchoice_wolfshirt_ece70dec:
 translate chinese day2_eveningchoice_wolfshirt_59676fd8:
 
     # w "What do you want?"
-    w ""
+    w "你想干嘛？"
 
 # game/script day2.rpy:16418
 translate chinese day2_eveningchoice_wolfshirt_14691c3f:
@@ -30274,7 +30276,7 @@ translate chinese day2_eveningchoice_wolfshirt_14691c3f:
 translate chinese day2_eveningchoice_wolfshirt_ffd6d0ae:
 
     # p "It's me."
-    p ""
+    p "是我"
 
 # game/script day2.rpy:16422
 translate chinese day2_eveningchoice_wolfshirt_7876c622:
@@ -30880,7 +30882,7 @@ translate chinese day2_eveningchoice_wolfshirt_02f8c71f:
 translate chinese day2_eveningchoice_wolfshirt_3dff31c3:
 
     # p "Oh no, what a tragedy, the wolf has enough dexterity to actually pick the grapes without just crushing them like bugs."
-    p ""
+    p "把它们捏碎"
 
 # game/script day2.rpy:16762
 translate chinese day2_eveningchoice_wolfshirt_20bf9cb2:
@@ -31054,7 +31056,7 @@ translate chinese day2_eveningchoice_wolfshirt_7e51965e:
 translate chinese day2_eveningchoice_wolfshirt_00cfffb6:
 
     # p "I know..."
-    p ""
+    p "我知道……"
 
 # game/script day2.rpy:16830
 translate chinese day2_eveningchoice_wolfshirt_494a1fe3:
@@ -31138,7 +31140,7 @@ translate chinese day2_eveningchoice_wolfshirt_51e48b51:
 translate chinese day2_eveningchoice_wolfshirt_932ebd5c:
 
     # w "Mhmm..."
-    w ""
+    w "嗯……"
 
 # game/script day2.rpy:16866
 translate chinese day2_eveningchoice_wolfshirt_dab0c661:
@@ -31720,7 +31722,7 @@ translate chinese day2_eveningchoice_fifelesson_1f8e6de6:
 translate chinese day2_eveningchoice_fifelesson_43cc34db:
 
     # p "Really?"
-    p ""
+    p "认真的？"
 
 # game/script day2.rpy:17294
 translate chinese day2_eveningchoice_fifelesson_a95dd655:
@@ -31852,7 +31854,7 @@ translate chinese day2_eveningchoice_fifelesson_3ff9af19:
 translate chinese day2_eveningchoice_fifelesson_096e61d9:
 
     # w "Absolutely not."
-    w ""
+    w "没门"
 
 # game/script day2.rpy:17395
 translate chinese day2_eveningchoice_fifelesson_cb5c7302:
@@ -32074,7 +32076,7 @@ translate chinese day2_eveningchoice_fifelesson_7c812610:
 translate chinese day2_eveningchoice_fifelesson_6a8a8e18:
 
     # p "Julian..."
-    p ""
+    p "Julian……"
 
 # game/script day2.rpy:17567
 translate chinese day2_eveningchoice_fifelesson_88f4d67e:
@@ -32182,7 +32184,7 @@ translate chinese day2_eveningchoice_fifelesson_0811b25e:
 translate chinese day2_eveningchoice_fifelesson_15c16cb5:
 
     # "He continues his pantomime, showing himself easing up to deflate even more. Almost crumbling into a lump of lizard on the floor."
-    ""
+    "瘫成一团蜥蜴了"
 
 # game/script day2.rpy:17684
 translate chinese day2_eveningchoice_fifelesson_afb9b764:
@@ -33694,7 +33696,7 @@ translate chinese day2_eveningchoice_fifelesson_dc11398b:
 translate chinese day2_eveningchoice_fifelesson_aecab5fb:
 
     # j "I mean it."
-    j ""
+    j "我是认真的"
 
 # game/script day2.rpy:18815
 translate chinese day2_eveningchoice_fifelesson_87133f9f:
@@ -34858,7 +34860,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_b376f840:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_7bb7ea87:
 
     # p "I'm sorry."
-    p ""
+    p "对不起。"
 
 # game/script day2.rpy:19565
 translate chinese day2_eveningchoice_rajeeyahafterdinner_2ce4cbd4:
@@ -35980,7 +35982,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_a175128d:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_fb7f1266:
 
     # r "I don't know."
-    r ""
+    r "我不知道"
 
 # game/script day2.rpy:20127
 translate chinese day2_eveningchoice_rajeeyahafterdinner_69d5ccef:
@@ -36436,7 +36438,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_dce75c5b:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_133066e4:
 
     # r "Sorry."
-    r ""
+    r "抱歉。"
 
 # game/script day2.rpy:20316
 translate chinese day2_eveningchoice_rajeeyahafterdinner_8a053020:
@@ -36478,7 +36480,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_638510c3:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_c6e93588:
 
     # r "I do."
-    r ""
+    r "认识"
 
 # game/script day2.rpy:20334
 translate chinese day2_eveningchoice_rajeeyahafterdinner_33d7542d:
@@ -36496,7 +36498,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_36912be7:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_3410afc5:
 
     # r "About the best any vessel could hope for."
-    r ""
+    r "人选"
 
 # game/script day2.rpy:20344
 translate chinese day2_eveningchoice_rajeeyahafterdinner_970b96ef_1:
@@ -36586,7 +36588,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_bc9af7bc:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_1839cd61:
 
     # r "Sure."
-    r ""
+    r "当然"
 
 # game/script day2.rpy:20386
 translate chinese day2_eveningchoice_rajeeyahafterdinner_d8050f1b:
@@ -36622,7 +36624,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_4ab7fe25:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_d25cfebf:
 
     # "You unfold the manifest while you talk and check for the name."
-    ""
+    "货物清单"
 
 # game/script day2.rpy:20402
 translate chinese day2_eveningchoice_rajeeyahafterdinner_b17c2e89:
@@ -36916,7 +36918,7 @@ translate chinese day2_eveningchoice_rajeeyahafterdinner_be49d6dd:
 translate chinese day2_eveningchoice_rajeeyahafterdinner_03bb8318:
 
     # p "Learn fast this, be a good sailor that...{p}Hasn't helped."
-    p ""
+    p "快点学这个"
 
 # game/script day2.rpy:20562
 translate chinese day2_eveningchoice_rajeeyahafterdinner_8116f7b1:
@@ -37120,7 +37122,7 @@ translate chinese day2_eveningchoice_rajeeyahdinner_8f3241f2:
 translate chinese day2_eveningchoice_rajeeyahdinner_fcaf40fe:
 
     # w "What? Forgot the game already?{p}You owe me."
-    w ""
+    w "这就忘了"
 
 # game/script day2.rpy:20689
 translate chinese day2_eveningchoice_rajeeyahdinner_326f3a5b:
@@ -38200,7 +38202,7 @@ translate chinese day2_eveningchoice_rajeeyahdinner_04d170ca:
 translate chinese day2_eveningchoice_rajeeyahdinner_df88cf2f:
 
     # p "Is that alright?"
-    p ""
+    p "可以吗？"
 
 # game/script day2.rpy:21310
 translate chinese day2_eveningchoice_rajeeyahdinner_b4f6d49c:
@@ -38284,7 +38286,7 @@ translate chinese day2_eveningchoice_rajeeyahdinner_7128d4ce:
 translate chinese day2_eveningchoice_rajeeyahdinner_9557539c:
 
     # r "He does not."
-    r ""
+    r "他显然不是在开玩笑"
 
 # game/script day2.rpy:21365
 translate chinese day2_eveningchoice_rajeeyahdinner_dc37a3cd:
@@ -38614,7 +38616,7 @@ translate chinese day2_eveningchoice_rajeeyahprelash_d14d4e4b:
 translate chinese day2_eveningchoice_rajeeyahprelash_7eaff810:
 
     # a "I kindly requested you to tell me."
-    a ""
+    a "请求"
 
 # game/script day2.rpy:21529
 translate chinese day2_eveningchoice_rajeeyahprelash_9a2b4677:
@@ -38866,7 +38868,7 @@ translate chinese day3_lashing_recovery_ac77a962:
 translate chinese day3_lashing_recovery_25541c6e:
 
     # r "Mr. [family_name]?"
-    r ""
+    r "[family_name]先生？"
 
 # game/script day2.rpy:21693
 translate chinese day3_lashing_recovery_b91107d8:
@@ -39424,7 +39426,7 @@ translate chinese strings:
 
     # game/script day2.rpy:6076
     old "{cps=5000}That, of course, was a phrase Julian couldn't just let slide by.{/cps}"
-    new ""
+    new "{cps=5000}Julian当然不会放过这句双关。{/cps}"
 
     # game/script day2.rpy:6079
     old "\"He's got a point, I bet you have the best polishing technique around.\""
