@@ -46,7 +46,7 @@ translate chinese day_2_morningshift_af5f37bf:
 translate chinese day_2_morningshift_72655f60:
 
     # "The three of you nod briefly at each point."
-    ""
+    "你们三个对每一个要点都轻轻颔首。"
 
 # game/script day2.rpy:30
 translate chinese day_2_morningshift_bbe6db98:
@@ -64,7 +64,7 @@ translate chinese day_2_morningshift_f04b0466:
 translate chinese day_2_morningshift_959c23cf:
 
     # "Arthur nods in acknowledgement."
-    ""
+    "Arthur认可地点了点头。"
 
 # game/script day2.rpy:38
 translate chinese day_2_morningshift_619bdf71:
@@ -94,7 +94,7 @@ translate chinese day_2_morningshift_8f0b2833:
 translate chinese day_2_morningshift_7d0cc800:
 
     # a "You can pull a sheet?{w} Or is that another thing you don't know anything about?"
-    a "你会拉帆脚索吗？{w} 还是说，你又是点都不会？"
+    a "你会拉帆脚索吗？{w} 还是说，你又是一点都不会？"
 
 # game/script day2.rpy:53
 translate chinese day_2_morningshift_01bf7211:
@@ -142,25 +142,25 @@ translate chinese day_2_morningshift_fd88089e:
 translate chinese day_2_morningshift_9b5c0a66:
 
     # a "Naturally.{w} You can pull a sheet, or am I mistaken?"
-    a "sheet不是帆桁是帆脚索，帆脚索是用来控制风帆角度的绳索，用来控制航向。帆桁是用来横着撑开帆的木杆。"
+    a "当然，{w}你可以收帆脚索，我说得没错吧？"
 
 # game/script day2.rpy:74
 translate chinese day_2_morningshift_2cdf67ba:
 
     # "Julian needs a second before he manages to answer."
-    ""
+    "Julian顿了片刻，然后才回答。"
 
 # game/script day2.rpy:78
 translate chinese day_2_morningshift_f75acc27:
 
     # j "I can indeed, sir."
-    j ""
+    j "我当然可以，先生。"
 
 # game/script day2.rpy:82
 translate chinese day_2_morningshift_1851d0fe:
 
     # a "There you go."
-    a ""
+    a "来吧。"
 
 # game/script day2.rpy:84
 translate chinese day_2_morningshift_de9e994a:
