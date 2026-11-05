@@ -166,25 +166,25 @@ translate chinese day_2_morningshift_1851d0fe:
 translate chinese day_2_morningshift_de9e994a:
 
     # a "If you can do it in the same rhythm as the others, then there's nothing standing between you and a successful career, boy."
-    a ""
+    a "小子，要是你能跟上其他人一样的节奏，那你的前途就稳了，没有什么能拦着你闯出一番名堂。"
 
 # game/script day2.rpy:86
 translate chinese day_2_morningshift_b97f8c18_1:
 
     # "With an exasperated sigh he turns away from you and back to Samuel."
-    ""
+    "他恼火地叹了一口气，不再看你，转回头看向Samuel。"
 
 # game/script day2.rpy:88
 translate chinese day_2_morningshift_e0272825:
 
     # a "That is all for now, though.{w} Samuel?"
-    a ""
+    a "不过现在就说这么多。{w}Samuel？"
 
 # game/script day2.rpy:90
 translate chinese day_2_morningshift_17d431f4:
 
     # "The maned wolf takes a step forward."
-    ""
+    "鬃狼往前踏出一步。"
 
 # game/script day2.rpy:92
 translate chinese day_2_morningshift_491ca647:
@@ -220,13 +220,13 @@ translate chinese day_2_morningshift_9ff24436:
 translate chinese day_2_morningshift_58d3baef:
 
     # a "That is all for now."
-    a ""
+    a "就说到这。"
 
 # game/script day2.rpy:107
 translate chinese day_2_morningshift_39d98798:
 
     # "Samuel straightens up and raises his hand in a brief salute to Arthur."
-    ""
+    "Samuel挺直身子，抬手向Arthur简短地敬了个礼。"
 
 # game/script day2.rpy:109
 translate chinese day_2_morningshift_f9956746:
@@ -256,13 +256,13 @@ translate chinese day_2_morningshift_77ee7366:
 translate chinese day_2_morningshift_77e4afa9:
 
     # s "Don't be an idiot. This ain't the first time I've led others."
-    s ""
+    s "别跟个白痴一样。这不是我第一次领导别人。"
 
 # game/script day2.rpy:128
 translate chinese day_2_morningshift_57ea3c25:
 
     # p "So it feels good is what you're saying?"
-    p ""
+    p "所以你的意思是感觉良好咯？"
 
 # game/script day2.rpy:133
 translate chinese day_2_morningshift_bd669897:
@@ -274,49 +274,49 @@ translate chinese day_2_morningshift_bd669897:
 translate chinese day_2_morningshift_3dba5768:
 
     # "You turn to Julian once Arthur is out of earshot, and whisper to the lizard."
-    ""
+    "等Arthur走远、听不到你们之后，你转向Julian，对着这只蜥蜴低声开口。"
 
 # game/script day2.rpy:140
 translate chinese day_2_morningshift_6eede56c:
 
     # p "You're all right?"
-    p ""
+    p "你还好吗？"
 
 # game/script day2.rpy:142
 translate chinese day_2_morningshift_a226c6ce:
 
     # "He nods and looks back at you."
-    ""
+    "他点了点头，回头看向你。"
 
 # game/script day2.rpy:144
 translate chinese day_2_morningshift_301c5582:
 
     # j "Used to it...they're always stuck up like that."
-    j ""
+    j "习惯了...他们向来都是那副目中无人的样子。"
 
 # game/script day2.rpy:146
 translate chinese day_2_morningshift_169ab71e:
 
     # j "Must be the power they feel they have."
-    j ""
+    j "想必就是觉得自己手里有权吧。"
 
 # game/script day2.rpy:148
 translate chinese day_2_morningshift_9c9312be:
 
     # p "Yeah...easy to become an ass..."
-    p ""
+    p "是啊...有权就容易摆起臭架子..."
 
 # game/script day2.rpy:150
 translate chinese day_2_morningshift_e9e1cb59:
 
     # s "All right. You heard'im."
-    s ""
+    s "好了。你们都听见他的话了。"
 
 # game/script day2.rpy:153
 translate chinese day_2_morningshift_e9e1cb59_1:
 
     # s "All right. You heard'im."
-    s ""
+    s "好了。你们都听见他的话了。"
 
 # game/script day2.rpy:155
 translate chinese day_2_morningshift_86a96ff8:
