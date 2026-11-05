@@ -322,67 +322,67 @@ translate chinese day_2_morningshift_e9e1cb59_1:
 translate chinese day_2_morningshift_86a96ff8:
 
     # s "Not much excitement today, so we might as well get the annoying part out the way while we can."
-    s ""
+    s "今天没什么要紧事，趁我们现在有空，先把这麻烦差事了结掉。"
 
 # game/script day2.rpy:157
 translate chinese day_2_morningshift_e0c022ce:
 
     # w "It's swabbing, isn't it?"
-    w ""
+    w "是擦甲板的活，对吧。"
 
 # game/script day2.rpy:162
 translate chinese day_2_morningshift_0e520dc8:
 
     # s "Sure is!{w} Nobody wants to do it while in port. Everyone's busy using their time on land, and then unloading and loading the ship."
-    s ""
+    s "可不是嘛！{w} 没人想在停靠港口的时候干这个。大家都忙着在陆地上打发时间，然后就是卸货和装货。"
 
 # game/script day2.rpy:164
 translate chinese day_2_morningshift_942c3449:
 
     # s "Usually it's one of the first things we need to do after we leave."
-    s ""
+    s "通常这是我们离港后最先要做的活儿之一。"
 
 # game/script day2.rpy:166
 translate chinese day_2_morningshift_b14777d9:
 
     # s "And as new guys, it shouldn't come as much of a surprise that you're the prime targets for it."
-    s ""
+    s "而且你们是新来的，所以被分配到这活也不算意外。"
 
 # game/script day2.rpy:171
 translate chinese day_2_morningshift_a38033e8:
 
     # s "And, well, by extension me, I guess."
-    s ""
+    s "而且，说起来，我也算是其中之一。"
 
 # game/script day2.rpy:173
 translate chinese day_2_morningshift_6d13d7e1:
 
     # p "Sorry about that."
-    p ""
+    p "真倒霉啊。"
 
 # game/script day2.rpy:178
 translate chinese day_2_morningshift_286e4dc2:
 
     # s "I'll gladly take some booze, if ya want to make it up to me, 'course."
-    s ""
+    s "当然啦，要是你们想补偿我，来点酒我可是乐意得很。"
 
 # game/script day2.rpy:182
 translate chinese day_2_morningshift_45683a3f:
 
     # j "Noted."
-    j ""
+    j "知道了。"
 
 # game/script day2.rpy:188
 translate chinese day_2_morningshift_978ec699:
 
     # "Samuel already prepares what you will need, with several holystones and a few buckets of salt water at the ready."
-    ""
+    "Samuel已经准备好了你们要用的东西，几块甲板磨石，还有几桶盐水。"
 
 # game/script day2.rpy:190
 translate chinese day_2_morningshift_2c12da01:
 
     # "He hands them out to each of you as your group makes its way to the front of the ship to get started."
-    ""
+    "你们一行人走到船头准备开工，他把工具一一分发给每个人。"
 
 # game/script day2.rpy:192
 translate chinese day_2_morningshift_7e9c30fb:
@@ -394,19 +394,19 @@ translate chinese day_2_morningshift_7e9c30fb:
 translate chinese day_2_morningshift_ad4c2b55:
 
     # "Wolf says and tosses the piece of holystone in the air as he walks up the steps of the forecastle."
-    "将手里的磨石抛向空中，走上前甲板的台阶。"
+    "Wolf说着，将手里的磨石抛向空中，走上前甲板的台阶。"
 
 # game/script day2.rpy:196
 translate chinese day_2_morningshift_9e4aea62:
 
     # w "I'm still not feeling quite awake, so this is probably the extent of what I can deal with for now."
-    w "也就"
+    w "我还没有完全清醒，所以我现在应该只能应付到这个程度。"
 
 # game/script day2.rpy:199
 translate chinese day_2_morningshift_2211b205:
 
     # "With the first bucket being emptied, you begin your work."
-    "随着第一桶水泼洒而出，"
+    "随着第一桶水泼洒而出，你们开始工作了。"
 
 # game/script day2.rpy:201
 translate chinese day_2_morningshift_b2b0b36e:
