@@ -4,29 +4,14 @@ translate chinese strings:
 
     # game/gallery/fanartgallery_navigation.rpy:21
     old "Regular"
-    new ""
+    new "正常"
 
     # game/gallery/fanartgallery_navigation.rpy:30
     old "Mature"
-    new ""
+    new "成熟"
 
     # game/gallery/fanartgallery_navigation.rpy:40
     old "Adult"
-    new ""
+    new "成人"
 
-# TODO: Translation updated at 2026-11-02 09:36
-
-translate Chinese strings:
-
-    # game/gallery/fanartgallery_navigation.rpy:21
-    old "Regular"
-    new ""
-
-    # game/gallery/fanartgallery_navigation.rpy:30
-    old "Mature"
-    new ""
-
-    # game/gallery/fanartgallery_navigation.rpy:40
-    old "Adult"
-    new ""
 
