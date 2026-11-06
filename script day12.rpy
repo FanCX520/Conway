@@ -62300,7 +62300,7 @@ translate Chinese strings:
 
     # game/script day12.rpy:20334
     old "No! Focus, [name]! You can't jeopardize your position on the ship. You planned to give it to Arthur."
-    new "不行！集中精神，[姓名]！你不能危及自己在船上的地位。你本来就计划好要把它给亚瑟的。"
+    new "不行！集中精神，[name]！你不能危及自己在船上的地位。你本来就计划好要把它给亚瑟的。"
 
     # game/script day12.rpy:20680
     old "\"And you are the addict.\""
