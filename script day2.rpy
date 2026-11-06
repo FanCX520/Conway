@@ -2867,7 +2867,7 @@ translate Chinese day_2_morningshift_003de1f3:
 translate Chinese day_2_morningshift_32e998e8:
 
     # "After a little while, you catch up with Wolf again."
-    ""
+    "过了一会儿，你又追上了Wolf。"
 
 # game/script day2.rpy:1819
 translate Chinese day2_morningshift_decision_3e173b77:
@@ -2879,727 +2879,727 @@ translate Chinese day2_morningshift_decision_3e173b77:
 translate Chinese day2_morningshift_decision_74e64aa7:
 
     # "A voice calls out from the other end of the deck."
-    ""
+    "甲板那头传来一声呼喊。"
 
 # game/script day2.rpy:1829
 translate Chinese day2_morningshift_decision_2f238614:
 
     # "And doing so once more while he approaches your group, getting Samuel to face him."
-    ""
+    "他走近时又喊了一声，Samuel转过身去。"
 
 # game/script day2.rpy:1834
 translate Chinese day2_morningshift_decision_3438d11b:
 
     # sailschwartz "Samuel. Can you come with me for a moment?"
-    sailschwartz ""
+    sailschwartz "Samuel。过来帮个忙成吗？"
 
 # game/script day2.rpy:1836
 translate Chinese day2_morningshift_decision_aaeeab56:
 
     # "Samuel cocks his head slightly to the right, while raising the opposite brow in an inquisitive look, his ears now trained on the sailor as he draws close."
-    ""
+    "Samuel微微歪头，挑起眉毛，带着疑惑的表情，耳朵也朝着走近的水手转了过去。"
 
 # game/script day2.rpy:1838
 translate Chinese day2_morningshift_decision_aec1e0c5:
 
     # s "What for?"
-    s ""
+    s "做啥？"
 
 # game/script day2.rpy:1844
 translate Chinese day2_morningshift_decision_9f84cf11:
 
     # "The mustelid closes the last few meters between you before he stops abruptly with an unexpected grace for his size."
-    "鼬科水手"
+    "那只鼬在你几步开外停了下来，以他的体型来说，还挺利索。"
 
 # game/script day2.rpy:1846
 translate Chinese day2_morningshift_decision_cc4ac5ee:
 
     # sailschwartz "I just need a pair of hands real quick. We noticed a sheet is almost through and need someone to help patch it up."
-    sailschwartz ""
+    sailschwartz "就想找个人搭把手。我们发现有张帆快要撕裂了，得赶紧补补。"
 
 # game/script day2.rpy:1848
 translate Chinese day2_morningshift_decision_bb2bcbd6:
 
     # "Samuel looks back at you three for a second before turning back to face him."
-    ""
+    "Samuel回头看了我们几个一眼，又转回去面对他。"
 
 # game/script day2.rpy:1850
 translate Chinese day2_morningshift_decision_7b117934:
 
     # s "I guess they'll manage without me for a second."
-    s ""
+    s "没我他们应该也能凑合。"
 
 # game/script day2.rpy:1852
 translate Chinese day2_morningshift_decision_468ec456:
 
     # s "All right, which one is it?"
-    s ""
+    s "行吧，是哪张帆？"
 
 # game/script day2.rpy:1854
 translate Chinese day2_morningshift_decision_2ca40b2a:
 
     # "Your ears perk up as you overhear the conversation."
-    ""
+    "他们的谈话让你竖起了耳朵。"
 
 # game/script day2.rpy:1856
 translate Chinese day2_morningshift_decision_b86fd573:
 
     # "Something other than cleaning the deck? Maybe you can tag along with them?"
-    ""
+    "终于不是擦甲板了？要不我也跟着去看看？"
 
 # game/script day2.rpy:1889
 translate Chinese day2_ask_to_help_samuel_75bd7c92:
 
     # "It isn't a difficult decision to make. While cleaning the decks with Julian could be amusing, you joined the Conway to learn how to sail, and here is an opportunity to do just that."
-    ""
+    "这还用考虑吗？虽然和Julian一起擦甲板可能挺有意思，但你上“Conway”号是为了学航海的，现在机会来了。"
 
 # game/script day2.rpy:1895
 translate Chinese day2_ask_to_help_samuel_931c9a01:
 
     # "You quickly step forward before Samuel trots off and grab his attention with a tap on the shoulder."
-    ""
+    "Samuel还没跑开，你就赶紧上前拍了拍他的肩膀。"
 
 # game/script day2.rpy:1897
 translate Chinese day2_ask_to_help_samuel_cceb7071:
 
     # p "Hey, mind if I join you? I'd love to learn some repair work."
-    p ""
+    p "嘿，介意我加入不？我也想学点帆索修理。"
 
 # game/script day2.rpy:1899
 translate Chinese day2_ask_to_help_samuel_91de754a:
 
     # "Samuel takes a moment to think before he gestures for you to come along."
-    ""
+    "Samuel想了想，朝你招了招手。"
 
 # game/script day2.rpy:1903
 translate Chinese day2_ask_to_help_samuel_bdd1a1e7:
 
     # s "Actually, not a bad idea! Since ya new, it wouldn't hurt to start with something a little more exciting on your first real day. Yeah, come on, let's handle this quickly."
-    s ""
+    s "哎，这主意不错！反正你是新来的，第一天干点刺激的也没啥不好。走，咱们赶紧把这事儿解决了。"
 
 # game/script day2.rpy:1905
 translate Chinese day2_ask_to_help_samuel_a1e8e721:
 
     # sailschwartz "If you've the greenhorn in tow, you won't need me. I'll head back to the others again."
-    sailschwartz ""
+    sailschwartz "既然你带着这新来的，就用不着我了。我回去找他们了。"
 
 # game/script day2.rpy:1907
 translate Chinese day2_ask_to_help_samuel_4fa49bd9:
 
     # s "Sure. We got this, Schwartz."
-    s ""
+    s "行。交给我们吧，Schwartz。"
 
 # game/script day2.rpy:1914
 translate Chinese day2_ask_to_help_samuel_65bd4571:
 
     # "The sea breeze ruffles through your fur as you fall in next to the maned wolf, trying your best to match your steps with Samuel's long, graceful strides."
-    ""
+    "海风吹拂着你的毛发，你走到鬃狼旁边，努力跟上Samuel那优雅的大步子。"
 
 # game/script day2.rpy:1916
 translate Chinese day2_ask_to_help_samuel_ca994d3c:
 
     # "While still morning, the sunlight beams across the waves are already warming the chill that had come from your early start. A beautiful beginning for your adventure."
-    ""
+    "虽然是早上，但阳光洒在海面上，驱散了清晨的寒意。你的冒险有了一个美好的开始。"
 
 # game/script day2.rpy:1918
 translate Chinese day2_ask_to_help_samuel_33476911:
 
     # s "So? You manage to get much sleep last night? First night's always the roughest."
-    s ""
+    s "咋样？昨晚睡得好不？第一晚都难熬。"
 
 # game/script day2.rpy:1920
 translate Chinese day2_ask_to_help_samuel_05d8c116:
 
     # "Samuel is first to break the silence as you walk alongside him."
-    ""
+    "你俩并排走着，Samuel率先打破了沉默。"
 
 # game/script day2.rpy:1924
 translate Chinese day2_ask_to_help_samuel_357f3b73:
 
     # p "You did ask me before, Sam."
-    p ""
+    p "你之前问过了，Sam。"
 
 # game/script day2.rpy:1926
 translate Chinese day2_ask_to_help_samuel_7271bb7a:
 
     # s "Oh, did I?!"
-    s ""
+    s "是吗，有这事儿？！"
 
 # game/script day2.rpy:1928
 translate Chinese day2_ask_to_help_samuel_992286cc:
 
     # p "Tsk, so that's how little attention you pay to what I tell you?"
-    p ""
+    p "啧，看来你根本没听进去我说的啥啊？"
 
 # game/script day2.rpy:1930
 translate Chinese day2_ask_to_help_samuel_d9a0bd99:
 
     # p "Sorry, that sounded mean now that I heard out loud—I was just pulling your tail."
-    p ""
+    p "抱歉，我说出来有点冲——跟你开玩笑呢。"
 
 # game/script day2.rpy:1948
 translate Chinese day2_spicydream_samuel_5a205ec1:
 
     # "The maned wolf gives you a knowing look, complete with a lip-curling smirk."
-    ""
+    "鬃狼心领神会地看了你一眼，嘴角还带着一丝坏笑。"
 
 # game/script day2.rpy:1950
 translate Chinese day2_spicydream_samuel_3b83e90f:
 
     # s "Oh really now? Feel like sharing?"
-    s ""
+    s "哦，是吗？说来听听？"
 
 # game/script day2.rpy:1952
 translate Chinese day2_spicydream_samuel_a24e18af:
 
     # "Samuel's gaze lingers on you before he turns to the task at hand, making sure to flick one of his big ears in acknowledgement."
-    ""
+    "Samuel的目光在你身上停留片刻，然后才转向手头的工作，还抖了抖他那大耳朵，算是回应。"
 
 # game/script day2.rpy:1954
 translate Chinese day2_spicydream_samuel_8352d55b:
 
     # p "Well you see it's... personal."
-    p ""
+    p "哎，这事儿…有点私人。"
 
 # game/script day2.rpy:1956
 translate Chinese day2_spicydream_samuel_927d2717:
 
     # s "Personal?"
-    s "私事？"
+    s "私人？"
 
 # game/script day2.rpy:1958
 translate Chinese day2_spicydream_samuel_891d9110:
 
     # s "Ah. Yes, I get ya. Personal. So, who's the lucky lady? Or is it a lucky lad?"
-    s ""
+    s "啊，我懂了。私事。那么，是哪位幸运的姑娘？还是小伙子？"
 
 # game/script day2.rpy:1960
 translate Chinese day2_spicydream_samuel_18e73a07:
 
     # "You're confident there is no way he could know you'd been dreaming of him, yet the smirk on Samuel's lips make you doubt yourself as a wave of heat rushes to your snout and eartips."
-    ""
+    "你本来觉得他不可能知道你梦见过他，但他嘴角那抹笑意，反倒让你开始怀疑是不是自己想多了，一股热流直冲鼻尖和耳根。"
 
 # game/script day2.rpy:1962
 translate Chinese day2_spicydream_samuel_4e5687a1:
 
     # p "...Aren't we supposed to hurry with the repair?"
-    p ""
+    p "……咱们不是应该赶快修理吗？"
 
 # game/script day2.rpy:1964
 translate Chinese day2_spicydream_samuel_01deb930:
 
     # "He looks at you again, this time flashing a teasing smile full of teeth."
-    ""
+    "他又看了你一眼，这次露出了一个带着坏笑，露出了一排牙齿。"
 
 # game/script day2.rpy:1969
 translate Chinese day2_spicydream_samuel_a6b7c54a:
 
     # s "Work and pleasure can go hand in hand, you know, but you're right. The problem's right there."
-    s ""
+    s "工作娱乐两不误嘛，不过你说的对，问题就在那儿呢。"
 
 # game/script day2.rpy:1977
 translate Chinese day2_nervoussleep_samuel_e48278aa:
 
     # "The maned wolf gives you a sympathetic smile and pats your back."
-    ""
+    "那个鬃狼同情地笑了笑，拍了拍你的背。"
 
 # game/script day2.rpy:1979
 translate Chinese day2_nervoussleep_samuel_f497346c:
 
     # s "Pretty standard, y'know. Nothing to feel bad about, though officers won't take it easy on you just because you didn't sleep."
-    s ""
+    s "很正常，别往心里去。不过长官可不会因为你没睡好就对你客气。"
 
 # game/script day2.rpy:1981
 translate Chinese day2_nervoussleep_samuel_166e314c:
 
     # s "If it's the hammocks, ya get used to it. If the swaying gets to you, just try putting a foot on the deck. Helps a lot more than you might think!"
-    s ""
+    s "要是吊床不舒服，睡睡就习惯了。船晃得厉害睡不着的话，就试着把一只脚放在甲板上，比你想象的管用！"
 
 # game/script day2.rpy:1983
 translate Chinese day2_nervoussleep_samuel_d12acfe4:
 
     # p "If only I could reach the ground from that high up."
-    p "够得到地面"
+    p "要是我能从那么高的地方够到地就好了。"
 
 # game/script day2.rpy:1987
 translate Chinese day2_nervoussleep_samuel_dcc3ce5e:
 
     # p "No it's not the hammock. Just, I guess just anxious, you know?"
-    p ""
+    p "不是吊床的问题。就是…有点焦虑，你知道吧？"
 
 # game/script day2.rpy:1989
 translate Chinese day2_nervoussleep_samuel_0393639c:
 
     # p "Leaving the place you know for something unknown."
-    p ""
+    p "离开熟悉的地方，去面对未知的世界。"
 
 # game/script day2.rpy:1993
 translate Chinese day2_nervoussleep_samuel_732fb8b5:
 
     # s "Trust me, I know that just too well."
-    s ""
+    s "相信我，我太有体会了。"
 
 # game/script day2.rpy:1995
 translate Chinese day2_nervoussleep_samuel_e5a5ac39:
 
     # s "It took me a bit to get used to it as well. It just takes a little while before it feels like home."
-    s ""
+    s "我也花了好长时间才适应。得一阵子才能有家的感觉。"
 
 # game/script day2.rpy:1999
 translate Chinese day2_nervoussleep_samuel_789fdabe:
 
     # s "You'll figure it out, though. Everyone's got their way through things. Now here, take a look. See that? That's our little problem."
-    s ""
+    s "不过你肯定能行的。每个人都有自己的办法。来，看看这儿。看到了吗？就是这儿出了问题。"
 
 # game/script day2.rpy:2007
 translate Chinese day2_normalsleep_samuel_a85c0265:
 
     # s "That's the spirit! With an answer like that and volunteering to help out here, we'll make a fine sailor of you yet."
-    s ""
+    s "有干劲！冲你这句话，再加上你主动帮忙，肯定能把你培养成一个好水手。"
 
 # game/script day2.rpy:2009
 translate Chinese day2_normalsleep_samuel_3ef0964c:
 
     # p "Well don't flatter me too much, I still don't know what we're doing. They said a sail needed repair, right?"
-    p ""
+    p "别太夸我了，我还是不知道现在要干啥。他们说要修帆，对吧？"
 
 # game/script day2.rpy:2013
 translate Chinese day2_normalsleep_samuel_05856091:
 
     # s "Close. A sheet is one of these ropes here."
-    s ""
+    s "差不多。帆脚索就是这些绳子。"
 
 # game/script day2.rpy:2017
 translate Chinese day2_normalsleep_samuel_aced6347:
 
     # "Samuel steps near the edge of the ship and taps one of the thicker ropes with a clawed digit."
-    ""
+    "Samuel走到船边，用带着爪子的手指敲了敲一根比较粗的绳子。"
 
 # game/script day2.rpy:2019
 translate Chinese day2_normalsleep_samuel_68165d89:
 
     # s "Said one's almost through, so we're looking for a bit o' fraying. Might last 'til port, might not. Better to fix it now than hope for the best."
-    s ""
+    s "这根快不行了，所以咱们得找找看有没有磨损的地方。没准能撑到港口，没准撑不到。与其到时候抓瞎，不如现在修了。"
 
 # game/script day2.rpy:2021
 translate Chinese day2_normalsleep_samuel_e6472a8e:
 
     # "The maned wolf's eyes narrow as he studies the lines, brows lifting when he finally spots the problem."
-    ""
+    "鬃狼眯起眼睛，仔细地检查着那些绳索，最后发现了问题，眉毛挑了起来。"
 
 # game/script day2.rpy:2023
 translate Chinese day2_normalsleep_samuel_684e8ac1:
 
     # s "There. Ya see it?"
-    s ""
+    s "找到了，看到没？"
 
 # game/script day2.rpy:2033
 translate Chinese day2_repair_samuel_823a403d:
 
     # "Samuel crouches down and directs your attention to a few threads that are starting to separate from the main line."
-    ""
+    "Samuel蹲下身子，指着几根开始和主绳分离的线，让你注意。"
 
 # game/script day2.rpy:2035
 translate Chinese day2_repair_samuel_f7df9c94:
 
     # s "Not the worst, but it needs repairing before we encounter stronger winds. This is why every sailor worth his salt carries one of these."
-    s ""
+    s "情况不算糟，但得赶在遇到大风前修好。所以说，合格的水手都会带这个。"
 
 # game/script day2.rpy:2039
 translate Chinese day2_repair_samuel_a64df4a3:
 
     # "He reaches for his belt and unfastens a loop that holds a long spike in place at his hip. He twirls it deftly in his fingers as he brings the tool down toward the rope."
-    ""
+    "他摸了摸腰带，解开一个套，里面装着一根长长的锥子。他手指灵巧地转动着锥子，然后把工具放到绳子旁边。"
 
 # game/script day2.rpy:2041
 translate Chinese day2_repair_samuel_7965eb27:
 
     # s "This is a marlinspike. It helps work out knots and unweave rope. Here, we're just going to use it to start this bit of twine."
-    s ""
+    s "这是松绳锥，能解开绳结、拆开绳股。现在我们要用它来穿这根细绳。"
 
 # game/script day2.rpy:2045
 translate Chinese day2_repair_samuel_c709e02e:
 
     # "Samuel retrieves a small roll of thick twine from the pouch on his belt and begins to push it through the frayed strands of rope with the marlinspike."
-    ""
+    "Samuel从腰带上的小包里拿出一卷粗绳，用松绳锥穿过磨损的绳股。"
 
 # game/script day2.rpy:2047
 translate Chinese day2_repair_samuel_7767f39e:
 
     # s "We'll start by securing it here and then whip it around the fraying. It should hold for a while with a little bit of work. Not a fix that'll last forever, but more than enough until we can get a proper replacement."
-    s ""
+    s "先固定住，然后把细绳缠绕在磨损的地方。简单处理一下能撑一阵子。肯定不是长久之计，但在找到替代品之前，也够用了。"
 
 # game/script day2.rpy:2049
 translate Chinese day2_repair_samuel_0855955d:
 
     # "Samuel works fast, his skilled fingers wind the twine tightly with practiced ease as he follows his own directions and walks you through the simple repair."
-    ""
+    "Samuel手脚麻利，只见他用那双熟练的手，三两下就把绳子紧紧缠好，一边按着自己的步骤，一边教你如何轻松修理。"
 
 # game/script day2.rpy:2051
 translate Chinese day2_repair_samuel_16e9e53d:
 
     # s "It's not hard, just takes some practice. I'll see if we can find one that could use a touch-up but isn't too far gone. That way, you can give it a try."
-    s ""
+    s "不难，就是得练练。我看看能不能找着一个还能抢救一下-，但又没完全报废的。这样你就能试试手了。"
 
 # game/script day2.rpy:2055
 translate Chinese day2_repair_samuel_4f74a7f2:
 
     # s "In fact, I think there's one near the b-"
-    s ""
+    s "说起来，我记得附近好像就……"
 
 # game/script day2.rpy:2060
 translate Chinese day2_repair_samuel_ab254363:
 
     # "CRACK!" with hpunch
-    "" with hpunch
+    "砰！" with hpunch
 
 # game/script day2.rpy:2062
 translate Chinese day2_repair_samuel_e465dbb3:
 
     # "The sudden, thunderous sound reverberates through the air, startling both you and Samuel. The tension in the line above gives way, and the rope thrashes violently, hurtling towards the deck."
-    ""
+    "突如其来的一声巨响，像雷鸣般震得空气都颤了，你和Samuel都吓了一跳。只听“啪”的一声，上面的绳子断了，像疯了似的朝甲板上抽来！"
 
 # game/script day2.rpy:2066
 translate Chinese day2_repair_samuel_7da0fa03:
 
     # "Reacting swiftly, Samuel pushes you aside, instinctively shielding you from the impending danger. His agile form twists to the side, barely avoiding a strike to the face, only to have the line lash across his leg with a sickening sound."
-    ""
+    "Samuel反应真快，一把把你推开，想都没想就把你护在身下。他身子一扭，险险避开了要命的一击，可那绳子还是狠狠抽在了他的腿上，听着都疼。"
 
 # game/script day2.rpy:2070
 translate Chinese day2_repair_samuel_135cbbd2:
 
     # "The maned wolf's face contorts in pain as he stumbles backward and collapses to the deck, sending out some of the vilest curses imaginable."
-    ""
+    "这鬃狼疼得五官都扭在了一起，踉跄着倒在甲板上，嘴里冒出一些你能想到的最恶毒的咒骂。"
 
 # game/script day2.rpy:2072
 translate Chinese day2_repair_samuel_a6e93ef6:
 
     # p "Samuel! Are you alright?!"
-    p ""
+    p "Samuel！你没事吧？！"
 
 # game/script day2.rpy:2076
 translate Chinese day2_repair_samuel_8ce51579:
 
     # "Shaking off the initial shock, you quickly regain your composure and rush over to him, putting your arm around his shoulders to support him."
-    ""
+    "你赶紧回过神来，一把扶住他，胳膊搂着他的肩膀支撑着他。"
 
 # game/script day2.rpy:2080
 translate Chinese day2_repair_samuel_e39f76f1:
 
     # "The sudden turn of events shatters the previously calm atmosphere, replacing it with a flurry of urgency and concern. The nearest crew members rush to the scene to try and help."
-    ""
+    " 这突如其来的变故打破了之前的平静，顿时变得一片慌乱。附近的船员也赶紧跑过来帮忙。"
 
 # game/script day2.rpy:2082
 translate Chinese day2_repair_samuel_4b7530bd:
 
     # s "Yes, yes, I'm fine."
-    s ""
+    s " 没事没事，我好着呢。"
 
 # game/script day2.rpy:2084
 translate Chinese day2_repair_samuel_68ed165d:
 
     # p "Are you sure? That could have killed you."
-    p "你确定？那可能会要了你的命。"
+    p " 你确定？这一下可是会死人的！"
 
 # game/script day2.rpy:2086
 translate Chinese day2_repair_samuel_d5a284cc:
 
     # s "But it didn't, did it?{p} Yeah, man, I'm fine."
-    s ""
+    s "可这不没死成么？{p} 没事啦，老兄，我真没事。"
 
 # game/script day2.rpy:2088
 translate Chinese day2_repair_samuel_a03f51fb:
 
     # "He wipes your arm away and slowly gets to his feet without any outside assistance."
-    ""
+    "他推开你的胳膊，自己慢慢地站了起来。"
 
 # game/script day2.rpy:2090
 translate Chinese day2_repair_samuel_39d3f1bf:
 
     # "Once upright again, he dusts himself off and neatly adjusts his vest back into place."
-    ""
+    "重新站直后，他拍了拍身上的灰，又利索地把马甲拉平整。"
 
 # game/script day2.rpy:2092
 translate Chinese day2_repair_samuel_c650111e:
 
     # s "Are you all done gawking now? Don't you have anything better to do? I heard there's a line that needs fixing.{w} Y'know, maybe one o' ya can take care of it?"
-    s ""
+    s "喂，你们看够了没？没事儿干了吗？我记得有根绳子坏了，要不要去修一下？"
 
 # game/script day2.rpy:2094
 translate Chinese day2_repair_samuel_be39ccbb:
 
     # s "And ya-"
-    s ""
+    s "还有你…"
 
 # game/script day2.rpy:2096
 translate Chinese day2_repair_samuel_f52829dd:
 
     # "Samuel begins, turning back to you."
-    ""
+    "Samuel转过身来，对你说道。"
 
 # game/script day2.rpy:2098
 translate Chinese day2_repair_samuel_55014122:
 
     # s "Do you want me to wipe away your tears? Come on, the line broke; that's it."
-    s ""
+    s "想要我帮你擦眼泪吗？别这样了，绳子断了而已，又不是什么大事。"
 
 # game/script day2.rpy:2102
 translate Chinese day2_repair_samuel_8e7c20a7:
 
     # s "Don't be such a wu-ahgrrrDamnit!"
-    s ""
+    s "别哭哭啼啼的...啊...呃...该死！"
 
 # game/script day2.rpy:2106
 translate Chinese day2_repair_samuel_d5a48f11:
 
     # "Samuel takes a step toward you and suddenly sinks together when he puts his weight on his left leg. You catch him and gently guide him to sit on the floor."
-    ""
+    "Samuel朝你走了一步，结果重心一放到左腿上，身体突然一沉。你赶紧扶住他，让他慢慢坐在地上。"
 
 # game/script day2.rpy:2108
 translate Chinese day2_repair_samuel_46a87ad0:
 
     # s "Ffffuck!"
-    s ""
+    s "操！"
 
 # game/script day2.rpy:2110
 translate Chinese day2_repair_samuel_91c2de6d:
 
     # "He grits his teeth as he clutches his leg tightly where the rope had hit him, and where a significant spot of blood begins to stain the damaged fabric."
-    ""
+    "他咬紧牙关，紧紧地抓住被绳子抽打的腿，一大片血迹开始浸透了破损的裤子，触目惊心。"
 
 # game/script day2.rpy:2113
 translate Chinese day2_repair_samuel_a1968b0a:
 
     # "He grits his teeth as he clutches his leg tightly where the rope had hit him."
-    ""
+    "他咬紧牙关，紧紧地抓住被绳子抽打的腿。"
 
 # game/script day2.rpy:2115
 translate Chinese day2_repair_samuel_8abbef45:
 
     # p "You're anything but fine, Sam."
-    p ""
+    p "你这样子可不像没事，Sam。"
 
 # game/script day2.rpy:2117
 translate Chinese day2_repair_samuel_805030bd:
 
     # s "It's... not that bad."
-    s ""
+    s "没...没那么严重。"
 
 # game/script day2.rpy:2119
 translate Chinese day2_repair_samuel_b97232e9:
 
     # p "You just took one step and folded together like a piece of cloth. Sorry if I don't believe you."
-    p ""
+    p "你这才走了一步就跟块破布一样瘫了。别怪我不相信你。"
 
 # game/script day2.rpy:2123
 translate Chinese day2_repair_samuel_77ca5c13:
 
     # "Samuel manages a strained chuckle, though a wince betrays his pain."
-    ""
+    "Samuel 强忍着痛苦，勉强挤出一个笑容，但还是忍不住龇牙咧嘴。"
 
 # game/script day2.rpy:2127
 translate Chinese day2_repair_samuel_4de9bec5:
 
     # s "I guess we aren't getting around this. Fine, since you were around, you gotta be the one to report it. Arthur's officer on duty—go find him. I'll manage."
-    s ""
+    s "看来是躲不过去了。好吧，既然你在这儿，就得你去报告了。去找Arthur，他今天值班——快去找他。我撑得住。"
 
 # game/script day2.rpy:2130
 translate Chinese day2_repair_samuel_0eae68da:
 
     # s "{cps=5000}I guess we aren't getting around this. Fine, since you were around, you gotta be the one to report it. Arthur's officer on duty—go find him. I'll manage.{/cps}" nointeract
-    s "" nointeract
+    s "{cps=5000} 看来这事儿躲不掉了。好吧，既然你当时在场，就得你去报告。去找Arthur的执勤官——去找他。我会处理的。{/cps}" nointeract
 
 # game/script day2.rpy:2146
 translate Chinese day2_arthur_report_5baa6862:
 
     # s "Ya... Ugh, you can follow orders. Good to know."
-    s ""
+    s "嗯... 呃，你还算听话。 知道了。"
 
 # game/script day2.rpy:2148
 translate Chinese day2_arthur_report_e5f62141:
 
     # "You huff, which earns a pained chuckle from him."
-    ""
+    "你不满地哼了一声，换来他一声带着痛楚的轻笑。"
 
 # game/script day2.rpy:2150
 translate Chinese day2_arthur_report_5c1edaf7:
 
     # p "Don't waste your energy on jokes, please."
-    p ""
+    p "请不要浪费精力开玩笑。"
 
 # game/script day2.rpy:2154
 translate Chinese day2_arthur_report_4a21d91f:
 
     # s "Does it look like I lost my leg? I'll be fine, idiot."
-    s ""
+    s "我看起来像断了腿吗？ 我没事，蠢货。"
 
 # game/script day2.rpy:2156
 translate Chinese day2_arthur_report_1ffc6421:
 
     # "He teased with a sly smile breaking through his expression."
-    ""
+    "他脸上露出狡黠的笑容，带着戏谑的意味。"
 
 # game/script day2.rpy:2158
 translate Chinese day2_arthur_report_627c6424:
 
     # s "It just burns a little bit."
-    s ""
+    s "只是有点火辣辣的疼。"
 
 # game/script day2.rpy:2160
 translate Chinese day2_arthur_report_31e44df7:
 
     # s "They'll help me to the doctor, so don't worry, I'll be fine. If Raj's telling me to lay flat for a while I'll have plenty of energy to waste."
-    s ""
+    s "他们会扶我去找医生，别担心，我没事。 如果Raj要我躺一会儿，我会有大把精力可以挥霍。"
 
 # game/script day2.rpy:2164
 translate Chinese day2_arthur_report_982f020e:
 
     # "You catch his tone to be a little too suggestive for someone visibly injured..."
-    ""
+    "你觉得他一个伤员，语气却轻佻得过分..."
 
 # game/script day2.rpy:2166
 translate Chinese day2_arthur_report_4370af16:
 
     # "Samuel..."
-    ""
+    "Samuel..."
 
 # game/script day2.rpy:2170
 translate Chinese day2_arthur_report_1b5a45c9:
 
     # "Samuel waves you off. A couple of other crewmen begin to carefully lift him as you weave through the crowd, looking for Arthur's imposing presence, who was no doubt alerted by the gathering crowd."
-    ""
+    "Samuel挥手示意你走开。 你穿过人群，其他几个船员开始小心翼翼地抬起他，你寻找着Arthur那魁梧的身影，他肯定是被聚集的人群惊动了。"
 
 # game/script day2.rpy:2174
 translate Chinese day2_arthur_report_5b9483ff:
 
     # "You find him in short order, standing amidships and peering in the direction you're coming from. When his eyes fall on you, the feeling of awkwardness and uselessness from when you realized you were standing under a crane yesterday returns."
-    ""
+    "你很快就找到了他，他站在船中央，正朝着你来的方向张望。 当他的目光落到你身上时，昨天站在起重机下时那种尴尬和无用的感觉又涌上心头。"
 
 # game/script day2.rpy:2176
 translate Chinese day2_arthur_report_3952ff34:
 
     # a "I heard a loud snap. What is going on?"
-    a ""
+    a "我听到一声脆响。 发生了什么事？"
 
 # game/script day2.rpy:2178
 translate Chinese day2_arthur_report_dcf7c71a:
 
     # p "An accident, sir. I was on scene. A line snapped and hit Samuel."
-    p ""
+    p "是事故，先生。 我在现场。 一根绳索断了，击中了Samuel。"
 
 # game/script day2.rpy:2180
 translate Chinese day2_arthur_report_a211deca:
 
     # "Swallowing the nervous tension you feel as Arthur looks down on you, you attempt to stay composed as you recount the situation that led up to the incident, trying to not leave out a single detail."
-    ""
+    "Arthur俯视着你，你强压下心中的紧张，努力保持冷静，一五一十地叙述了事故的经过，力求不漏掉任何细节。"
 
 # game/script day2.rpy:2184
 translate Chinese day2_arthur_report_4502aa6e:
 
     # "His eyes narrow as you speak, fixed on yours. You can sense that he is trying to detect if you are leaving something incriminating out. The morning sunlight does not ease the chill you feel."
-    ""
+    "你说话时，他眯起眼睛，目光紧紧地盯着你。 你能感觉到他试图从你的话语中找出你是否隐瞒了什么。 即使是清晨的阳光也无法驱散你感受到的寒意。"
 
 # game/script day2.rpy:2186
 translate Chinese day2_arthur_report_010ffaee:
 
     # a "The line snapped? Just like that?"
-    a ""
+    a "绳子断了？ 就这么突然？"
 
 # game/script day2.rpy:2188
 translate Chinese day2_arthur_report_bee4f3e3:
 
     # p "No, sir. We were trying to fix it, and it tore itself apart."
-    p ""
+    p "不是，先生。 我们当时正在尝试修理，结果它自己就断开了。"
 
 # game/script day2.rpy:2190
 translate Chinese day2_arthur_report_c169b6ec:
 
     # a "The one you two worked on?{w} Samuel...He is not one to miss a sheet at its breaking point, lad."
-    a ""
+    a "是你们两个修的那根？{w} Samuel...他不可能没注意到帆脚索的断裂点，小子。"
 
 # game/script day2.rpy:2192
 translate Chinese day2_arthur_report_79cee0d1:
 
     # "You do not miss the unspoken accusation that you are the cause."
-    ""
+    "你明白他话里话外都在暗示是你造成的。"
 
 # game/script day2.rpy:2196
 translate Chinese day2_arthur_report_827f04ed:
 
     # a "And his condition?"
-    a ""
+    a "他现在情况怎么样？"
 
 # game/script day2.rpy:2198
 translate Chinese day2_arthur_report_a29acce2:
 
     # p "The other men are taking him to the doctor, sir. He was in good enough spirits to joke, at least."
-    p ""
+    p "长官，其他人正带他去看医生。 至少他精神头还行，还能开玩笑。"
 
 # game/script day2.rpy:2202
 translate Chinese day2_arthur_report_a4e17ada:
 
     # "You both turn as the men helping Samuel move him below deck."
-    ""
+    "你们都转身看着几个船员将Samuel抬到下甲板。"
 
 # game/script day2.rpy:2204
 translate Chinese day2_arthur_report_6b9a2da1:
 
     # a "Samuel would joke if he were dying."
-    a ""
+    a "Samuel就算要死了也会开玩笑。"
 
 # game/script day2.rpy:2206
 translate Chinese day2_arthur_report_622da979:
 
     # "His tone is admonishing, but you can detect the faintest hint of fondness in there."
-    ""
+    "他的语气带着责备，但你能察觉到一丝不易察觉的喜爱。"
 
 # game/script day2.rpy:2208
 translate Chinese day2_arthur_report_30bf1cd7:
 
     # "Fondness that you do not feel as he turns his gaze back to you. You are very aware of the ship's motion beneath your feet, making you feel all the more unsteady."
-    ""
+    "这份喜爱不是给你的，他转过头来，目光再次落到你身上。你能清楚地感觉到脚下船身的摇晃，这让你更加感到心神不宁。"
 
 # game/script day2.rpy:2210
 translate Chinese day2_arthur_report_f3a001a0:
 
     # "Silence drags on for a few seconds between the two of you."
-    ""
+    "沉默在你们之间持续了几秒，显得格外漫长。"
 
 # game/script day2.rpy:2214
 translate Chinese day2_arthur_report_1701e773:
 
     # a "I can't help but notice it's you again."
-    a ""
+    a "我不得不注意到，怎么又是你。"
 
 # game/script day2.rpy:2216
 translate Chinese day2_arthur_report_c98b50b0:
 
     # a "On your first day, you nearly got yourself hurt by being in the way of the loading crew, and potentially jeopardizing other crew and the planned running of the ship."
-    a ""
+    a "第一天，你差点因为挡了装卸工的路而受伤，还可能危害到其他船员和船只的航行计划。"
 
 # game/script day2.rpy:2220
 translate Chinese day2_arthur_report_4c3e2e2b:
 
     # a "You followed that up by flaunting your disrespect of your superiors."
-    a ""
+    a "紧接着，你又公然藐视上级。"
 
 # game/script day2.rpy:2224
 translate Chinese day2_arthur_report_3f71c898:
 
     # a "And now on your second day, one of my crew gets hurt while teaching you.{w} I've known Samuel for a long time. He's not one so careless to miss a sheet at its breaking point. So, I will ask you again: What happened?"
-    a ""
+    a "现在第二天，我的一个船员在教你的时候受伤了。{w} 我认识Samuel很久了。他不是那种粗心大意到会忽略帆脚索断裂点的人。所以，我再问你一遍：到底发生了什么？"
 
 # game/script day2.rpy:2226
 translate Chinese day2_arthur_report_71a6af1c:
 
     # "His gaze is piercing, watching every twitch on your face. Dread seeps through you, threatening to break the composure that you are trying so hard to maintain."
-    ""
+    "他目光如炬，审视着你脸上的一丝表情。恐惧感逐渐蔓延，几乎要击溃你竭力维持的镇定。"
 
 # game/script day2.rpy:2228
 translate Chinese day2_arthur_report_e46a6bb3:
 
     # p "Just an accident, sir. Maybe the rope didn't look as bad as it actually was. I wasn't distracting Samuel from his duties."
-    p ""
+    p "只是个意外，长官。可能那绳子看起来没那么糟。我没有干扰Samuel执行任务。"
 
 # game/script day2.rpy:2230
 translate Chinese day2_arthur_report_443c27cd:
@@ -3611,1051 +3611,1051 @@ translate Chinese day2_arthur_report_443c27cd:
 translate Chinese day2_arthur_report_cbd9e3b5:
 
     # p "...No, sir."
-    p ""
+    p "“……没有，长官。”"
 
 # game/script day2.rpy:2234
 translate Chinese day2_arthur_report_444ecb59:
 
     # "The silence between the two of you lingers for a moment, letting you both hear the shuffle of crew as they return to their work after the commotion."
-    ""
+    "短暂的沉默在你们之间蔓延，你们都能听到船员们在一阵忙乱后回到岗位上的走动声。"
 
 # game/script day2.rpy:2239
 translate Chinese day2_arthur_report_7db8e51d:
 
     # "Arthur's harsh look finally relents as he turns towards the sea."
-    ""
+    "Arthur严厉的目光终于缓和下来，他转头望向大海。"
 
 # game/script day2.rpy:2241
 translate Chinese day2_arthur_report_12349c81:
 
     # a "Tell me. In your previous vocation, did you work with anyone accident prone? Someone that, no matter how hard he tried, bad events seemed to follow?"
-    a ""
+    a "说吧。你之前做活的时候，有没有和那种倒霉蛋一起干过？就是那种无论多努力，坏事都缠着他的人？"
 
 # game/script day2.rpy:2243
 translate Chinese day2_arthur_report_54ed538e:
 
     # "Despite the insinuation, you spend a moment thinking. And you do recall someone: A boy from town who occasionally helped your family in harvest season."
-    ""
+    "虽然听出了他的暗示，你还是认真地想了想。你确实想起了一个人：镇上的一个男孩，有时会在收割的季节帮你的家人。"
 
 # game/script day2.rpy:2245
 translate Chinese day2_arthur_report_0f865591:
 
     # "Despite clearly being a hard worker, he tripped and fell and made enough of a mess that sometimes, he was more trouble than it was worth."
-    "尽管他显然是个勤劳的人，但他总是磕磕绊绊的，惹出的乱子时不时比他那点用处还多。"
+    "他明明很努力，但他总是会绊倒，摔跤，把事情搞得一团糟，有时候真是越帮越忙。"
 
 # game/script day2.rpy:2247
 translate Chinese day2_arthur_report_4e56a140:
 
     # p "Yes,{w} sir."
-    p ""
+    p "是的，长官。"
 
 # game/script day2.rpy:2251
 translate Chinese day2_arthur_report_be447138:
 
     # a "Ensure you are not that man. Small mistakes on land are an annoyance. Here they can cascade into disaster. Work on this ship requires discipline, precision, and looking out for your crew. Don't forget that and don't be near another accident."
-    a ""
+    a "记住你别做那种人。在陆地上犯点小错，最多让人心烦。在这里，小错会酿成大祸。在这艘船上干活，要守纪律，要精准，要照顾好你的同伴。别忘了这些，还有，别再靠近任何事故。"
 
 # game/script day2.rpy:2255
 translate Chinese day2_arthur_report_f4337867:
 
     # a "And ensure that you don't forget your position. If you do, you may receive more than a stern talking to."
-    a ""
+    a "还有，记住你的身份。要是你忘了，可就不是挨顿臭骂能解决的了。"
 
 # game/script day2.rpy:2257
 translate Chinese day2_arthur_report_d27f3463:
 
     # a "Are we clear on that?"
-    a ""
+    a "听明白了没有？"
 
 # game/script day2.rpy:2259
 translate Chinese day2_arthur_report_b8e76e49:
 
     # "His eyes pierce you once more as he slowly and deliberately states his question."
-    ""
+    "他再次用锐利的目光刺穿你，缓慢而郑重其事地重复着他的问题。"
 
 # game/script day2.rpy:2261
 translate Chinese day2_arthur_report_a4897fbc:
 
     # "You nod, trying to look determined and to push down that lingering dread."
-    ""
+    "你点点头，努力摆出一副坚定的样子，想要压下那挥之不去的恐惧。"
 
 # game/script day2.rpy:2263
 translate Chinese day2_arthur_report_0235207e:
 
     # p "...Yes, sir.{w} I understand."
-    p ""
+    p " ……是的，长官。我明白了。"
 
 # game/script day2.rpy:2268
 translate Chinese day2_arthur_report_08272878:
 
     # a "Very well.{w} Return to your duties, then. Hopefully we won't have to discuss this further. I must report to the captain."
-    a ""
+    a "很好。回去干活吧。希望我们不用再谈这件事了。我得去向船长报告。"
 
 # game/script day2.rpy:2272
 translate Chinese day2_arthur_report_cdd14fc5:
 
     # "He dismisses you with a shallow nod and then strides off, leaving you awash with a touch of anxiety. You didn't think you had anything to do with it, but after Arthur's questioning, you can't quell a little bit of irrational worry that you somehow do. He certainly seems to think so."
-    ""
+    "他微微点头，示意你可以走了，然后便大步走开，留下你独自一人，心中隐隐有些不安。你本来觉得自己和这件事没什么关系，但经过Arthur的盘问，你心里还是冒出了一丝没来由的担忧，觉得自己可能也脱不了干系。他似乎也是这么认为的。"
 
 # game/script day2.rpy:2274
 translate Chinese day2_arthur_report_2822f82b:
 
     # "Just one day and you're being treated as a potential menace."
-    ""
+    "才来第一天，就被当成潜在的威胁对待了。"
 
 # game/script day2.rpy:2280
 translate Chinese day2_arthur_report_c0b3263e:
 
     # "You sigh as you run your hands over your face, starting at your whiskers and smoothing out your fur up and back towards your ears. A faint noise behind you draws your gaze and you realize it's your own tail flicking anxiously."
-    ""
+    "你叹了口气，用手揉搓着脸，从胡须开始，向上向后捋平耳朵边的毛。身后传来一个细微的声响，你转头一看，是自己的尾巴在焦躁地拍打着。"
 
 # game/script day2.rpy:2282
 translate Chinese day2_arthur_report_73bbe40f:
 
     # "Willing it back to its usual calm, less animated state, you determine its time to check on Sam to ensure he is okay; hopefully that will calm your nerves."
-    ""
+    "你努力让尾巴恢复到平时平静、不那么活跃的状态，然后决定去看看Sam，确保他没事；希望这样能让你平静下来。"
 
 # game/script day2.rpy:2284
 translate Chinese day2_arthur_report_8d3fd817:
 
     # "Trying your best to follow the route the crewmen used earlier to take him below decks earlier, you find yourself in the narrow corridors which lead to the cabins."
-    ""
+    "你努力回忆着之前船员们带他去下层甲板的路线，你发现自己身处通往下层船舱的狭窄走廊里。"
 
 # game/script day2.rpy:2286
 translate Chinese day2_arthur_report_4794781a:
 
     # "After asking a passing man for directions, he points you to one in particular: The doctor Rajeeyah's quarters."
-    ""
+    "向一个路过的船员打听方向后，他给你指了一个地方：Rajeeyah医生的住处。"
 
 # game/script day2.rpy:2294
 translate Chinese day2_rajeeyah_talk_99dd6427:
 
     # "Samuel glances at you, his eyes holding a mix of appreciation and resistance."
-    ""
+    "Samuel 看了你一眼，眼神中既有感激，也有抗拒。"
 
 # game/script day2.rpy:2296
 translate Chinese day2_rajeeyah_talk_68d7f7ac:
 
     # s "Alright, alright,"
-    s ""
+    s "好吧好吧……"
 
 # game/script day2.rpy:2298
 translate Chinese day2_rajeeyah_talk_4703b698:
 
     # "He finally concedes, giving you a small nod."
-    ""
+    "他终于让步了，轻轻地对你点了点头。"
 
 # game/script day2.rpy:2300
 translate Chinese day2_rajeeyah_talk_0e07393d:
 
     # s "But make it quick, eh? I don't want to cause too much fuss."
-    s ""
+    s "不过你得快点，嗯？我不想太麻烦大家。"
 
 # game/script day2.rpy:2306
 translate Chinese day2_rajeeyah_talk_01bab89a:
 
     # "You move in as a few of the crew begin to stand Samuel up on his feet, feeling a pang of sympathy as you see the maned wolf grit his teeth in pain. You slip in beside Samuel, lowering your head to allow him to sling an arm around your neck and over a shoulder."
-    ""
+    "你走上前去，这时几个船员正准备扶Samuel站起来，看到这只鬃狼因为疼痛而咬紧牙关，你心里一阵难受。你走到Samuel身边，低下头，让他把胳膊搭在你的脖子和肩膀上。"
 
 # game/script day2.rpy:2308
 translate Chinese day2_rajeeyah_talk_6dbbbf72:
 
     # "A few of the crew who had arrived first offer to help as well, but Sam is quick to wave them off, brushing a paw through the air dismissively to try and play it off as less severe than it was."
-    ""
+    "几个先到的船员也提出要帮忙，但Sam连忙拒绝了，不以为意地挥了挥爪子，想让这件事看起来没那么严重。"
 
 # game/script day2.rpy:2312
 translate Chinese day2_rajeeyah_talk_851e149d:
 
     # s "I'll be fine. Best he helps me down anyway. He was 'round for it, any questions Rajeeyah has he can chime in. Any more than that would just be a crowd."
-    s ""
+    s "我没事。还是让他扶我下去吧。他当时在场，Rajeeyah有什么问题他也能搭把腔。人多了反而碍事。"
 
 # game/script day2.rpy:2314
 translate Chinese day2_rajeeyah_talk_7efe3381:
 
     # s "And get someone to fix the bloody thing! Don't ya end up bein' so enchanted with me and just forget about it."
-    s ""
+    s "还有，找人把那该死的绳子修好！别光顾着迷恋我，把这事儿给忘了。"
 
 # game/script day2.rpy:2316
 translate Chinese day2_rajeeyah_talk_04c31ca0:
 
     # "You're impressed that Sam can think so clearly, despite the blood oozing down his leg and staining his pants. It is easy to see why he seems such a valued member of the crew even with the short amount of time you've been aboard the ship."
-    ""
+    "血都糊了他一腿，裤子都染红了，Sam还能这么清醒，真让人佩服。怪不得你上船没多久，就觉得他这么受大家伙儿待见。"
 
 # game/script day2.rpy:2318
 translate Chinese day2_rajeeyah_talk_bebd394b:
 
     # p "We're going to have to go below deck."
-    p ""
+    p "咱们得下到下层甲板去。"
 
 # game/script day2.rpy:2320
 translate Chinese day2_rajeeyah_talk_828a8789:
 
     # "While it is obvious Samuel knew where to go, you think it best to prepare him before descending the narrow stairway which leads to the lower decks."
-    ""
+    "虽然看样子他知道路，不过你觉得还是先跟他说清楚，再带他下那通往下层甲板的窄楼梯比较好。"
 
 # game/script day2.rpy:2322
 translate Chinese day2_rajeeyah_talk_c012744a:
 
     # p "Who knew I'd be the one giving you a tour today?"
-    p ""
+    p "想不到今天给你当导游的人居然是我？"
 
 # game/script day2.rpy:2327
 translate Chinese day2_rajeeyah_talk_250d4eea:
 
     # "You joke, causing the maned wolf to grin ever so slightly as you lead him down the first steps."
-    ""
+    "你开了个玩笑，那家伙——鬃狼——就冲你咧嘴一笑，你这才带着他往下走。"
 
 # game/script day2.rpy:2335
 translate Chinese day2_rajeeyah_talk_491c7e3e:
 
     # s "You.. ugh... Ya gettin' cocky already? Better hope I forget all about that by the time I'm walking on my own again."
-    s ""
+    s "你... 哎哟... 已经开始得瑟了？最好等我能自己走道了，你还记得现在说的话！"
 
 # game/script day2.rpy:2337
 translate Chinese day2_rajeeyah_talk_3732786b:
 
     # "Sam teases with a flash of teeth, a faux threat that only makes you laugh."
-    ""
+    "Sam呲着牙，假模假样地威胁道，把你逗乐了。"
 
 # game/script day2.rpy:2339
 translate Chinese day2_rajeeyah_talk_fe781548:
 
     # "As you descend the stairs with Samuel, you can feel the ship's motion more profoundly. The gentle swaying of the deck is now more apparent below, a constant reminder of the vast, powerful sea which surrounds you."
-    ""
+    "你扶着Sam走下楼梯，能更明显地感觉到船在摇晃。在下层，甲板的轻微晃动更加明显，时刻提醒着你，周围是多么广阔而充满力量的海洋。"
 
 # game/script day2.rpy:2341
 translate Chinese day2_rajeeyah_talk_2f2b56cb:
 
     # "You try to keep your balance steady, cautious that Samuel's injured leg doesn't bear too much weight as you both slowly make your way below deck."
-    ""
+    "你小心翼翼地稳住身子，生怕Sam受伤的腿吃不消，你们俩这才慢慢地往下层甲板挪。"
 
 # game/script day2.rpy:2343
 translate Chinese day2_rajeeyah_talk_369cbfe6:
 
     # "As you reach the bottom of the stairs, the sounds of the crew working above are slightly muffled, creating a more subdued atmosphere. Augmented now with the occasional groans and creaks of the Conway's timbers and the sounds of the waves against the hull."
-    ""
+    "到了楼梯下面，上面船员们干活的声音就小多了，气氛也变得沉闷起来。现在又加上了Conway\'s号时不时发出的呻吟和吱嘎声，还有海浪拍打船体的声音。"
 
 # game/script day2.rpy:2345
 translate Chinese day2_rajeeyah_talk_21e5f03d:
 
     # "The ship's corridors are tight, and you have to navigate carefully to avoid bumping into any passing crew."
-    ""
+    "船上的走廊窄得很，你得小心点，别撞到过路的伙计。"
 
 # game/script day2.rpy:2351
 translate Chinese day2_rajeeyah_talk_2fe1278f:
 
     # "You confidently lead Samuel back toward where you'd helped Rajeeyah the previous night, however as you near the room, the maned wolf nudges in the opposite direction with his snout. "
-    ""
+    "你挺自信地带着Sam往昨天晚上帮Rajeeyah的地方走，结果快到房间的时候，那家伙用鼻子往反方向拱了拱。 "
 
 # game/script day2.rpy:2353
 translate Chinese day2_rajeeyah_talk_ddbd2eb8:
 
     # s "Too early for her to be checkin' on patients. She'll still be waking up I bet. Her room's down that way. She's got everything I need in there, don't worry."
-    s ""
+    s "现在她才不会查房呢，我敢说她肯定还在睡觉。她的房间在那边。她要用的东西都在她屋里，放心吧。"
 
 # game/script day2.rpy:2355
 translate Chinese day2_rajeeyah_talk_9aac0220:
 
     # "With Samuel's guidance, you make your way through the labyrinth of passages until you finally arrive at a door with a small brass plate engraved with \"Surgeon's Quarters\" engraved into it."
-    ""
+    "在Sam的指引下，你们穿过迷宫一样的通道，最后来到一扇门前，门上钉着一块小铜牌，上面刻着“外科医生宿舍”。"
 
 # game/script day2.rpy:2357
 translate Chinese day2_rajeeyah_talk_ceadcba7:
 
     # s "Here we are."
-    s ""
+    s "到了。"
 
 # game/script day2.rpy:2359
 translate Chinese day2_rajeeyah_talk_9220850d:
 
     # "Samuel says, nodding to the door."
-    ""
+    "Sam说着，朝那扇门点了点头。"
 
 # game/script day2.rpy:2361
 translate Chinese day2_rajeeyah_talk_a31b3137:
 
     # s "Any later in the day and she'd have already been treatin' me on the deck. Hate to bother her this early, but don't think we got any other choice."
-    s ""
+    s "要是再晚点，她肯定已经在甲板上给我治了。这么早就打扰她，实在不好意思，但看来咱们也没别的辙了。"
 
 # game/script day2.rpy:2365
 translate Chinese day2_rajeeyah_talk_1e44b9f2:
 
     # "Leaning your weight to help keep Samuel up, you reach out to knock loudly on the door. You hear a muffled grumble, followed by some faint shuffling, before the door slowly opens; a cheetah face peeking out from the crack."
-    ""
+    "你费劲巴力地扶着Sam，伸手咚咚地敲响了房门。你听到里面传来一声含糊不清的咕哝，然后是一些窸窸窣窣的声音，过了一会儿，门才慢慢打开，一张花豹脸从门缝里探了出来。"
 
 # game/script day2.rpy:2371
 translate Chinese day2_rajeeyah_talk_7846418e:
 
     # "Rajeeyah's gaze holds the uncertain quality of someone who got far too little sleep. Fatigue seems to only accentuate the dark lines around her eyes. Still, it only takes a moment for her to recognize this isn't a social visit, her brows furrow as she focuses on Samuel."
-    "Rajeeyah的眼神带着睡眠严重不足者特有的茫然。倦意将她眼周的暗纹衬得越发深了。然而，她很快就意识到这并非是一次社交拜访，目光聚焦在Samuel身上时，她的眉头皱了起来。"
+    "Rajeeyah的眼神里透着睡眠不足的疲惫，黑眼圈也更重了。不过，她很快就意识到这不是来串门的，皱起眉头，目光落在了Sam身上。"
 
 # game/script day2.rpy:2376
 translate Chinese day2_samuel_injured_03069964:
 
     # "Samuel's brows furrow in contemplation, his pride warring with the obvious pain he's experiencing. However, he ultimately relents, realizing that seeking medical attention might be the wiser decision."
-    ""
+    "Sam紧锁眉头，心里很矛盾，既想逞强，又实在疼得厉害。不过，他最后还是认了怂，觉得还是去看医生比较明智。"
 
 # game/script day2.rpy:2378
 translate Chinese day2_samuel_injured_8b763536:
 
     # s "Fine, but let's be quick about it. Can't have ya missin' out on all the excitement of your first day."
-    s ""
+    s "行吧，不过麻利点儿。可别耽误了我第一天的好戏。"
 
 # game/script day2.rpy:2380
 translate Chinese day2_samuel_injured_bc16f602:
 
     # "He tries to tease, masking the pain behind his eyes."
-    ""
+    "他想开个玩笑，用笑容掩饰眼中的疼痛。"
 
 # game/script day2.rpy:2386
 translate Chinese day2_samuel_injured_6cbb5afa:
 
     # "You move in as some of the crew begin to stand Samuel up on his feet, and feel a pang of sympathy as the maned wolf grits his teeth in pain. You slip in beside Samuel, lowering your head to allow him to sling an arm over your shoulder and around your neck."
-    ""
+    "有几个船员过来扶Sam，你赶紧也过去帮忙，看到那家伙疼得直咬牙，你心里也挺不是滋味。你挤到Sam旁边，低下头，让他把胳膊搭在你的肩膀和脖子上。"
 
 # game/script day2.rpy:2388
 translate Chinese day2_samuel_injured_6dbbbf72:
 
     # "A few of the crew who had arrived first offer to help as well, but Sam is quick to wave them off, brushing a paw through the air dismissively to try and play it off as less severe than it was."
-    ""
+    "几个先到的船员也提出要帮忙，但Sam连忙拒绝了，不以为意地挥了挥爪子，想让这件事看起来没那么严重。"
 
 # game/script day2.rpy:2392
 translate Chinese day2_samuel_injured_851e149d:
 
     # s "I'll be fine. Best he helps me down anyway. He was 'round for it, any questions Rajeeyah has he can chime in. Any more than that would just be a crowd."
-    s ""
+    s "我没事。还是让他扶我下去吧。他当时在场，Rajeeyah有什么问题他也能搭把腔。人多了反而碍事。"
 
 # game/script day2.rpy:2394
 translate Chinese day2_samuel_injured_5d7666ea:
 
     # s "And get someone to fix the bloody thing! Not that you end up being so enchanted with me and just forget 'bout it."
-    s ""
+    s "还有，找人把那玩意儿修好喽！别到时候你光顾着迷恋我，把这事儿给忘了。"
 
 # game/script day2.rpy:2396
 translate Chinese day2_samuel_injured_04c31ca0:
 
     # "You're impressed that Sam can think so clearly, despite the blood oozing down his leg and staining his pants. It is easy to see why he seems such a valued member of the crew even with the short amount of time you've been aboard the ship."
-    ""
+    "血都糊了他一腿，裤子都染红了，Sam还能这么清醒，真让人佩服。怪不得你上船没多久，就觉得他这么受大家伙儿待见。"
 
 # game/script day2.rpy:2398
 translate Chinese day2_samuel_injured_c616a281:
 
     # p "Below decks, right? You're going to have to guide me. Something I'd need to know for a future emergency anyway."
-    p ""
+    p "在下层甲板，是吧？你得给我带路。反正以后要是有啥急事，我也得知道怎么走。"
 
 # game/script day2.rpy:2402
 translate Chinese day2_samuel_injured_7f97c60a:
 
     # s "Hmf... Yeah. Yeah. Not the standard tour, but it'll work."
-    s ""
+    s "哼... 行吧。行吧。这可不是正经参观，不过也凑合了。"
 
 # game/script day2.rpy:2404
 translate Chinese day2_samuel_injured_45cd1144:
 
     # "Samuel flashes a grin with his words, nodding in the direction of the stairs that led down below."
-    ""
+    "Sam咧嘴一笑，朝通往下层的楼梯努了努嘴。"
 
 # game/script day2.rpy:2406
 translate Chinese day2_samuel_injured_c03d2c2f:
 
     # "You support Samuel's weight as he leans on you, guiding him towards the stairs that lead below decks. The crew around you clear a path, giving you enough space to maneuver through the bustling deck."
-    ""
+    "你扶着靠在你身上的Sam，领着他走向通往下层甲板的楼梯。周围的船员们让开一条路，好让你们在熙熙攘攘的甲板上通行。"
 
 # game/script day2.rpy:2408
 translate Chinese day2_samuel_injured_9d50ab69:
 
     # "Despite the pain, Samuel manages to keep up his usual banter, flashing grins and cracking jokes to mask his discomfort."
-    ""
+    "尽管疼得厉害，Sam还是强撑着，不停地开着玩笑，咧着嘴笑，想掩饰自己的难受。"
 
 # game/script day2.rpy:2417
 translate Chinese day2_samuel_injured_fe781548:
 
     # "As you descend the stairs with Samuel, you can feel the ship's motion more profoundly. The gentle swaying of the deck is now more apparent below, a constant reminder of the vast, powerful sea which surrounds you."
-    ""
+    "你扶着Sam走下楼梯，能更明显地感觉到船在摇晃。在下层，甲板的轻微晃动更加明显，时刻提醒着你，周围是多么广阔而充满力量的海洋。"
 
 # game/script day2.rpy:2419
 translate Chinese day2_samuel_injured_2f2b56cb:
 
     # "You try to keep your balance steady, cautious that Samuel's injured leg doesn't bear too much weight as you both slowly make your way below deck."
-    ""
+    "你小心翼翼地稳住身子，生怕Sam受伤的腿吃不消，你们俩这才慢慢地往下层甲板挪。"
 
 # game/script day2.rpy:2421
 translate Chinese day2_samuel_injured_97461761:
 
     # p "So, this is an exciting start to my first day."
-    p ""
+    p "看来我这第一天，开局就挺刺激啊。"
 
 # game/script day2.rpy:2425
 translate Chinese day2_samuel_injured_4867f52a:
 
     # "You chuckle, trying to lighten the mood as you descend the stairs together."
-    ""
+    "你笑了笑，想缓和一下气氛，你们一起下了楼。"
 
 # game/script day2.rpy:2427
 translate Chinese day2_samuel_injured_2ad10701:
 
     # s "Oh, you have no idea. It's not every day we get such a grand entrance."
-    s ""
+    s "哦，你可没概念。可不是每天都有这么隆重的登场。"
 
 # game/script day2.rpy:2429
 translate Chinese day2_samuel_injured_0abe3142:
 
     # "Samuel responds, but you can sense a slight wince in his voice."
-    ""
+    " Samuel应了一声，但你能听出他声音里带着一丝勉强。"
 
 # game/script day2.rpy:2431
 translate Chinese day2_samuel_injured_369cbfe6:
 
     # "As you reach the bottom of the stairs, the sounds of the crew working above are slightly muffled, creating a more subdued atmosphere. Augmented now with the occasional groans and creaks of the Conway's timbers and the sounds of the waves against the hull."
-    ""
+    " 到了楼梯下面，上面船员们干活的声音就小多了，气氛也变得沉闷起来。现在又加上了Conway号时不时发出的呻吟和吱嘎声，还有海浪拍打船体的声音。"
 
 # game/script day2.rpy:2433
 translate Chinese day2_samuel_injured_21e5f03d:
 
     # "The ship's corridors are tight, and you have to navigate carefully to avoid bumping into any passing crew."
-    ""
+    "船上的走廊窄得很，你得小心点，别撞到过路的伙计。"
 
 # game/script day2.rpy:2437
 translate Chinese day2_samuel_injured_e8d6b028:
 
     # "With Samuel's guidance, you make your way through the labyrinth of passages until you finally arrive at a door with a small brass plate with \"Surgeon's Quarters\" engraved into it."
-    ""
+    "在Samuel的搀扶下，你穿过迷宫般的通道，终于来到一扇门前。门上有一块小黄铜牌，刻着“外科医生宿舍”。"
 
 # game/script day2.rpy:2439
 translate Chinese day2_samuel_injured_ceadcba7:
 
     # s "Here we are."
-    s ""
+    s "到了。"
 
 # game/script day2.rpy:2441
 translate Chinese day2_samuel_injured_9220850d:
 
     # "Samuel says, nodding to the door."
-    ""
+    "Sam说着，朝那扇门点了点头。"
 
 # game/script day2.rpy:2443
 translate Chinese day2_samuel_injured_37eb6eb3:
 
     # s "Rajeeyah's got her own quarters down here. Any later in the day and she'd have been right there on the deck. This early, I doubt she's out of bed. Guh... Hate to bother her, but don't think I'm walkin' this off."
-    s ""
+    s "Rajeeyah的住处就在这下面。要是再晚点，她肯定就在甲板上了。这么早，估计还没起床。呃...真不想打扰她，可我这腿脚... 没法自己走回去啊。"
 
 # game/script day2.rpy:2447
 translate Chinese day2_samuel_injured_ea0ca57d:
 
     # "Leaning your weight to help keep Samuel up, you reach out and knock loudly on the door. You hear a muffled grumble, followed by some faint shuffling, before the door slowly opens; a cheetah face peeking out from the crack."
-    ""
+    "你侧身扶着Samuel，伸手用力敲门。你听到门内传来含糊的嘟囔声，夹杂着窸窸窣窣的动静。过了一会儿，门缓缓打开，一张猎豹的脸——确切地说，是猎豹兽人的脸——从门缝里探了出来。"
 
 # game/script day2.rpy:2454
 translate Chinese day2_samuel_injured_fd904d95:
 
     # "Rajeeyah notices you first, confusion evident in her eyes at the sight of you disturbing her so early in the day. It's not until Samuel clears his throat that her focused gaze shifts to him, instantly softening at the sight of him."
-    ""
+    "Rajeeyah 先注意到了你，一大早就被一个陌生人打扰，她眼中带着明显的困惑。直到 Samuel 清了清嗓子，她才把注意力转到他身上，眼神瞬间柔和了下来。"
 
 # game/script day2.rpy:2458
 translate Chinese day2_samuel_injured_5b0605c9:
 
     # "Rajeeyah notices you first, confusion evident in her eyes at the sight of a stranger disturbing her so early in the day. It's not until Samuel clears his throat that her focused gaze shifts to him, instantly softening at the sight of him."
-    ""
+    "Rajeeyah 先注意到了你，一大早就被一个陌生人打扰，她眼中带着明显的困惑。直到 Samuel 清了清嗓子，她才把注意力转到他身上，眼神瞬间柔和了下来。"
 
 # game/script day2.rpy:2477
 translate Chinese day2_samuel_stitch_03424892:
 
     # r "Sam! You're hurt? What happened? No, never mind that. Tell me as I work. Both of you come in now."
-    r ""
+    r "Sam！你受伤了？怎么回事？算了，先别说这个了，你一边处理伤口一边告诉我。你们两个都进来吧！"
 
 # game/script day2.rpy:2479
 translate Chinese day2_samuel_stitch_1a92f38a:
 
     # "The cheetah swings the door open wide, allowing you room to usher Samuel through the doorway and into the feline's private quarters."
-    ""
+    "猎豹一把推开门，让出空位，方便你扶着 Samuel 通过门口，进入这只猎豹的私人房间。"
 
 # game/script day2.rpy:2488
 translate Chinese day2_samuel_stitch_332a0b59:
 
     # "While not an infirmary, the shelves of ingredients and tools show the cheetah is still quite prepared for most anything. High railings made sure nothing could fall even with the heaviest swaying of the ship. Very practical."
-    ""
+    "虽然这里不是医务室，但架子上琳琅满目的药物和工具表明，猎豹已经为各种突发情况做好了准备。高高的栏杆确保即使在船剧烈摇晃时，东西也不会掉下来，真是周到。"
 
 # game/script day2.rpy:2492
 translate Chinese day2_samuel_stitch_65c9303c:
 
     # r "Seat him on that stool over there, and get that clothing out of the way."
-    r ""
+    r "让他坐到那边那个凳子上，把伤口附近的衣服弄开。"
 
 # game/script day2.rpy:2500
 translate Chinese day2_samuel_stitch_7feeabd3:
 
     # "You guide Samuel to the little stool near the back of the room as requested, though the mention of clothing brings you to a pause. The maned wolf has his paw pressed firmly to the outside of his upper thigh, which means his pants will need to come down..."
-    ""
+    "你按照她的指示，扶着 Samuel 走到房间后方的小凳子旁。但听到要“弄开衣服”，你停下了动作。这只鬃狼正用爪子紧紧按着大腿上方，这意味着需要把他的裤子褪下来……"
 
 # game/script day2.rpy:2507
 translate Chinese day2_samuel_stitch_f80f1a83:
 
     # s "Ya wish, don't you? You keep your paws to yourself."
-    s ""
+    s "你想得美！把你的爪子放老实点。"
 
 # game/script day2.rpy:2511
 translate Chinese day2_samuel_stitch_633be757:
 
     # s "You keep your paws to yourself."
-    s ""
+    s "手放老实点。"
 
 # game/script day2.rpy:2513
 translate Chinese day2_samuel_stitch_58173afd:
 
     # "Samuel admonishes you with a faint tease in his voice."
-    ""
+    "Samuel 略带戏谑地数落你一句。"
 
 # game/script day2.rpy:2515
 translate Chinese day2_samuel_stitch_563ade22:
 
     # s "I'm not that helpless."
-    s ""
+    s "我可没那么没用。"
 
 # game/script day2.rpy:2519
 translate Chinese day2_samuel_stitch_c61a201d:
 
     # "The maned wolf huffs out as he begins reaching for the edge of his shirt."
-    ""
+    "他哼了一声，就开始伸手去拉衬衫的下摆。"
 
 # game/script day2.rpy:2528
 translate Chinese day2_samuel_stitch_da832e25:
 
     # "Shifting uncomfortably in the seat, Samuel manages to work his shirt up and the side of his pants down just enough to bare the wound to the open air. Revealing the deep gash surrounded by blood-matted fur."
-    ""
+    "Samuel 在座位上不安地挪动着，好不容易才把衬衫向上撸起，裤子也向下褪开一些，总算让伤口露了出来。那是一道很深的裂口，周围的毛都被血-染得一绺一绺的。"
 
 # game/script day2.rpy:2535
 translate Chinese day2_samuel_stitch_f4ccc069:
 
     # "Tsking under her breath, Rajeeyah moves close, kneeling to get a better look at the wound. She reaches a paw out, not to touch the injured spot, but to offer a comforting pat on Samuel's side."
-    ""
+    "Rajeeyah 低声啧了一下，凑近身子，跪下来仔细查看伤口。她伸出一只爪子，没去碰伤处，只是在 Samuel 身侧轻轻拍了拍，以示安慰。"
 
 # game/script day2.rpy:2537
 translate Chinese day2_samuel_stitch_dd1032c0:
 
     # r "Hmm. It's a deep gash, but nothing too nasty. I'd say you're lucky, Sam."
-    r ""
+    r "嗯，伤口挺深，但也没什么大不了的。我说你挺幸运的，Sam。"
 
 # game/script day2.rpy:2539
 translate Chinese day2_samuel_stitch_4d42dd04:
 
     # "She speaks in a warm tone, just the faintest bit of playfulness to dull the edge of her professionalism."
-    ""
+    "她语气温和，带着一丝俏皮，冲淡了那种公事公办的味道。"
 
 # game/script day2.rpy:2541
 translate Chinese day2_samuel_stitch_ddca4afe:
 
     # "Glancing over at you, Rajeeyah lifts a paw to point at the wall near the door."
-    ""
+    "Rajeeyah 瞥了你一眼，抬起爪子朝门口附近的墙壁指了指。"
 
 # game/script day2.rpy:2543
 translate Chinese day2_samuel_stitch_572f2c7b:
 
     # r "Go ahead and gather some things for me, would you? There's a small box on the shelf near the door. Fetch me that and a couple of clean cloths folded near the foot of the bed."
-    r ""
+    r "你去帮我拿点东西，行吗？门口架子上有一个小盒子，拿过来。还有床脚那叠着几块干净布，也拿两块来。"
 
 # game/script day2.rpy:2545
 translate Chinese day2_samuel_stitch_f145f483:
 
     # "You immediately turn, scanning the area until you spot the mentioned box. It's exactly where Rajeeyah said it would be, and you retrieve it quickly."
-    ""
+    "你立刻转身，四下寻找，很快就找到了她说的那个盒子。位置分毫不差，你赶紧取了过来。"
 
 # game/script day2.rpy:2549
 translate Chinese day2_samuel_stitch_c576fe78:
 
     # "With the box in hand, you then notice the neatly folded cloths near the foot of the bed. They are meticulously arranged, reflecting Rajeeyah's organized nature. You pick up a couple of the clean cloths and hand the gathered supplies to Rajeeyah, who takes them with a nod of appreciation."
-    "你拿起木盒，随即留意到床脚处叠放整齐的布巾。它们摆放得一丝不苟，透着Rajeeyah惯有的条理。你取了几块干净的布巾，将备好的物品一并递给她；她点头表示感谢并接了过去。"
+    "拿着盒子，你又注意到床脚边叠得整整齐齐的布。叠放得一丝不苟，很符合 Rajeeyah 做事的风格。你拿起两块干净的布，把东西交给 Rajeeyah，她点点头表示感谢。"
 
 # game/script day2.rpy:2554
 translate Chinese day2_samuel_stitch_60ac70df:
 
     # "Before the cheetah doctor can make any further requests, three sharp knocks resound through the room, drawing everyone's attention to the door. It swings open, revealing Arthur practically filling the doorway with his imposing presence."
-    ""
+    "还没等这位猎豹医生再吩咐什么，房间里突然响起了三声清脆的敲门声，所有人的目光都转向了门口。门一下被推开，Arthur 高大的身影几乎堵住了整个门。"
 
 # game/script day2.rpy:2570
 translate Chinese day2_samuel_stitch_ebf90e3c:
 
     # "Feeling slightly awkward, you shift your gaze away from the sight of Samuel tending to his wound and divert your attention to the nearby shelves, pretending to be captivated by the assortment of vials and medical tools on display."
-    ""
+    "你觉得有点尴尬，赶紧把视线从 Samuel 的伤口上移开，装作对旁边架子上摆着的那些药瓶和医疗器械很感兴趣的样子。"
 
 # game/script day2.rpy:2572
 translate Chinese day2_samuel_stitch_cdbdffd2:
 
     # "Rajeeyah's sweet laughter lightens the atmosphere, and you can't help but crack a faint smile in response."
-    ""
+    "Rajeeyah 甜美的笑声让气氛轻松了不少，你也忍不住露出了一丝微笑。"
 
 # game/script day2.rpy:2574
 translate Chinese day2_samuel_stitch_78aea454:
 
     # r "Go ahead and gather some things for me, would you? There's a small box on a shelf near the door. Fetch me that and a couple of clean cloths folded near the foot of the bed."
-    r ""
+    r "去帮我拿点东西，行吗？门口架子上有一个小盒子，拿过来。还有床脚那叠着几块干净布，也拿两块来。"
 
 # game/script day2.rpy:2576
 translate Chinese day2_samuel_stitch_a0acd0a4:
 
     # "Rajeeyah requests, her focus on Samuel's injury never wavering."
-    ""
+    "Rajeeyah恳切地说道，她的目光始终没有离开Samuel的伤势。"
 
 # game/script day2.rpy:2578
 translate Chinese day2_samuel_stitch_9560ce36:
 
     # "You nod, grateful for something to do to occupy yourself in this moment of vulnerability. Your eyes dart around the room, scanning the area until you spot the mentioned box near the door. It's exactly where Rajeeyah said it would be, and you retrieve it quickly."
-    ""
+    "你点点头，能有事情做让你心怀感激，好冲淡这脆弱时刻带来的不适。你环顾四周，很快便找到了Rajeeyah所说的箱子，它就在门边，你迅速取了回来。"
 
 # game/script day2.rpy:2582
 translate Chinese day2_samuel_stitch_c576fe78_1:
 
     # "With the box in hand, you then notice the neatly folded cloths near the foot of the bed. They are meticulously arranged, reflecting Rajeeyah's organized nature. You pick up a couple of the clean cloths and hand the gathered supplies to Rajeeyah, who takes them with a nod of appreciation."
-    ""
+    " 拿着盒子，你又注意到床脚边叠得整整齐齐的布。叠放得一丝不苟，很符合 Rajeeyah 做事的风格。你拿起两块干净的布，把东西交给 Rajeeyah，她点点头表示感谢。"
 
 # game/script day2.rpy:2587
 translate Chinese day2_samuel_stitch_60ac70df_1:
 
     # "Before the cheetah doctor can make any further requests, three sharp knocks resound through the room, drawing everyone's attention to the door. It swings open, revealing Arthur practically filling the doorway with his imposing presence."
-    ""
+    " 还没等这位猎豹医生再吩咐什么，房间里突然响起了三声清脆的敲门声，所有人的目光都转向了门口。门一下被推开，Arthur 高大的身影几乎堵住了整个门。"
 
 # game/script day2.rpy:2596
 translate Chinese day2_arthur_incident_talk_334f06f9:
 
     # a "Samuel, I heard a report of the incident. Seems unlike you to be caught off guard like that."
-    a ""
+    a "Samuel，我听说了这次的事故报告。以你的身手，不该这么容易着了道啊。"
 
 # game/script day2.rpy:2598
 translate Chinese day2_arthur_incident_talk_55bf3b57:
 
     # a "I'll expect to hear your side of it once you're patched up."
-    a ""
+    a "等你包扎好了，我要听听你自己的说法。"
 
 # game/script day2.rpy:2602
 translate Chinese day2_arthur_incident_talk_6a108d8a:
 
     # s "Jeez, don't be too concerned about my well-bein' in all of this."
-    s "可别为这事替我担心了"
+    s "哎哟喂，各位就不能先关心关心我的死活吗？"
 
 # game/script day2.rpy:2606
 translate Chinese day2_arthur_incident_talk_a11622de:
 
     # "Arthur's eyes widen as he realized just how he sounded to Samuel."
-    ""
+    "Arthur意识到自己刚才的语气不太对，吃惊地睁大了眼睛。"
 
 # game/script day2.rpy:2608
 translate Chinese day2_arthur_incident_talk_ab78e1a4:
 
     # a "My apologies. Of course. I hope you are doing well, Samuel. Is it bad?"
-    a ""
+    a "抱歉，当然。我希望你没事，Samuel。伤势很严重吗？"
 
 # game/script day2.rpy:2612
 translate Chinese day2_arthur_incident_talk_857ab168:
 
     # r "He'll be fine, Officer."
-    r ""
+    r "他没事，长官。"
 
 # game/script day2.rpy:2616
 translate Chinese day2_arthur_incident_talk_04d828a5:
 
     # "Arthur's gaze fixes on Samuel before shifting to you, his eyes silently studying you for a tense moment before he speaks again."
-    ""
+    "Arthur先是看了看Samuel，然后把目光转向你，沉默地审视着你，气氛顿时变得紧张起来，过了一会儿他才再次开口。"
 
 # game/script day2.rpy:2618
 translate Chinese day2_arthur_incident_talk_01471dc0:
 
     # a "You."
-    a "你"
+    a " 你。"
 
 # game/script day2.rpy:2620
 translate Chinese day2_arthur_incident_talk_d505a14f:
 
     # a "Step into the hallway with me, I'm sure Rajeeyah can do her job without your assistance for a moment."
-    a ""
+    a "你跟我到走廊上来一趟，我相信Rajeeyah一个人也能做好，不需要你帮忙。"
 
 # game/script day2.rpy:2632
 translate Chinese day2_arthur_incident_talk_90c11a86:
 
     # "Apprehension fills you as you follow Arthur into the dimly lit corridor. The ship's lanterns cast flickering shadows along the polished wood, creating an aura of seriousness around the officer. As you walk, you're far too aware of the ship's subtle movements beneath your feet, which only adds to your nervousness."
-    ""
+    "你心里一沉，跟着Arthur走进昏暗的走廊。船上的煤油灯在打磨光滑的木板上投下摇曳的阴影，让长官的身影显得更加严肃。走廊里很安静，你格外留意着脚下船身那不易察觉的晃动，心里也越发忐忑。"
 
 # game/script day2.rpy:2634
 translate Chinese day2_arthur_incident_talk_f84d7783:
 
     # a "How come it's you again?"
-    a ""
+    a "怎么老是你？"
 
 # game/script day2.rpy:2638
 translate Chinese day2_arthur_incident_talk_125e3d4d:
 
     # "Arthur states, stopping and turning to face you."
-    ""
+    "Arthur停下脚步，转过身来面对你，语气不悦地说道。"
 
 # game/script day2.rpy:2640
 translate Chinese day2_arthur_incident_talk_2b6e3a14:
 
     # "You nod, trying to maintain composure under his scrutinizing gaze."
-    ""
+    "你点点头，努力在他审视的目光下保持冷静。"
 
 # game/script day2.rpy:2644
 translate Chinese day2_arthur_incident_talk_bf4a55ff:
 
     # a "On your arrival, you nearly caused an accident with the crew loading the ship."
-    a ""
+    a "你刚来的时候，差点害得装货的船员出事。"
 
 # game/script day2.rpy:2647
 translate Chinese day2_arthur_incident_talk_12b15e1c:
 
     # a "Then you go on and show clear disrespect towards your superiors."
-    a ""
+    a "之后你又对上级表现出明显的不敬。"
 
 # game/script day2.rpy:2649
 translate Chinese day2_arthur_incident_talk_ec9dada8:
 
     # "He continues, his tone measured."
-    ""
+    "他语气平缓地继续说道。"
 
 # game/script day2.rpy:2653
 translate Chinese day2_arthur_incident_talk_a6e891fb:
 
     # a "And then today, you're involved in a mishap that puts one of my crew members in harm's way. I've known Samuel for a long time. He's not one to be careless. So, tell me, how did he manage to get hurt?"
-    a ""
+    a "今天，你又卷入了一场事故，害得我的一个船员受了伤。我认识Samuel很久了，他做事一向很小心。所以，你来告诉我，他到底是怎么受的伤？"
 
 # game/script day2.rpy:2655
 translate Chinese day2_arthur_incident_talk_b21ce276:
 
     # "You recount the events leading up to the accident, making sure to leave nothing out, but you can sense that Arthur is probing for something more. His eyes lock onto yours, searching for any signs of deception."
-    ""
+    "你一五一十地讲述了事故的经过，尽量不漏掉任何细节，但你能感觉到Arthur似乎想从你这里套出更多的话。他紧紧地盯着你，想从你的脸上找到一丝说谎的蛛丝马迹。"
 
 # game/script day2.rpy:2657
 translate Chinese day2_arthur_incident_talk_cecda4aa:
 
     # p "It was just an accident, sir."
-    p ""
+    p "只是个意外，长官。"
 
 # game/script day2.rpy:2661
 translate Chinese day2_arthur_incident_talk_5d7349d7:
 
     # a "Accidents do happen, that is true. Even to seasoned sailors."
-    a ""
+    a "意外是难免的，即便是老水手也一样。"
 
 # game/script day2.rpy:2663
 translate Chinese day2_arthur_incident_talk_5f673f88:
 
     # "Arthur acknowledges, but his expression remains stern."
-    ""
+    "Arthur承认道，但他的表情依然严肃。"
 
 # game/script day2.rpy:2665
 translate Chinese day2_arthur_incident_talk_330b3828:
 
     # a "But I've been around long enough to know that sometimes, they're more than just accidents."
-    a ""
+    a "但我见过的事多了，有些时候，事情可没那么简单。"
 
 # game/script day2.rpy:2667
 translate Chinese day2_arthur_incident_talk_4f96a108:
 
     # "You feel a pang of unease at his insinuation, but you maintain your composure, not wanting to give away any false guilt."
-    ""
+    "他的话让你感到一阵不安，你努力保持镇定，不让自己露出任何马脚。"
 
 # game/script day2.rpy:2669
 translate Chinese day2_arthur_incident_talk_e327d879:
 
     # a "Remember, this ship runs on precision and discipline. One small mistake can lead to disaster. I'll be keeping a close eye on things."
-    a ""
+    a "记住，这艘船靠的是精确和纪律，一个小小的失误都可能酿成大祸。我会密切关注的。"
 
 # game/script day2.rpy:2671
 translate Chinese day2_arthur_incident_talk_37ab1902:
 
     # "You nod, acknowledging his words, but you can't help but feel a sense of suspicion lingering in the air."
-    ""
+    "你点点头，表示明白了他的意思，但空气中那股挥之不去的怀疑意味仍然让你感到不安。"
 
 # game/script day2.rpy:2673
 translate Chinese day2_arthur_incident_talk_c4eeef4c:
 
     # p "...Yes, sir."
-    p ""
+    p "...是，长官。"
 
 # game/script day2.rpy:2675
 translate Chinese day2_arthur_incident_talk_6e9246d7:
 
     # a "Now, return to your duties. I need to inform the captain of the incident and everything I've gathered. We'll discuss this more later."
-    a ""
+    a "现在，回去干你的活吧。我得把这件事，还有我了解到的情况，都告诉船长。之后我们会再详细谈谈的。"
 
 # game/script day2.rpy:2679
 translate Chinese day2_arthur_incident_talk_75755b0d:
 
     # "He concludes, dismissing you with a curt nod before swiftly turning in place and heading down the narrow corridor."
-    ""
+    "他说完，朝你微微颔首，然后立刻转身朝狭窄的走廊走去。"
 
 # game/script day2.rpy:2681
 translate Chinese day2_arthur_incident_talk_4083cf4d:
 
     # "Left to your thoughts, you can't shake the nervousness and doubt that lingers within you. Not even one full day has passed, and you've already witnessed a new friend get hurt, and now you're being questioned as if you had something to do with it."
-    ""
+    "独自一人，心中的紧张和怀疑挥之不去。这才不到一天，就亲眼看到一个新朋友受伤，现在还被当成嫌疑犯一样审问。"
 
 # game/script day2.rpy:2683
 translate Chinese day2_arthur_incident_talk_ba9efc5a:
 
     # "With a heavy sigh, you head back toward Rajeeyah's quarters. Might as well check on Sam again before you return to the deck."
-    ""
+    "你重重地叹了口气，朝Rajeeyah的房间走去。 反正回甲板前再去看看Sam也好。"
 
 # game/script day2.rpy:2695
 translate Chinese day2_stay_and_work_with_wolf_and_julian_2cbd0ad9:
 
     # s "Ya heard him. I'll be right back."
-    s ""
+    s "你都听见了，我马上就回来。"
 
 # game/script day2.rpy:2697
 translate Chinese day2_stay_and_work_with_wolf_and_julian_f7929f52:
 
     # s "Keep doing what you're doing. If you need more water, just pull it up with the bucket I used."
-    s ""
+    s "继续干你的活。要是水不够，就用我刚才用的那个桶打水。"
 
 # game/script day2.rpy:2699
 translate Chinese day2_stay_and_work_with_wolf_and_julian_5e909c41:
 
     # p "Got it."
-    p ""
+    p "知道了。"
 
 # game/script day2.rpy:2701
 translate Chinese day2_stay_and_work_with_wolf_and_julian_9fdfacdf:
 
     # s "Just be careful not to let go of it. It's quite the harsh pull when it catches the water."
-    s ""
+    s "小心别松手，那桶吃水的时候拉力可大了。"
 
 # game/script day2.rpy:2703
 translate Chinese day2_stay_and_work_with_wolf_and_julian_1eaeeb8a:
 
     # s "And it's not easy to get it out again either."
-    s ""
+    s "而且想再把它弄上来也不容易。"
 
 # game/script day2.rpy:2707
 translate Chinese day2_stay_and_work_with_wolf_and_julian_60abfa1e:
 
     # s "So just... don't make a fool of yourself and end up empty-handed."
-    s ""
+    s "所以...别傻乎乎的，最后空手而归。"
 
 # game/script day2.rpy:2709
 translate Chinese day2_stay_and_work_with_wolf_and_julian_02beac90:
 
     # j "Will keep it in mind."
-    j ""
+    j "我会记住的。"
 
 # game/script day2.rpy:2711
 translate Chinese day2_stay_and_work_with_wolf_and_julian_b774e75d:
 
     # sailschwartz "Are you coming?"
-    sailschwartz "你要下来吗？"
+    sailschwartz "你来不来？"
 
 # game/script day2.rpy:2716
 translate Chinese day2_stay_and_work_with_wolf_and_julian_1563e5c3:
 
     # s "Yes, yes. Don't rush so much, it's bloody mornin'."
-    s ""
+    s "来啦来啦。 别催这么急，这他妈才早上！"
 
 # game/script day2.rpy:2718
 translate Chinese day2_stay_and_work_with_wolf_and_julian_f317516f:
 
     # "And so the three of you are left to yourselves, as Samuel follows the sailor across the deck of the ship."
-    ""
+    "于是，你们三个就只剩下彼此了，Samuel跟着那个水手穿过船的甲板。"
 
 # game/script day2.rpy:2725
 translate Chinese day2_stay_and_work_with_wolf_and_julian_66f7dfb0:
 
     # p "It sounded urgent... I wonder what's going on."
-    p ""
+    p "听起来挺急的...不知道发生了什么事。"
 
 # game/script day2.rpy:2727
 translate Chinese day2_stay_and_work_with_wolf_and_julian_81e13bc1:
 
     # p "Hopefully nothing major."
-    p ""
+    p "希望没什么大事。"
 
 # game/script day2.rpy:2731
 translate Chinese day2_stay_and_work_with_wolf_and_julian_49eae2f2:
 
     # w "Didn't you listen? It's nothing exciting, just a sheet that's worn through."
-    w ""
+    w "你没听见吗？ 没什么好兴奋的，就是帆桁索磨破了。 "
 
 # game/script day2.rpy:2733
 translate Chinese day2_stay_and_work_with_wolf_and_julian_a900a151:
 
     # w "You're not missing out."
-    w ""
+    w "你没什么好错过的。"
 
 # game/script day2.rpy:2735
 translate Chinese day2_stay_and_work_with_wolf_and_julian_5b6ef162:
 
     # "Wolf huffs annoyedly and stays focused on his work."
-    ""
+    "Wolf恼怒地哼了一声，继续埋头干活。"
 
 # game/script day2.rpy:2737
 translate Chinese day2_stay_and_work_with_wolf_and_julian_9a4763f4:
 
     # p "I guess, I just..."
-    p ""
+    p "我只是想..."
 
 # game/script day2.rpy:2739
 translate Chinese day2_stay_and_work_with_wolf_and_julian_4f7d9e86:
 
     # w "Just get on with it, will you? Can't believe that you really just never can be quiet."
-    w ""
+    w "你能不能赶紧干活？ 真不敢相信你这家伙就不能安静一会儿。"
 
 # game/script day2.rpy:2741
 translate Chinese day2_stay_and_work_with_wolf_and_julian_a4b5f117:
 
     # "The glare of the Wolf meets your eyes, his patience wears thin already."
-    ""
+    "Wolf怒视着你，耐心已经耗尽。"
 
 # game/script day2.rpy:2743
 translate Chinese day2_stay_and_work_with_wolf_and_julian_05019be9:
 
     # "You lower your head and focus on your work as you're told, every now and then you glance back aft of the ship and wonder if you should've asked to go with Samuel."
-    ""
+    "你低下头，按照吩咐认真工作，时不时回头看看船尾，琢磨着自己是不是也该要求和Samuel一起去。"
 
 # game/script day2.rpy:2745
 translate Chinese day2_stay_and_work_with_wolf_and_julian_9adfd82f:
 
     # j "It's just a-"
-    j ""
+    j "只是个..."
 
 # game/script day2.rpy:2749
 translate Chinese day2_stay_and_work_with_wolf_and_julian_d41bab03:
 
     # w "Oh, bloody hell-"
-    w ""
+    w "哦，该死-"
 
 # game/script day2.rpy:2751
 translate Chinese day2_stay_and_work_with_wolf_and_julian_e3c9aaf3:
 
     # j "Just don't listen then if it's so much trouble!"
-    j ""
+    j "要是嫌烦就别听！"
 
 # game/script day2.rpy:2755
 translate Chinese day2_stay_and_work_with_wolf_and_julian_bc74fd8e:
 
     # "Julian snaps back at Wolf and demonstratively runs his holystone across the deck."
-    ""
+    "Julian顶撞了Wolf一句，然后故意用磨石在甲板上用力摩擦。"
 
 # game/script day2.rpy:2759
 translate Chinese day2_stay_and_work_with_wolf_and_julian_167ed5f1:
 
     # j "See? I'm working.{w} Still working."
-    j ""
+    j "看到没？我在干活呢。{w} 一直在干活。"
 
 # game/script day2.rpy:2763
 translate Chinese day2_stay_and_work_with_wolf_and_julian_66f7dfb0_1:
 
     # p "It sounded urgent... I wonder what's going on."
-    p ""
+    p "听起来挺急的...不知道发生了什么事。"
 
 # game/script day2.rpy:2765
 translate Chinese day2_stay_and_work_with_wolf_and_julian_81e13bc1_1:
 
     # p "Hopefully nothing major."
-    p ""
+    p "希望没什么大事。"
 
 # game/script day2.rpy:2767
 translate Chinese day2_stay_and_work_with_wolf_and_julian_b7d57745:
 
     # w "Nothing as exciting as it sounds, I'd assume."
-    w ""
+    w "我猜，肯定没听起来那么有趣。"
 
 # game/script day2.rpy:2769
 translate Chinese day2_stay_and_work_with_wolf_and_julian_a900a151_1:
 
     # w "You're not missing out."
-    w ""
+    w "你没什么好错过的。"
 
 # game/script day2.rpy:2773
 translate Chinese day2_stay_and_work_with_wolf_and_julian_ec85f752:
 
     # "He stays focused on his work as if trying to tell you that you should do the same."
-    ""
+    "他继续专注于他的工作，好像在暗示你也该这么做。"
 
 # game/script day2.rpy:2775
 translate Chinese day2_stay_and_work_with_wolf_and_julian_ada972d5:
 
     # p "It doesn't have to be exciting, I just..."
-    p ""
+    p "不一定非得有趣，我只是..."
 
 # game/script day2.rpy:2777
 translate Chinese day2_stay_and_work_with_wolf_and_julian_64af6af9:
 
     # "He looks over at you tiredly, and you're not quite sure if it's the early hour of the day or you that's the cause for his expression."
-    ""
+    "他疲惫地看了你一眼，你也不知道是因为时间太早还是因为你，他才露出这副表情。"
 
 # game/script day2.rpy:2779
 translate Chinese day2_stay_and_work_with_wolf_and_julian_a82c7883:
 
     # w "Things on a ship are always wearing out. They'll just replace something as they'll do hundreds of times in the future."
-    w ""
+    w "船上的东西就是坏得快，过阵子他们肯定又要换新的了，这种事以后还多着呢。"
 
 # game/script day2.rpy:2781
 translate Chinese day2_stay_and_work_with_wolf_and_julian_5b888ff7:
 
     # w "Just get on with it."
-    w ""
+    w "赶紧干活吧。"
 
 # game/script day2.rpy:2783
 translate Chinese day2_stay_and_work_with_wolf_and_julian_b23d423a:
 
     # "You focus on your work as you're told, every now and then glancing back aft of the ship, wondering if you should've asked to go with Samuel."
-    ""
+    "你按吩咐埋头干活，时不时回头看看船尾，有点后悔没跟Samuel一起去。"
 
 # game/script day2.rpy:2787
 translate Chinese day2_stay_and_work_with_wolf_and_julian_9d44489b:
 
     # j "It's just the spanker." nointeract
-    j "" nointeract
+    j "那只是后桅帆。" nointeract
 
 # game/script day2.rpy:2799
 translate Chinese day2_pretend_to_know_what_that_means_7980d583:
 
     # p "Right. Of course."
-    p ""
+    p "对，当然。"
 
 # game/script day2.rpy:2803
 translate Chinese day2_pretend_to_know_what_that_means_29eb5bcc:
 
     # "Julian immediately sees through the lacking conviction in your voice."
-    ""
+    "Julian一下就听出你没底气。"
 
 # game/script day2.rpy:2805
 translate Chinese day2_pretend_to_know_what_that_means_a4782113:
 
     # "He points towards the stern and the mess of rigging between you and the sky."
-    ""
+    "他指着船尾，还有你和天空之间乱糟糟的那些绳索。"
 
 # game/script day2.rpy:2807
 translate Chinese day2_pretend_to_know_what_that_means_6b2d83f9:
 
     # j "It's the big one at the rear, by the way."
-    j ""
+    j "顺便说一句，就是船尾最大的那块帆。"
 
 # game/script day2.rpy:2809
 translate Chinese day2_pretend_to_know_what_that_means_8d52e813:
 
     # p "Of course! Like I said!"
-    p ""
+    p "当然！我就是那么说的！"
 
 # game/script day2.rpy:2811
 translate Chinese day2_pretend_to_know_what_that_means_fe206dbe:
 
     # "You try to weasel your way out of admitting that you had no idea what it was."
-    ""
+    "你试图蒙混过关，不承认自己根本不知道那是什么。"
 
 # game/script day2.rpy:2815
 translate Chinese day2_pretend_to_know_what_that_means_6e0c441a:
 
     # j "It's fine that you don't know."
-    j ""
+    j "你不知道也没事。"
 
 # game/script day2.rpy:2817
 translate Chinese day2_pretend_to_know_what_that_means_54c25a3c:
 
     # j "Why would you, after all? Growing up how you did.{w} Chances are I'd be stumped if you start talking about anything about having a homestead."
-    j ""
+    j "毕竟你从小就没接触过这些。{w} 要说起农场上的事儿，我肯定也一窍不通。"
 
 # game/script day2.rpy:2819
 translate Chinese day2_pretend_to_know_what_that_means_ab3d4455:
 
     # p "I guess..."
-    p "我想是吧..."
+    p "我想也是……"
 
 # game/script day2.rpy:2823
 translate Chinese day2_pretend_to_know_what_that_means_80eb21e8:
