@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2025-04-23 14:25
 
-translate chinese strings:
+translate Chinese strings:
 
     # game/screens.rpy:256
     old "Back"

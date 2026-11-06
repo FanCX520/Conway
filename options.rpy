@@ -2,7 +2,7 @@
 
 # TODO: Translation updated at 2026-11-02 09:36
 
-translate chinese strings:
+translate Chinese strings:
 
     # game/options.rpy:15
     old "Conway"
