@@ -13354,13 +13354,13 @@ translate Chinese day12_decideleave_wolf_e55002e6:
 translate Chinese day12_decideleave_wolf_437d1f1b:
 
     # w "You probably haven't noticed it, but it's there."
-    w "你大概没察觉，但它确实存在"
+    w "你也许没有注意到，但它就在那儿。"
 
 # game/script day12.rpy:7553
 translate Chinese day12_decideleave_wolf_ad283a96:
 
     # w "Tension. Building everywhere."
-    w "无处不在累积的紧绷感"
+    w "无处不在累积的紧绷感。"
 
 # game/script day12.rpy:7555
 translate Chinese day12_decideleave_wolf_e040c4c9:
@@ -13372,151 +13372,152 @@ translate Chinese day12_decideleave_wolf_e040c4c9:
 translate Chinese day12_decideleave_wolf_a78adde8:
 
     # w "The world."
-    w "整个世界"
+    w "整个世界。"
 
 # game/script day12.rpy:7559
 translate Chinese day12_decideleave_wolf_164e818f:
 
     # w "Like... black powder flowing through an hourglass. Just waiting for the spark to ignite the pile."
-    w "恍若黑火药于沙漏中缓缓流淌，只待一星星火落下，便引燃整片沉蓄的危局"
+    w "就像……黑火药在沙漏里流动。只等一颗火星点燃整堆。"
 
 # game/script day12.rpy:7561
 translate Chinese day12_decideleave_wolf_672979ed:
 
     # p "That's oddly poetic. Morbid, but yeah, poetic."
-    p "这话莫名很有诗意，虽说基调阴郁诡异，但不得不说意境十足"
+    p "这话有种古怪的诗意。病态，但没错，有诗意。"
 
 # game/script day12.rpy:7563
 translate Chinese day12_decideleave_wolf_1062ca79:
 
     # w "Just because I don't like to talk much, doesn't mean I don't appreciate words when they're used well."
-    w "我只是不爱多言，不代表我不懂欣赏恰到好处的精妙言辞"
+    w "我只是不爱多说话，不代表我不欣赏用得好的词句。"
 
 # game/script day12.rpy:7565
 translate Chinese day12_decideleave_wolf_d88e05c8:
 
     # w "It won't stop at just one revolution.{w} Not with how things are."
-    w "革命绝不会止步一次，{w}照眼下这般情势根本收不住"
+    w "它不会止步于一场革命。{w} 以眼下的局势，不会。"
 
 # game/script day12.rpy:7567
 translate Chinese day12_decideleave_wolf_748f5400:
 
     # p "Are you talking about France?"
-    p "你是在说法兰西的情势吗？"
+    p "你是在说法国的情势吗？"
+    #世界观在1791年，这时候法国大革命
 
 # game/script day12.rpy:7569
 translate Chinese day12_decideleave_wolf_1abe1c2d:
 
     # "He doesn't answer."
-    "他没有回答"
+    "他没有回答。"
 
 # game/script day12.rpy:7571
 translate Chinese day12_decideleave_wolf_8899981d:
 
     # w "Perhaps a ship is the safest place after all."
-    w "也许，一艘船终究是最安全的地方"
+    w "也许归根结底，船上才是最安全的地方。"
 
 # game/script day12.rpy:7573
 translate Chinese day12_decideleave_wolf_8f9e57ea:
 
     # w "Anyway, poetic, yes.{p}I suppose you'll be keen to make land soon."
-    w "罢了，确实很有诗意，{p}我猜你也急于尽快登陆上岸了"
+    w "总之，诗意，没错。{p}我猜你很快就要急着上岸了吧。"
 
 # game/script day12.rpy:7575
 translate Chinese day12_decideleave_wolf_f183219f:
 
     # p "And be done with it all."
-    p "好彻底了结这一切"
+    p "然后把这一切都了结。"
 
 # game/script day12.rpy:7577
 translate Chinese day12_decideleave_wolf_46b94b50:
 
     # w "I thought you'd have made some friends at least. Be sad, a little."
-    w "我原以为你至少能交到几个朋友，多多少少也该有些失落难过才对"
+    w "我还以为你至少交到几个朋友了。多少该有点难过吧。"
 
 # game/script day12.rpy:7579
 translate Chinese day12_decideleave_wolf_10f8be9d:
 
     # p "Come on, Wolf. Even you have warmed up in your time here."
-    p "得了吧，Wolf，就连你在这里待久了也早已变得温和许多"
+    p "得了吧，Wolf。就算是你，在这里待了这些日子，也该有点人味儿了。"
 
 # game/script day12.rpy:7581
 translate Chinese day12_decideleave_wolf_8b9fe93c:
 
     # p "We're talking here, after all."
-    p "毕竟我们正在这里交谈"
+    p "毕竟我们这会儿都在一起说话了。"
 
 # game/script day12.rpy:7583
 translate Chinese day12_decideleave_wolf_4334e5c8:
 
     # w "Here... Skeins of fate trawled together by wind and sail, for a brief moment."
-    w "就在此地……命运千丝万缕，被海风船帆打捞交织，只相守片刻浮生"
+    w "就在此地……命运千丝万缕，被海风船帆打捞交织，只相守片刻浮生。"
 
 # game/script day12.rpy:7585
 translate Chinese day12_decideleave_wolf_b551c5db:
 
     # "Wolf shrugs, drawing attention back to the bizarre situation, huddled under a boat while the storm is blowing all around them."
-    "Wolf耸了耸肩，把思绪拉回眼下这诡异境况，两人蜷缩躲在船身下，周遭已是狂风骤雨肆虐"
+    "Wolf耸了耸肩，把注意力重新引回这荒唐的处境：他们蜷在一艘小船底下，风暴在四周呼啸。"
 
 # game/script day12.rpy:7587
 translate Chinese day12_decideleave_wolf_8b4aee2d:
 
     # w "If I'd really warmed up, I wouldn't be out here."
-    w "如果我真的融入了就不会在这儿了"
+    w "如果我真的融入了就不会在这儿了。"
 
 # game/script day12.rpy:7589
 translate Chinese day12_decideleave_wolf_7b5c1ba3:
 
     # p "You're still talking to me."
-    p "可你还在跟我说话"
+    p "可你还不是在跟我说话。"
 
 # game/script day12.rpy:7593
 translate Chinese day12_decideleave_wolf_6dccd283:
 
     # w "Don't get annoying."
-    w "别招人烦"
+    w "别招人烦。"
 
 # game/script day12.rpy:7595
 translate Chinese day12_decideleave_wolf_3511167b:
 
     # "He grunts."
-    "他咕哝了一声"
+    "他咕哝了一声。"
 
 # game/script day12.rpy:7599
 translate Chinese day12_decideleave_wolf_be8266bb:
 
     # w "You'll still regret it more than I, if I were to stop talking."
-    w "如果我真的闭嘴了，你会比我更后悔的"
+    w "如果我真的闭嘴了，你会比我更后悔的。"
 
 # game/script day12.rpy:7601
 translate Chinese day12_decideleave_wolf_07d249bd:
 
     # p "Hmmm."
-    p "哼"
+    p "哼。"
 
 # game/script day12.rpy:7603
 translate Chinese day12_decideleave_wolf_c1592053:
 
     # "You take a moment to watch Wolf quietly. A huddled mass of wet black fur, something about his current situation suggesting more than just his usual reserved nature."
-    "你静静凝望Wolf片刻，一身乌黑湿毛蜷缩成团，他眼下这般模样早已不只是寻常的沉默寡言那般简单"
+    "你静静凝望Wolf片刻，一身乌黑湿毛蜷缩成团，他眼下这般模样早已不只是寻常的沉默寡言那般简单。"
 
 # game/script day12.rpy:7605
 translate Chinese day12_decideleave_wolf_5bfd10c6:
 
     # "Always a cold front. Short looks, and shorter words."
-    "永远一副冷漠模样，眼神吝于停留，话语更是寥寥无几"
+    "总是一副冷锋过境的样子。目光短，话更短。"
 
 # game/script day12.rpy:7607
 translate Chinese day12_decideleave_wolf_f05135f0:
 
     # "There's no way he could keep up such a cold all the time. Wolves were pack animals, right? But you aren't exactly in the mood to try and divine whatever could be behind all that black fur. It wasn't like he'd ever tried to fit in."
-    "他不可能一辈子都这般冷若冰霜，狼群居相伴本就如此，但你眼下没心思去揣测他孤傲外表下的隐情，他向来也从不愿刻意迁就"
+    "他不可能一直这么冷冰冰的。狼是群居动物，对吧？可你现在也没心情去揣测那身黑毛底下到底藏着什么。毕竟他从来没试着融入过。"
 
 # game/script day12.rpy:7609
 translate Chinese day12_decideleave_wolf_e58c9045:
 
     # "Still, it felt like it was worth a moment to ask his opinion. He'd always seemed more practical than the others, and versed in the wider world too."
-    "即便如此，还是值得问问他的想法，他一向比其他人更务实干练，眼界也远比众人开阔"
+    "不过，还是值得花点时间问问他的看法的。他总显得比旁人更务实，也更了解外头的世界。"
 
 # game/script day12.rpy:7611
 translate Chinese day12_decideleave_wolf_8b6d5087:
@@ -13528,7 +13529,7 @@ translate Chinese day12_decideleave_wolf_8b6d5087:
 translate Chinese day12_decideleave_wolf_77ad85f1:
 
     # w "Hm?"
-    w ""
+    w "嗯？"
 
 # game/script day12.rpy:7617
 translate Chinese day12_decideleave_wolf_f8a336bc:
@@ -13540,13 +13541,13 @@ translate Chinese day12_decideleave_wolf_f8a336bc:
 translate Chinese day12_decideleave_wolf_e61a2808:
 
     # "You ask, not really focusing on anything in particular. The subject was obvious—Wolf picked up on that."
-    ""
+    "你问道，目光并没真正落在什么具体的东西上。话题显而易见，Wolf也听出来了。"
 
 # game/script day12.rpy:7621
 translate Chinese day12_decideleave_wolf_03de4a90:
 
     # "But with how everything had worked out, you felt like he was the only one you really wanted to hear from. He was just as green a sailor as you, but he'd managed to keep his head down."
-    "事到如今你心里只想听他一个人的见解，他和你一样都是新手，却一直懂得安分守己"
+    "事到如今你心里只想听他一个人的见解，他和你一样都是新手，却一直懂得安分守己。"
 
 # game/script day12.rpy:7625
 translate Chinese day12_decideleave_wolf_8a1186e9:
@@ -13558,43 +13559,43 @@ translate Chinese day12_decideleave_wolf_8a1186e9:
 translate Chinese day12_decideleave_wolf_d8e5685c:
 
     # p "I'm not talking about the ship. It's about what comes next."
-    p "我不是在说船的事，我是想问接下来怎么办"
+    p "我说的不是船上的事。我说的是接下来。"
 
 # game/script day12.rpy:7629
 translate Chinese day12_decideleave_wolf_a03c98b5:
 
     # w "Get real, quick. You know what your mistake was here, right?"
-    w ""
+    w "现实点，赶紧的。你知道自己在这儿错在哪儿，对吧？"
 
 # game/script day12.rpy:7631
 translate Chinese day12_decideleave_wolf_cb9c14d4:
 
     # "Wolf pauses, staring into your eyes. To make sure you understood his point."
-    ""
+    "Wolf顿了顿，直视你的眼睛，确保你听懂了他的意思。"
 
 # game/script day12.rpy:7635
 translate Chinese day12_decideleave_wolf_4f3a4bda:
 
     # w "You clouded your eyes with some romantic vision of roaming the seas, and only then woke up and realized how hard it is."
-    w ""
+    w "你眼里蒙着一层在海上漂泊的浪漫幻想，然后才醒过来，意识到这有多难。"
 
 # game/script day12.rpy:7637
 translate Chinese day12_decideleave_wolf_086dd128:
 
     # w "Maybe if you'd snapped out of that, focused on the reality of what lay right in front of you, maybe you'd have made better choices."
-    w "若你当时能及时挣脱空想，专注审视眼前真切的现实，本可以做出更明智的选择"
+    w "也许你要是早点从那种幻想里清醒过来，把注意力放在眼前的现实上，也许就能做出更好的选择。"
 
 # game/script day12.rpy:7639
 translate Chinese day12_decideleave_wolf_c1cee1aa:
 
     # w "You might feel hard done by, but once you're off this ship, the ones who pushed you off aren't going to think a moment more about you."
-    w "你也许觉得自己受了委屈，可一旦被赶下船，那些排挤你的人根本不会再为你有片刻牵挂"
+    w "你也许觉得自己受了委屈，可一旦被赶下船，那些排挤你的人根本不会再为你有片刻牵挂。"
 
 # game/script day12.rpy:7641
 translate Chinese day12_decideleave_wolf_745a5a14:
 
     # w "I mean, have you even considered for a moment what Morocco is even like? I bet you expect it to be a sunnier version of home."
-    w ""
+    w "我是说，你到底有没有哪怕想过一下摩洛哥是什么样子？我打赌你觉得那就是个阳光更足的老家。。"
 
 # game/script day12.rpy:7645
 translate Chinese day12_decideleave_wolf_277645fb:
@@ -13606,115 +13607,116 @@ translate Chinese day12_decideleave_wolf_277645fb:
 translate Chinese day12_decideleave_wolf_d76039e9:
 
     # "You give him a warning hiss, taken aback by his comment. Hopefully he was just in a sour mood from the storm, but if he wanted you gone he could just say. Or stop talking."
-    "他这番话让你心头一震，立刻低嘶出声以示警告，你宁愿相信只是暴风雨让他心情糟糕，若他真想赶你走，大可直说，再不济闭口不言也好"
+    "你被他的话惊了一下，发出一声警告似的嘶声。希望他只是因为暴风雨而心情不好吧。但如果他想让你离开，大可以直说。或者干脆别说话。"
 
 # game/script day12.rpy:7649
 translate Chinese day12_decideleave_wolf_5c038b40:
 
     # w "You asked for my advice. I'm not going to sugar coat it."
-    w "是你向我征求建议的，我不会粉饰太平"
+    w "是你问我要建议的。我可不会给你裹糖衣。"
 
 # game/script day12.rpy:7651
 translate Chinese day12_decideleave_wolf_44f7101e:
 
     # p "I'm not that naive. I know it's nothing like home, but I wasn't exactly given a choice on where I'd be stepping off now. So if you have some actually helpful advice that I can use in the future..."
-    p "我没那么天真，我清楚那里和家乡天差地别，可我根本没得选，只能在这儿下船，所以你若有真正管用，往后能用得上的建议……"
+    p "我没那么天真。我知道那里跟老家一点都不像，可我现在在哪儿下船，也由不得我选。所以你要是真有什么将来用得上的建议……"
 
 # game/script day12.rpy:7653
 translate Chinese day12_decideleave_wolf_6eacf95e:
 
     # w "Well, I can't say I know much more than you. I know the Barbary pirates used to sail from those shores, but that's mostly died out by now, I think."
-    w "其实我也不比你了解多少，我只知道巴巴里海盗从前常在那片海域出没，但我觉得那股匪势如今差不多已经没落绝迹了"
+    w "嗯，我可说不上比你多懂多少。我知道巴巴里海盗以前从那些海岸出航，但我觉得到现在基本已经没落了。"
+    #https://en.wikipedia.org/wiki/Barbary_corsairs
 
 # game/script day12.rpy:7657
 translate Chinese day12_decideleave_wolf_a0e8873c:
 
     # w "Not that I'd think you'd be that naive to try and join up with them."
-    w "当然我也不认为你会天真到想去加入他们"
+    w "倒不是说我以为你会天真到想去投奔他们。"
 
 # game/script day12.rpy:7659
 translate Chinese day12_decideleave_wolf_6373a6d4:
 
     # "Wolf smirked."
-    "Wolf讥讽地笑了笑"
+    "Wolf扯了扯嘴角。"
 
 # game/script day12.rpy:7661
 translate Chinese day12_decideleave_wolf_19af7edb:
 
     # p "Don't think anything like that is my intention for even a second."
-    p "你千万别多想，我从来就没有过那种想法，一丝一毫都没有"
+    p "别以为我有过哪怕一秒钟那种念头。"
 
 # game/script day12.rpy:7665
 translate Chinese day12_decideleave_wolf_508328ae:
 
     # w "Yeah, I can smell that at least. But I'm sure there's dangerous people from all sorts there."
-    w "是啊，这点我至少能看得出来，但我敢笃定那里什么样的危险人物都有"
+    w "是啊，至少这个我闻得出来。不过我敢说那儿什么样危险的人都有。"
 
 # game/script day12.rpy:7667
 translate Chinese day12_decideleave_wolf_dae5b4a8:
 
     # w "You need to get sharp at spotting how the world is, what you need from it to get where you want to go. Otherwise, they'll just take advantage of you at best, I'm sure, because you should know everyone else is trying to get where they want to go too."
-    w "你必须练得眼明心亮，看透世事本质，想清楚要凭什么立足才能走到自己想去的地方,否则往轻了说，只会被人肆意利用,你要记住，每个人都在为自己的前路盘算，没人会为你停留"
+    w "你得练出眼力，看清世界是什么样，明白自己要从它那儿得到什么，才能去到想去的地方。否则，他们顶多会利用你，我敢肯定，因为你该知道，别人也都在往自己想去的地方奔。"
 
 # game/script day12.rpy:7669
 translate Chinese day12_decideleave_wolf_2eb3fb58:
 
     # w "Tough luck if you happen to be in their way."
-    w "如果你刚好挡了他们的路，那只能算你倒霉"
+    w "你要是正好挡了他们的路，那就自认倒霉吧。"
 
 # game/script day12.rpy:7671
 translate Chinese day12_decideleave_wolf_8954de92:
 
     # "He sighs and shakes his head, the sound half-like a mournful howl. Almost like he'd been itching for the chance to sing for weeks on end."
-    "他轻叹着摇了摇头，那声息带着几分哀戚，近似悲嚎,仿佛好几周以来，他一直憋着心思，就等着这一刻放声抒怀"
+    "他叹了口气，摇摇头，那声音半像一声哀伤的嚎叫。几乎像是他憋了好几周，早痒痒着想唱上一嗓子。"
 
 # game/script day12.rpy:7673
 translate Chinese day12_decideleave_wolf_de8f5a35:
 
     # w "You can bet there'll be much harder men than Arthur that you'll have to deal with when you make land."
-    w ""
+    w "你可以打赌，等你上岸，要应付的人里会有比Arthur难缠得多的家伙。"
 
 # game/script day12.rpy:7675
 translate Chinese day12_decideleave_wolf_042a194c:
 
     # "He pauses for a moment, sniffing."
-    "他停顿片刻，嗅了嗅"
+    "他停了一下，嗅了嗅。"
 
 # game/script day12.rpy:7679
 translate Chinese day12_decideleave_wolf_a786d0f9:
 
     # w "I mean, do you even have a plan when you get there?"
-    w "我是说，你到了那儿之后，到底有没有计划？"
+    w "我是说，你到了那儿，到底有没有个计划？"
 
 # game/script day12.rpy:7686
 translate Chinese day12_decideleave_wolf_1379bc67:
 
     # "Instead, you go back to focusing on your surroundings. It feels like the storm might be easing, giving more of a respite even if the rain continued unabated."
-    "你转而将注意力放回四周，风暴仿佛正在减弱，即便大雨依旧下个不停，局势总算稍稍得以喘息"
+    "于是你重新留意起四周。风暴似乎正在减弱，哪怕雨势丝毫不减，也总算让人多喘了口气。"
 
 # game/script day12.rpy:7688
 translate Chinese day12_decideleave_wolf_8ef85aec:
 
     # "Wolf remains silent as you consider his question. You have some ideas, more or less fleshed out on a feeling rather than any knowledge of what might actually lie ahead."
-    "你思忖着他的问题，Wolf一言不发静静等候，你心里已有一些打算，大致有了雏形，全然依靠直觉感受，并非真正了解前路等待着什么"
+    "Wolf沉默着，你则思量着他的问题。你有些想法，多少已经有了轮廓，但更多是凭感觉拼出来的，而不是因为了解前方究竟有什么。"
 
 # game/script day12.rpy:7690
 translate Chinese day12_decideleave_wolf_9b6fa10d:
 
     # "Perhaps you'd take some time to see the sights. Even if it was an exile, the way Bandile had spoken about the bazaars and spice markets made your imagination coil in delight."
-    "或许你可以抽空逛逛当地风景，即便此行形同放逐，可Bandile口中的集市与香料街市仍让你不由得心生向往"
+    "也许你会花点时间看看风景。就算这是流放，Bandile说起那些集市和香料市场时的样子，也让你的想象愉悦地翻腾起来。"
 
 # game/script day12.rpy:7692
 translate Chinese day12_decideleave_wolf_8245be9a:
 
     # "Practically, you're sure that you could at least find another ship taking hands. Apply some of what you'd learned and keep your head down until eventually you could maybe find your way... home?"
-    "实际点说，你至少能再找到一艘招人上船的船只，用上你学到的本事，低调做人，安稳度日，熬到最后，或许总能找到回去的路……回到家乡？"
+    "实际点说，你确信至少还能找到另一艘招水手的船。用上你学到的一些本事，低头干活，直到最终也许能找到回去的路……回家？"
 
 # game/script day12.rpy:7694
 translate Chinese day12_decideleave_wolf_171594f0:
 
     # "You weren't sure about that last bit, but the rest of it seemed sound."
-    "至于最后那点期许，你并不确定能否实现，但其余的打算都还算切实靠谱"
+    "最后那一点你不太确定，但其余部分听起来还算靠谱。"
 
 # game/script day12.rpy:7698
 translate Chinese day12_decideleave_wolf_f2ebd1c5:
@@ -13726,37 +13728,37 @@ translate Chinese day12_decideleave_wolf_f2ebd1c5:
 translate Chinese day12_decideleave_wolf_ee22673f:
 
     # "You still tell Wolf—in small details at least—given the way he'd pricked his ears up at you in expectation. But you leave out your ambivalence about home, and add a final question."
-    "他早已竖起耳朵，满眼期待等着你的答复，你便拣了些细节如实说与他听，却刻意略过自己对回乡的矛盾心绪，最后又抛出了一个问题"
+    "你还是告诉了Wolf——至少讲了些细枝末节——毕竟他竖起耳朵，满怀期待地望着你。但你略去了自己对“家”的矛盾心情，最后又加了一个问题。"
 
 # game/script day12.rpy:7707
 translate Chinese day12_decideleave_wolf_12195d04:
 
     # p "Why don't you come ashore, too?"
-    p "你为什么不也上岸呢？"
+    p "你为什么不也一起上岸呢？"
 
 # game/script day12.rpy:7711
 translate Chinese day12_decideleave_wolf_5191b6ee:
 
     # w "You're doing it again. Not learning. Talking, not listening."
-    w "你又来了，不长记性，只说不听"
+    w "你又来了。就是不长记性。光顾着说，不肯听。"
 
 # game/script day12.rpy:7713
 translate Chinese day12_decideleave_wolf_b91e73d1:
 
     # "Wolf growled, frustrated at repeating himself."
-    "Wolf低吼着，对自己不得不重复感到沮丧"
+    "Wolf低吼了一声，对自己不得不重复一遍感到恼火。"
 
 # game/script day12.rpy:7715
 translate Chinese day12_decideleave_wolf_e5cdbbbc:
 
     # w "It should be clear to you that's not something I'm considering."
-    w "你应该很清楚，那不是我考虑的事情"
+    w "你应该很清楚，我根本没在考虑这种事。"
 
 # game/script day12.rpy:7717
 translate Chinese day12_decideleave_wolf_e696c819:
 
     # p "You're just here for the money, right? But surely there's better paying ships there."
-    p "你留下来只是为了钱吧？那一带明明有薪水更高的船只可以投奔"
+    p "你只是为了钱才待在这儿，对吧？可那儿肯定有给钱更多的船。"
 
 # game/script day12.rpy:7719
 translate Chinese day12_decideleave_wolf_58402d2a:
@@ -13768,37 +13770,37 @@ translate Chinese day12_decideleave_wolf_58402d2a:
 translate Chinese day12_decideleave_wolf_fd147e8c:
 
     # p "But you can get money from many places, I bet."
-    p "但我敢打赌，很多地方都能挣到钱"
+    p "可挣钱的地方多的是，我敢说。"
 
 # game/script day12.rpy:7723
 translate Chinese day12_decideleave_wolf_02a2be28:
 
     # "From what you'd come to know of Wolf, even in your twelve short days with him, it was clear he could handle himself just about anywhere. Money... felt like a convenient reason."
-    "虽说与Wolf相识仅有短短十二天，你早已看得明白，他无论到哪儿都能应付自如，至于钱……不过是个顺手找来的敷衍理由"
+    "从你对Wolf的了解来看——哪怕只和他相处了短短十二天——很明显，他在哪儿都能照应好自己。钱……感觉只是个方便的说辞。"
 
 # game/script day12.rpy:7725
 translate Chinese day12_decideleave_wolf_5475771f:
 
     # p "Be real with me, at least once, Wolf."
-    p "跟我说说实话吧，哪怕就一次，Wolf"
+    p "跟我说句实话吧，哪怕就一次，Wolf。"
 
 # game/script day12.rpy:7729
 translate Chinese day12_decideleave_wolf_d89339fd:
 
     # p "I've done you some favor in the past. I think I've earned a bit of earnestness from you, don't you think?"
-    p "我以往帮过你不少忙，按理来说，你也该对我坦诚以待了吧？"
+    p "我以前帮过你一些忙。我觉得自己该从你这儿换来一点真心话，你不觉得吗？"
 
 # game/script day12.rpy:7733
 translate Chinese day12_decideleave_wolf_436ddca1:
 
     # w "Showing your ass when you lost the dice game wasn't what I'd call a favor."
-    w "你玩骰子输了当场狼狈失态，这可根本算不上帮过我的人情"
+    w "你掷骰子输了以后丢人现眼，我可不会管那叫帮了我的忙。"
 
 # game/script day12.rpy:7735
 translate Chinese day12_decideleave_wolf_3bf0ea8e:
 
     # "You look away in shame at having that moment being brought back up again..."
-    "被人重提那桩尴尬往事，你满脸羞惭，下意识别过脸移开视线"
+    "那段糗事被重新翻出来，你羞得移开了目光……"
 
 # game/script day12.rpy:7737
 translate Chinese day12_decideleave_wolf_3f3a7be1:
@@ -13810,7 +13812,7 @@ translate Chinese day12_decideleave_wolf_3f3a7be1:
 translate Chinese day12_decideleave_wolf_8d8b6c2c:
 
     # w "Which you only did because you hoped to get something out of it."
-    w "你当初那么做，本来就只是想从中谋取一些利益而已"
+    w "你那么做，不过是希望从中得到点什么。"
 
 # game/script day12.rpy:7743
 translate Chinese day12_decideleave_wolf_774bdf1f:
@@ -13822,7 +13824,7 @@ translate Chinese day12_decideleave_wolf_774bdf1f:
 translate Chinese day12_decideleave_wolf_51ffc9c6:
 
     # p "Fixing your shirt for one."
-    p "比如帮你补衬衫"
+    p "比如帮你补衬衫。"
 
 # game/script day12.rpy:7749
 translate Chinese day12_decideleave_wolf_0e514c36:
@@ -13834,13 +13836,13 @@ translate Chinese day12_decideleave_wolf_0e514c36:
 translate Chinese day12_decideleave_wolf_67c89a68:
 
     # w "That was because you lost a bet, not because of your good nature."
-    w ""
+    w "那是因为你输掉了一场赌局，不是因为你心地善良。"
 
 # game/script day12.rpy:7753
 translate Chinese day12_decideleave_wolf_91fa4e65:
 
     # w "And I remember you bemoaning it at the time."
-    w "而且我记得你当时还抱怨来着"
+    w "而且我记得你当时还抱怨来着。"
 
 # game/script day12.rpy:7755
 translate Chinese day12_decideleave_wolf_3074caf7:
