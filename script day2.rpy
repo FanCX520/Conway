@@ -845,7 +845,7 @@ translate Chinese day_2_morningshift_ddb3b4fb_2:
 translate Chinese day_2_morningshift_1b69b9ac:
 
     # "He empties it low to the deck and wets the next part of it for you, sending the water in a small wave across the wooden floor."
-    ""
+    "他将水壶贴近甲板倒空，又帮你往旁边一块区域浇了些水，水流随之在木地板上荡开，形成一道小小的水波。"
 
 # game/script day2.rpy:492
 translate Chinese day_2_morningshift_437de20f:
@@ -965,7 +965,7 @@ translate Chinese day_2_morningshift_bfeac925:
 translate Chinese day_2_morningshift_36649e84:
 
     # w "What?! I'd rather not."
-    w ""
+    w " 什么？！我不要。"
 
 # game/script day2.rpy:596
 translate Chinese day_2_morningshift_d9c9821e:
@@ -1091,7 +1091,7 @@ translate Chinese day_2_morningshift_89c426aa:
 translate Chinese day_2_morningshift_6aa85af7:
 
     # p "To become a sailor at your age for no other reason than money...{w} Money which isn't that noteworthy of an amount in the first place."
-    p ""
+    p "但你这年纪去当水手却只是为了钱...{w}况且这钱也没多少。"
 
 # game/script day2.rpy:667
 translate Chinese day_2_morningshift_258c822f:
@@ -1139,7 +1139,7 @@ translate Chinese day_2_morningshift_984517fd:
 translate Chinese day_2_morningshift_96365938:
 
     # w "I don't think you realize what a privileged position you are in.{w} With your parents waving you goodbye on the shore as you leave them to do your thing. Ready to catch you at any moment."
-    w "你真是身在福中不知福。{w} 你看看你，爹妈在岸上跟你挥手告别，让你自己出来闯荡，还随时准备接你回家。"
+    w "你真是身在福中不知福。{w} 你看看你，爹妈在岸上跟你挥手告别，让你自己出来一个人闯荡，还随时可以准备接你回家。"
 
 # game/script day2.rpy:688
 translate Chinese day_2_morningshift_b9296778:
@@ -1151,7 +1151,7 @@ translate Chinese day_2_morningshift_b9296778:
 translate Chinese day_2_morningshift_7d0e9d28:
 
     # s "He's right though. Nothing against you of course, you can't choose your position in life any more than anyone else can."
-    s ""
+    s "不过他说得也没错。当然，我不是针对你。谁也没法选择自己的出身。"
 
 # game/script day2.rpy:695
 translate Chinese day_2_morningshift_8473075f:
@@ -1301,7 +1301,7 @@ translate Chinese day_2_morningshift_7669addc:
 translate Chinese day_2_morningshift_2d9ba112:
 
     # w "And you might all get your badly played 30 second long fife concert."
-    w ""
+    w "到时候你们说不定就能听到我这蹩脚的30秒短笛演奏会了。"
 
 # game/script day2.rpy:788
 translate Chinese day_2_morningshift_f04056dd:
@@ -1337,415 +1337,415 @@ translate Chinese day_2_morningshift_7e7cb51a:
 translate Chinese day_2_morningshift_38e305b2:
 
     # "Your chances probably aren't great that you'll ever get to hear him play..."
-    ""
+    " 估计你这辈子都没啥机会听到他演奏了..."
 
 # game/script day2.rpy:818
 translate Chinese day_2_morningshift_289a4a2c:
 
     # s "I never touched an instrument in my life, so anyone who can play anything appears like a magician to me."
-    s ""
+    s "我这辈子都没碰过乐器，所以在我看来，会乐器的人都跟魔法师一样。"
 
 # game/script day2.rpy:828
 translate Chinese day_2_morningshift_6e3ee3b5:
 
     # j "Never even touched one?"
-    j ""
+    j "一次都没碰过？"
 
 # game/script day2.rpy:837
 translate Chinese day_2_morningshift_9daf8cf3:
 
     # s "No, never. Have you?"
-    s ""
+    s "一次都没有。你碰过吗？"
 
 # game/script day2.rpy:846
 translate Chinese day_2_morningshift_741f1414:
 
     # j "Of course. The fife too, actually. It's small enough to hide, which comes in handy..."
-    j ""
+    j "当然。我还真会吹横笛，而且它够小，方便藏..."
 
 # game/script day2.rpy:848
 translate Chinese day_2_morningshift_488276c1:
 
     # j "You've really never even touched one?"
-    j ""
+    j "你真的连碰都没碰过？"
 
 # game/script day2.rpy:850
 translate Chinese day_2_morningshift_50287f5c:
 
     # "He tilts his head to the side as he asks once again."
-    ""
+    "他歪着头，又问了一遍。"
 
 # game/script day2.rpy:859
 translate Chinese day_2_morningshift_257b8318:
 
     # s "No, Julian. Do ya know how expensive instruments are?{w} Not everyone grows up like you."
-    s ""
+    s "Julian，你知道乐器有多贵吗？{w} 又不是所有人都能像你一样，在蜜罐里长大。"
 
 # game/script day2.rpy:861
 translate Chinese day_2_morningshift_07df792a:
 
     # s "In fact, most don't, if your dad is as high ranking as you made him sound."
-    s ""
+    s "事实上，要是你爹真像你说的那样位高权重，那大多数人都和你不一样。"
 
 # game/script day2.rpy:863
 translate Chinese day_2_morningshift_490f7bb7:
 
     # s "For many of us we had to work to support the families we grew up in. I know I did, and [name] has mentioned his family's homestead."
-    s ""
+    s "我们大多数人都得挣钱养家糊口。我就是，[name]也提到过他家的农场。"
 
 # game/script day2.rpy:867
 translate Chinese day_2_morningshift_dc7606bf:
 
     # s "It doesn't leave a lot of time for leisurely fancies like instruments. Not to mention finding someone to teach ya in the first place."
-    s ""
+    s "哪有时间学乐器这种闲情逸致。更别说还得找人教你。"
 
 # game/script day2.rpy:869
 translate Chinese day_2_morningshift_0ef41a86:
 
     # w "That's true. It does sound like you grew up in a pretty privileged environment."
-    w ""
+    w "说的也是。听着你以前的生活条件挺优越啊。"
 
 # game/script day2.rpy:878
 translate Chinese day_2_morningshift_f082c053:
 
     # j "I guess I never thought of it that way."
-    j ""
+    j "我倒从没这么想过。"
 
 # game/script day2.rpy:880
 translate Chinese day_2_morningshift_5c1ac73e:
 
     # "Julian thinks quietly for a moment."
-    ""
+    "Julian安静地想了想。"
 
 # game/script day2.rpy:882
 translate Chinese day_2_morningshift_1d1c332f:
 
     # p "Why'd you have to hide them? Did you grow up in a house with unruly siblings?"
-    p ""
+    p "你干嘛藏着它们？你小时候家里是不是有熊孩子啊？"
 
 # game/script day2.rpy:884
 translate Chinese day_2_morningshift_10c5ea61:
 
     # p "Always going after your things and handling with the utter disregard for it that only siblings can?"
-    p ""
+    p "就是那种老是抢你东西，还死活不当回事的熊孩子？"
 
 # game/script day2.rpy:888
 translate Chinese day_2_morningshift_268e1a2d:
 
     # "He snaps out of his contemplation and leans against the nearby railing."
-    ""
+    "他从沉思中回过神，靠在了旁边的栏杆上。"
 
 # game/script day2.rpy:890
 translate Chinese day_2_morningshift_b8f72b52:
 
     # j "No, it was my father. He didn't approve of such \"unmanly\" things as making music."
-    j ""
+    j "不，是我父亲。他看不惯玩音乐这种“娘娘腔”的玩意儿。"
 
 # game/script day2.rpy:892
 translate Chinese day_2_morningshift_95121e86:
 
     # "Immediately you feel a pang of guilt for delving into the subject."
-    ""
+    "一问到这个，你立马觉得有点内疚。"
 
 # game/script day2.rpy:894
 translate Chinese day_2_morningshift_043bf40e:
 
     # j "I always wanted to play the violin instead, but you can't really stuff a violin into the hole of a tree trunk."
-    j ""
+    j "我倒是想拉小提琴来着，可没法把小提琴塞进树洞里啊。"
 
 # game/script day2.rpy:896
 translate Chinese day_2_morningshift_66303d55:
 
     # j "A fife is cheap enough that I was able to buy one with my own money without anyone noticing or asking about the money.{w} And it's small enough to hide."
-    j ""
+    j "短笛挺便宜的，我攒了点钱，偷偷摸摸就买了，谁也没注意，也没人问钱的事儿。{w} 而且它够小，能藏起来。"
 
 # game/script day2.rpy:900
 translate Chinese day_2_morningshift_cdbf0f8b:
 
     # "You must look a bit awkward as you try to find the right moment to speak up while Julian was talking."
-    "Julian说话时，你试图找到合适的时机插话，那模样想必有些局促。"
+    "看Julian在那儿叭叭，你瞅准机会想插话，样子肯定挺局促的。"
 
 # game/script day2.rpy:902
 translate Chinese day_2_morningshift_849f6222:
 
     # p "I'm sorry. You had your own troubles, it sounds like."
-    p ""
+    p "抱歉啊。听上去你也有你的难处。"
 
 # game/script day2.rpy:904
 translate Chinese day_2_morningshift_0f2c8cee:
 
     # p "It wasn't my intention to belittle them."
-    p ""
+    p "我不是想贬低你的意思。"
 
 # game/script day2.rpy:908
 translate Chinese day_2_morningshift_addb81f3:
 
     # "Julian returns a smile to you."
-    ""
+    "Julian对你笑了笑。"
 
 # game/script day2.rpy:910
 translate Chinese day_2_morningshift_981dcd1e:
 
     # j "It's all right."
-    j ""
+    j "没事。"
 
 # game/script day2.rpy:919
 translate Chinese day_2_morningshift_54392a66:
 
     # s "At least you managed to find a way to get 'round it."
-    s ""
+    s "至少你还是找到了门路。"
 
 # game/script day2.rpy:930
 translate Chinese day_2_morningshift_0b931678:
 
     # p "I expected nothing less from a troublemaker like you."
-    p ""
+    p "就你这捣蛋鬼，我早该想到的。"
 
 # game/script day2.rpy:934
 translate Chinese day_2_morningshift_3fc4f924:
 
     # j "Troublemaker?"
-    j ""
+    j "捣蛋鬼？"
 
 # game/script day2.rpy:936
 translate Chinese day_2_morningshift_e67846fe:
 
     # p "You know who you are.{w} Mr. Locked in the Castle's Food Storage."
-    p ""
+    p "你自己心里清楚。 城堡食品储藏室里的那位大盗。"
 
 # game/script day2.rpy:938
 translate Chinese day_2_morningshift_4c5c1d1f:
 
     # p "\"We stuffed ourselves all night long\" and \"Took a bite out of everything within reach.\""
-    p ""
+    p "“我们可吃了一整个晚上”，还“逮着什么啃什么”。"
 
 # game/script day2.rpy:940
 translate Chinese day_2_morningshift_b16cc555:
 
     # "You rattle off the bits of the story that have stuck in your memory."
-    ""
+    "你七零八落地回忆着那些还记得的片段。"
 
 # game/script day2.rpy:944
 translate Chinese day_2_morningshift_c5d5b0ba:
 
     # j "Look. That is not being a troublemaker. What that is, is just making the most of an opportunity!"
-    j ""
+    j "喂，我说。那可不是捣蛋。那叫充分利用机会！"
 
 # game/script day2.rpy:948
 translate Chinese day_2_morningshift_5bc4eeec:
 
     # "He replies and flicks the tip of his tail excitedly behind him across the wooden floor."
-    ""
+    "他一边说着，一边兴奋地用尾巴尖扫着木地板。"
 
 # game/script day2.rpy:950
 translate Chinese day_2_morningshift_63daf115:
 
     # j "The troublemaker part is only attached to it when the adults catch you and spoil the fun."
-    j ""
+    j "只有大人抓住你，坏了你的好事儿，你才会被叫做捣蛋鬼。"
 
 # game/script day2.rpy:959
 translate Chinese day_2_morningshift_7eed8994:
 
     # s "Very true."
-    s ""
+    s "确实是这样。"
 
 # game/script day2.rpy:961
 translate Chinese day_2_morningshift_ed49d7de:
 
     # s "But you were asking for it."
-    s ""
+    s "但你也是自找的。"
 
 # game/script day2.rpy:963
 translate Chinese day_2_morningshift_1a19eb39:
 
     # p "And paid the price."
-    p ""
+    p "结果也付出了代价。"
 
 # game/script day2.rpy:973
 translate Chinese day_2_morningshift_be57d642:
 
     # w "Did he get his ass beaten?"
-    w ""
+    w "他屁股开花了吗？"
 
 # game/script day2.rpy:975
 translate Chinese day_2_morningshift_9cb14a76:
 
     # "Wolf jumps in with what sounds perhaps a little too much eagerness."
-    ""
+    "Wolf一听这话，立马跳出来，听着还挺兴奋。"
 
 # game/script day2.rpy:977
 translate Chinese day_2_morningshift_bb0eb3b2:
 
     # w "Please tell me he got his ass beaten."
-    w ""
+    w "告诉我，他是不是被打得满地找牙了？"
 
 # game/script day2.rpy:981
 translate Chinese day_2_morningshift_5e1d6b18:
 
     # j "Wolf, no. You weren't there when I told the story. You don-"
-    j ""
+    j "Wolf，别闹。你又没听我讲故事。你——"
 
 # game/script day2.rpy:986
 translate Chinese day_2_morningshift_dd61efa1:
 
     # p "Oh you bet! It was what we were waiting for all story long!"
-    p "当然在！"
+    p "那当然！我们等的就是这个！"
 
 # game/script day2.rpy:988
 translate Chinese day_2_morningshift_871b4f7c:
 
     # p "I would have felt robbed of my valuable time if the ending would have been any different."
-    p ""
+    p "如果结局不是这样，我宝贵的时间就白费了。"
 
 # game/script day2.rpy:993
 translate Chinese day_2_morningshift_1fad932a:
 
     # "Wolf looks ever so pleased when he hears that."
-    ""
+    "Wolf 听了这话，得意洋洋的。"
 
 # game/script day2.rpy:998
 translate Chinese day_2_morningshift_93440d49:
 
     # w "At least others get to fulfill my dreams."
-    w ""
+    w "至少我的梦想能让别人实现。"
 
 # game/script day2.rpy:1002
 translate Chinese day_2_morningshift_12b7f8a7:
 
     # j "Stop being so cruel to me, Wolf!"
-    j ""
+    j "别这么损我，Wolf！"
 
 # game/script day2.rpy:1007
 translate Chinese day_2_morningshift_62e09fa0:
 
     # "Wolf smirks with a glimpse of his teeth showing through his lips."
-    ""
+    "Wolf 嘴角一勾，露出一丝坏笑。"
 
 # game/script day2.rpy:1009
 translate Chinese day_2_morningshift_8506c693:
 
     # w "If you'd stop being such an idiot then maybe I wouldn't have to wish for it."
-    w ""
+    w "你要是不那么蠢，我就不用盼着他倒霉了。"
 
 # game/script day2.rpy:1019
 translate Chinese day_2_morningshift_d916f1b6:
 
     # p "Speaking of idiot though."
-    p ""
+    p "说到蠢货。"
 
 # game/script day2.rpy:1025
 translate Chinese day_2_morningshift_b58dd64f:
 
     # j "Not you too."
-    j ""
+    j "不是吧你也？"
 
 # game/script day2.rpy:1027
 translate Chinese day_2_morningshift_d7214cbc:
 
     # p "Could you not play something, Julian?"
-    p ""
+    p "Julian，你就不能消停会儿吗？"
 
 # game/script day2.rpy:1037
 translate Chinese day_2_morningshift_bac14895:
 
     # p "Speaking of which.{w} Could you not play something, Julian?"
-    p ""
+    p "说起来。{w} Julian，你就不能消停会儿吗？"
 
 # game/script day2.rpy:1048
 translate Chinese day_2_morningshift_bac14895_1:
 
     # p "Speaking of which.{w} Could you not play something, Julian?"
-    p ""
+    p "说起来。{w} Julian，你就不能消停会儿吗？"
 
 # game/script day2.rpy:1052
 translate Chinese day_2_morningshift_c9f37838:
 
     # j "I suppose I could. If Wolf is fine with it?"
-    j ""
+    j "倒也不是不行。Wolf 没意见吧？"
 
 # game/script day2.rpy:1065
 translate Chinese day_2_morningshift_15bac0cb:
 
     # "You turn around to Wolf to hear what he thinks of it."
-    ""
+    "你转头看向 Wolf，想听听他的意见。"
 
 # game/script day2.rpy:1067
 translate Chinese day_2_morningshift_c58b7305:
 
     # "You can tell from his expression that he doesn't seem all too sure about it."
-    ""
+    "看他的表情，好像不太情愿。"
 
 # game/script day2.rpy:1069
 translate Chinese day_2_morningshift_ea4c83c6:
 
     # p "Just for a minute."
-    p ""
+    p "就一小会儿。"
 
 # game/script day2.rpy:1074
 translate Chinese day_2_morningshift_594387c9:
 
     # w "Fine..."
-    w ""
+    w "行吧..."
 
 # game/script day2.rpy:1078
 translate Chinese day_2_morningshift_a2cf40e2:
 
     # "He reaches into the pocket on the side of his trousers and takes out the instrument."
-    ""
+    "他伸手进口袋，掏出了那支短笛。"
 
 # game/script day2.rpy:1080
 translate Chinese day_2_morningshift_7c87bd7e:
 
     # w "Here. Just... be careful with it."
-    w ""
+    w "拿着。小心点。"
 
 # game/script day2.rpy:1089
 translate Chinese day_2_morningshift_b00df0d7:
 
     # "Julian takes the offered fife and looks at it more closely. He turns it between his fingers to get a view of every side."
-    ""
+    "Julian 接过短笛，仔细端详。他用手指转动着，细细打量。"
 
 # game/script day2.rpy:1091
 translate Chinese day_2_morningshift_5e4ace8e:
 
     # j "Of course."
-    j ""
+    j "当然。"
 
 # game/script day2.rpy:1095
 translate Chinese day_2_morningshift_70a06223:
 
     # j "It looks really nice.{w} You've taken good care of it."
-    j ""
+    j "真漂亮。{w} 你保养得真好。"
 
 # game/script day2.rpy:1106
 translate Chinese day_2_morningshift_b715e8df:
 
     # "Wolf doesn't stop watching Julian for even a second, but some of the tension in his body appears to dissipate at the compliment."
-    ""
+    "Wolf 眼睛一眨不眨地盯着 Julian，但听到夸奖，身体的紧绷似乎放松了些。"
 
 # game/script day2.rpy:1108
 translate Chinese day_2_morningshift_8ba3cd84:
 
     # w "Of course."
-    w ""
+    w "当然。"
 
 # game/script day2.rpy:1110
 translate Chinese day_2_morningshift_d0f6e239:
 
     # j "It certainly looks a lot nicer than the one I've got.{w} They're simple instruments usually, so it's nice to see one with some detail."
-    j ""
+    j "确实比我的那支好多了。{w} 短笛这玩意儿通常都很朴素，难得看到这么精致的。"
 
 # game/script day2.rpy:1112
 translate Chinese day_2_morningshift_613858a9:
 
     # "He let his claw run along one of the decorative lines stamped into the metal."
-    ""
+    "他的爪子轻轻划过压在金属上的装饰纹路。"
 
 # game/script day2.rpy:1114
 translate Chinese day_2_morningshift_8c1f6c8d:
 
     # "Every now and then the tip of it catches in the lines and is guided along them."
-    ""
+    "爪尖偶尔会卡在线条里，顺着纹路滑动。"
 
 # game/script day2.rpy:1116
 translate Chinese day_2_morningshift_de4a10ab:
@@ -1757,343 +1757,343 @@ translate Chinese day_2_morningshift_de4a10ab:
 translate Chinese day_2_morningshift_e92f26ec:
 
     # "After a visual inspection Julian raises the instrument to his mouth, he takes a breath and begins to blow over it gently."
-    ""
+    "仔细观察了一番后，Julian 将短笛放到嘴边，深吸一口气，轻轻吹了起来。"
 
 # game/script day2.rpy:1120
 translate Chinese day_2_morningshift_341cf9cc:
 
     # "He tries one or two notes at first, just to get a feel for it. All under the watchful eyes of the three of you."
-    ""
+    "他先试着吹了一两个音，找找感觉。你们三个都目不转睛地看着他。"
 
 # game/script day2.rpy:1122
 translate Chinese day_2_morningshift_bdba2c55:
 
     # "When he seems comfortable enough he begins to play in earnest. Fingers dancing along the length of the instrument."
-    ""
+    "感觉差不多了，他就认真地吹奏起来。手指在短笛上飞快地跳动。"
 
 # game/script day2.rpy:1127
 translate Chinese day_2_morningshift_dc4a1470:
 
     # "The tone is rather shrill at first, but he adjusts his playing until he manages to soften it."
-    ""
+    "一开始音调有些刺耳，但他调整了一下指法，总算让声音柔和了下来。"
 
 # game/script day2.rpy:1131
 translate Chinese day_2_morningshift_b33a11ab:
 
     # "Immediately the lizard appears to become one with the music he plays, finding the rhythm and soon after a subtle sway goes through his whole body."
-    ""
+    "那蜥蜴仿佛瞬间和他的音乐融为了一体，找到了节奏，全身都跟着轻轻摇摆起来。"
 
 # game/script day2.rpy:1133
 translate Chinese day_2_morningshift_a224f431:
 
     # "You don't recognize the music he plays, but it was a more simple piece. Something rather easy on the ear."
-    ""
+    "你听不出他吹的是什么曲子，不过挺简单的，听着也挺舒服。"
 
 # game/script day2.rpy:1135
 translate Chinese day_2_morningshift_067ff47e:
 
     # "Samuel catches your eye and nods respectfully. Apparently someone else who is quite impressed with some of the tricks Julian has hidden away!"
-    ""
+    "Samuel朝你看来，恭敬地点了点头。看来他也对Julian藏的那些小花招挺佩服！"
 
 # game/script day2.rpy:1137
 translate Chinese day_2_morningshift_4be0294f:
 
     # "As promised though, he stops again after playing for a little while and hands the fife back to Wolf."
-    ""
+    "不过，就像说好的那样，他吹了一小会儿就停了下来，把短笛还给了Wolf。"
 
 # game/script day2.rpy:1139
 translate Chinese day_2_morningshift_212973a8:
 
     # s "Not bad. Not bad at all!"
-    s ""
+    s "不错啊，真不错！"
 
 # game/script day2.rpy:1145
 translate Chinese day_2_morningshift_9a6fb353:
 
     # j "Thank you."
-    j ""
+    j "谢谢你。"
 
 # game/script day2.rpy:1147
 translate Chinese day_2_morningshift_1311fe48:
 
     # p "I agree! It sounded great!"
-    p ""
+    p "我也觉得！吹得太棒了！"
 
 # game/script day2.rpy:1149
 translate Chinese day_2_morningshift_364b86b8:
 
     # "Julian laughs, trying to play down just how much he appears to drink in the praise leveled at his playing."
-    ""
+    "Julian笑了笑，想掩饰自己其实对这些赞美有多么受用。"
 
 # game/script day2.rpy:1151
 translate Chinese day_2_morningshift_1124ec66:
 
     # j "Thank you. It's a silly marching song, but it's what you hear the most when you live in a fort."
-    j ""
+    j "谢谢夸奖。就是首傻乎乎的进行曲，不过住在堡垒里天天听，想忘都忘不掉。"
 
 # game/script day2.rpy:1153
 translate Chinese day_2_morningshift_9f3fa77d:
 
     # j "So I learned to play it after hearing it over and over again."
-    j ""
+    j "所以听多了，自然而然就会吹了。"
 
 # game/script day2.rpy:1157
 translate Chinese day_2_morningshift_9e9b642f:
 
     # w "You are certainly ahead of what I'm able to do with it."
-    w ""
+    w "你吹得可比我好多了。"
 
 # game/script day2.rpy:1159
 translate Chinese day_2_morningshift_f1c9c03c:
 
     # j "Ah, does that matter?{w} The fact that you learn it at all is what counts."
-    j ""
+    j "嗨，这有什么要紧的？{w} 学会了就是好事。"
 
 # game/script day2.rpy:1161
 translate Chinese day_2_morningshift_2f1fb184:
 
     # "Julian says, probably finding the first non-confrontational words he ever said to Wolf."
-    "不带火药味"
+    " Julian说道，这大概是他头一次不那么带火药味地跟Wolf说话。"
 
 # game/script day2.rpy:1163
 translate Chinese day_2_morningshift_2d965b55:
 
     # j "Especially if you have no one to teach you."
-    j ""
+    j "尤其是在没人教你的情况下。"
 
 # game/script day2.rpy:1165
 translate Chinese day_2_morningshift_4d1b68b3:
 
     # j "Are you sure you don't want to play something?"
-    j ""
+    j "你真不打算试试？"
 
 # game/script day2.rpy:1174
 translate Chinese day_2_morningshift_d9709c4f:
 
     # "Wolf still holds onto the instrument and must have been thinking about it for a moment, but decides to stash it away again."
-    ""
+    "Wolf还拿着短笛，估计是刚才一直在琢磨，但最后还是决定收起来。"
 
 # game/script day2.rpy:1179
 translate Chinese day_2_morningshift_61ca7b10:
 
     # w "I'd rather not."
-    w ""
+    w "我还是算了吧。"
 
 # game/script day2.rpy:1181
 translate Chinese day_2_morningshift_697cbad2:
 
     # p "If you can play, Julian, couldn't you teach him?"
-    p ""
+    p "Julian，既然你会吹，要不你教教他？"
 
 # game/script day2.rpy:1186
 translate Chinese day_2_morningshift_21b17e19:
 
     # "Wolf's ears snap in your direction and once again the anxiety from earlier returns across his features."
-    ""
+    "Wolf的耳朵立刻转向你这边，之前的焦虑又回到了他的脸上。"
 
 # game/script day2.rpy:1188
 translate Chinese day_2_morningshift_f379bff2:
 
     # p "If he's never had some-"
-    p ""
+    p "如果他从来没接触过..."
 
 # game/script day2.rpy:1190
 translate Chinese day_2_morningshift_adbb7ea4:
 
     # w "What?! No!" with vpunch
-    w "" with vpunch
+    w " 什么？！不要！" with vpunch
 
 # game/script day2.rpy:1192
 translate Chinese day_2_morningshift_6310eaa3:
 
     # j "I probably could."
-    j ""
+    j "我应该可以。"
 
 # game/script day2.rpy:1194
 translate Chinese day_2_morningshift_3ea2a9b3:
 
     # p "What? Why not? You're going to have a lot of time to fill.{w} So why not fill it with this?"
-    p ""
+    p "为什么不呢？反正你闲着也是闲着。{w} 不如用这个打发时间？"
 
 # game/script day2.rpy:1199
 translate Chinese day_2_morningshift_50a3a263:
 
     # "His eyebrows furrow and he hesitates for a moment."
-    ""
+    "他皱着眉头，犹豫了一下。"
 
 # game/script day2.rpy:1201
 translate Chinese day_2_morningshift_750a352c:
 
     # w "I think you are overestimating how much I would enjoy spending time with him."
-    w ""
+    w "我觉得你太看得起我了，我可不觉得跟他待在一起是件享受的事。"
 
 # game/script day2.rpy:1205
 translate Chinese day_2_morningshift_2e0c1823:
 
     # w "Or rather enduring time with him."
-    w ""
+    w "应该说是，我得忍受和他在一起的时间。"
 
 # game/script day2.rpy:1215
 translate Chinese day_2_morningshift_49fc9cf2:
 
     # j "Really?{w} I appreciate the kind words for wanting to help..."
-    j "愿意"
+    j "真的吗？{w} 感谢你好意啊..."
 
 # game/script day2.rpy:1224
 translate Chinese day_2_morningshift_d691955b:
 
     # s "I mean, have you actually stopped to listen to yourself when you're around him?"
-    s "我是说，你在围着Wolf转的时候，有没有停下来听听自己都说了什么？"
+    s "我是说，你跟他待在一起的时候，有没有好好听听自己都说了些什么？"
 
 # game/script day2.rpy:1226
 translate Chinese day_2_morningshift_2c2ba663:
 
     # s "Can't exactly blame Wolf for thinking that you'd be annoying as a teacher."
-    s ""
+    s "Wolf觉得你当老师会很烦人，这也怪不得他。"
 
 # game/script day2.rpy:1235
 translate Chinese day_2_morningshift_3f0bdb2c:
 
     # j "Just because I'm joking around every now and then doesn't mean that I can't be serious when it's needed."
-    j ""
+    j "我是偶尔会开开玩笑，但这不代表我正经不起来。"
 
 # game/script day2.rpy:1237
 translate Chinese day_2_morningshift_7dd63ec8:
 
     # "Julian's tail slithers over the ground and curls around where he is sitting."
-    ""
+    "Julian的尾巴在地上蜿蜒滑动，蜷在他坐的地方。"
 
 # game/script day2.rpy:1239
 translate Chinese day_2_morningshift_d01ce880:
 
     # j "And teaching him would be such a time."
-    j ""
+    j "而且教他得花不少时间呢。"
 
 # game/script day2.rpy:1248
 translate Chinese day_2_morningshift_b0a4de15:
 
     # s "Yeah, but who's gonna believe it?"
-    s ""
+    s "是啊，但是谁会相信呢？"
 
 # game/script day2.rpy:1257
 translate Chinese day_2_morningshift_de6be545:
 
     # j "Fine, fuck me, I guess. Nobody {i}has{/i} to.{w} I'm just making a genuine offer to help."
-    j ""
+    j "好吧，算我多管闲事。又没人{i}逼{/i}我。{w}我就是真心想帮个忙。"
 
 # game/script day2.rpy:1267
 translate Chinese day_2_morningshift_3df499f8:
 
     # s "All I'm saying is that it's understandable why he might be hesitant to take ya up on it."
-    s ""
+    s "我就是觉得，他不太好意思接受，也正常。"
 
 # game/script day2.rpy:1272
 translate Chinese day_2_morningshift_873bde43:
 
     # "Wolf speaks up with a hint of exasperation to his words."
-    ""
+    " Wolf有点不耐烦地说。"
 
 # game/script day2.rpy:1274
 translate Chinese day_2_morningshift_493b1f94:
 
     # w "Could you stop talking about me in the third person so that we can get this done here?"
-    w "能不能别用第三人称谈论我了？"
+    w "能不能别搞得好像我不在这里一样说我？赶紧干活吧。"
 
 # game/script day2.rpy:1279
 translate Chinese day_2_morningshift_01256ef1:
 
     # "Samuel already has an empty bucket ready to get more water from the sea."
-    ""
+    " Samuel已经准备好了一个空桶，准备从海里取更多的水。"
 
 # game/script day2.rpy:1281
 translate Chinese day_2_morningshift_35f67fe2:
 
     # p "That's probably for the best...I feel like I have made a mistake for even suggesting it."
-    p ""
+    p "可能还是别提的好...我真不该多嘴。"
 
 # game/script day2.rpy:1283
 translate Chinese day_2_morningshift_b87fc603:
 
     # w "You haven't."
-    w ""
+    w "你没有。"
 
 # game/script day2.rpy:1285
 translate Chinese day_2_morningshift_ce46ce70:
 
     # "Slowly Samuel drags the now filled bucket up along the outside of the hull of the ship. Once it's back in his paws he provides the rest of you with more water to soak the boards of the deck in."
-    ""
+    "Samuel费劲地把装满水的桶沿着船舷拖上来。桶一回到他手里，他就分给大家更多的水，用来冲刷甲板。"
 
 # game/script day2.rpy:1288
 translate Chinese day_2_morningshift_e1e91780:
 
     # "You feel the sting of saltwater in your eye as a drop of it splashes up and hits you."
-    ""
+    "当一滴海水溅起并击中你时，你感觉到眼睛里有海水的刺痛感。"
 
 # game/script day2.rpy:1290
 translate Chinese day_2_morningshift_74714c09:
 
     # "You raise your hand to rub your eye and continue your work of scrubbing the deck of the ship."
-    ""
+    "你抬起手揉了揉眼睛，继续擦洗船的甲板。"
 
 # game/script day2.rpy:1301
 translate Chinese day_2_morningshift_2db13885:
 
     # "As time goes on and you slowly make your way across the deck you find yourself working close to Wolf and out of earshot of the others."
-    ""
+    "渐渐地，你挪到了Wolf旁边，其他人也听不见你们说话了。"
 
 # game/script day2.rpy:1303
 translate Chinese day_2_morningshift_d1a24b89:
 
     # p "You really don't want to give him a chance?"
-    p ""
+    p "你真的不想给他一个机会吗？"
 
 # game/script day2.rpy:1307
 translate Chinese day_2_morningshift_5fc660f1:
 
     # "It takes a while before Wolf answers, but you can see that he's clearly thinking about your question as he works."
-    ""
+    "Wolf过了好一会儿才吭声，看得出来他一边干活，一边琢磨你的问题。"
 
 # game/script day2.rpy:1309
 translate Chinese day_2_morningshift_c699575f:
 
     # "With an almost defeated sigh he stops and sits down to answer."
-    ""
+    "他叹了口气，好像被打败了一样，停下手里的活儿坐下来说。"
 
 # game/script day2.rpy:1313
 translate Chinese day_2_morningshift_876f110f:
 
     # w "What are you trying to accomplish here?"
-    w ""
+    w "你到底想搞什么鬼？"
 
 # game/script day2.rpy:1315
 translate Chinese day_2_morningshift_3ef5d8ec:
 
     # p "Isn't that clear? You want to learn to play the instrument. Julian can play it.{w} Is there so much of a mystery about it?"
-    p ""
+    p "这不明摆着吗？你想学乐器，Julian会吹。{w}这有什么难理解的？"
 
 # game/script day2.rpy:1317
 translate Chinese day_2_morningshift_be876c45:
 
     # p "It clearly means something to you."
-    p ""
+    p "这对你来说显然意义重大。"
 
 # game/script day2.rpy:1319
 translate Chinese day_2_morningshift_237bcf3f:
 
     # w "Yes, but..."
-    w "是的，但是……"
+    w "是，但是……"
 
 # game/script day2.rpy:1321
 translate Chinese day_2_morningshift_e92ad233:
 
     # "He glances over to Julian, who just like you two, is scooting around on his knees and more or less diligently going after his task."
-    ""
+    "他瞥了眼Julian，那家伙正和你们一样，跪在地上，吭哧吭哧地干活。"
 
 # game/script day2.rpy:1323
 translate Chinese day_2_morningshift_d850699e:
 
     # p "Did you see how he played? Or when he looked at the fife?"
-    p ""
+    p "你看到他吹笛子的时候了吗？还有他看笛子的眼神？"
 
 # game/script day2.rpy:1325
 translate Chinese day_2_morningshift_8bb4a5b1:
@@ -2105,277 +2105,277 @@ translate Chinese day_2_morningshift_8bb4a5b1:
 translate Chinese day_2_morningshift_9d51054e:
 
     # p "He clearly loves it.{w} Playing it and making music, I mean."
-    p ""
+    p " 他是真爱那玩意儿。{w}爱吹笛子，爱音乐。"
 
 # game/script day2.rpy:1329
 translate Chinese day_2_morningshift_9fbc35a3:
 
     # p "He can be a bit of an idiot, sure, but I think he seriously would enjoy having more opportunities to play."
-    p ""
+    p "当然，他可能有点傻气，但我觉得他确实会喜欢有更多发挥的机会。"
 
 # game/script day2.rpy:1333
 translate Chinese day_2_morningshift_0c4f2db1:
 
     # w "Again...what are you trying to achieve here?"
-    w ""
+    w "再说一遍...你到底想干嘛？"
 
 # game/script day2.rpy:1335
 translate Chinese day_2_morningshift_a9f104ec:
 
     # p "What are you afraid to lose?"
-    p ""
+    p "你怕失去什么？"
 
 # game/script day2.rpy:1340
 translate Chinese day_2_morningshift_102a2d32:
 
     # "The black canine remains silent and looks over to Julian once more."
-    ""
+    "那只黑犬沉默不语，又看了Julian一眼。"
 
 # game/script day2.rpy:1342
 translate Chinese day_2_morningshift_4f212639:
 
     # p "Just give it a go. Worst case, I'm wrong and you have to put up with him for 10 minutes before you've had enough."
-    p ""
+    p "试试呗。大不了我错了，你忍他十分钟就够了。"
 
 # game/script day2.rpy:1344
 translate Chinese day_2_morningshift_6657715a:
 
     # p "That's not gonna kill you, is it?"
-    p ""
+    p "又不会搞死你，不是吗？"
 
 # game/script day2.rpy:1349
 translate Chinese day_2_morningshift_3dc380cf:
 
     # "He rolls his eyes and goes back to work, and after a few moments you assume he's just doing the same old thing, trying to ignore you."
-    ""
+    "他翻了个白眼，回去干活了，你还以为他还是老样子，想不理你。"
 
 # game/script day2.rpy:1351
 translate Chinese day_2_morningshift_0bfe3679:
 
     # "But on closer inspection, you notice he looks rather deep in thought again."
-    ""
+    "但仔细观察，你发现他又陷入了沉思。"
 
 # game/script day2.rpy:1353
 translate Chinese day_2_morningshift_4436c877:
 
     # w "Maybe I could."
-    w ""
+    w "也许我可以。"
 
 # game/script day2.rpy:1355
 translate Chinese day_2_morningshift_2c65fc38:
 
     # w "Just...{w} don't make it a habit of trying to convince me, all right?"
-    w ""
+    w "就...{w}别老想着说服我，行不行？"
 
 # game/script day2.rpy:1357
 translate Chinese day_2_morningshift_e34f09e7:
 
     # "You smile warmly and your tail flicks a little more animatedly behind you."
-    ""
+    "你温柔一笑，身后的尾巴也更加欢快地摇摆起来。"
 
 # game/script day2.rpy:1359
 translate Chinese day_2_morningshift_455c0f33:
 
     # p "Only when I think it's a good idea.{w} Or did I try to push you to play it?"
-    p ""
+    p "除非我觉得主意不错。{w} 或者说，我逼你玩了？"
 
 # game/script day2.rpy:1363
 translate Chinese day_2_morningshift_0c00ced5:
 
     # w "Just what I feared...you're starting to assume you know what's best for me..."
-    w ""
+    w "真让我担心……你是不是开始自以为是，觉得什么都为我好了……"
 
 # game/script day2.rpy:1367
 translate Chinese day_2_morningshift_a8d005fc:
 
     # "Before you can respond, a call from Samuel draws your attention as the maned wolf calls you to come over."
-    ""
+    "还没等你回应，Samuel叫住了你，那只鬃狼让你过去一趟。"
 
 # game/script day2.rpy:1378
 translate Chinese day_2_morningshift_3aefd73b:
 
     # "You and Wolf do as you're told and rejoin with the other two."
-    ""
+    "你和Wolf照做，回到他们俩身边。"
 
 # game/script day2.rpy:1395
 translate Chinese day_2_morningshift_23e0d84f:
 
     # "Before he even speaks, his disagreement is clearly visible on his face."
-    ""
+    "他还没开口，脸上就写满了不赞同。"
 
 # game/script day2.rpy:1397
 translate Chinese day_2_morningshift_39beed99:
 
     # w "Why would I?"
-    w ""
+    w "我为什么要那样做？"
 
 # game/script day2.rpy:1399
 translate Chinese day_2_morningshift_d4665b44:
 
     # p "Really? It's just for a minute."
-    p ""
+    p "真的假的？就耽误一分钟。"
 
 # game/script day2.rpy:1401
 translate Chinese day_2_morningshift_f27a114c:
 
     # p "He can't exactly run off with it, can he?"
-    p ""
+    p "他又不能拿着东西跑了，对吧？"
 
 # game/script day2.rpy:1403
 translate Chinese day_2_morningshift_84789747:
 
     # s "Careful now..."
-    s ""
+    s "小心点……"
 
 # game/script day2.rpy:1405
 translate Chinese day_2_morningshift_7b91b3b3:
 
     # "Wolf bends down again and pushes the stone across the now only slightly damp deck, as most of the water has already evaporated."
-    ""
+    "Wolf又弯下腰，推着石头在甲板上擦拭，现在甲板只有一点点潮湿了，大部分水都蒸发掉了。"
 
 # game/script day2.rpy:1407
 translate Chinese day_2_morningshift_b6cd059d:
 
     # w "I don't like having lizard gunk all over it."
-    w "我不喜欢它上面沾满蜥蜴的污垢。"
+    w "我可不喜欢这玩意儿沾上蜥蜴的脏东西。"
 
 # game/script day2.rpy:1411
 translate Chinese day_2_morningshift_501c3eb4:
 
     # w "It's too important for that."
-    w ""
+    w "这东西很重要，不能弄脏了。"
 
 # game/script day2.rpy:1413
 translate Chinese day_2_morningshift_37772dba:
 
     # "Julian frowns and, like Wolf, continues to scrub the deck."
-    ""
+    "Julian皱着眉，也像Wolf一样，继续擦洗甲板。"
 
 # game/script day2.rpy:1427
 translate Chinese day_2_morningshift_120a0c95:
 
     # j "Fine. If you want to be like that, mutt."
-    j ""
+    j "行。你非要这样是吧，杂种。"
 
 # game/script day2.rpy:1434
 translate Chinese day_2_morningshift_61d2751c:
 
     # "Wolf snaps back immediately and smashes the stone he was working with on the deck." with vpunch
-    "" with vpunch
+    "Wolf立刻顶了回去，一把将手里的磨石砸在了甲板上。" with vpunch
 
 # game/script day2.rpy:1436
 translate Chinese day_2_morningshift_54536e20:
 
     # w "Yes. I'm going to be like that!"
-    w ""
+    w "没错。我就是要！"
 
 # game/script day2.rpy:1440
 translate Chinese day_2_morningshift_40115c0e:
 
     # w "Because you two do nothing but get into my business."
-    w ""
+    w "还不是因为你们两个老爱管我的事！"
 
 # game/script day2.rpy:1442
 translate Chinese day_2_morningshift_8e6e28d1:
 
     # w "And you won't fucking take no for an answer!"
-    w ""
+    w "而且你们他妈的就没想过别人说不要就算了！"
 
 # game/script day2.rpy:1444
 translate Chinese day_2_morningshift_fa72cb2a:
 
     # "He exhales audibly and looks at the holystone, as if considering flinging the thing at Julian."
-    ""
+    "他重重地呼出一口气，看着那块磨石，好像在考虑要不要把这玩意儿朝Julian扔过去。"
 
 # game/script day2.rpy:1446
 translate Chinese day_2_morningshift_299b43b2:
 
     # w "That's why."
-    w ""
+    w "这就是为什么。"
 
 # game/script day2.rpy:1448
 translate Chinese day_2_morningshift_0d313fd0:
 
     # j "Oh shut it."
-    j ""
+    j "噢，滚吧。"
 
 # game/script day2.rpy:1450
 translate Chinese day_2_morningshift_edfb2e31:
 
     # w "Now let's get this shit over with so that I can try my best to avoid you two."
-    w ""
+    w "赶紧把这破事儿弄完，我好尽量离你和这混球远点。"
 
 # game/script day2.rpy:1452
 translate Chinese day_2_morningshift_d38b82d6:
 
     # "He nods in your direction. His eyes so firmly locked with yours that you end up looking away."
-    ""
+    "他朝你点点头，眼神却死死地盯着你，你只好尴尬地移开视线。"
 
 # game/script day2.rpy:1454
 translate Chinese day_2_morningshift_86d425d8:
 
     # s "Quiet! All of you."
-    s "都给我安静"
+    s "都给我安静点！"
 
 # game/script day2.rpy:1460
 translate Chinese day_2_morningshift_61abf916:
 
     # "Samuel watches you and the other two with his arms crossed over his chest."
-    ""
+    "Samuel抱着胳膊，看着你和其他两个人。"
 
 # game/script day2.rpy:1462
 translate Chinese day_2_morningshift_57dfc03a:
 
     # "He stands up, making even his small stature look imposing from your point of view."
-    ""
+    "他站起身来，在你看来，即使是他矮小的身材也显得气势逼人。"
 
 # game/script day2.rpy:1467
 translate Chinese day_2_morningshift_756d8d9f:
 
     # s "I think you're all forgetting where we are, and while I may not have as tight a leash as Arthur, if that means that you all will act like this, then I may have to do things differently."
-    s ""
+    s "我想各位是忘了自己在哪儿了吧。我管束可能没Arthur那么严厉，但如果你们非要这样，我可就要换个方式管教你们了。"
 
 # game/script day2.rpy:1469
 translate Chinese day_2_morningshift_7dc99410:
 
     # s "Because I'm not sure how tenable it is to refrain from punishment if this is how you all end up whenever you're working together."
-    s ""
+    s "要是你们每次一起干活都这样，我可没法保证一直忍着不罚你们。"
 
 # game/script day2.rpy:1475
 translate Chinese day_2_morningshift_7964cfdd:
 
     # "He pauses to look at each of you, infusing the moment of silence with even more tension."
-    ""
+    "他停顿了一下，目光扫过你们每一个人，空气都变得更加紧张。"
 
 # game/script day2.rpy:1477
 translate Chinese day_2_morningshift_ff89f39f:
 
     # s "It's in your best interest to figure it out quick.{w} I can guarantee that."
-    s ""
+    s "我劝你们最好快点搞清楚状况，{w} 我可不是在开玩笑。"
 
 # game/script day2.rpy:1479
 translate Chinese day_2_morningshift_fbbbe5c4:
 
     # s "If it means not talking. Then ya won't talk.{w} But I won't have your disruptions escalate into fights or other disobediences."
-    s ""
+    s "要是不想说话，那就都闭嘴！{w} 我可不会让你们的瞎胡闹搞成斗殴或者其他违规行为。"
 
 # game/script day2.rpy:1481
 translate Chinese day_2_morningshift_501cca51:
 
     # s "Are we clear on that?"
-    s ""
+    s "听明白了没有？"
 
 # game/script day2.rpy:1483
 translate Chinese day_2_morningshift_02cb606c:
 
     # "He looks from one of you to the next, searching for some sign of understanding.{w} You nod your head when it's your turn."
-    ""
+    "他挨个看着你们，想从你们脸上看出是否听懂了。{w} 轮到你时，你点了点头。"
 
 # game/script day2.rpy:1485
 translate Chinese day_2_morningshift_963f7586:
 
     # "The silence lingers on until Samuel finally speaks again. Apparently satisfied for now."
-    ""
+    "沉默持续了一会儿，直到Samuel再次开口，看来暂时还算满意。"
 
 # game/script day2.rpy:1487
 translate Chinese day_2_morningshift_ae1c19a3:
@@ -2387,325 +2387,325 @@ translate Chinese day_2_morningshift_ae1c19a3:
 translate Chinese day_2_morningshift_f9b042cd:
 
     # s "Let's try it right away, shall we? I don't want to hear a word."
-    s ""
+    s "那咱们现在就开始试试？我不想听到任何声音。"
 
 # game/script day2.rpy:1491
 translate Chinese day_2_morningshift_641c2c8e:
 
     # "Not a word is said in return."
-    ""
+    "没有人回应。"
 
 # game/script day2.rpy:1493
 translate Chinese day_2_morningshift_dbe19bd2:
 
     # "Instead Samuel begins to pull up another bucket of water from the sea and empties it right in front of you."
-    ""
+    "Samuel二话不说，又从海里提了一桶水，直接泼在你面前。"
 
 # game/script day2.rpy:1497
 translate Chinese day_2_morningshift_e1e91780_1:
 
     # "You feel the sting of saltwater in your eye as a drop of it splashes up and hits you."
-    ""
+    "当一滴海水溅起并击中你时，你感觉到眼睛里有海水的刺痛感。"
 
 # game/script day2.rpy:1499
 translate Chinese day_2_morningshift_74714c09_1:
 
     # "You raise your hand to rub your eye and continue your work of scrubbing the deck of the ship."
-    ""
+    "你抬起手揉了揉眼睛，继续擦洗船的甲板。"
 
 # game/script day2.rpy:1508
 translate Chinese day_2_morningshift_27ad48f4:
 
     # j "Fine. If you want to be like that."
-    j ""
+    j "行啊，你要是想这样，那就这样吧。"
 
 # game/script day2.rpy:1510
 translate Chinese day_2_morningshift_449dbd8d:
 
     # w "Yes. I will be like that."
-    w ""
+    w "我乐意。"
 
 # game/script day2.rpy:1512
 translate Chinese day_2_morningshift_11a88389:
 
     # "Samuel begins to pull up another bucket of water from the sea and empties it right in front of you."
-    ""
+    "Samuel再次从海里提了一桶水，泼在你面前。"
 
 # game/script day2.rpy:1516
 translate Chinese day_2_morningshift_e1e91780_2:
 
     # "You feel the sting of saltwater in your eye as a drop of it splashes up and hits you."
-    ""
+    "当一滴海水溅起并击中你时，你感觉到眼睛里有海水的刺痛感。"
 
 # game/script day2.rpy:1518
 translate Chinese day_2_morningshift_03552867:
 
     # "You raise your hand to rub your eye and continue your work alongside the others."
-    ""
+    "你抬手揉了揉眼睛，继续和大家一起干活。"
 
 # game/script day2.rpy:1522
 translate Chinese day_2_morningshift_5f0cc393:
 
     # s "Be careful, all o' ya."
-    s ""
+    s "都给我小心点。"
 
 # game/script day2.rpy:1524
 translate Chinese day_2_morningshift_624faf47:
 
     # s "Ya don't have to be best friends, but be aware that active hostility is not tolerated."
-    s ""
+    s "我不指望你们能成为好朋友，但记住，我不允许你们之间有任何敌对行为。"
 
 # game/script day2.rpy:1526
 translate Chinese day_2_morningshift_a34f3c93:
 
     # s "Our superiors may not be as strict as military officers. But they won't be afraid to punish you if you cross the line."
-    s ""
+    s "我们的上级可能没有军队的长官那么严苛，但要是你们敢越界，他们可不会手下留情。"
 
 # game/script day2.rpy:1528
 translate Chinese day_2_morningshift_a40c95a8:
 
     # s "Got that?"
-    s ""
+    s "听懂了没？"
 
 # game/script day2.rpy:1533
 translate Chinese day_2_morningshift_66e43465:
 
     # "You nod in return, and both Julian and Wolf express their understanding."
-    ""
+    "你点点头，Julian和Wolf也表示明白。"
 
 # game/script day2.rpy:1537
 translate Chinese day_2_morningshift_8fdebf27:
 
     # s "Good.{w} I try not to be too strict, but as of right now you are still under my command. So I'd appreciate it if it doesn't escalate to the point where it would reflect badly on me."
-    s ""
+    s "很好。{w} 我也不想太严厉，但现在你们还是归我管。我希望你们别闹出什么事来，让我跟着倒霉。"
 
 # game/script day2.rpy:1539
 translate Chinese day_2_morningshift_b2b4cbb9:
 
     # p "Understood."
-    p ""
+    p "明白了。"
 
 # game/script day2.rpy:1541
 translate Chinese day_2_morningshift_585f89a9:
 
     # "All your voices fall silent for a while, and nothing but the scrubbing of the stone replaces them."
-    ""
+    "一时间，所有人都闭上了嘴，只剩下擦洗甲板的声音。"
 
 # game/script day2.rpy:1543
 translate Chinese day_2_morningshift_6af69ed7:
 
     # "Now and then a larger wave breaks against the bow of the ship, but nothing disruptive enough to interrupt your work."
-    ""
+    "偶尔会有大浪拍打在船头，但并不足以影响你们的工作。"
 
 # game/script day2.rpy:1547
 translate Chinese day_2_morningshift_c9d56379:
 
     # "Another bucket of seawater is emptied across the deck as you work your way along it."
-    ""
+    "又一桶海水泼洒在甲板上，你们继续擦洗着。"
 
 # game/script day2.rpy:1549
 translate Chinese day_2_morningshift_b0c98178:
 
     # "The silence continues until Julian finally breaks it."
-    ""
+    "沉默持续了一段时间，最终Julian打破了沉默。"
 
 # game/script day2.rpy:1558
 translate Chinese day_2_morningshift_9ddddd60:
 
     # j "Maybe that's what I'll spend some of the wages on."
-    j ""
+    j "也许我会用这笔工钱买点什么。"
 
 # game/script day2.rpy:1560
 translate Chinese day_2_morningshift_3d6763b4:
 
     # p "Huh?"
-    p ""
+    p "啊？"
 
 # game/script day2.rpy:1562
 translate Chinese day_2_morningshift_d17c47f1:
 
     # j "Well, a fife. When we dock at the next port."
-    j ""
+    j "嗯，买根短笛。等咱们下次靠岸的时候再说吧。"
 
 # game/script day2.rpy:1571
 translate Chinese day_2_morningshift_fc0a45b0:
 
     # s "Feeling the urge now?"
-    s ""
+    s "现在就想要了？"
 
 # game/script day2.rpy:1576
 translate Chinese day_2_morningshift_0bc0f418:
 
     # "Wolf moves away from the rest of you as you progress. Not surprising that he prefers the quieter end of the deck."
-    ""
+    "你们继续往前走，Wolf 离你们越来越远。他喜欢待在甲板安静的地方，这倒也不奇怪。"
 
 # game/script day2.rpy:1583
 translate Chinese day_2_morningshift_ddd14f92:
 
     # j "A little bit, yeah. I should have remembered to bring it..."
-    j ""
+    j "是有点。我应该记得带上的……"
 
 # game/script day2.rpy:1588
 translate Chinese day_2_morningshift_7296867a:
 
     # j "But it's too late for that now."
-    j ""
+    j "不过现在说这些都晚了。"
 
 # game/script day2.rpy:1590
 translate Chinese day_2_morningshift_b863f1d2:
 
     # j "What's the next port again? Mo-something..."
-    j ""
+    j "下个港口叫什么来着？摩……什么？"
 
 # game/script day2.rpy:1592
 translate Chinese day_2_morningshift_a762ac72:
 
     # p "Mogador.{w} In Morocco."
-    p ""
+    p "墨加多尔，在摩洛哥。"
 
 # game/script day2.rpy:1596
 translate Chinese day_2_morningshift_76692c80:
 
     # j "You really remembered that?"
-    j ""
+    j "你居然还记得？"
 
 # game/script day2.rpy:1600
 translate Chinese day_2_morningshift_1d35966f:
 
     # "You laugh and sit up from your hunched position."
-    ""
+    "你笑着坐直了身子，不再蜷缩着。"
 
 # game/script day2.rpy:1602
 translate Chinese day_2_morningshift_c8e46b46:
 
     # p "Of course. That's part of what I'm looking forward to."
-    p ""
+    p "当然，我也很期待的。"
 
 # game/script day2.rpy:1606
 translate Chinese day_2_morningshift_dc9260c8:
 
     # p "Seeing places that aren't just my home town.{w} A bit of an adventure."
-    p ""
+    p "看看家乡以外的地方嘛。也算是一场小冒险。"
 
 # game/script day2.rpy:1613
 translate Chinese day_2_morningshift_8fdcd61c:
 
     # s "Just don't get too excited.{w} Harbor districts are notorious for trying to make you part with your wages."
-    s "总会想方设法把你的"
+    s "别太激动了。港口那地方，最喜欢的就是怎么榨干你口袋里的钱。"
 
 # game/script day2.rpy:1615
 translate Chinese day_2_morningshift_45df6eaa:
 
     # s "They know exactly what you want after a few weeks out at sea, and they're happy to take the coin you're bringing along."
-    s "他们真的太懂你在海上漂泊数周之后想要什么了"
+    s "他们太清楚水手们在海上憋了几个星期后想要什么了，肯定会想方设法掏空你的钱包。"
 
 # game/script day2.rpy:1622
 translate Chinese day_2_morningshift_87fd46bc:
 
     # j "Do they have fifes over there?"
-    j ""
+    j "那边有卖短笛的吗？"
 
 # game/script day2.rpy:1629
 translate Chinese day_2_morningshift_3cf5fef1:
 
     # "Samuel needs a moment to process the question."
-    ""
+    "Samuel 愣了一下，似乎在思考这个问题。"
 
 # game/script day2.rpy:1631
 translate Chinese day_2_morningshift_eb619674:
 
     # s "Uh..."
-    s "呃..."
+    s " 嗯……"
 
 # game/script day2.rpy:1638
 translate Chinese day_2_morningshift_b3bccf4a:
 
     # j "Do they even play them over there? They might use different instruments.{w} Maybe I won't find any..."
-    j ""
+    j "他们那边会吹短笛吗？说不定用的是别的乐器呢。可能我什么都找不到……"
 
 # game/script day2.rpy:1645
 translate Chinese day_2_morningshift_7a0dd6ac:
 
     # s "Uhm... I don't know. I was talking more about taverns, brothels, expensive places to sleep... that sort of thing."
-    s ""
+    s "嗯……我不太清楚。我说的更多的是酒馆、窑子、还有那些死贵的旅馆……之类的。"
 
 # game/script day2.rpy:1652
 translate Chinese day_2_morningshift_7f1ea483:
 
     # j "Oh. Wait. Are you saying those are bad?{w} Because they sound pretty good to me?"
-    j ""
+    j "噢。等等。你是说那些地方不好吗？我听着感觉还行啊？"
 
 # game/script day2.rpy:1654
 translate Chinese day_2_morningshift_8cac2b4a:
 
     # j "Well, perhaps not the expensive beds, but brothels and taverns? What's wrong with them?"
-    j ""
+    j "算了，贵的旅馆咱不去，但窑子和酒馆怎么了？有什么问题吗？"
 
 # game/script day2.rpy:1661
 translate Chinese day_2_morningshift_29c7d5f2:
 
     # "Samuel waves the lizard off with a flick of his wrist."
-    ""
+    "Samuel 像赶苍蝇似的挥了挥手。"
 
 # game/script day2.rpy:1663
 translate Chinese day_2_morningshift_0c67f9c3:
 
     # s "I'm not telling ya how to live your life. They just know that you are who you are and that you come to the port with money to spend."
-    s ""
+    s "我又不是教你做人。他们就是知道你这种人，带着钱来港口找乐子。"
 
 # game/script day2.rpy:1670
 translate Chinese day_2_morningshift_1c635400:
 
     # j "So you're not coming along for a night full of drinks, Sam?"
-    j ""
+    j "这么说，你是不打算跟我们一起去喝个痛快了，Sam？"
 
 # game/script day2.rpy:1677
 translate Chinese day_2_morningshift_42be1f84:
 
     # s "Drinks perhaps.{w} But not, if at some point during the night, ya just going to bugger off and leave me with nothing but the mental image of...{w}whatever it is you're planning to do with the girl you paid for."
-    s ""
+    s "喝点倒也行。不过你要是半夜偷偷溜走，只留下我一个人在那儿浮想联翩……想着你花钱找的姑娘……"
 
 # game/script day2.rpy:1684
 translate Chinese day_2_morningshift_5b2b3e6f:
 
     # j "Really? You? A prude?"
-    j ""
+    j "真的假的？你？这么老古董？"
 
 # game/script day2.rpy:1693
 translate Chinese day_2_morningshift_7996bf7e:
 
     # s "No, but I'm not at the point where I want to carry the burden of {i}those{/i} mental images with me every time I pass you."
-    s ""
+    s "倒也不是，但我可不想每次见到你，脑子里就浮现出{i}那些{/i}乱七八糟的画面。"
 
 # game/script day2.rpy:1695
 translate Chinese day_2_morningshift_9852b74f:
 
     # s "Neither of you."
-    s ""
+    s "你们俩都一样。"
 
 # game/script day2.rpy:1697
 translate Chinese day_2_morningshift_c3f23ad4:
 
     # "He says, looking at you with an accusatory glance."
-    ""
+    "他斜着眼看你，那眼神就差没直接说你犯事儿了。"
 
 # game/script day2.rpy:1699
 translate Chinese day_2_morningshift_6f152974:
 
     # p "I didn't say anything!"
-    p ""
+    p "我可啥都没说啊！"
 
 # game/script day2.rpy:1701
 translate Chinese day_2_morningshift_767df0cc:
 
     # s "I'm just including you as a precaution.{w} I know how you young, pent up, sailors are when we stop in port."
-    s ""
+    s "我就是提前防着你一手。{w} 我还不了解你们这些年轻气盛的小水手，一靠岸就按捺不住。"
 
 # game/script day2.rpy:1708
 translate Chinese day_2_morningshift_3f9c294d:
 
     # j "You are no more than a handful of years older. So you know this froooom{w} experience?"
-    j ""
+    j "你也就比我大那么几岁。怎么着，这是过来人的经验之谈？"
 
 # game/script day2.rpy:1715
 translate Chinese day_2_morningshift_7aa16cb9:
@@ -2717,151 +2717,151 @@ translate Chinese day_2_morningshift_7aa16cb9:
 translate Chinese day_2_morningshift_c50ae591:
 
     # j "I'll take that as a yes."
-    j ""
+    j "就当你默认了啊。"
 
 # game/script day2.rpy:1729
 translate Chinese day_2_morningshift_79277381:
 
     # s "You really are a lost cause, Jules."
-    s ""
+    s "你真是烂泥扶不上墙，Jules。"
 
 # game/script day2.rpy:1736
 translate Chinese day_2_morningshift_0126078c:
 
     # j "You started it by talking about brothels. Don't pawn it off on me now that I'm thinking about where that knowledge comes from."
-    j ""
+    j "还不是你先聊窑子！现在我开始琢磨你这些门道是从哪儿学来的，你倒想甩锅给我了？"
 
 # game/script day2.rpy:1740
 translate Chinese day_2_morningshift_6e434afb:
 
     # j "Not that it's anything to be ashamed about. I'm sure you had plenty of fun when you did."
-    j ""
+    j "当然，这也没啥不好意思的。想必你当年也乐在其中吧。"
 
 # game/script day2.rpy:1742
 translate Chinese day_2_morningshift_578f0af2:
 
     # "Samuel takes one of the full buckets and instead of emptying it out in front of you he instead makes sure to spill most of it over Julian."
-    ""
+    "Samuel抄起一个装满水的水桶，没往你这儿倒，反而对着Julian一顿猛泼，大半桶都招呼他身上了。"
 
 # game/script day2.rpy:1747
 translate Chinese day_2_morningshift_0d382172:
 
     # "Julian is unable to get out of the way quickly enough and gets thoroughly drenched, and even as an innocent bystander you get your fair share of water over yourself."
-    ""
+    "Julian躲闪不及，彻底湿透，就连我这个无辜的倒霉蛋，也跟着挨了不少水。"
 
 # game/script day2.rpy:1749
 translate Chinese day_2_morningshift_cf08b1aa:
 
     # "Immediately the chill of it sets in with the breeze that comes across the deck."
-    ""
+    "海风一吹，瞬间就感觉冷飕飕的。"
 
 # game/script day2.rpy:1751
 translate Chinese day_2_morningshift_cd88fbb2:
 
     # j "Hey!"
-    j "嘿！"
+    j "喂！"
 
 # game/script day2.rpy:1758
 translate Chinese day_2_morningshift_2f703010:
 
     # s "Shut up. You needed to cool off."
-    s ""
+    s "闭嘴。给你降降温。"
 
 # game/script day2.rpy:1760
 translate Chinese day_2_morningshift_25986f1e:
 
     # p "Did I need it too, though?!"
-    p ""
+    p "那我也需要降温吗？！"
 
 # game/script day2.rpy:1762
 translate Chinese day_2_morningshift_7c503f19:
 
     # "You ask, looking down at the big dark splotch of wetness that has formed on your clothes."
-    ""
+    "你指着衣服上那一大片深色的水渍，没好气地问道。"
 
 # game/script day2.rpy:1764
 translate Chinese day_2_morningshift_a5e14f00:
 
     # s "I don't know, did you?"
-    s ""
+    s "我哪儿知道，你也想吗？"
 
 # game/script day2.rpy:1766
 translate Chinese day_2_morningshift_9c2f0f00:
 
     # p "Maybe a little?"
-    p ""
+    p "也许... 可能... 稍微有一点吧？"
 
 # game/script day2.rpy:1768
 translate Chinese day_2_morningshift_347fb8ee:
 
     # "You answer without being able to hide a cheeky smile."
-    ""
+    "你咧嘴一笑，有点小得意地回答道。"
 
 # game/script day2.rpy:1773
 translate Chinese day_2_morningshift_728bdd5d:
 
     # s "Then my aim is true. But don't even think about starting too, or I will actually get another one for you."
-    s ""
+    s "那看来我这手艺还不错。不过你最好也给我老实点，不然下一桶就泼你身上！"
 
 # game/script day2.rpy:1775
 translate Chinese day_2_morningshift_8803f24e:
 
     # p "I'll try to rein in my thoughts then."
-    p ""
+    p "成成成，我尽量让我的脑子放干净点。"
 
 # game/script day2.rpy:1780
 translate Chinese day_2_morningshift_6c8fe016:
 
     # s "Ya two are the worst."
-    s ""
+    s "你们俩可真是绝了。"
 
 # game/script day2.rpy:1782
 translate Chinese day_2_morningshift_b7332974:
 
     # "Samuel shakes his head and taps the ground with his paw."
-    ""
+    "Samuel摇摇头，用脚掌拍了拍甲板。"
 
 # game/script day2.rpy:1784
 translate Chinese day_2_morningshift_7c5109c6:
 
     # s "We're fresh out o' port.{w} You got plenty time to be pent up. So get your heads out gutter and finish this thing up, will ya?"
-    s ""
+    s "咱们刚出海！{w} 有的是时间让你们精力过剩。都他娘的把脑子从臭水沟里拿出来，赶紧干完活，行不行？"
 
 # game/script day2.rpy:1793
 translate Chinese day_2_morningshift_62a923ff:
 
     # s "No, but there are better people than you to think about."
-    s ""
+    s "呸，老子就算要胡思乱想，也轮不着你。"
 
 # game/script day2.rpy:1795
 translate Chinese day_2_morningshift_b6609cc7:
 
     # s "So I won't even start."
-    s ""
+    s "所以我啥也不会想的，放心吧。"
 
 # game/script day2.rpy:1799
 translate Chinese day_2_morningshift_7bfe5069:
 
     # "Samuel doesn't even bother to carry another bucket and just knocks one of them over with his paw this time around."
-    ""
+    "Samuel这次更懒了，直接一脚踹翻了一个水桶。"
 
 # game/script day2.rpy:1801
 translate Chinese day_2_morningshift_ef2604bf:
 
     # s "Now get on with it."
-    s ""
+    s "都别闲着，赶紧干活！"
 
 # game/script day2.rpy:1803
 translate Chinese day_2_morningshift_164f65b4:
 
     # s "We're fresh out o' port.{w} You got plenty time to be pent up. So get your head out gutter and finish this thing up, will ya?"
-    s ""
+    s "咱们刚出海！{w} 有的是时间让你们精力过剩。都他娘的把脑子从臭水沟里拿出来，赶紧干完活，行不行？"
 
 # game/script day2.rpy:1805
 translate Chinese day_2_morningshift_003de1f3:
 
     # j "All right, all right, boss."
-    j ""
+    j "好嘞，好嘞，老大。"
 
 # game/script day2.rpy:1810
 translate Chinese day_2_morningshift_32e998e8:
@@ -2873,7 +2873,7 @@ translate Chinese day_2_morningshift_32e998e8:
 translate Chinese day2_morningshift_decision_3e173b77:
 
     # sailschwartz "Samuel!"
-    sailschwartz ""
+    sailschwartz "Samuel！"
 
 # game/script day2.rpy:1823
 translate Chinese day2_morningshift_decision_74e64aa7:

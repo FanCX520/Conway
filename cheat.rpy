@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-11-06 20:38
+﻿# TODO: Translation updated at 2026-11-06 20:38
 
 translate Chinese strings:
 
