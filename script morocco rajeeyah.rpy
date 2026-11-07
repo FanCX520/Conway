@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 09:36
+# TODO: Translation updated at 2026-11-06 20:38
 
 # game/script morocco rajeeyah.rpy:32
 translate Chinese day14_rajeeyah_help_fa167b9b:
@@ -10723,9 +10723,9 @@ translate Chinese day17_safi_69f79024:
     p ""
 
 # game/script morocco rajeeyah.rpy:6159
-translate Chinese day17_safi_038954c4:
+translate Chinese day17_safi_9f91d336:
 
-    # az "Of course. It is not as though chaos reigns in every street, but he—"
+    # az "Of course. It is not as though chaos reigns in every street, but he-"
     az ""
 
 # game/script morocco rajeeyah.rpy:6161
@@ -11257,9 +11257,9 @@ translate Chinese day17_safi_5bb0cef7:
     ""
 
 # game/script morocco rajeeyah.rpy:6483
-translate Chinese day17_safi_3ce3bdd8:
+translate Chinese day17_safi_18509004:
 
-    # az "Rajeeyah, but we still—"
+    # az "Rajeeyah, but we still-"
     az ""
 
 # game/script morocco rajeeyah.rpy:6485

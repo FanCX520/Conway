@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2025-12-03 08:54
+# TODO: Translation updated at 2026-11-06 20:38
 
-translate chinese strings:
+translate Chinese strings:
 
     # game/gallery/fanartgallery_navigation.rpy:21
     old "Regular"
@@ -13,5 +13,4 @@ translate chinese strings:
     # game/gallery/fanartgallery_navigation.rpy:40
     old "Adult"
     new "成人"
-
 

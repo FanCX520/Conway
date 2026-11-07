@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 09:36
+# TODO: Translation updated at 2026-11-06 20:38
 
 # game/script morocco sidechars.rpy:28
 translate Chinese day14_bandile_part1_264e2b38:
@@ -5143,9 +5143,9 @@ translate Chinese day14_return_to_ship_2172761c:
     b ""
 
 # game/script morocco sidechars.rpy:2651
-translate Chinese day14_return_to_ship_c300e32c:
+translate Chinese day14_return_to_ship_1478b24a:
 
-    # p "I wouldn't go that far—"
+    # p "I wouldn't go that far-"
     p ""
 
 # game/script morocco sidechars.rpy:2653

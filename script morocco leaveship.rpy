@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-11-02 09:36
+# TODO: Translation updated at 2026-11-06 20:38
 
 # game/script morocco leaveship.rpy:3
 translate Chinese day14_leave_ending_solo_efb09912:
@@ -3979,9 +3979,9 @@ translate Chinese day14_leave_ending_julian_3_5bb1711f:
     j ""
 
 # game/script morocco leaveship.rpy:1951
-translate Chinese day14_leave_ending_julian_3_61b7e7ef:
+translate Chinese day14_leave_ending_julian_3_685d2a4b:
 
-    # p "What?{w} Jules, don't say—"
+    # p "What?{w} Jules, don't say-"
     p ""
 
 # game/script morocco leaveship.rpy:1953
@@ -4075,9 +4075,9 @@ translate Chinese day14_leave_ending_julian_3_5f2ebed9:
     ""
 
 # game/script morocco leaveship.rpy:1983
-translate Chinese day14_leave_ending_julian_3_c5d82a84:
+translate Chinese day14_leave_ending_julian_3_164f9c25:
 
-    # p "That's not true, I—"
+    # p "That's not true, I-"
     p ""
 
 # game/script morocco leaveship.rpy:1985
@@ -4243,9 +4243,9 @@ translate Chinese day14_leave_ending_julian_3_ba909df1:
     j ""
 
 # game/script morocco leaveship.rpy:2045
-translate Chinese day14_leave_ending_julian_3_8c842ca7:
+translate Chinese day14_leave_ending_julian_3_b51d0446:
 
-    # p "Then tell me what you need. Right now. I'll—"
+    # p "Then tell me what you need. Right now. I'll-"
     p ""
 
 # game/script morocco leaveship.rpy:2047

@@ -1,8 +1,6 @@
-﻿# TODO: Translation updated at 2025-12-03 08:54
+# TODO: Translation updated at 2026-11-06 20:38
 
-# TODO: Translation updated at 2026-11-02 09:36
-
-translate chinese strings:
+translate Chinese strings:
 
     # game/options.rpy:15
     old "Conway"
