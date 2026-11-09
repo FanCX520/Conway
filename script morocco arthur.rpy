@@ -4,325 +4,325 @@
 translate Chinese day14_arthur_start_3037ddba:
 
     # "You act decisively, hoping that a little bold action will work in your favor with the big horse."
-    ""
+    "你果断行动，希望大胆一些的举止能帮你博得这匹大马的好感。"
 
 # game/script morocco arthur.rpy:8
 translate Chinese day14_arthur_start_3bebf81c:
 
     # "He's still a little bit of a puzzle to you, but you feel determined to figure him out. Or at the very least, continue to set your relationship with him on the right path."
-    ""
+    "他于你而言还有一些谜团，但你已下定决心要弄清他，或者至少，让你们的关系往好的方面发展。"
 
 # game/script morocco arthur.rpy:15
 translate Chinese day14_arthur_start_63c9f01d:
 
     # "Yet, the sight of that strong figure stomping up the gangplank, hooves thudding against the wood, his tail flicking behind him in an angry, workhorse sort of vibe."
-    ""
+    "然而，你只看见那魁梧的身影踏上跳板，蹄子在木板上砸得咚咚响，他的尾巴在身后愤怒地甩动，散发出牛马的气场。"
 
 # game/script morocco arthur.rpy:17
 translate Chinese day14_arthur_start_2441dc32:
 
     # "He's clutching a satchel full of papers, his face a scowl. The gift of bureaucracy, no doubt."
-    ""
+    "他的怀里攥着全是文书的挎包，脸色阴沉。毫无疑问是官僚工作的赐福。"
 
 # game/script morocco arthur.rpy:22
 translate Chinese day14_arthur_start_5e3ae4cc:
 
     # "It takes a moment as he strides past for you to realize it's not directed at you, but then again, that could easily change if you don't pick the right moment."
-    ""
+    "他大步走过后过了一会，你才意识到那愤怒并不针对你，然而，如果你选错了时机，情况恐怕就不一样了。"
 
 # game/script morocco arthur.rpy:24
 translate Chinese day14_arthur_start_215b2fec:
 
     # "So you hang back, shrugging your shoulders, going back to leaning on the gunwale and pretending to enjoy a moment stuck in your own thoughts."
-    ""
+    "于是你退后几步，耸耸肩，重新靠在船舷上并假装沉浸在了自己的片刻思绪中。"
 
 # game/script morocco arthur.rpy:26
 translate Chinese day14_arthur_start_256cc189:
 
     # "Perhaps it is presumptuous to expect Arthur might have time for you. Rungs on the ladder and all."
-    ""
+    "也许期待Arthur有时间留给你有点冒昧。从各种情况来说。"
 
 # game/script morocco arthur.rpy:28
 translate Chinese day14_arthur_start_e02d74e7:
 
     # "Yet..."
-    ""
+    "不过…"
 
 # game/script morocco arthur.rpy:30
 translate Chinese day14_arthur_start_429708e5:
 
     # "Perhaps, if you ask politely later this night, and out of earshot..."
-    ""
+    "也许，如果你能在更晚的时候，找个没人能听到的地方，礼貌地问一问…"
 
 # game/script morocco arthur.rpy:32
 translate Chinese day14_arthur_start_ce91a989:
 
     # "Best not to get in a rush then."
-    ""
+    "最好不要操之过急。"
 
 # game/script morocco arthur.rpy:38
 translate Chinese day14_arthur_start_a956fc99:
 
     # "You look up from your thoughts. By now the ship is practically deserted. Only a skeleton crew managing the essentials, or otherwise necessities that could only take place at port."
-    ""
+    "你从思绪中回过神，抬起头。现在船上基本已经没人了。只留下少量骨干船员处理基础工作，以及一些只有停靠港口才能完成的事务。"
 
 # game/script morocco arthur.rpy:40
 translate Chinese day14_arthur_start_fabd2c99:
 
     # "Your moment's hesitation is all that it took to lose the others; already melted into the crowds. As you search the winding jetties and wharfs, frantically trying to catch a glimpse of someone familiar, the hope fades that you can ever pick them out again."
-    ""
+    "片刻犹豫间，其他人已经消失在人群中。你急切地在蜿蜒的码头穿梭，尝试找到熟悉的身影，可你想要找到他们的期望落空了。"
 
 # game/script morocco arthur.rpy:42
 translate Chinese day14_arthur_start_bb16f2a0:
 
     # "Diving after them into the throng of a foreign city doesn't make your fur sit right, so you swallow your pride and linger on deck, hoping that someone might notice they forgot you and come back looking."
-    ""
+    "在异国城市的人潮中追赶他们让你觉得不安。于是你压下自尊，留在甲板上，盼着有人能发现你被落下了，回来找你。"
 
 # game/script morocco arthur.rpy:44
 translate Chinese day14_arthur_start_e3e6ca7b:
 
     # "It seems increasingly unlikely as the minutes tick by."
-    ""
+    "随着时间一分一秒过去，这越来越不可能发生了。"
 
 # game/script morocco arthur.rpy:46
 translate Chinese day14_arthur_start_89d51b4a:
 
     # "Straining your ears in the hope of hearing someone call your name only leaves you feeling dizzy; the riot and commotion of the port making your head spin and feel queasy."
-    ""
+    "你竖起耳朵希望听见有人喊你的名字，却只感到一阵眩晕；码头的骚动和混乱让你头昏脑胀，恶心反胃。"
 
 # game/script morocco arthur.rpy:51
 translate Chinese day14_arthur_start_777244a2:
 
     # "You try to shut it out, turning back towards the mostly empty deck. Even though it has just been two weeks at sea, it's enough to have made your senses that much more sensitive to the usual clamor of civilization."
-    ""
+    "你试着不去理会它，转身望向近乎空荡的甲板。虽说出海才两周，却足以让你的感官对闹市嘈杂格外敏感。"
 
 # game/script morocco arthur.rpy:53
 translate Chinese day14_arthur_start_40084f57:
 
     # "Even if Julian has single-handedly tried his best to not let your ears get too accustomed to the quiet."
-    ""
+    "虽然Julian总想方设法不让你的耳朵习惯那份宁静。"
 
 # game/script morocco arthur.rpy:59
 translate Chinese day14_arthur_start_e6bc4fad:
 
     # "Taking a steady breath you head across the deck, trying to appear not too concerned with chasing after the officer."
-    ""
+    "深吸一口气，你穿过甲板，尽量表现得不是那么急切地去找那位军官。"
 
 # game/script morocco arthur.rpy:68
 translate Chinese day14_arthur_start_85b16ebe:
 
     # "Konrad is busy with one of his apprentices, busy shaping some timber into what you can only assume will be essential parts."
-    ""
+    "Konrad正忙着和他的一位学徒把木材一起加工木料，你大概能猜到那会是这艘船的基本部件。"
 
 # game/script morocco arthur.rpy:72
 translate Chinese day14_arthur_start_cefeed86:
 
     # "The old cat looks up at you and gives a brief smile, content enough in his old wisdom to not question you for failing to have leapt ashore yet."
-    ""
+    "年迈的猫抬头望向你，浅浅一笑。基于与年纪相称的足够的智慧，他没问你怎么还没登岸。"
 
 # game/script morocco arthur.rpy:74
 translate Chinese day14_arthur_start_53e04f8a:
 
     # k "Planning to help, lad?"
-    k ""
+    k "打算搭把手吗，小伙子？"
 
 # game/script morocco arthur.rpy:78
 translate Chinese day14_arthur_start_baf416bd:
 
     # "For a moment you fear that you'll be pulled into more work, but before the thought can take root you see the laugh spread across Konrad's face."
-    ""
+    "一瞬间你有点怕自己会被拉去干活，可这个念头还没落地，就看见Konrad脸上浮出笑容。"
 
 # game/script morocco arthur.rpy:80
 translate Chinese day14_arthur_start_4e92975b:
 
     # k "I'm just kidding. It's nothing I'd steal your free time over, just a few things I'd rather get ahead of."
-    k ""
+    k "开个玩笑。只是些我想提前干完的活，不会占用你的空闲时间的。"
 
 # game/script morocco arthur.rpy:82
 translate Chinese day14_arthur_start_604af897:
 
     # p "Scared me for a moment, Konrad."
-    p ""
+    p "刚才可吓坏我了，Konrad。"
 
 # game/script morocco arthur.rpy:86
 translate Chinese day14_arthur_start_e9315ca9:
 
     # p "Not that, you know, I wouldn't want to help. You're always a good time to be around it's just-"
-    p ""
+    p "倒也不是那样，你知道的，我不是不想帮忙，跟你相处一直都很愉快，只是——"
 
 # game/script morocco arthur.rpy:90
 translate Chinese day14_arthur_start_6b6e55b0:
 
     # "Perhaps that is a little bit of a lie. You wouldn't mind avoiding some of his eccentricities. But he doesn't need to know that."
-    ""
+    "也许这里边有点小谎。你确实想躲开他那些古怪脾性，但他没必要知道。"
 
 # game/script morocco arthur.rpy:92
 translate Chinese day14_arthur_start_e80e209d:
 
     # p "Free time and all."
-    p ""
+    p "我好不容易有点空。"
 
 # game/script morocco arthur.rpy:94
 translate Chinese day14_arthur_start_a743f0f8:
 
     # p "Want to... um... use it."
-    p ""
+    p "就想…嗯…好好利用它。"
 
 # game/script morocco arthur.rpy:96
 translate Chinese day14_arthur_start_4a099ae1:
 
     # "Don't be too convincing, swashbuckler."
-    ""
+    "别装地太逼真了，探险家。"
 
 # game/script morocco arthur.rpy:100
 translate Chinese day14_arthur_start_db300821:
 
     # k "I could do some of this at sea, y'know, especially after the burning seas we saw."
-    k ""
+    k "这些活我在海上也能做，你知道的，尤其是见识过那片燃烧的海面之后。"
 
 # game/script morocco arthur.rpy:102
 translate Chinese day14_arthur_start_c7efd8a1:
 
     # p "Is it a bad omen?"
-    p ""
+    p "那是个凶兆吗？"
 
 # game/script morocco arthur.rpy:104
 translate Chinese day14_arthur_start_de17a338:
 
     # k "Not necessarily, lad. But I wouldn't be a good shipwright if I allowed fate to come knocking because of my negligence."
-    k ""
+    k "不一定，小伙子。可要是因为我的疏忽，任由厄运找上门，那我可就算不上一个合格的造船匠了。"
 
 # game/script morocco arthur.rpy:106
 translate Chinese day14_arthur_start_bb90ae31:
 
     # p "Do you have any idea what it might have been?"
-    p ""
+    p "你有想过那东西是什么吗？"
 
 # game/script morocco arthur.rpy:108
 translate Chinese day14_arthur_start_09a05d85:
 
     # "He shakes his head in response."
-    ""
+    "他摇了摇头作为回应。"
 
 # game/script morocco arthur.rpy:112
 translate Chinese day14_arthur_start_f52e7755:
 
     # k "'Sides I'd rather get on with it while things are fair."
-    k ""
+    k "况且我宁愿趁着事态安稳把活提前做完。"
 
 # game/script morocco arthur.rpy:115
 translate Chinese day14_arthur_start_34275466:
 
     # k "I could do some of this at sea, y'know, but I'd rather get on with it while things are fair."
-    k ""
+    k "我在海上照样能做，你知道的，只是我更想在一切都风平浪静的时候干。"
 
 # game/script morocco arthur.rpy:118
 translate Chinese day14_arthur_start_d7e70142:
 
     # "He picks up on the implication, shaking his head with a laugh."
-    ""
+    "他听出了你话里的潜台词，笑着摇了摇头。"
 
 # game/script morocco arthur.rpy:122
 translate Chinese day14_arthur_start_d40a1491:
 
     # k "Don't worry about it. She always needs something fixed, but it sure could be less so if the powers that be decided to make some investments."
-    k ""
+    k "别担心。这艘船总有些地方要修，可如果当局肯多给点资金，修理工作可以少很多。"
 
 # game/script morocco arthur.rpy:124
 translate Chinese day14_arthur_start_8c104087:
 
     # k "And we got the tropics ahead of us, so the less I have to work in that heat the better."
-    k ""
+    k "而且接下来我们要驶入热带海域，所以我得在酷热下干的活能少一点是一点。"
 
 # game/script morocco arthur.rpy:126
 translate Chinese day14_arthur_start_525aee11:
 
     # p "It gets hotter than this?"
-    p ""
+    p "比现在还热吗?"
 
 # game/script morocco arthur.rpy:130
 translate Chinese day14_arthur_start_09f6e962:
 
     # k "Oh you bet your sorry ass on that. The tropics can be rather unkind to us if the winds aren't blowin'."
-    k ""
+    k "绝对比现在热。如果不刮风的话，热带地区对我们来说可能会相当不友好"
 
 # game/script morocco arthur.rpy:132
 translate Chinese day14_arthur_start_8d9722fb:
 
     # k "Stiff air in the boat, sun ready to roast ya outside, and the air is thick like muck with no rain in sight."
-    k ""
+    k "船舱里闷得透不过气，外面的太阳烤得人发烫。还有浑浊凝滞的空气，没有半点降雨的迹象。"
 
 # game/script morocco arthur.rpy:136
 translate Chinese day14_arthur_start_6871e672:
 
     # k "Can't escape the heat no matter what you do and the ship ain't even moving."
-    k ""
+    k "不管干什么你都躲不开热浪，船压根动不了。"
 
 # game/script morocco arthur.rpy:138
 translate Chinese day14_arthur_start_619e3546:
 
     # k "Seen lads fall over when working those days. Ain't fun."
-    k ""
+    k "我见过不少小伙子在这种天气干活直接中暑倒下，这可不是开玩笑的。"
 
 # game/script morocco arthur.rpy:140
 translate Chinese day14_arthur_start_0572783b:
 
     # "You frown."
-    ""
+    "你皱起眉头。"
 
 # game/script morocco arthur.rpy:142
 translate Chinese day14_arthur_start_5e0ceb99:
 
     # k "But anyway, don't need an old cat to bore you about the tropics, careening and the like, save that when it comes to it."
-    k ""
+    k "不过随它去吧，没必要再让这只老猫拿热带、检修这些事烦你了，等碰到了再说吧。"
 
 # game/script morocco arthur.rpy:146
 translate Chinese day14_arthur_start_ba7c6ddf:
 
     # p "I always enjoy listening to your stories, Konrad."
-    p ""
+    p "我一直很喜欢听你讲故事，Konrad。"
 
 # game/script morocco arthur.rpy:148
 translate Chinese day14_arthur_start_681e1fab:
 
     # k "Stories, sure lad. But talking about careening is hardly a gripping tale of fightin' off the attack of a mighty shark."
-    k ""
+    k "故事倒是没问题，小伙子。不过倾船检修可比勇斗巨鲨那样扣人心弦的传奇差远了。"
 
 # game/script morocco arthur.rpy:150
 translate Chinese day14_arthur_start_51be1c08:
 
     # p "It's wisdom either way. Can't say I heard about careening before, though."
-    p ""
+    p "不管怎样都是宝贵的经验。说实在的，我之前从没听说过倾船检修。"
 
 # game/script morocco arthur.rpy:154
 translate Chinese day14_arthur_start_3e9f1029:
 
     # p "It's never boring to learn and make sure that I can become a proper part of the crew, Konrad. Can't say I know about that, though."
-    p ""
+    p "多学些东西，确保我能真正成为船员的一份子，这一点都不枯燥。只不过我确实不懂这些知识。"
 
 # game/script morocco arthur.rpy:158
 translate Chinese day14_arthur_start_1a3161fe:
 
     # k "Careening?{w} A way of rolling the ship so you can clean beneath the waterline. Sailing in warm waters like we are, lots of beasties get to growing on the hull, and they can be awfully hard to scrub off if you leave them too long."
-    k ""
+    k "倾船检修？{w}就是把船侧翻过来，清理水线以下的船底。我们航行在温暖海域，船壳上会长出很多海洋生物，把它们放久了相当难刮干净。"
 
 # game/script morocco arthur.rpy:162
 translate Chinese day14_arthur_start_b67fc79c:
 
     # k "It's fine, just to say that I've heard the navy plate everything below with copper. Works a treat from what I've heard, and I'm sure Arthur knows all about it."
-    k ""
+    k "这倒没什么，只是想说我听说海军的船底会用铜线包裹。据我所知效果很不错，而且我相信Arthur对此非常了解。"
 
 # game/script morocco arthur.rpy:164
 translate Chinese day14_arthur_start_aa07034c:
 
     # p "Do you know where Arthur is?"
-    p ""
+    p "你知道Arthur在哪吗？"
 
 # game/script morocco arthur.rpy:166
 translate Chinese day14_arthur_start_38954014:
 
     # k "Aye, he's in his study, elbow deep in paperwork no doubt."
-    k ""
+    k "嗯，他在自己的书房，不用说，正埋在一大堆文书里。"
 
 # game/script morocco arthur.rpy:168
 translate Chinese day14_arthur_start_badbfc5a:
@@ -334,13 +334,13 @@ translate Chinese day14_arthur_start_badbfc5a:
 translate Chinese day14_arthur_start_189107b9:
 
     # "Konrad shrugs, but he doesn't seem about to stop you."
-    ""
+    "Konrad耸了耸肩，但没有拦你的意思。"
 
 # game/script morocco arthur.rpy:172
 translate Chinese day14_arthur_start_e9aafdbd:
 
     # "You nod politely and leave the carpenter be, heading back towards the stern where the officer's quarters lay. "
-    ""
+    "你礼貌地点头，不再打扰木匠，转身向船尾军官的舱室走去。"
 
 # game/script morocco arthur.rpy:179
 translate Chinese day14_arthur_start_8692e20d:
