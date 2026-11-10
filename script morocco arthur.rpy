@@ -388,7 +388,7 @@ translate Chinese day14_arthur_start_22334e5a:
 translate Chinese day14_arthur_start_da196ee4:
 
     # p "I did what I had to, but now I want to do what I must to be an asset to the crew."
-    p "过去我做了些迫不得已的事，而现在我想尽我所能做一个对船员们有用的人。"
+    p "过去我做了些迫不得已的事，而现在只想尽我所能做个对船员们有用的人。"
 
 # game/script morocco arthur.rpy:211
 translate Chinese day14_arthur_start_960ee7ff:
@@ -448,7 +448,7 @@ translate Chinese day14_arthur_start_a50c24df:
 translate Chinese day14_arthur_start_048df641:
 
     # "You start to run out of tasks quickly, realizing your limited skillset. "
-    "你很快就说不出更多活，意识到自己有限的技能储备。"
+    "你很快就找不到更多活，意识到自己有限的技能储备。"
 
 # game/script morocco arthur.rpy:233
 translate Chinese day14_arthur_start_38a0fa71:
@@ -532,7 +532,7 @@ translate Chinese day14_arthur_start_30af7e37:
 translate Chinese day14_arthur_start_a58f4e3b:
 
     # "He holds his jaw, waiting to see if you cause any trouble. After all, this really was the first the two of you had been in private since..."
-    "他抚着下巴，等着看你会不会又闯出什么祸。毕竟这还是你们第一次单独相处，自从……"
+    "他撑着下巴，等着看你会不会又闯出什么祸。毕竟这还是你们第一次单独相处，自从……"
 
 # game/script morocco arthur.rpy:267
 translate Chinese day14_arthur_start_ba96a619:
@@ -598,13 +598,13 @@ translate Chinese day14_arthur_start_e1fd2531:
 translate Chinese day14_arthur_start_27e0abdc:
 
     # "Perhaps you still feel a little guilty about what it all came down to. It wasn't a side of yourself that you recognize, now that the fear of being cast adrift has been left beyond the last horizon."
-    ""
+    "也许你对之前发生的一切后果仍抱有愧疚。如今对被放逐漂泊的恐惧已被留在上一道地平线，你认出了那个陌生的自我。"
 
 # game/script morocco arthur.rpy:295
 translate Chinese day14_arthur_start_1561867a:
 
     # a "I have already had to pry that wolf off this ship. I hope you have more sense than to be as stubborn as him."
-    a ""
+    a "我已经不得不把那只狼从船上撬下去，我希望你聪明点，别像他一样固执。"
 
 # game/script morocco arthur.rpy:297
 translate Chinese day14_arthur_start_f5928b22:
@@ -616,319 +616,319 @@ translate Chinese day14_arthur_start_f5928b22:
 translate Chinese day14_arthur_start_e55d0faf:
 
     # a "Then why are you here?"
-    a ""
+    a "那你为什么还在这?"
 
 # game/script morocco arthur.rpy:301
 translate Chinese day14_arthur_start_9ebcb0aa:
 
     # p "I did just want to talk, if that were possible-"
-    p ""
+    p ""我只是想和你谈谈，如果可以的话-
 
 # game/script morocco arthur.rpy:303
 translate Chinese day14_arthur_start_d0e635b9:
 
     # a "Are we not talking right now?"
-    a ""
+    a "我们不是正在谈吗?"
 
 # game/script morocco arthur.rpy:305
 translate Chinese day14_arthur_start_b27eb34d:
 
     # a "I have yet to hear a proper sentence coming from you aside from the vague begging for an audience."
-    a ""
+    a "除了含糊地祈求我听你说话外，我还没有从你嘴里听到一句有用的话。"
 
 # game/script morocco arthur.rpy:309
 translate Chinese day14_arthur_start_8fe01db0:
 
     # "He snorts, seemingly at pains to hold back his irritation."
-    ""
+    "他哼了一声，似乎在尽可能的压制火气。"
 
 # game/script morocco arthur.rpy:311
 translate Chinese day14_arthur_start_ea284a8d:
 
     # a "It is beyond me that you should not simply heed my advice, but I frankly don't have the will to order yet another overzealous sailor."
-    a ""
+    a "我不理解为什么你听不进我的劝告。我实在不想再去命令又一个过于满腔热忱的水手。"
 
 # game/script morocco arthur.rpy:313
 translate Chinese day14_arthur_start_e489c1e5:
 
     # a "If you do indeed wish to accompany me, then so be it."
-    a ""
+    a "如果你执意要待在我这，那随你便。"
 
 # game/script morocco arthur.rpy:315
 translate Chinese day14_arthur_start_616dea30:
 
     # a "But what I am saying, plainly, is that this is your choice. Not a mate's order to waste your shore leave."
-    a ""
+    a "但是我得说清楚，这是你自己选的，而不是大副命令你浪费掉自己的上岸休假。"
 
 # game/script morocco arthur.rpy:321
 translate Chinese day14_arthur_start_22334e5a_1:
 
     # p "I find myself ill at ease, being told to take shore leave when there's more I could be doing to make amends."
-    p ""
+    p "我感到不安，毕竟还有更多我能做的来弥补过失的事，我却被告知可以登岸休假。"
 
 # game/script morocco arthur.rpy:323
 translate Chinese day14_arthur_start_960ee7ff_1:
 
     # "The horse looks up at you, frowning."
-    ""
+    "那匹马抬起头，皱眉看向你。"
 
 # game/script morocco arthur.rpy:325
 translate Chinese day14_arthur_start_a41fa47b:
 
     # a "Unless you have a yet undisclosed history of working as an bureaucratic assistant, I doubt it. "
-    a ""
+    a "除非你有段从没提过的的文书助理工作经历，否则我对此表示怀疑"
 
 # game/script morocco arthur.rpy:327
 translate Chinese day14_arthur_start_f7902668:
-
+And even then, your timing is impeccable, being that I find myself almost done
     # a "And even then, your timing is impeccable, being that I find myself almost done."
-    a ""
+    a "以及，来得真巧，刚好我发现我快要做完了"
 
 # game/script morocco arthur.rpy:331
 translate Chinese day14_arthur_start_6030758c:
 
     # "He looks back down, jamming his quill in the inkwell and giving the document in front of him another scrawling signature. "
-    ""
+    "他又低下头，把鹅毛笔重重插进墨水瓶，又在面前的文件上潦草地签下名字。"
 
 # game/script morocco arthur.rpy:333
 translate Chinese day14_arthur_start_cde1949d:
 
     # p "No, sir. But that does not mean I cannot be of any other assistance."
-    p ""
+    p "是不太巧，长官。但这不代表我完全帮不上别的忙。"
 
 # game/script morocco arthur.rpy:337
 translate Chinese day14_arthur_start_6d885da1:
 
     # a "I beg to differ."
-    a ""
+    a "我不敢苟同。"
 
 # game/script morocco arthur.rpy:339
 translate Chinese day14_arthur_start_d15ffdff:
 
     # "He gives a weary sigh."
-    ""
+    "他疲惫地叹了口气。"
 
 # game/script morocco arthur.rpy:341
 translate Chinese day14_arthur_start_9b2b0fc8:
 
     # a "I would not expect a farmer's boy to be able to navigate the documentation required for a sailing ship like ours, and neither would I even begin to be inclined to illuminate you without first sitting the necessary exams."
-    a ""
+    a "我不会指望一个农家小子能处理我们这艘商船繁杂的文书。而且，没通过对应的考核前，我甚至不会考虑教你。"
 
 # game/script morocco arthur.rpy:343
 translate Chinese day14_arthur_start_109e5fe4:
 
     # "You frown back at him."
-    ""
+    "你也皱眉回望他。"
 
 # game/script morocco arthur.rpy:345
 translate Chinese day14_arthur_start_70fc0be3:
 
     # p "I'm not getting ahead of myself, sir. I mean, is there anything else that I can do?"
-    p ""
+    p "我没想这么超前，长官。我的意思是，这总有我能做的活吧?"
 
 # game/script morocco arthur.rpy:349
 translate Chinese day14_arthur_start_ea562b00:
 
     # p "Scrub the decks, inspect the sails, any tailor jobs... "
-    p ""
+    p "擦洗甲板，检查船帆，任何针线活…"
 
 # game/script morocco arthur.rpy:353
 translate Chinese day14_arthur_start_a50c24df_1:
 
     # p "Scrub the decks, inspect the sails... "
-    p ""
+    p "擦洗甲板、检查船帆…"
 
 # game/script morocco arthur.rpy:355
 translate Chinese day14_arthur_start_048df641_1:
 
     # "You start to run out of tasks quickly, realizing your limited skillset. "
-    ""
+    "你很快就找不到更多活，意识到自己有限的技能储备。"
 
 # game/script morocco arthur.rpy:357
 translate Chinese day14_arthur_start_38a0fa71_1:
 
     # p "Pump the bilge?"
-    p ""
+    p "抽舱底积水?"
 
 # game/script morocco arthur.rpy:359
 translate Chinese day14_arthur_start_202dc3d0:
 
     # "You do your best to disguise a shudder."
-    ""
+    "你竭力掩饰自己的战栗。"
 
 # game/script morocco arthur.rpy:363
 translate Chinese day14_arthur_start_bd27f674:
 
     # a "I commend your willingness, but I do not wish to have yet another conversation with a member of my crew about taking their shore leave when it is due."
-    a ""
+    a "我欣赏你的积极性，但我确实不想再和我的船员来另一场关于按期休岸假的沟通。"
 
 # game/script morocco arthur.rpy:365
 translate Chinese day14_arthur_start_76651bd4:
 
     # p "Sir-"
-    p ""
+    p "长官-"
 
 # game/script morocco arthur.rpy:367
 translate Chinese day14_arthur_start_ea098383:
 
     # a "While I am well aware of the context of this discussion, I would remind you that it is helpful to no one if you choose to forgo your rest and work yourself to the bone once again."
-    a ""
+    a "我很清楚我们谈话的前因后果，但我还是要提醒你，如果你放弃休息，又把自己累垮，对谁都没好处。"
 
 # game/script morocco arthur.rpy:369
 translate Chinese day14_arthur_start_ed852edd:
 
     # a "After all, was it not in your own words the demands of the work that led you to fall asleep in the first place?"
-    a ""
+    a "毕竟，你不是亲口说的工作负担重，才让你直接昏睡过去的吗?"
 
 # game/script morocco arthur.rpy:371
 translate Chinese day14_arthur_start_dccac7a2:
 
     # "You take a moment to reply."
-    ""
+    "你花了点时间组织语言。"
 
 # game/script morocco arthur.rpy:373
 translate Chinese day14_arthur_start_74784636:
 
     # a "You may think that more work will endear you further to your superiors?"
-    a ""
+    a "你可能是觉得多干点活能让你的上司更看重你?"
 
 # game/script morocco arthur.rpy:375
 translate Chinese day14_arthur_start_67ff6fa0:
 
     # p "To be fair, sir, I doubt shore leave would be that restful, from what I've been led to believe."
-    p ""
+    p "恕我直言，长官，据我所了解的，上岸休假可能没那么放松。"
 
 # game/script morocco arthur.rpy:377
 translate Chinese day14_arthur_start_c941f556:
 
     # p "I doubt that the others went out into the town to take a restful sleep."
-    p ""
+    p "我不觉得其他人跑到镇上是为了睡个安稳觉。"
 
 # game/script morocco arthur.rpy:381
 translate Chinese day14_arthur_start_5c65ec97:
 
     # a "Does the prospect not excite you?"
-    a ""
+    a "那光景不让你兴奋吗?"
 
 # game/script morocco arthur.rpy:383
 translate Chinese day14_arthur_start_95272051:
 
     # a "First time off the ship in a while? A town that has as of yet been unknown to you?"
-    a ""
+    a "久违的第一次下船?一个对你来说完全未知的城镇?"
 
 # game/script morocco arthur.rpy:389
 translate Chinese day14_arthur_start_13c70af6:
 
     # "He keeps an eye on you while arranging the papers, stacking them together in order with a triumphant huff. "
-    ""
+    "他一边留意着你，一边整理文件，按顺序把它们堆叠，发出大功告成的哼声。"
 
 # game/script morocco arthur.rpy:391
 translate Chinese day14_arthur_start_1bf62221:
 
     # p "Well, if I am honest... "
-    p ""
+    p "好吧，说实话…"
 
 # game/script morocco arthur.rpy:393
 translate Chinese day14_arthur_start_ea521a12:
 
     # p "I was hoping that I could do {i}something{/i} to help repair things. And I am not specifically talking about more work—but your trust in me, Sir."
-    p ""
+    p "我本希望可以做点{i}什么事{/i}来修复我们之间的关系。确切的说，我说的不是多干活而是让你重新信任我，长官"
 
 # game/script morocco arthur.rpy:397
 translate Chinese day14_arthur_start_163225d4:
 
     # "Arthur looks at you for a moment, leaning back in his chair."
-    ""
+    "Arthur审视你片刻，向后靠在椅背上"
 
 # game/script morocco arthur.rpy:401
 translate Chinese day14_arthur_start_efb54fe8:
 
     # a "Very well, if you must."
-    a ""
+    a "行吧，如果你非要这样。"
 
 # game/script morocco arthur.rpy:403
 translate Chinese day14_arthur_start_640008cb:
 
     # a "But if I must be tasked with having to unpick the peculiarities of your behavior, I will require at least your silence if you are to accompany me."
-    a ""
+    a "但如果我不得不应付你那些古怪的举动，至少在我这的时候给我安静点。"
 
 # game/script morocco arthur.rpy:405
 translate Chinese day14_arthur_start_773ebecc:
 
     # "He snorts."
-    ""
+    "他哼了一声。"
 
 # game/script morocco arthur.rpy:407
 translate Chinese day14_arthur_start_66c1769f:
 
     # a "That I ever thought I would have to supervise a sailor to ensure they took their leave. Do you know you are as bad, if not worse, than Mr. Hvidt?"
-    a ""
+    a "真想不到我居然还要盯着一名水手，去逼着他休假。你知道吗，就算不比Hvidt先生更糟，你也和他一样难缠?"
 
 # game/script morocco arthur.rpy:409
 translate Chinese day14_arthur_start_38d1cff3:
 
     # "You hold your tongue—in fact try to swallow it—so you don't say something awkward."
-    ""
+    "你管住自己的嘴——努力把话咽下去——免得说出些不合适的话。"
 
 # game/script morocco arthur.rpy:411
 translate Chinese day14_arthur_start_03117d0e:
 
     # "At least Arthur seems unwilling to deal with another round of whatever Wolf has done to annoy him."
-    ""
+    "至少Arthur似乎不想再应付一轮令他恼火的Wolf干的那些事了。"
 
 # game/script morocco arthur.rpy:415
 translate Chinese day14_arthur_start_dd0e8298:
 
     # a "If you are this desperate to spend your time with the joys of bureaucracy, then at least you can be useful to me."
-    a ""
+    a "既然你这么渴望把时间花在官僚主义的美事上，至少你可以来给我搭把手。"
 
 # game/script morocco arthur.rpy:417
 translate Chinese day14_arthur_start_ef8bdf4c:
 
     # a "I suppose I should consider it a blessing that you won't be one of the crew who inevitably makes a mess of himself."
-    a ""
+    a "我承认我该感到庆幸，你不会像有些船员那样登岸之后就把自己搞得一团糟。"
 
 # game/script morocco arthur.rpy:421
 translate Chinese day14_arthur_start_e8857d82:
 
     # "With that he grabs the papers and puts them in a leather bound document holder, tying the cords tightly before dumping it into a satchel. From the way he thrusts the strap towards you, it's obvious what your job is."
-    ""
+    "说完，他拿起文书，放进皮制文件套，系紧绳带，再塞进挎包。看着他把包带朝你猛的一递，你的任务不言而喻了。"
 
 # game/script morocco arthur.rpy:423
 translate Chinese day14_arthur_start_e64f4e70:
 
     # "It's a less satisfying resolution than perhaps you are hoping for, but then again, the request likely seems odd to him, given your history."
-    ""
+    "这个结果或许达不到你的期待，但考虑到你们过去发生的一切，你的这份请求在他眼里本就显得十分怪异。"
 
 # game/script morocco arthur.rpy:425
 translate Chinese day14_arthur_start_08592b53:
 
     # "Who knows what his thoughts might actually be."
-    ""
+    "谁知道他心里到底在想什么。"
 
 # game/script morocco arthur.rpy:429
 translate Chinese day14_arthur_start_1e898660:
 
     # "But as you try to guess what's going on behind those eyes, Arthur rises."
-    ""
+    "但正当你试图揣摩他眼神背后的心思时，Arthur站起身来。"
 
 # game/script morocco arthur.rpy:437
 translate Chinese day14_arthur_start_0ae89e44:
 
     # "You follow him out onto the deck, pausing for a moment to get a report on the repairs. Konrad drolls out a whole list of carpentry terms, even more impenetrable to your ears when combined with all the nautical terms too."
-    ""
+    "你跟着他走到甲板上，他停下片刻听取维修进度汇报。Konrad滔滔不绝地列出一连串木工术语，而这些词汇与航海专业术语混杂在一起时更叫你一头雾水。"
 
 # game/script morocco arthur.rpy:448
 translate Chinese day14_arthur_start_c16e81ea:
 
     # "Two weeks on a ship, and sometimes you think you've hardly made a dent into the vocabulary used around here."
-    ""
+    "在船上待了两周，有时候你觉得自己对周围人说的词汇的理解基本没什么进展。"
 
 # game/script morocco arthur.rpy:450
 translate Chinese day14_arthur_start_1c3b05ea:
 
     # "Though not all of it appears to be related to their work."
-    ""
+    "当然，并不是所有词汇都和工作相关。"
 
 # game/script morocco arthur.rpy:452
 translate Chinese day14_arthur_start_ec705ebb:
@@ -1030,7 +1030,7 @@ translate Chinese day14_arthur_start_f63d4fe5:
 translate Chinese day14_arthur_start_c7758c6b:
 
     # a "I'll keep that in mind."
-    a ""
+    a "我会记住的。"
 
 # game/script morocco arthur.rpy:504
 translate Chinese day14_arthur_start_4c37a254:
