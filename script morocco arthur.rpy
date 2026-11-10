@@ -622,7 +622,7 @@ translate Chinese day14_arthur_start_e55d0faf:
 translate Chinese day14_arthur_start_9ebcb0aa:
 
     # p "I did just want to talk, if that were possible-"
-    p ""我只是想和你谈谈，如果可以的话-
+    p "我只是想和你谈谈，如果可以的话-"
 
 # game/script morocco arthur.rpy:303
 translate Chinese day14_arthur_start_d0e635b9:
