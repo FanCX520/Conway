@@ -922,109 +922,109 @@ translate Chinese day14_arthur_start_0ae89e44:
 translate Chinese day14_arthur_start_c16e81ea:
 
     # "Two weeks on a ship, and sometimes you think you've hardly made a dent into the vocabulary used around here."
-    "在船上待了两周，有时候你觉得自己对周围人说的词汇的理解基本没什么进展。"
+    "在船上待了两周，有时候你觉得自己对周围人所说术语的理解基本没什么进展。"
 
 # game/script morocco arthur.rpy:450
 translate Chinese day14_arthur_start_1c3b05ea:
 
     # "Though not all of it appears to be related to their work."
-    "当然，并不是所有词汇都和工作相关。"
+    "当然也不是所有词汇都和工作相关。"
 
 # game/script morocco arthur.rpy:452
 translate Chinese day14_arthur_start_ec705ebb:
 
     # k "Now, if we're not strictly all business Sir, I can't help but wonder if you've the beauty in laying at anchor in the harbor."
-    k ""
+    k "如果先不讨论公事，长官，我想知道你有没有留意过港口抛锚停泊的好风景。"
 
 # game/script morocco arthur.rpy:456
 translate Chinese day14_arthur_start_1b5ba7e8:
 
     # a "Has your keen eye strayed from the task at hand?"
-    a ""
+    a "你不该更留意手头的重活?"
 
 # game/script morocco arthur.rpy:458
 translate Chinese day14_arthur_start_1ef4c3c1:
 
     # "Arthur folds his arms. But instead of a harsh grunt, the snort is softer, almost teasing."
-    ""
+    "Arthur抱起双臂，哼声轻过往常，更像是打趣而非训斥。"
 
 # game/script morocco arthur.rpy:462
 translate Chinese day14_arthur_start_ab6152e2:
 
     # k "Well I can't help but take a glance every now and then, it's a busy waterway and all, and what man can when such a petite beauty sails by?"
-    k ""
+    k "我时长忍不住瞥上一眼，毕竟这是一条繁忙的水道，而当如此娇俏动人的船儿驶过时，又有哪个男人能忍得住呢?"
 
 # game/script morocco arthur.rpy:466
 translate Chinese day14_arthur_start_c1ad059e:
 
     # a "Mr. Wagner. Most of this crew would forsake such a sight for but a cheap pint."
-    a ""
+    a "恐怕大多船员会为了杯廉价的酒水抛弃这个，Wanger先生。"
 
 # game/script morocco arthur.rpy:468
 translate Chinese day14_arthur_start_7e720137:
 
     # "The old cat chuckles, sharing some unspoken memory with the officer."
-    ""
+    "老猫笑了，他和这位军官一时都沉浸于那些心照不宣的回忆。"
 
 # game/script morocco arthur.rpy:470
 translate Chinese day14_arthur_start_75c06e87:
 
     # k "Uncultured fools they are."
-    k ""
+    k "一堆没文化的傻瓜。"
 
 # game/script morocco arthur.rpy:476
 translate Chinese day14_arthur_start_d8beaf71:
 
     # a "I tell them every day..."
-    a ""
+    a "我每天都跟他们说..."
 
 # game/script morocco arthur.rpy:480
 translate Chinese day14_arthur_start_c5ffa1d5:
 
     # a "How many guns did she carry?"
-    a ""
+    a "她装了门多少火炮？"
 
 # game/script morocco arthur.rpy:482
 translate Chinese day14_arthur_start_b0b246a2:
 
     # k "Oh, no more than twenty. Like I said, she's a slender beauty. Nothing like any rating you'd see in a line o' battle."
-    k ""
+    k "哦，没超过二十门。像我说的，她是那种纤细的类型。不像是你会在战列线的战舰里会看到的种类。"
 
 # game/script morocco arthur.rpy:484
 translate Chinese day14_arthur_start_56d0d776:
 
     # k "Beautiful carvings, though."
-    k ""
+    k "不过雕刻很漂亮。"
 
 # game/script morocco arthur.rpy:486
 translate Chinese day14_arthur_start_7cf1d1a5:
 
     # a "Petite indeed. Can hardly ask her for a dance, can I?"
-    a ""
+    a "确实很娇小，我都没法邀她共舞，对吧？"
 
 # game/script morocco arthur.rpy:490
 translate Chinese day14_arthur_start_d01a87f3:
 
     # "The old cat answers with but a laugh."
-    ""
+    "老猫大笑起来，没回答。"
 
 # game/script morocco arthur.rpy:494
 translate Chinese day14_arthur_start_1fe60b65:
 
     # k "Well then should the affairs of the day take you there, I'd be interested to hear your report, given my duties require me here."
-    k ""
+    k "既然今天的活会把你拽过去，我很想听你的见闻，鉴于我的活要我待在这。"
 
 # game/script morocco arthur.rpy:498
 translate Chinese day14_arthur_start_86361b9d:
 
     # a "A shame that this time I'd be without your expert eye."
-    a ""
+    a "这次不能有你独到的眼光实在是遗憾。"
 
 # game/script morocco arthur.rpy:500
 translate Chinese day14_arthur_start_f63d4fe5:
 
     # k "Aye, you know enough by now I warrant to give me a decent report. Perhaps I'll even get the time later to inspect them myself, if you find a good viewing spot."
-    k ""
+    k "是啊，我相信你的见识够给我一个像样的描述了。没准我下次还会亲自去看看，要是你找得到一个绝佳的观景点。"
 
 # game/script morocco arthur.rpy:502
 translate Chinese day14_arthur_start_c7758c6b:
@@ -1036,121 +1036,121 @@ translate Chinese day14_arthur_start_c7758c6b:
 translate Chinese day14_arthur_start_4c37a254:
 
     # a "Commendable, of course, that you are so committed to your duty. But even a married man should take some time away from the wife every now and then."
-    a ""
+    a "“当然，你如此忠于职守，值得称赞。但就算是个已婚男人，也该偶尔离开妻子，给自己留点时间。"
 
 # game/script morocco arthur.rpy:508
 translate Chinese day14_arthur_start_2aef1846:
 
     # k "It's in my interests too to see this ship stay seaworthy!"
-    k ""
+    k "看到这艘船保持适航也对我有好处!"
 
 # game/script morocco arthur.rpy:510
 translate Chinese day14_arthur_start_63dd1a2e:
 
     # "Konrad laughs, eyes flicking towards you."
-    ""
+    "Konrad笑起来，目光转向你。"
 
 # game/script morocco arthur.rpy:514
 translate Chinese day14_arthur_start_b46b950c:
 
     # k "Ocean's always testy."
-    k ""
+    k "大海总是那么急躁。"
 
 # game/script morocco arthur.rpy:516
 translate Chinese day14_arthur_start_56f86443:
 
     # "The lynx adds, recognising the way you could pull his words."
-    ""
+    "猞猁补充道，认准你能听懂他的话。"
 
 # game/script morocco arthur.rpy:518
 translate Chinese day14_arthur_start_fc4f124d:
 
     # a "Indeed, it tests us all. I will look to give you a good report later then if my affairs bring enough room."
-    a ""
+    a "的确，大海会考验我们所有人。如果之后我的事务办完还有空，我会给你好好讲讲我的所见。"
 
 # game/script morocco arthur.rpy:520
 translate Chinese day14_arthur_start_503d815c:
 
     # k "I'm sure young [name] will be of help. "
-    k ""
+    k "我很确定年轻的[name]会帮上你的忙。"
 
 # game/script morocco arthur.rpy:522
 translate Chinese day14_arthur_start_7e6fb1bf:
 
     # "Your ears flick at those words, trying to decipher his tone."
-    ""
+    "听到这句话，你的耳朵微微一动，试图辨明他的语气。"
 
 # game/script morocco arthur.rpy:524
 translate Chinese day14_arthur_start_6c7a5352:
 
     # k "I'll be busy here, and with Alden on watch. You know an old sailor has all his affairs in order, Sir. "
-    k ""
+    k "我这里会很忙，而Alden要负责值班。你知道一位老水手会让一切都安排妥当，长官。"
 
 # game/script morocco arthur.rpy:528
 translate Chinese day14_arthur_start_dae48dda:
 
     # a "I'll consider it. "
-    a ""
+    a "我会考虑的。"
 
 # game/script morocco arthur.rpy:534
 translate Chinese day14_arthur_start_8a06c28f:
 
     # "Arthur gives a satisfied nod, commending the carpenter's work and leaving him be, hooves beating down the gangway and onto the wharf."
-    ""
+    "Arthur满意地点点头，夸赞了木匠的手艺便不再打扰他，马蹄拍打着舷梯，赶往码头。"
 
 # game/script morocco arthur.rpy:541
 translate Chinese day14_arthur_start_ff648b17:
 
     # "You know better than to delay, scrambling down the plank, trying to hide the wobble in your legs as you try to adjust to this strange, stable world."
-    ""
+    "你知道最好不要耽搁，手忙脚乱地爬下木板，努力尝试掩饰双腿的颤抖，以及适应这个陌生而顽固的世界。"
 
 # game/script morocco arthur.rpy:543
 translate Chinese day14_arthur_start_dd57b3b0:
 
     # "Another reminder how much this world has changed you."
-    ""
+    "又一次提醒了你，这个世界改变了你多少。"
 
 # game/script morocco arthur.rpy:545
 translate Chinese day14_arthur_start_7fb7a583:
 
     # "There's little time for contemplation."
-    ""
+    "但是没多少时间供你沉思。"
 
 # game/script morocco arthur.rpy:547
 translate Chinese day14_arthur_start_4f49b0e5:
 
     # "No longer willing to tolerate your lackluster pace, Arthur turns about and snaps up at you from the dock."
-    ""
+    "再也受不了你颓然的步伐，Arthur转过身来，厉声向你呵到。"
 
 # game/script morocco arthur.rpy:549
 translate Chinese day14_arthur_start_974d3228:
 
     # a "Mr. [family_name]. Those papers, please!"
-    a ""
+    a " [family_name]先生，把文书给我!"
 
 # game/script morocco arthur.rpy:551
 translate Chinese day14_arthur_start_df35094e:
 
     # "There goes that idea."
-    ""
+    "胡思乱想就此作罢。"
 
 # game/script morocco arthur.rpy:559
 translate Chinese day14_arthur_start_f11d5a48:
 
     # "By the time you catch up the horse is already a good couple of feet down the jetty, swishing his tail in annoyance."
-    ""
+    "等你追上时，那匹马已沿着栈桥走出好几英尺远，正烦躁地甩着尾巴。"
 
 # game/script morocco arthur.rpy:561
 translate Chinese day14_arthur_start_13b409bc:
 
     # a "Mr. [family_name], you really must learn to stay focused on the task at hand."
-    a ""
+    a " [family_name]先生，你真的得学会专心做好眼前的事。"
 
 # game/script morocco arthur.rpy:565
 translate Chinese day14_arthur_start_f8d451d2:
 
     # "With that he picks up the pace, the horse moving with a fast, looming stride that's hard for you to keep up with."
-    ""
+    "说罢，他加快了速度，迈着飞快而迫人的脚步前行，让你难以跟上。"
 
 # game/script morocco arthur.rpy:567
 translate Chinese day14_arthur_start_e2a9a342:
