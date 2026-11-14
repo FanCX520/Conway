@@ -1171,7 +1171,7 @@ translate Chinese day12_main_start_b4079a27:
 translate Chinese day12_main_start_6d7e94b0:
 
     # "Your grip tightens with frustration as you turn back to the lizard."
-    "你懊恼地握紧绳索，转身对着蜥蜴人。"
+    "你懊恼地握紧绳索，转身对着蜥蜴。"
 
 # game/script day12.rpy:773
 translate Chinese day12_main_start_174d0732:
@@ -45593,7 +45593,7 @@ translate Chinese day12_bioluminescence_arthur_nomax_65d51b5e:
 translate Chinese day12_bioluminescence_arthur_nomax_4fbf99d1:
 
     # "The painted dog brings a hand to his chin, rubbing thoughtfully before continuing."
-    "“这位彩绘狗抬手摸着下巴，在那儿认真地搓着，然后才继续说。”"
+    "“这位彩绘犬抬手摸着下巴，在那儿认真地搓着，然后才继续说。”"
 
 # game/script day12.rpy:23565
 translate Chinese day12_bioluminescence_arthur_nomax_ce40e9b3:
@@ -47560,7 +47560,7 @@ translate Chinese day12_bioluminescence_nomax_d07dd4e3:
 translate Chinese day12_bioluminescence_nomax_93438e18:
 
     # "You can tell the painted dog's eyes are starting to drift—the look of someone who's mentally moving on from the current conversation."
-    "你看得出那只彩绘犬（Nomax）的目光开始飘移——那是一种心思已从当前对话中抽离的神情。"
+    "你看得出那只彩绘犬的目光开始飘移——那是一种心思已从当前对话中抽离的神情。"
 
 # game/script day12.rpy:24559
 translate Chinese day12_bioluminescence_nomax_b9e295c2:
@@ -47662,7 +47662,7 @@ translate Chinese day12_bioluminescence_nomax_17a88928:
 translate Chinese day12_bioluminescence_nomax_44bfd839:
 
     # "You blurt out a \"Yessir\". The painted dog returns generic pleasantries, and you both end up watching Arthur marching his way out of the conversation."
-    "你赶紧回了句“是的，先生”。彩绘狗也说了几句客套话，然后你们就眼看着Arthur走开了，对话就这么结束了。"
+    "你赶紧回了句“是的，先生”。彩绘犬也说了几句客套话，然后你们就眼看着Arthur走开了，对话就这么结束了。"
 
 # game/script day12.rpy:24621
 translate Chinese day12_bioluminescence_nomax_1a26324b:
@@ -47770,7 +47770,7 @@ translate Chinese day12_bioluminescence_nomax_fd9a2055:
 translate Chinese day12_bioluminescence_nomax_f79e0609:
 
     # "The painted dog blushes faintly, looking away. You idly wonder how often he thinks about it in his spare time."
-    "彩绘狗脸微微一红，把头转了过去。你忍不住想，他闲下来的时候会多久想起这件事呢。"
+    "彩绘犬脸微微一红，把头转了过去。你忍不住想，他闲下来的时候会多久想起这件事呢。"
 
 # game/script day12.rpy:24693
 translate Chinese day12_bioluminescence_nomax_d591f562:
@@ -47800,7 +47800,7 @@ translate Chinese day12_bioluminescence_nomax_2757c3a9:
 translate Chinese day12_bioluminescence_nomax_4f44721a:
 
     # "The painted dog smiles softly."
-    "彩绘狗温柔地笑了笑。"
+    "彩绘犬温柔地笑了笑。"
 
 # game/script day12.rpy:24708
 translate Chinese day12_bioluminescence_nomax_e17430b5:
@@ -47914,7 +47914,7 @@ translate Chinese day12_bioluminescence_nomax_20a15cdf:
 translate Chinese day12_bioluminescence_nomax_847a1deb:
 
     # n "Julian. That lizard gent."
-    n "Julian， 那个蜥蜴人。"
+    n "Julian， 那个蜥蜴。"
 
 # game/script day12.rpy:24771
 translate Chinese day12_bioluminescence_nomax_11bd6b3c:
@@ -48136,7 +48136,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_3bdcfc73:
 translate Chinese day12_bioluminescence_nomax_moonlight_3b8d7e8f:
 
     # "The look on the painted dog's face, however, is anything but."
-    "然而，那条彩绘狗脸上的表情，却截然不同。"
+    "然而，那条彩绘犬脸上的表情，却截然不同。"
 
 # game/script day12.rpy:24895
 translate Chinese day12_bioluminescence_nomax_moonlight_d6555f29:
@@ -48256,7 +48256,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_listen_ffaa4653:
 translate Chinese day12_bioluminescence_nomax_moonlight_listen_b8b5862f:
 
     # "A large smile paves its way across the painted dog's face."
-    "“彩绘狗”的脸上绽放出灿烂的笑容。"
+    "“彩绘犬”的脸上绽放出灿烂的笑容。"
 
 # game/script day12.rpy:24987
 translate Chinese day12_bioluminescence_nomax_moonlight_listen_e352ca63:
@@ -48581,7 +48581,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_ffaa4653:
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_b8b5862f:
 
     # "A large smile paves its way across the painted dog's face."
-    "“彩绘狗”的脸上绽放出灿烂的笑容。"
+    "“彩绘犬”的脸上绽放出灿烂的笑容。"
 
 # game/script day12.rpy:25137
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_e352ca63:
@@ -48624,7 +48624,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_cc0fe942:
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_6023712b:
 
     # "The painted dog blushes, his eyes darting around the crowd that's gathered on this side of the ship."
-    "这只彩绘狗脸都红了，眼睛慌乱地扫视着聚集在船舷边的众人。"
+    "这只彩绘犬脸都红了，眼睛慌乱地扫视着聚集在船舷边的众人。"
 
 # game/script day12.rpy:25163
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_044ac870:
@@ -48762,7 +48762,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_8bd3246f:
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_d3f3d479:
 
     # "The painted dog's explanation doesn't sound believable to you. It barely sounds coherent, in fact."
-    "那只彩绘狗的解释听起来一点都不可信。实际上，简直是语无伦次。"
+    "那只彩绘犬的解释听起来一点都不可信。实际上，简直是语无伦次。"
 
 # game/script day12.rpy:25232
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_41a9815f:
@@ -48786,7 +48786,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_209b3257:
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_e1516ef2:
 
     # "The painted dog's crotch trembles under your fingertips, his organ a toy for you to play with."
-    "彩绘狗的胯部在你的指尖下颤抖，他的鸡巴成了你把玩的玩具。"
+    "彩绘犬的胯部在你的指尖下颤抖，他的鸡巴成了你把玩的玩具。"
 
 # game/script day12.rpy:25248
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_4b2044f9:
@@ -48942,7 +48942,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_88d09f12:
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_a72cd111:
 
     # "The painted dog jolts, his breath heavy."
-    "彩绘狗猛地一震，呼吸粗重。"
+    "彩绘犬猛地一震，呼吸粗重。"
 
 # game/script day12.rpy:25328
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_f2426ea7:
@@ -49428,7 +49428,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_264d4eef:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_fe015e9c:
 
     # "The painted dog walks up to the table. If he's blushing, he's doing a surprisingly good job hiding it."
-    "那只‘彩绘狗’走到桌边。如果他真的在脸红，那他可真会装，藏得滴水不漏。"
+    "那只‘彩绘犬’走到桌边。如果他真的在脸红，那他可真会装，藏得滴水不漏。"
 
 # game/script day12.rpy:25597
 translate Chinese day12_bioluminescence_nomax_lifedrawing_2a6735e6:
@@ -49710,7 +49710,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_1fdae9ef:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_f4da70bd:
 
     # "The painted dog's body trembles under your fingertips, a toy for you to play with."
-    "你指尖拨弄着那条彩绘狗，它像个玩具似的在你手心里颤抖。"
+    "你指尖拨弄着那条彩绘犬，它像个玩具似的在你手心里颤抖。"
 
 # game/script day12.rpy:25731
 translate Chinese day12_bioluminescence_nomax_lifedrawing_71e5970c:
@@ -50412,7 +50412,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_f532fb1d:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_7bc5b0b2:
 
     # "The painted dog, now reassured, seems to relax."
-    "那只彩绘狗似乎也安心了，放松了下来。"
+    "那只彩绘犬似乎也安心了，放松了下来。"
 
 # game/script day12.rpy:26106
 translate Chinese day12_bioluminescence_nomax_lifedrawing_5a94cc02:
@@ -50460,7 +50460,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_fd9e1f4a:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_dcce3402:
 
     # "You look at the painted dog, then back at the drawing. {w}Then back at the painted dog."
-    "你先是看看彩绘狗，又看看画作，然后又看向彩绘狗。{w}"
+    "你先是看看彩绘犬，又看看画作，然后又看向彩绘犬。{w}"
 
 # game/script day12.rpy:26131
 translate Chinese day12_bioluminescence_nomax_lifedrawing_c88124c7:
@@ -50634,7 +50634,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_70db9bf7_1:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_25e3df14:
 
     # "The painted dog stands from the bed as well. His voice is breathy and carries a vulnerable tremble."
-    "彩绘狗也从床上站了起来。他的声音有些发颤，听起来很不安。"
+    "彩绘犬也从床上站了起来。他的声音有些发颤，听起来很不安。"
 
 # game/script day12.rpy:26214
 translate Chinese day12_bioluminescence_nomax_lifedrawing_d54031e2_1:
@@ -50718,7 +50718,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_b94993e0:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_033c1935:
 
     # "You place your paw on the handle and look back at the painted dog."
-    "你把爪子搭在门把手上，回头看向彩绘狗。"
+    "你把爪子搭在门把手上，回头看向彩绘犬。"
 
 # game/script day12.rpy:26257
 translate Chinese day12_bioluminescence_nomax_lifedrawing_e7b25ad0:
@@ -50952,7 +50952,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_cfa50b53:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_48f7fe90:
 
     # "The painted dog was more excited than you'd ever seen him be."
-    "这只彩绘狗简直比你见过的任何时候都要兴奋！"
+    "这只彩绘犬简直比你见过的任何时候都要兴奋！"
 
 # game/script day12.rpy:26397
 translate Chinese day12_bioluminescence_nomax_lifedrawing_08ac5e62:
@@ -51000,7 +51000,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_8534ca42:
 translate Chinese day12_bioluminescence_nomax_ending_1170db6e:
 
     # "The painted dog sighs, though not with the sound of sadness."
-    "这只彩绘狗叹了口气，不过听着不像是在难过。"
+    "这只彩绘犬叹了口气，不过听着不像是在难过。"
 
 # game/script day12.rpy:26418
 translate Chinese day12_bioluminescence_nomax_ending_b4c049d2:
@@ -51186,7 +51186,7 @@ translate Chinese day12_bioluminescence_nomax_ending_228e3b68:
 translate Chinese day12_bioluminescence_nomax_ending_6217e223:
 
     # "The painted dog looks around at the sailors surrounding you."
-    "这只彩绘狗环顾着你周围的水手们。"
+    "这只彩绘犬环顾着你周围的水手们。"
 
 # game/script day12.rpy:26491
 translate Chinese day12_bioluminescence_nomax_ending_59bc3b40:
@@ -52524,7 +52524,7 @@ translate Chinese day12_bioluminescence_rajeeyah_wolf_1f0e6794:
 translate Chinese day12_bioluminescence_rajeeyah_wolf_1be9232c:
 
     # r "Others make a point of trying to have those, Mr. Hvidt."
-    r "赫维特先生，别人可都想着要交朋友呢。"
+    r "Hvidt先生，别人可都想着要交朋友呢。"
 
 # game/script day12.rpy:27311
 translate Chinese day12_bioluminescence_rajeeyah_wolf_3429a0ac:
@@ -53076,7 +53076,7 @@ translate Chinese day12_bioluminescence_wolf_rajeeyah_post_c8469f9e:
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_86ed9cd7:
 
     # "You turn to see that the painted dog has joined you. He seems to have become quite comfortable on the deck."
-    "你转过身，看到那只彩绘狗也加入了你们。他似乎已经很习惯在甲板上待着了。"
+    "你转过身，看到那只彩绘犬也加入了你们。他似乎已经很习惯在甲板上待着了。"
 
 # game/script day12.rpy:27605
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_78c0bc7c:
@@ -53395,7 +53395,7 @@ translate Chinese day12_bioluminescence_wolf_rajeeyah_post_fcd67f2b:
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_909b36e0:
 
     # r "I'll speak to Arthur. You and Mr. Hvidt might have plenty to do on the ship, but he probably wouldn't mind sparing you for my tasks if it meant keeping an experienced sailor around to help with the ship."
-    r "我和Arthur说说。你和赫维特先生在船上肯定忙得很，但要是能让你帮我跑跑腿，有个经验丰富的水手在船上帮忙，我想他应该不会反对。"
+    r "我和Arthur说说。你和Hvidt先生在船上肯定忙得很，但要是能让你帮我跑跑腿，有个经验丰富的水手在船上帮忙，我想他应该不会反对。"
 
 # game/script day12.rpy:27808
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_4b00e69c:
@@ -53443,7 +53443,7 @@ translate Chinese day12_bioluminescence_wolf_rajeeyah_post_a61ca5cf:
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_ed2d7265:
 
     # r "Just don't embarrass yourself too much. You'll keep him out of trouble, won't you, Mr. Hvidt?"
-    r "别给我惹事就行。赫维特先生，你可得看住他，别让他惹麻烦，知道吗？"
+    r "别给我惹事就行。Hvidt先生，你可得看住他，别让他惹麻烦，知道吗？"
 
 # game/script day12.rpy:27849
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_4309ad3a:
@@ -53545,7 +53545,7 @@ translate Chinese day12_bioluminescence_wolf_rajeeyah_post_11bc8fc4:
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_bf7ce33c:
 
     # r "I think he's right, Mr. Hvidt."
-    r "我想他是对的，赫维特先生。"
+    r "我想他是对的，Hvidt先生。"
 
 # game/script day12.rpy:27927
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_16ef8523:
