@@ -5333,7 +5333,7 @@ translate Chinese day2_nomax_morningwalk_58790238:
 translate Chinese day2_nomax_morningwalk_0b2056f1:
 
     # w "It kind of was, yeah. I'm with the lizard."
-    w "确实有点。我站蜥蜴人那边。"
+    w "确实有点。我站蜥蜴那边。"
 
 # game/script day2.rpy:3134
 translate Chinese day2_nomax_morningwalk_273d9ccb:
@@ -5472,7 +5472,7 @@ translate Chinese day2_nomax_morningwalk_93f44a2b:
 translate Chinese day2_nomax_morningwalk_0b2056f1_1:
 
     # w "It kind of was, yeah. I'm with the lizard."
-    w "确实有点。我站蜥蜴人那边。"
+    w "确实有点。我站蜥蜴那边。"
 
 # game/script day2.rpy:3193
 translate Chinese day2_nomax_morningwalk_273d9ccb_1:
@@ -5520,7 +5520,7 @@ translate Chinese day2_nomax_morningwalk_6b848c0c:
 translate Chinese day2_nomax_morningwalk_0b2056f1_2:
 
     # w "It kind of was, yeah. I'm with the lizard."
-    w "确实有点。我站蜥蜴人那边。"
+    w "确实有点。我站蜥蜴那边。"
 
 # game/script day2.rpy:3218
 translate Chinese day2_nomax_morningwalk_273d9ccb_2:
@@ -6006,7 +6006,7 @@ translate Chinese day2_nomax_morningwalk_9d652c19:
 translate Chinese day2_nomax_morningwalk_2780a11a:
 
     # "Julian interjects, stepping in to save the painted dog."
-    "Julian 打断了他的话，像个英雄一样站了出来，想要拯救这只“彩绘狗”。"
+    "Julian 打断了他的话，像个英雄一样站了出来，想要拯救这只“彩绘犬”。"
 
 # game/script day2.rpy:3453
 translate Chinese day2_nomax_morningwalk_b1921f0e:
@@ -6156,7 +6156,7 @@ translate Chinese day2_nomax_morningwalk_bf8eee73:
 translate Chinese day2_nomax_morningwalk_851f2d0c:
 
     # "The painted dog realizes that this sort of 'work' is a far cry from that of a deck gang."
-    "这位“彩绘狗”也明白，他做的这活儿，跟甲板上的苦力们可没法比。"
+    "这位“彩绘犬”也明白，他做的这活儿，跟甲板上的苦力们可没法比。"
 
 # game/script day2.rpy:3529
 translate Chinese day2_nomax_morningwalk_f5a40ac7:
@@ -6174,7 +6174,7 @@ translate Chinese day2_nomax_morningwalk_3949edf2:
 translate Chinese day2_nomax_morningwalk_84dbc9e6:
 
     # "The painted dog stays for a bit of small talk, beyond that, but he seems to have places to be."
-    "“彩绘狗”又闲聊了一会儿，但似乎还有事要忙。"
+    "“彩绘犬”又闲聊了一会儿，但似乎还有事要忙。"
 
 # game/script day2.rpy:3537
 translate Chinese day2_nomax_morningwalk_728d100a:
@@ -9762,7 +9762,7 @@ translate Chinese day2_nomax_notentered_0c119af9:
 translate Chinese day2_nomax_notentered_56dd7c7e:
 
     # "This time the painted dog greets you in a much more appropriate attire, even if he still looks as flustered as before."
-    "这一次，这位彩绘狗穿着得体多了，尽管他看起来仍然像之前一样慌乱。"
+    "这一次，这位彩绘犬穿着得体多了，尽管他看起来仍然像之前一样慌乱。"
 
 # game/script day2.rpy:5350
 translate Chinese day2_nomax_notentered_283d9614:
@@ -10830,7 +10830,7 @@ translate Chinese day2_nomax_afterchoice_caddd314:
 translate Chinese day2_nomax_afterchoice_4bd8bc06:
 
     # "You tease back jokingly, eliciting another laugh from the painted dog."
-    "你笑着回怼，引得这只“彩绘狗”又是一阵大笑。"
+    "你笑着回怼，引得这只“彩绘犬”又是一阵大笑。"
 
 # game/script day2.rpy:5832
 translate Chinese day2_nomax_afterchoice_87818ca4:
@@ -16872,7 +16872,7 @@ translate Chinese day2_player_win_d1d87288:
 translate Chinese day2_player_win_92ad0182:
 
     # p "Hey, Jules. Is it true what they say about lizard guys?"
-    p "嘿，Jules。他们说的那种事，你们蜥蜴人是不是都那样啊？"
+    p "嘿，Jules。他们说的那种事，你们蜥蜴是不是都那样啊？"
 
 # game/script day2.rpy:9208
 translate Chinese day2_player_win_6a88fa30:
@@ -19612,7 +19612,7 @@ translate Chinese day2_tell_julian_about_julian_df4bc6a8:
 translate Chinese day2_tell_julian_about_julian_92df58a1:
 
     # "The lizard teases. The canine just glares at him."
-    "蜥蜴人调侃道。那只犬科动物只是狠狠地瞪了他一眼。"
+    "蜥蜴调侃道。那只犬科动物只是狠狠地瞪了他一眼。"
 
 # game/script day2.rpy:10727
 translate Chinese day2_tell_julian_about_julian_c8a2d349:
@@ -19684,7 +19684,7 @@ translate Chinese day2_tell_julian_about_julian_ade269cb:
 translate Chinese day2_tell_julian_about_julian_eef1b47c:
 
     # "That catches the lizard off guard. He tilts his head, curious."
-    "蜥蜴人有些措手不及，好奇地歪了歪头。"
+    "蜥蜴有些措手不及，好奇地歪了歪头。"
 
 # game/script day2.rpy:10834
 translate Chinese day2_tell_julian_about_julian_46abc89f:
@@ -21610,7 +21610,7 @@ translate Chinese day2_dice_outro_634b9bb4:
 translate Chinese day2_dice_outro_b475110e:
 
     # "The door swings open shortly after Arthur knocks on it, revealing the familiar painted dog behind it."
-    "Arthur敲门后，门很快就打开了，露出了那张熟悉的彩绘狗的脸。"
+    "Arthur敲门后，门很快就打开了，露出了那张熟悉的彩绘犬的脸。"
 
 # game/script day2.rpy:12107
 translate Chinese day2_dice_outro_0eecffef:
@@ -21868,7 +21868,7 @@ translate Chinese day2_dice_outro_1cf98911:
 translate Chinese day2_dice_outro_b475110e_1:
 
     # "The door swings open shortly after Arthur knocks on it, revealing the familiar painted dog behind it."
-    "Arthur敲门后，门很快就打开了，露出了那张熟悉的彩绘狗的脸。"
+    "Arthur敲门后，门很快就打开了，露出了那张熟悉的彩绘犬的脸。"
 
 # game/script day2.rpy:12235
 translate Chinese day2_dice_outro_0401bed5:
@@ -22084,7 +22084,7 @@ translate Chinese day2_dice_outro_4e440233:
 translate Chinese day2_dice_outro_b475110e_2:
 
     # "The door swings open shortly after Arthur knocks on it, revealing the familiar painted dog behind it."
-    "Arthur敲门后，门很快就打开了，露出了那张熟悉的彩绘狗的脸。"
+    "Arthur敲门后，门很快就打开了，露出了那张熟悉的彩绘犬的脸。"
 
 # game/script day2.rpy:12358
 translate Chinese day2_dice_outro_0401bed5_1:
@@ -23992,7 +23992,7 @@ translate Chinese day2_nomax_questioning_6a91d0d8:
 translate Chinese day2_nomax_questioning_8607bb26:
 
     # "Arthur looks over at Nomax to see his reaction and he receives a curt nod from the painted dog."
-    "Arthur瞥了Nomax一眼，想看看他的反应，那只彩绘狗只是微微颔首。"
+    "Arthur瞥了Nomax一眼，想看看他的反应，那只彩绘犬只是微微颔首。"
 
 # game/script day2.rpy:13404
 translate Chinese day2_nomax_questioning_7dfdd0a8:
@@ -24010,7 +24010,7 @@ translate Chinese day2_nomax_questioning_23adb28f:
 translate Chinese day2_nomax_questioning_dd6de1b5:
 
     # "You look over at the painted dog before you answer, remembering how he hung over the railing like a pitiful wet dog."
-    "你看了看那只彩绘狗才回答，想起他当时像只淋湿的可怜小狗一样趴在栏杆上的样子。"
+    "你看了看那只彩绘犬才回答，想起他当时像只淋湿的可怜小狗一样趴在栏杆上的样子。"
 
 # game/script day2.rpy:13417
 translate Chinese day2_nomax_questioning_8489e31d:
@@ -24076,7 +24076,7 @@ translate Chinese day2_nomax_questioning_01703e52:
 translate Chinese day2_nomax_questioning_dd6de1b5_1:
 
     # "You look over at the painted dog before you answer, remembering how he hung over the railing like a pitiful wet dog."
-    "你看了看那只彩绘狗才回答，想起他当时像只淋湿的可怜小狗一样趴在栏杆上的样子。"
+    "你看了看那只彩绘犬才回答，想起他当时像只淋湿的可怜小狗一样趴在栏杆上的样子。"
 
 # game/script day2.rpy:13449
 translate Chinese day2_nomax_questioning_2b29296e:
@@ -24124,7 +24124,7 @@ translate Chinese day2_nomax_questioning_01703e52_1:
 translate Chinese day2_nomax_questioning_01fa2015:
 
     # "You look over at the painted dog and do him the favor of leaving out some of the unsavory details."
-    "你看了看那只彩绘狗，为了照顾他的面子，没说那些丢人的细节。"
+    "你看了看那只彩绘犬，为了照顾他的面子，没说那些丢人的细节。"
 
 # game/script day2.rpy:13475
 translate Chinese day2_nomax_questioning_8c9081c6:
@@ -25216,7 +25216,7 @@ translate Chinese day2_nomax_question4_de9bf76f:
 translate Chinese day2_nomax_question4_e580013d:
 
     # "All you get in return is a snort from the horse as he makes his way back to the door."
-    "作为回应，马人长官只是重重哼了一声，便径直朝着门口大步踱去。"
+    "作为回应，马长官只是重重哼了一声，便径直朝着门口大步踱去。"
 
 # game/script day2.rpy:14120
 translate Chinese day2_nomax_question4_5fb0839b:
@@ -29195,7 +29195,7 @@ translate Chinese day2_eveningchoice_Julian_doityourself_6d990a39:
 translate Chinese day2_eveningchoice_Julian_doityourself_7ecc520f:
 
     # "You then plunge two of your fingers into his slit, curving up and testing his depths. The lizard immediately gasps, some retort he had for you lost in the moment as his head lolls back."
-    "接着，你用两根手指粗暴地探入那处，弯曲着向上，试探着他的深浅。那蜥蜴人瞬间倒吸一口凉气，原本想要反驳的话语也烟消云散，头无力地向后仰去。"
+    "接着，你用两根手指粗暴地探入那处，弯曲着向上，试探着他的深浅。那蜥蜴瞬间倒吸一口凉气，原本想要反驳的话语也烟消云散，头无力地向后仰去。"
 
 # game/script day2.rpy:16278
 translate Chinese day2_eveningchoice_Julian_doityourself_395d9868:
@@ -29537,13 +29537,13 @@ translate Chinese day2_eveningchoice_Julian_touching_95e59323:
 translate Chinese day2_eveningchoice_Julian_touching_a33bc73c:
 
     # "You're treated to a front row view of Julian thrusting into your hand, the muscles in his thighs shifting as his body tenses. You can see him panting for breath, feel his cock twitching in your grasp, hear his little noises of bliss."
-    "Julian पूरी तरह से आनंदित हो गया，उसकी जांघों की मांसपेशियां कसती हैं क्योंकि उसका शरीर तनाव में है। तुम उसे हांफते हुए देख सकते हो， महसूस कर सकते हो कि उसका मुर्गा तुम्हारी पकड़ में झूल रहा है， उसकी खुशी की छोटी आवाजें सुन सकते हो।"
+    "你近距离欣赏着Julian在你手中挺进的画面，他大腿的肌肉随着身体的紧绷而颤动。你看着他喘着粗气，感受着他的阳刚在你手中抽搐，听到他愉悦的低吟。"
 
 # game/script day2.rpy:16423
 translate Chinese day2_eveningchoice_Julian_touching_1eeb8be2:
 
     # j "I'm close. Don't stop..."
-    j "我快要到了……别停下……"
+    j "我快要……别停……"
 
 # game/script day2.rpy:16425
 translate Chinese day2_eveningchoice_Julian_touching_61a7d31a:
