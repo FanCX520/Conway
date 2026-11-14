@@ -56,7 +56,7 @@ Only the editable **`.rpy` source files** are kept (compiled `.rpyc` files have 
 | Julian Preble | Julian Preble / Julian | 约20岁青年蜥蜴人，性格活泼友善、幽默机警、同为新入行水手。 |
 | Wolf (Wolf Hvidt) | Wolf（Wolf Hvidt） | 三十余岁沧桑老练的灰狼，随身携带横笛（fife），沉默寡言、手艺精湛，曾流亡法国、背负身世隐情。 |
 | Samuel | Samuel | 鬃狼（Maned Wolf），负责起锚机（Capstan）等重活的资深甲板水手长。 |
-| Nomax | Nomax | 非洲野犬（African Wild Dog / Painted Dog），博学学者，佩戴金丝眼镜受聘前往南方庄园研究未知植物的随船贵客，文雅自谦。 |
+| Nomax | Nomax | 非洲野犬/彩绘犬（African Wild Dog / Painted Dog），博学学者，佩戴金丝眼镜受聘前往南方庄园研究未知植物的随船贵客，文雅自谦。 |
 | Bandile | Bandile | 船上大厨（Cook），野兔兽人，烹饪手艺极其高超，擅长烹制新鲜鲑鱼，亦能将粗盐猪肉与干饼调理成可口餐食。 |
 | Konrad | Konrad | 猞猁（Lynx），船匠（Shipwright），胡须编成三股发辫，手劲极大、沉稳老练，深受同侪敬重。 |
 | Torres | Torres | 游隼（Peregrine Falcon），船员，举止文雅得体，谈吐风趣随和，帽子上佩插鲜艳亮蓝的翎羽。 |
