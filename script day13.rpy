@@ -28,13 +28,13 @@ translate Chinese day13_leaveroute_cleaning_b4c096ad:
 translate Chinese day13_leaveroute_cleaning_2a02f219:
 
     # "You didn't even put your shirt on today. It still sits in a crumpled head in your hammock since, for some reason, the sting from the welts was particularly piercing today."
-    ""
+    "你今天甚至没穿衬衫。衣服依然皱巴巴地缩在你的吊床上一团，不知为何，后背鞭痕今天的抽痛感格外钻心。"
 
 # game/script day13.rpy:47
 translate Chinese day13_leaveroute_cleaning_88a3ee69:
 
     # "Perhaps you rubbed them raw in your hammock this past night..."
-    ""
+    "或许是昨晚你在吊床上翻来覆去把伤口给磨破了皮……"
 
 # game/script day13.rpy:49
 translate Chinese day13_leaveroute_cleaning_3617011c:
@@ -292,7 +292,7 @@ translate Chinese day13_leaveroute_cleaning_a0e14f32:
 translate Chinese day13_leaveroute_cleaning_9aad771b:
 
     # "Your nostrils flare. Frustration prickles up through your limbs as the two conspire against you."
-    ""
+    "你的鼻翼剧烈翕动着。看着他们俩一唱一和地针对你，窝火与愤懑如针扎般刺痛着你的四肢百骸。"
 
 # game/script day13.rpy:189
 translate Chinese day13_leaveroute_cleaning_60d4b6ef:
@@ -442,7 +442,7 @@ translate Chinese day13_frustration_7c31cd0a:
 translate Chinese day13_frustration_2cce3be1:
 
     # "You brace for the incoming sting of pain, but it never comes. Julian's careful enough to not make contact with your back."
-    ""
+    "你咬紧牙关做好了迎接剧痛袭来的准备，但预期中的疼痛却未曾降临。Julian足够小心体贴，丝毫没有碰到你的后背。"
 
 # game/script day13.rpy:297
 translate Chinese day13_frustration_50bd17d0:
@@ -562,13 +562,13 @@ translate Chinese day13_change_a660f710:
 translate Chinese day13_change_086de87c:
 
     # "Julian lets out a whistle, then rises from the crate and circles behind you."
-    ""
+    "Julian吹了声口哨，随后从木箱上站起身，绕到了你的身后。"
 
 # game/script day13.rpy:379
 translate Chinese day13_change_f1a209e1:
 
     # "You shift, making room as Julian settles between you and Wolf."
-    ""
+    "你往旁边挪了挪腾出位置，让Julian在自己和Wolf中间坐下。"
 
 # game/script day13.rpy:388
 translate Chinese day13_change_f5630bec:
@@ -598,7 +598,7 @@ translate Chinese day13_choice_f3584785:
 translate Chinese day13_choice_490aa282:
 
     # j "We have at our disposal an exquisite array of tools, cutlery, plates, and the like. Only the finest quality, I assure you."
-    j "我们有一系列精美的工具，餐具，盘子等物品可供使用，我向你保证，都是品质最好的"
+    j "我们有一系列精美的工具，餐具，盘子等物品可供使用，我向你保证，都是品质最好的。"
 
 # game/script day13.rpy:407
 translate Chinese day13_choice_fcadf147:
@@ -610,115 +610,115 @@ translate Chinese day13_choice_fcadf147:
 translate Chinese day13_choice_ecd80991:
 
     # "Whenever Julian commits to a role, he can so confidently slip into it."
-    "每当Julian投入角色，他都能如此自信地融入其中"
+    "每当Julian投入角色，他都能如此自信地融入其中。"
 
 # game/script day13.rpy:413
 translate Chinese day13_choice_35e9e751:
 
     # "It can be surprisingly entertaining to watch."
-    "看着这一切意外地还挺有趣"
+    "看着这一切意外地还挺有趣。"
 
 # game/script day13.rpy:417
 translate Chinese day13_choice_77700b4f:
 
     # "For a fleeting moment, he even looks like he's considering resting a hand on Wolf's shoulder like some overly familiar street vendor."
-    "在极短的一瞬间，他看起来像是想要把手放在Wolf的肩膀上，就像一个过分亲昵的街头小贩一样"
+    "在极短的一瞬间，他看起来像是想要把手放在Wolf的肩膀上，就像一个过分亲昵的街头小贩一样。"
 
 # game/script day13.rpy:419
 translate Chinese day13_choice_01921660:
 
     # "You've encountered that type often enough."
-    "你经常遇到那种类型的人"
+    "你经常遇到那种类型的人。"
 
 # game/script day13.rpy:421
 translate Chinese day13_choice_f7210f7c:
 
     # "It reminds you of Mr. Franklin... He ran a small shop selling the fruit of his orchard back in your hometown, and he was every bit the overly familiar kind."
-    "这让你想起了Franklin先生，他在家乡经营着一家小店，出售自己果园里的水果，也是那种过分亲切熟络的人"
+    "这让你想起了Franklin先生，他在家乡经营着一家小店，出售自己果园里的水果，也是那种过分亲切熟络的人。"
 
 # game/script day13.rpy:423
 translate Chinese day13_choice_20133fda:
 
     # "You have no idea if Julian knows him, but his mannerisms echo the man's quite well."
-    "你不知道Julian是否认识他，但他的举止神态和那人如出一辙"
+    "你不知道Julian是否认识他，但他的举止神态和那人如出一辙。"
 
 # game/script day13.rpy:425
 translate Chinese day13_choice_14034569:
 
     # "He'd probably thrive on a stage—perhaps in one of those plays. Or an opera, even."
-    "他或许能在舞台上大放异彩，也许是在某部戏剧里，甚至是在歌剧表演中"
+    "他或许能在舞台上大放异彩，也许是在某部戏剧里，甚至是在歌剧表演中。"
 
 # game/script day13.rpy:432
 translate Chinese day13_choice_a1222adf:
 
     # "Though Wolf actually enjoying such a performance is another matter entirely."
-    "不过如果Wolf真的会欣赏这类演出，那可就完全是另一码事了"
+    "不过如果Wolf真的会欣赏这类演出，那可就完全是另一码事了。"
 
 # game/script day13.rpy:434
 translate Chinese day13_choice_44f8ec9a:
 
     # w "Just hand me something. That's all I asked for."
-    w "随便递给我点什么就行，我就这点要求"
+    w "随便递给我点什么就行，我就这点要求。"
 
 # game/script day13.rpy:441
 translate Chinese day13_choice_e7272e4a:
 
     # j "Very well then, a few bowls for the gent, coming right up."
-    j "那好吧，给这位绅士来几个碗，马上就到"
+    j "那好吧，给这位绅士来几个碗，马上就到。"
 
 # game/script day13.rpy:449
 translate Chinese day13_choice_f3210e31:
 
     # "Julian gathers a small stack of bowls left over from lunch and presents them to Wolf with playful flourish."
-    "Julian拿起一叠午餐剩下的碗，用一种开玩笑的夸张姿势递给Wolf"
+    "Julian拿起一叠午餐剩下的碗，用一种开玩笑的夸张姿势递给Wolf。"
 
 # game/script day13.rpy:451
 translate Chinese day13_choice_efb22588:
 
     # "A flourish, of course, that Wolf ignores entirely—taking the bowls without blinking an eye."
-    "当然，Wolf完全无视了那番做作——他眼皮都没眨一下就把碗接了过去"
+    "当然，Wolf完全无视了那番做作——他眼皮都没眨一下就把碗接了过去。"
 
 # game/script day13.rpy:458
 translate Chinese day13_choice_af35178b:
 
     # p "You've gotten pretty good at brushing him aside, you know."
-    p "你知道的，你已经很擅长把他晾在一边了"
+    p "你知道的，你已经很擅长把他晾在一边了。"
 
 # game/script day13.rpy:460
 translate Chinese day13_choice_1ab33505:
 
     # p "He didn't even complain, or try to fight it."
-    p "他甚至没有抱怨，也没试图反抗"
+    p "他甚至没有抱怨，也没试图反抗。"
 
 # game/script day13.rpy:462
 translate Chinese day13_choice_c5e1db2c:
 
     # p "Just gave you the plate."
-    p "就把盘子给你了"
+    p "就把盘子给你了。"
 
 # game/script day13.rpy:464
 translate Chinese day13_choice_ad710912:
 
     # "Wolf's eyes find you, just barely peeking from underneath his brows."
-    "Wolf的目光落在你身上，几乎只是从眉毛下方悄悄看了你一眼"
+    "Wolf的目光落在你身上，几乎只是从眉毛下方悄悄看了你一眼。"
 
 # game/script day13.rpy:466
 translate Chinese day13_choice_392a9509:
 
     # w "I reign through fear."
-    w "我依靠恐惧进行统治"
+    w "我依靠恐惧进行统治。"
 
 # game/script day13.rpy:473
 translate Chinese day13_choice_7fe82dd7:
 
     # j "Hardly."
-    j "才怪"
+    j "才怪。"
 
 # game/script day13.rpy:475
 translate Chinese day13_choice_c5c9c0df:
 
     # j "You threaten, certainly. But never follow through."
-    j "你只会威胁，但从不付诸行动"
+    j "你只会威胁，但从不付诸行动。"
 
 # game/script day13.rpy:479
 translate Chinese day13_choice_db2f658b:
@@ -730,13 +730,13 @@ translate Chinese day13_choice_db2f658b:
 translate Chinese day13_choice_1a8a49ea:
 
     # w "Debatable."
-    w "有待商榷"
+    w "有待商榷。"
 
 # game/script day13.rpy:487
 translate Chinese day13_choice_f8e948a8:
 
     # j "-I've gambled often enough to sniff out when someone's bluffing."
-    j "——我赌得多了，谁在吹牛，一眼就能看穿"
+    j "——我赌得多了，谁在吹牛，一眼就能看穿。"
 
 # game/script day13.rpy:489
 translate Chinese day13_choice_f26faaec:
@@ -1312,7 +1312,7 @@ translate Chinese day13_choice_e972834c:
 translate Chinese day13_choice_8534ca42:
 
     # ". . ."
-    ""
+    "……"
 
 # game/script day13.rpy:778
 translate Chinese day13_choice_4bc1ad1e:
@@ -1468,7 +1468,7 @@ translate Chinese day13_choice_16555771:
 translate Chinese day13_choice_f7d3cda7:
 
     # w "Opera, theater, circus—it makes no difference."
-    w ""
+    w "歌剧、戏剧、马戏团——全都没什么两样。"
 
 # game/script day13.rpy:849
 translate Chinese day13_choice_a1f6e8fc:
@@ -1522,7 +1522,7 @@ translate Chinese day13_choice_9c4de46e:
 translate Chinese day13_choice_d7b1ac9a_1:
 
     # p "Wolf..."
-    p ""
+    p "Wolf……"
 
 # game/script day13.rpy:883
 translate Chinese day13_choice_dfe9fe00:
@@ -2086,13 +2086,13 @@ translate Chinese day13_choice_2445db0f:
 translate Chinese day13_choice_fa4787b4:
 
     # w "Are the scars on your back not lesson enough?"
-    w ""
+    w "你背上的那些鞭痕给的教训还不够深刻吗？"
 
 # game/script day13.rpy:1147
 translate Chinese day13_choice_bb422413:
 
     # w "Or are the scars on your back not lesson enough?"
-    w ""
+    w "还是说，你背上的那些疤痕给你的教训还不够？"
 
 # game/script day13.rpy:1149
 translate Chinese day13_choice_dbe913f9:
@@ -2224,7 +2224,7 @@ translate Chinese day13_choice_0de2e683:
 translate Chinese day13_choice_c66bec85_1:
 
     # p "That's what I heard, at least."
-    p ""
+    p "至少我是这么听说的。"
 
 # game/script day13.rpy:1217
 translate Chinese day13_choice_08a3a951:
@@ -2254,7 +2254,7 @@ translate Chinese day13_choice_34c91557:
 translate Chinese day13_choice_dce0db48:
 
     # "Perhaps that's all a ship like the {i}Conway{/i} is."
-    "或许{i}Conway{/i}说到底也不过如此"
+    "或许{i}Conway号{/i}说到底也不过如此"
 
 # game/script day13.rpy:1232
 translate Chinese day13_choice_cc8f86c0:
@@ -2290,7 +2290,7 @@ translate Chinese day13_choice_47b0c23e:
 translate Chinese day13_choice_49fe160e:
 
     # "With your time on this transition so agonizingly cut short."
-    "只是你在Conway上的时间被痛苦地缩短"
+    "只是你在Conway号上的时间被痛苦地缩短"
 
 # game/script day13.rpy:1244
 translate Chinese day13_choice_bf0874e3:
@@ -2332,7 +2332,7 @@ translate Chinese day13_choice_b5f38e3b:
 translate Chinese day13_choice_ad5179a6:
 
     # j "Right."
-    j ""
+    j "也是。"
 
 # game/script day13.rpy:1265
 translate Chinese day13_choice_0d46c1d3:
@@ -2446,25 +2446,25 @@ translate Chinese day13_choice_65a9a9d9:
 translate Chinese day13_choice_2445db0f_1:
 
     # w "You really are just looking for trouble... Starting fights, now this."
-    w ""
+    w "你真是不消停地四处招惹是非……先是跟人打架，现在又整这出。"
 
 # game/script day13.rpy:1319
 translate Chinese day13_choice_fa4787b4_1:
 
     # w "Are the scars on your back not lesson enough?"
-    w ""
+    w "你背上的那些鞭痕给的教训还不够深刻吗？"
 
 # game/script day13.rpy:1323
 translate Chinese day13_choice_bb422413_1:
 
     # w "Or are the scars on your back not lesson enough?"
-    w ""
+    w "还是说，你背上的那些疤痕给你的教训还不够？"
 
 # game/script day13.rpy:1325
 translate Chinese day13_choice_dbe913f9_1:
 
     # w "Might not be a navy ship, but I doubt the upper class around here enjoys you going around trying to convince their crew to leave."
-    w ""
+    w "这里虽不是皇家海军军舰，但我很怀疑船上的上流长官们会乐意看到你到处煽动他们的水手开溜。"
 
 # game/script day13.rpy:1327
 translate Chinese day13_choice_e5b5a3a2:
@@ -2482,7 +2482,7 @@ translate Chinese day13_choice_70e3f740:
 translate Chinese day13_choice_75c540f5_1:
 
     # p "Perhaps."
-    p ""
+    p "也许吧。"
 
 # game/script day13.rpy:1333
 translate Chinese day13_choice_713ca6c4:
@@ -2506,43 +2506,43 @@ translate Chinese day13_choice_4b89e391:
 translate Chinese day13_choice_4a0c1463_1:
 
     # w "What you do is none of my business."
-    w ""
+    w "你干什么都跟我没关系。"
 
 # game/script day13.rpy:1343
 translate Chinese day13_choice_7f7bea16_1:
 
     # w "It was just a..."
-    w ""
+    w "那不过是场……"
 
 # game/script day13.rpy:1347
 translate Chinese day13_choice_f29dfcbe_1:
 
     # "Wolf opens his muzzle to continue, then shakes off whatever thought it was."
-    ""
+    "Wolf张开嘴想要继续往下说，随后甩了甩头，挥散了脑中的念头。"
 
 # game/script day13.rpy:1350
 translate Chinese day13_choice_91b422ab_1:
 
     # "Instead, he gets up to fetch more water."
-    ""
+    "相反，他站起身去打更多的水。"
 
 # game/script day13.rpy:1352
 translate Chinese day13_choice_c1c98dfa_1:
 
     # w "Never mind."
-    w ""
+    w "算了，当我没说。"
 
 # game/script day13.rpy:1358
 translate Chinese day13_choice_7701734a_1:
 
     # "You watch him until he disappears up the stairs."
-    ""
+    "你目送着他的身影，直到他消失在通往上层的台阶上方。"
 
 # game/script day13.rpy:1363
 translate Chinese day13_choice_8d12b606:
 
     # "Julian's hands don't stop working, but the rhythm slows."
-    "朱利安手里依旧忙着不停，只是节奏慢了下来"
+    "Julian手里依旧忙着不停，只是节奏慢了下来"
 
 # game/script day13.rpy:1365
 translate Chinese day13_choice_353b6559:
@@ -2656,49 +2656,49 @@ translate Chinese day13_choice_5bf1d41e:
 translate Chinese day13_choice_34c91557_1:
 
     # "Your lives—shared so briefly."
-    ""
+    "你们的生命——彼此交汇得如此短促。"
 
 # game/script day13.rpy:1418
 translate Chinese day13_choice_dce0db48_1:
 
     # "Perhaps that's all a ship like the {i}Conway{/i} is."
-    ""
+    "或许像{i}Conway号{/i}这样的船，本就仅此而已。"
 
 # game/script day13.rpy:1420
 translate Chinese day13_choice_cc8f86c0_1:
 
     # "A place of transitions."
-    ""
+    "一处命运中转的驿站。"
 
 # game/script day13.rpy:1422
 translate Chinese day13_choice_0653e54a_1:
 
     # "Nothing to call a home."
-    ""
+    "绝非什么能称之为归宿的家园。"
 
 # game/script day13.rpy:1424
 translate Chinese day13_choice_7ce94cdb_1:
 
     # "Just coming."
-    ""
+    "唯有来去匆匆。"
 
 # game/script day13.rpy:1426
 translate Chinese day13_choice_013a924e_1:
 
     # "And going."
-    ""
+    "过客聚散。"
 
 # game/script day13.rpy:1428
 translate Chinese day13_choice_47b0c23e_1:
 
     # "Same as those working on it."
-    ""
+    "正如在这艘船上劳作的每一个人。"
 
 # game/script day13.rpy:1430
 translate Chinese day13_choice_49fe160e_1:
 
     # "With your time on this transition so agonizingly cut short."
-    ""
+    "而你在这处驿站停留的时光，竟被如此痛苦而仓促地硬生生斩断。"
 
 # game/script day13.rpy:1438
 translate Chinese day13_choice_89aa5b2f:
@@ -2728,49 +2728,49 @@ translate Chinese day13_choice_184cb10f:
 translate Chinese day13_choice_34c91557_2:
 
     # "Your lives—shared so briefly."
-    ""
+    "你们的生命——彼此交汇得如此短促。"
 
 # game/script day13.rpy:1448
 translate Chinese day13_choice_dce0db48_2:
 
     # "Perhaps that's all a ship like the {i}Conway{/i} is."
-    ""
+    "或许像{i}Conway号{/i}这样的船，本就仅此而已。"
 
 # game/script day13.rpy:1450
 translate Chinese day13_choice_cc8f86c0_2:
 
     # "A place of transitions."
-    ""
+    "一处命运中转的驿站。"
 
 # game/script day13.rpy:1452
 translate Chinese day13_choice_0653e54a_2:
 
     # "Nothing to call a home."
-    ""
+    "绝非什么能称之为归宿的家园。"
 
 # game/script day13.rpy:1454
 translate Chinese day13_choice_7ce94cdb_2:
 
     # "Just coming."
-    ""
+    "唯有来去匆匆。"
 
 # game/script day13.rpy:1456
 translate Chinese day13_choice_013a924e_2:
 
     # "And going."
-    ""
+    "过客聚散。"
 
 # game/script day13.rpy:1458
 translate Chinese day13_choice_47b0c23e_2:
 
     # "Same as those working on it."
-    ""
+    "正如在这艘船上劳作的每一个人。"
 
 # game/script day13.rpy:1460
 translate Chinese day13_choice_49fe160e_2:
 
     # "With your time on this transition so agonizingly cut short."
-    ""
+    "而你在这处驿站停留的时光，竟被如此痛苦而仓促地硬生生斩断。"
 
 # game/script day13.rpy:1462
 translate Chinese day13_choice_7064461d:
@@ -2824,13 +2824,13 @@ translate Chinese day13_choice_99df3505:
 translate Chinese day13_choice_c443cab0_1:
 
     # "For a few moments neither of you break the lingering silence."
-    ""
+    "有那么一会儿，你们谁都没有打破这漫延的死寂。"
 
 # game/script day13.rpy:1486
 translate Chinese day13_choice_4b75853b_1:
 
     # "Even the water in the bucket grows still as you stop working."
-    ""
+    "随着你停下手中的活计，连水桶里的水面也渐渐平复静止下来。"
 
 # game/script day13.rpy:1490
 translate Chinese day13_choice_e9b3f13f:
@@ -2902,7 +2902,7 @@ translate Chinese day13_choice_55872ec8:
 translate Chinese day13_choice_599917bd_1:
 
     # "He closes his eyes."
-    ""
+    "他闭上了双眼。"
 
 # game/script day13.rpy:1523
 translate Chinese day13_choice_11558317:
@@ -2974,13 +2974,13 @@ translate Chinese day13_choice_feabb81f:
 translate Chinese day13_choice_e5b5a3a2_1:
 
     # "You shrug him off."
-    ""
+    "你耸肩甩开了他。"
 
 # game/script day13.rpy:1550
 translate Chinese day13_choice_70e3f740_1:
 
     # j "You don't have to tell me."
-    j ""
+    j "你不想说就不用勉强告诉我。"
 
 # game/script day13.rpy:1552
 translate Chinese day13_choice_e3d12417:
@@ -3004,13 +3004,13 @@ translate Chinese day13_choice_88b53041:
 translate Chinese day13_choice_4a0c1463_2:
 
     # w "What you do is none of my business."
-    w ""
+    w "你干什么都跟我没关系。"
 
 # game/script day13.rpy:1562
 translate Chinese day13_choice_7f7bea16_2:
 
     # w "It was just a..."
-    w ""
+    w "那不过是场……"
 
 # game/script day13.rpy:1564
 translate Chinese day13_choice_0ae721fa:
@@ -3022,43 +3022,43 @@ translate Chinese day13_choice_0ae721fa:
 translate Chinese day13_choice_f29dfcbe_2:
 
     # "Wolf opens his muzzle to continue, then shakes off whatever thought it was."
-    ""
+    "Wolf张开嘴想要继续往下说，随后甩了甩头，挥散了脑中的念头。"
 
 # game/script day13.rpy:1571
 translate Chinese day13_choice_91b422ab_2:
 
     # "Instead, he gets up to fetch more water."
-    ""
+    "相反，他站起身去打更多的水。"
 
 # game/script day13.rpy:1573
 translate Chinese day13_choice_c1c98dfa_2:
 
     # w "Never mind."
-    w ""
+    w "算了，当我没说。"
 
 # game/script day13.rpy:1579
 translate Chinese day13_choice_7701734a_2:
 
     # "You watch him until he disappears up the stairs."
-    ""
+    "你目送着他的身影，直到他消失在通往上层的台阶上方。"
 
 # game/script day13.rpy:1584
 translate Chinese day13_choice_8d12b606_1:
 
     # "Julian's hands don't stop working, but the rhythm slows."
-    ""
+    "Julian手上的活计没停，但涂抹的节奏却明显放慢了下来。"
 
 # game/script day13.rpy:1586
 translate Chinese day13_choice_353b6559_1:
 
     # "For a moment, you think he might say something."
-    ""
+    "有那么一瞬间，你以为他会开口说些什么。"
 
 # game/script day13.rpy:1588
 translate Chinese day13_choice_07d97394_1:
 
     # "But instead, he sniffs, scratches the side of his nose, and leaves a small mark of tar."
-    ""
+    "但他只是吸了吸鼻子，挠了挠鼻翼，在鼻梁侧面留下一小块焦油污渍。"
 
 # game/script day13.rpy:1590
 translate Chinese day13_choice_4e119692:
@@ -3130,19 +3130,19 @@ translate Chinese strings:
 
     # game/script day13.rpy:241
     old "\"You're right, Wolf. It wouldn't change anything. But I still would prefer it if he'd help.\""
-    new ""
+    new "“你说得对，Wolf。这改变不了什么。但我依然更希望他能伸出援手。”"
 
     # game/script day13.rpy:248
     old "\"My bad, Julian. Just frustrations boiling over.\""
-    new ""
+    new "“怪我，Julian。只是心头的闷火一下子没憋住。”"
 
     # game/script day13.rpy:639
     old "\"And I can't blame you. Truth be told, I'd be lying if I said I wouldn't look forward to some distance from Julian myself.\""
-    new ""
+    new "“我完全不怪你。说老实话，要是说我自己不想跟Julian保持点距离，那也是骗人。”"
 
     # game/script day13.rpy:737
     old "\"I tell you, there is an opportunity to do just that coming up.\""
-    new ""
+    new "“我跟你讲，眼下正好就有个能办成此事的绝好良机。”"
 
     # game/script day13.rpy:783
     old "You are out of ideas. You are desperate. Try to convince him with a sexual favor."
@@ -3154,13 +3154,13 @@ translate Chinese strings:
 
     # game/script day13.rpy:1013
     old "\"You're not at all wanting to roam around together?\""
-    new ""
+    new "“你真就一点都不想结伴到处逛逛？”"
 
     # game/script day13.rpy:1254
     old "\"You have to risk something occasionally.\""
-    new ""
+    new "“人总得偶尔冒点险。”"
 
     # game/script day13.rpy:1435
     old "\"I can't do it without you.\""
-    new ""
+    new "“没有你我一个人办不成。”"
 
