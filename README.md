@@ -2,14 +2,28 @@
 
 Ren'Py game scripts for **Conway** (Chinese localization / translation files).
 
-## Contents
 
-Only the editable **`.rpy` source files** are kept (compiled `.rpyc` files have been removed).
+### 动态人称代词变量处理说明
 
-- Main scripts: `script.rpy`, `script day2.rpy`, `script day12.rpy`, `script day13.rpy`
-- Morocco related: `script morocco *.rpy`
-- Supporting files: `common.rpy`, `screens.rpy`, `options.rpy`, `cheat.rpy`, `00auto-highlight.rpy`
-- Gallery navigation scripts under `gallery/`
+游戏原版英文中存在根据剧情动态切换角色性别与代词的机制，会使用 `[he]`、`[He]`、`[his]`、`[His]`、`[him]`、`[Him]` 等变量。
+
+考虑到中文与英文在人称代词和所有格表达上的语法差异，为了保证译文在不同角色性别状态下都能正常渲染，并尽量维持用语的一致性，翻译和审校时可以参考以下处理方式：
+
+1. **中文人称变量的赋值方式**
+   - 中文环境下，`[he]`、`[his]`、`[him]` 等人称变量统一赋值为代词“他”；剧情揭露角色为女性后，则动态切换为“她”。
+   - `[his]` 本身不会包含“的”，变量值仍然只是“他”或“她”，与 `[he]` 的处理方式相同。
+
+2. **翻译处理方式**
+   - 当英文原文出现 `[his] xxx` 或 `[His] xxx` 这类结构时，中文译文需要根据语法习惯，在变量后补充“的”。
+   - 因此，通常建议译为 `[his]的xxx` 或 `[His]的xxx`，例如：
+     - `[his] paws` → `[his]的爪子`（运行时显示为“他的爪子”或“她的爪子”）
+     - `[His] command` → `[His]的命令`
+     - `[his] voice` → `[his]的声音`
+     - `[his] head` → `[his]的头` / `[his]的脑袋`
+
+   - 直接写成 `[his]爪子` 或 `[his]声音`，游戏内会显示为“他爪子”和“他声音”，所以不要这样写。
+
+
 
 
 ## 术语表 (Glossary)
@@ -29,12 +43,12 @@ Only the editable **`.rpy` source files** are kept (compiled `.rpyc` files have 
 | Mess deck / Galley | 船员下层食堂 / 船上厨房 | 船员用餐、打饭、聚集休息的下层甲板公共空间。 |
 | Berths / Hammocks room | 船员卧铺舱 / 吊床舱 | 普通水手休息睡觉处，以悬挂吊床为主。 |
 | Officers' quarters | 军官起居舱 / 军官官舱 | 船长及高级长官独立的舱房空间。 |
-| Mogador (Essaouira) | 索维拉（莫加多尔） | 摩洛哥大西洋沿岸重要商埠海港，阿拉伯语意为“美景之城”，18世纪欧洲多称其为Mogador。 |
+| Mogador (Essaouira) | 莫加多尔（索维拉） | 摩洛哥大西洋沿岸重要商埠海港，阿拉伯语意为“美景之城”，18世纪欧洲多称其为Mogador。 |
 | Bab / Bab el-Marsa | 海门 / 码头门（Bab el-Marsa） | 索维拉（莫加多尔）标志性石砌城门，连通港口码头与老城区城塞要塞。 |
 | Hammam / Bathhouse | 摩洛哥传统公共浴场 / 浴场（Hammam） | 北非伊斯兰世界常见的蒸气公共浴室，海员上岸洗净一身咸泥尘垢的休憩之处。 |
 | Torres (Watchtowers) | 防盗瞭望塔 / 托雷斯塔 | 西班牙沿岸及海防用于防范巴巴里海盗突袭的警戒石塔（剧中Torres以此开自己的名字双关玩笑）。 |
 | Ouad / Wadi | 干涸河道 / 季节河（瓦迪） | 北非及中东干旱地区的干涸河谷或季节性河道，平时干涸或仅有涓涓细流，暴雨时才会暴发山洪。 |
-| Zawiya | 札维亚（Zawiya） | 伊斯兰马格里布地区的苏菲派修道院、宗教学校与朝圣客栈，兼具施舍、教育与接待过路行人的功能。 |
+| Zawiya | Zawiya | 伊斯兰马格里布地区的苏菲派修道院、宗教学校与朝圣客栈，兼具施舍、教育与接待过路行人的功能。 |
 | Tensift (Oued Tensift) | 坦西夫特河 / 瓦迪坦西夫特 | 摩洛哥中西部大河，发源自高阿特拉斯山脉，流经马拉喀什北侧并注入大西洋。 |
 | Aguz (Souira Kedima) | 阿古兹要塞 / 老索维拉 | 位于坦西夫特河口的古老葡萄牙海防要塞，扼守南大西洋沿海交通咽喉。 |
 | Aghmat | 阿格马特 | 摩洛哥南部阿特拉斯山脚下的古商贸城市与撒哈拉驼队商路北端重要集散枢纽。 |
@@ -51,18 +65,18 @@ Only the editable **`.rpy` source files** are kept (compiled `.rpyc` files have 
 
 | 原文 | 译文 | 备注 |
 | :--- | :--- | :--- |
-| James (Protagonist) | James（主角） | 20岁农场出身的猫族青年，新入行水手，性格机敏、怀揣航海梦想。 |
-| Arthur Hudson | Arthur Hudson / Arthur长官 | 极其高大魁梧的马人长官（航海长/主管军官），威严严肃、治军严厉。 |
-| Julian Preble | Julian Preble / Julian | 约20岁青年蜥蜴人，性格活泼友善、幽默机警、同为新入行水手。 |
+| James (Protagonist) | James（主角） | 20岁农场出身的猫，新入行水手，性格机敏、怀揣航海梦想。 |
+| Arthur Hudson | Arthur Hudson / Arthur长官 | 极其高大魁梧的马（航海长/主管军官），威严严肃、治军严厉。 |
+| Julian Preble | Julian Preble / Julian | 约20岁青年蜥蜴，性格活泼友善、幽默机警、同为新入行水手。 |
 | Wolf (Wolf Hvidt) | Wolf（Wolf Hvidt） | 三十余岁沧桑老练的灰狼，随身携带横笛（fife），沉默寡言、手艺精湛，曾流亡法国、背负身世隐情。 |
 | Samuel | Samuel | 鬃狼（Maned Wolf），负责起锚机（Capstan）等重活的资深甲板水手长。 |
 | Nomax | Nomax | 非洲野犬/彩绘犬（African Wild Dog / Painted Dog），博学学者，佩戴金丝眼镜受聘前往南方庄园研究未知植物的随船贵客，文雅自谦。 |
-| Bandile | Bandile | 船上大厨（Cook），野兔兽人，烹饪手艺极其高超，擅长烹制新鲜鲑鱼，亦能将粗盐猪肉与干饼调理成可口餐食。 |
+| Bandile | Bandile | 船上大厨（Cook），野兔，烹饪手艺极其高超，擅长烹制新鲜鲑鱼，亦能将粗盐猪肉与干饼调理成可口餐食。 |
 | Konrad | Konrad | 猞猁（Lynx），船匠（Shipwright），胡须编成三股发辫，手劲极大、沉稳老练，深受同侪敬重。 |
 | Torres | Torres | 游隼（Peregrine Falcon），船员，举止文雅得体，谈吐风趣随和，帽子上佩插鲜艳亮蓝的翎羽。 |
 | Rajeeyah | Rajeeyah | 猎豹（Cheetah），随船女船医（Doctor），王猎豹深黑斑纹与纯黑颈毛，佩戴绿松石饰品，性格内敛温柔、医术严谨。 |
 | Perce Blackborow | Perce Blackborow / Perce | 负伤水手，手臂骨折被固定救治，生性乐观、爱与长官和医生打趣。 |
-| René Serrault | René Serrault / René | 蛇人，来自法国的赏金猎人（Chasseur de primes），受雇追捕在法国涉嫌煽动谋反叛乱要犯的调查员。 |
+| René Serrault | René Serrault / René | 蛇，来自法国的赏金猎人（Chasseur de primes），受雇追捕在法国涉嫌煽动谋反叛乱要犯的调查员。 |
 | Arezki | Arezki | 猎豹（Cheetah），阿马齐格（Amazigh）游牧民出身，曾与Rajeeyah相恋，生性机敏狡黠、流连于偷盗走私与冒险生活。 |
 | Numidian cavalry | 努米底亚轻骑兵 | 北非古代柏柏尔人王牌轻骑兵，以不配马鞍缰辔、极速奔袭与标枪掷击著称，曾助汉尼拔重创罗马军团。 |
 | Dock Worker | 码头工人 / 搬运工 | 港口装卸工，说话粗鲁豪爽。 |
