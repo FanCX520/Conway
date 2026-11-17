@@ -89,14 +89,12 @@ translate Chinese start_463338eb:
 
     # "Beneath the tumultuous excitement at the surface, a lingering anxiety sits heavy in your stomach, keeping it tense. Nerves and fear intertwine, casting doubt on this sudden life change."
     "然而在表面难以自抑的兴奋底下，一抹挥之不去的焦虑却沉沉地堵在胃里，搅得肚腹发紧。忐忑与恐惧相互交织，让你对这突如其来的命运抉择不禁生出一丝动摇。"
-    # 译注：sits heavy in your stomach是英语中形容因极度紧张、焦虑引发肠胃发紧不适的生动表达，避免机械直译为“压在你的胃里”。
 
 # game/script.rpy:1090
 translate Chinese start_20306cc0:
 
     # "Ship masts start to come into view, emerging above nearby rooftops as you approach. Their stark looming presence against the morning sky only serving to amplify your emotions, further unsettling your stomach as you turn the corner onto the bustling main road which leads straight to port."
     "随着你一步步靠近，高耸的船桅开始从附近屋顶上方显露出来。清晨天际线下那些巍峨耸立的桅影，只教你心潮愈发翻涌，胃里的翻江倒海更甚。你拐过街角，踏上了直通港口的大道，眼前顿时一片熙攘繁杂。"
-    # 译注：unsettling your stomach承接前文紧张造成的胃部不适，不宜机械译为“反胃（呕吐感）”，而指紧张得胃里直打结。
 
 # game/script.rpy:1092
 translate Chinese start_115f351c:
@@ -109,7 +107,6 @@ translate Chinese start_7c167e76:
 
     # "The coastal breeze kicks up, giving you the strongest hit of salty air yet. Another reminder of what you are so close to doing—a new life on the deck of a ship, surrounded by endless miles of ocean."
     "海风迎面卷来，带来了迄今为止最浓烈的一股咸腥气息。这再次提醒着你，你距离那个决定已经有多近——在航船的甲板上开启全新人生，被无边无际的汪洋大海彻底环绕。"
-    # 译注：salty air指海风特有的咸腥味，体现海洋氛围。
 
 # game/script.rpy:1096
 translate Chinese start_5a28d3c2:
@@ -128,35 +125,30 @@ translate Chinese start_8afacf61:
 
     # "As you traverse the bustling thoroughfare leading to the docks, the familiar aroma of the nearby fisheries fills the air. The scent of fresh seafood intermingles with the salty tang of the sea—a pungent reminder of the lively nature of this quarter of the city."
     "走在通往码头的喧嚣大街上，空气中弥漫着附近渔场特有的气味。新鲜海产的鲜味与海水的咸味交织在一起，时刻提醒着你这里是全城最热闹的街区。"
-    # 译注：thoroughfare指大道/通衢要道；fisheries指渔行/鱼市。
 
 # game/script.rpy:1102
 translate Chinese start_6da817b4:
 
     # "The path is adorned with an array of shops and stalls; each proudly showcasing their own bountiful catches for the day. Their colorful displays of fresh seafood entice passersby, while diligent merchants busily prepare for the gathering crowds."
     "街道两旁排满了各色铺子和小摊，争先恐后地亮出各自当天捕获的丰饶渔获。五光十色的鲜活海货招揽着过往行人，勤快的摊贩们正忙前忙后，准备迎接蜂拥而至的人潮。"
-    # 译注：bountiful catches指丰盛渔获；diligent merchants指勤快的商贩。
 
 # game/script.rpy:1104
 translate Chinese start_a32a7e10:
 
     # "As the path nears its end, the smaller shops give way to grander structures that house shipwrights and shipping companies. These sturdy buildings stand as beacons of industry, eagerly accepting work from any ship that makes port."
     "越往街道深处走，低矮的小铺面便逐渐让位给了造船工坊和航运商行那高大坚固的建筑。这些结实厚重的屋宇宛若工业的灯塔，热切招揽着每一艘进港靠泊的船只业务。"
-    # 译注：shipwrights指造船工匠/造船厂；shipping companies指航运商行。
 
 # game/script.rpy:1106
 translate Chinese start_10201b0e:
 
     # "Of course, no port town is complete without its share of dockside taverns, and this bustling city is no exception. The closest tavern echoes with boisterous shouts and drunken songs, drawing in sailors and locals alike."
     "当然，任何港口城镇都少不了码头酒馆的身影，这座繁华的港城亦不例外。离得最近的那间酒馆里传出一阵阵粗门大嗓的喧哗与醉醺醺的酒歌，将往来水手和本地居民一并招引了进去。"
-    # 译注：dockside taverns指码头酒馆；boisterous shouts形容喧闹粗野的大嗓门。
 
 # game/script.rpy:1108
 translate Chinese start_fa977a11:
 
     # "As you pause near the tavern, you finally get your first unobstructed glimpse of the ships. You have a direct view of awe-inspiring vessels that gracefully ride the gentle roll of the sea. Among them, one is about to become your new home."
     "你在酒馆附近驻足，终于第一次毫无遮拦地望见了港中泊着的船影。眼前那些巍峨恢弘的大船随着海水的舒缓起伏轻轻荡漾，景象教人肃然起敬。而其中一艘，即将成为你的新家。"
-    # 译注：unobstructed glimpse指毫无遮拦的一瞥；awe-inspiring vessels形容帆船巍峨壮观。
 
 # game/script.rpy:1110
 translate Chinese start_a6adc943:
@@ -187,7 +179,6 @@ translate Chinese start_2d9ba243:
 
     # "A groan escapes your lips as you climb back to your feet. The otter is already lost in the crowd, just another sailor with one too many pints in him too early in the day. It's a sight you know you will be growing accustomed to in your new life."
     "你龇牙咧嘴地呻吟着爬起身来。那只水獭早已没入了人潮，不过又是一个大清早就灌了太多杯黄汤的水手罢了。你知道，在往后的新生活里，这类光景怕是要见怪不怪了。"
-    # 译注：one too many pints喝得过多（大清早就喝多）；growing accustomed to习以为常。
 
 # game/script.rpy:1124
 translate Chinese start_78f97eaa:
@@ -200,7 +191,6 @@ translate Chinese start_123e8730:
 
     # "A fully rigged beauty adorned with three majestic masts that soar high above her deck. The meticulously carved and painted lettering across the stern proudly displays the name of the vessel, a name that signifies the place that is about to become your new home."
     "这真是一艘风姿绰约的三桅全帆装船，高耸的桅杆直插云霄。船尾雕刻精细、着色考究的字样骄傲地展示着这艘船的名字——一个即将成为你全新归宿的名字。"
-    # 译注：fully rigged指“全帆装船”（三根桅杆均挂横帆）。Conway号是一艘商船（merchant ship）。
 
 # game/script.rpy:1128
 translate Chinese start_a1b403ed:
@@ -213,28 +203,24 @@ translate Chinese start_be8f7eba:
 
     # "A name that fills you with the same sense of passion and adventure that brought you all this way. A name you yearn to utter with pride in the days to come. You silently rehearse it within your thoughts, savoring each letter as it swirls and dances in your mind."
     "这个名字让你胸中再次涌起当初驱使你千里跋涉的豪情与向往。一个你在往后日子里渴望骄傲说出口的名字。你在心底默默咀嚼着它，细细体味着每一个音节在思绪里翻飞回荡。"
-    # 译注：savoring each letter as it swirls and dances in your mind，字面为细细品味每个字母，在此作文学意译“细细体味着每一个音节在思绪里翻飞回荡”。
 
 # game/script.rpy:1132
 translate Chinese start_6577adbb:
 
     # "It has a nice ring to it!"
     "听起来真不赖！"
-    # 译注：has a nice ring to it是常用英语俚语，指听起来顺耳上口。
 
 # game/script.rpy:1134
 translate Chinese start_3bb7cbbc:
 
     # q "What're you doing there?!" with hpunch
     q "你杵在那儿干什么呢？！" with hpunch
-    # 译注：What're you doing there口吻严厉粗暴，翻译为“杵在那儿”比“你干什么呢”更具水手长官喝止挡道者的口语色彩。
 
 # game/script.rpy:1136
 translate Chinese start_68044c0d:
 
     # "Once again, you're startled from the hazy daydreams of your mind, instantly turning to the source of the bellowed voice."
     "你猛地又一次从恍惚的白日梦中被惊醒，立马循着那声暴喝望去。"
-    # 译注：bellowed voice指如雷般的咆哮/暴喝。
 
 # game/script.rpy:1147
 translate Chinese start_99aecb69:
@@ -247,27 +233,24 @@ translate Chinese start_1997f041:
 
     # horse "You hear me?"
     horse "耳朵聋了吗？！"
-    # 译注：You hear me? 在水手长官斥责挡道新兵时具有极强施压感，口语译为“耳朵聋了吗”比字面“听见我说话了吗”更显威严。
 
 # game/script.rpy:1151
 translate Chinese start_12a4c225:
 
     # horse "We're on a tight schedule, and the last thing I need is some idiot gettin' crushed by a crate because he's gawkin' at the ships."
     horse "咱们时间紧得很，老子最不需要的就是哪个蠢货光顾着看船发呆，被吊箱砸个稀巴烂！"
-    # 译注：the last thing I need是地道表达，意为“最不需要/最不想见到的麻烦事”；gawkin'指傻愣愣地呆看。
 
 # game/script.rpy:1153
 translate Chinese start_f1c0e50f:
 
     # horse "So..."
-    horse "所以..."
+    horse "所以……"
 
 # game/script.rpy:1155
 translate Chinese start_364cd120:
 
     # "The horse snorts heavily."
     "马重重地哼了一声，鼻息粗沉。"
-    # 译注：snorts指马族兽人不满时的粗重喷鼻息。
 
 # game/script.rpy:1157
 translate Chinese start_12b8b6d1:
@@ -280,7 +263,6 @@ translate Chinese start_10986a5f:
 
     # "You're left feeling helpless as you stand there, unaware of the problem at hand. You finally grasp the situation when you instinctively look up and notice the crate suspended in mid-air, connected to a sturdy dock crane."
     "你手足无措地呆立在原地，压根不知道自己究竟犯了什么错。直到本能地抬头望去，你才赫然发现半空中悬着一只巨大的货箱，正挂在码头结实的起重吊臂之下。"
-    # 译注：unaware of the problem at hand形容新人一无所知；dock crane指码头起重机。
 
 # game/script.rpy:1168
 translate Chinese start_5568bcb2:
@@ -299,7 +281,6 @@ translate Chinese start_88d3b89a:
 
     # "You quickly scurry out of the way of danger, sheepishly watching as the crate is carefully lowered to the men on the ship."
     "你赶紧连滚带爬地逃出险境，满面羞惭地看着货箱被小心翼翼地平稳下放给船上的接应者。"
-    # 译注：scurry out of the way连滚带爬/仓皇逃开；sheepishly形容出丑后的尴尬不好意思。
 
 # game/script.rpy:1174
 translate Chinese start_b5cb0c34:
@@ -318,21 +299,18 @@ translate Chinese start_b7279098:
 
     # man1 "...And down. Now! Keep it slow and steady. Slow. Slooow. Damn it, I said slow! Are you deaf? She's not your wife. Treat her gently, you son of a bitch!"
     man1 "……往下放！就现在！手头都给老子稳着点、慢着点！慢！慢慢放！操，老子说了慢点！耳朵都聋了吗？货物又不是你媳妇，轻手轻脚伺候着点，你个王八犊子！"
-    # 译注：She's not your wife. Treat her gently, you son of a bitch! 18世纪码头搬运工头的粗俗喝斥，比喻货物不是老婆不准糙弄。
 
 # game/script.rpy:1184
 translate Chinese start_94612ee2:
 
     # "Reluctantly, you approach the horse again, sure that he must be the one in charge with how he's barking orders."
     "你硬着头皮再次蹭到那马的面前，看他那副吆五喝六发号施令的架势，确信他定是管事的长官无疑。"
-    # 译注：barking orders指军官般厉声吠吼号令。
 
 # game/script.rpy:1189
 translate Chinese start_c94ed8f2:
 
     # pS "Sorry about that sir! I'm new. One of the new recruits signed up to join the Conway. Could you tell me where I should be?"
     pS "长官，刚才多有对不住！我是新来的，刚签字报名加入Conway号的新水手。不知该去哪儿报到？"
-    # 译注：遵循确认规范，船名使用Conway号；recruits指新招募水手。
 
 # game/script.rpy:1191
 translate Chinese start_5d177212:
@@ -387,7 +365,6 @@ translate Chinese start_18465cc7:
 
     # horse "You're one of the new ones? ... Great. How about you don't get in the way every chance you can."
     horse "你是新来的？……真他妈好极了。要不你尽量少给我添乱、少挡道，成吗？"
-    # 译注：Arthur极度反讽（sarcasm）与嫌弃新丁添乱。
 
 # game/script.rpy:1218
 translate Chinese start_140f419c:
@@ -406,28 +383,25 @@ translate Chinese start_1f939b0a:
 
     # a "That's Officer to you from now on, got it? Officer Arthur Hudson. What's your name, recruit? I don't think I see 'Clueless Fool' in here."
     a "从今往后，叫我长官，听明白了吗？Arthur Hudson长官。你叫什么名字，新来的？我这名册上可没见着谁叫“没头脑的蠢货”。"
-    # 译注：That's Officer to you规范军队长官自称；Clueless Fool指笨手笨脚无头苍蝇般的蠢人。
 
 # game/script.rpy:1331
 translate Chinese day1_postnameselection_a5ee472d:
 
     # a "Well, shit. You weren't even joking."
     a "操，你小子还真没开玩笑。"
-    # 译注：Arthur核对主角姓名后的粗鲁惊讶反应，Well, shit 为水手长官口头粗口。
 
 # game/script.rpy:1333
 translate Chinese day1_postnameselection_cea747b9:
 
     # a "[name] [family_name], arrived and accounted for. Get up there and wait at the fore, recruit. You'll be instructed after loading is done."
     a "[name] [family_name]，报到核对无误。到前甲板去候着，新来的。货装完自然会有人吩咐你。"
-    # 译注：arrived and accounted for（点名报到核准）；fore指船舶前部/前甲板（Foredeck），不应模糊译作“去前面”。
 
 # game/script.rpy:1338
 translate Chinese day1_postnameselection_8c315922:
 
     # "Navigating around the busy crewmen, you cautiously tread upon the unsteady gangway, feeling it sway beneath your paws with each gentle roll of the sea."
     "你小心地绕开周围忙碌穿梭的水手，踏上摇晃不定的跳板，随着海浪的微微起伏，能感觉到脚爪下的木板正在晃颤。"
-    # 译注：gangway在此指连接码头与船舷的跳板；paws（脚爪）点明主角猫族特征。
+    # 译注：gangway在此指连接码头与船舷的跳板。
 
 # game/script.rpy:1340
 translate Chinese day1_postnameselection_79ca15f2:
@@ -446,7 +420,7 @@ translate Chinese day1_postnameselection_65f34fac:
 
     # "Regaining your footing on the stable deck, you stride purposefully towards the foremast, mindful of the instructions given to you. Best to avoid any further trouble that would come from sightseeing."
     "在平稳的甲板上重新找回重心后，你牢记方才的长官命令，径直朝前桅迈步走去。眼下最好还是少东张西望看稀奇，免得又惹出什么乱子。"
-    # 译注：foremast指三桅帆船最前方的桅杆；sightseeing指东张西望看热闹。
+    # 译注：foremast指三桅帆船最前方的桅杆。
 
 # game/script.rpy:1351
 translate Chinese day1_postnameselection_21e069a4:
@@ -459,7 +433,6 @@ translate Chinese day1_postnameselection_3a17fd03:
 
     # "The one in the back, a weathered wolf in his mid-thirties, bears the marks of time and hardships on his face. Lost in his thoughts, he flicks a coin with practiced ease, catching it repeatedly, absorbed in deep contemplation."
     "站在后头的是一只三十来岁、略显沧桑的灰狼，脸上刻满了岁月与艰辛的痕迹。他陷入自己的思绪中，手法娴熟地弹起一枚硬币又反复接住，显得心事重重。"
-    # 译注：消除原译机械重复“饱经风霜”的语病，使其简练生动。
 
 # game/script.rpy:1366
 translate Chinese day1_postnameselection_b5dffec7:
@@ -496,7 +469,6 @@ translate Chinese firstchoice_greet_3fbd2da0:
 
     # liz "Would you look at that. A cat! Not going to be at each other's throats immediately, are you?"
     liz "瞧瞧这是谁。居然是只猫！你们俩不会待会儿就掐起来吧？"
-    # 译注：at each other's throats是英语熟语，形容像猫狗一般水火不容、互掐撕咬。
 
 # game/script.rpy:1402
 translate Chinese firstchoice_greet_f36d6781:
@@ -515,7 +487,7 @@ translate Chinese firstchoice_greet_9c4722b2:
 
     # j "New Landsman, yes. Julian. Sure it will be great working with you!"
     j "新招募的旱鸭子水手，对。我叫Julian。能跟你们一块儿干活肯定很有意思！"
-    # 译注：Landsman是18世纪航海体制等级（无经验的新入行水手/旱鸭子水手），原译丢失了航海等级信息，在此补全。
+    # 译注：Landsman是18世纪航海体制等级（无经验的新入行水手/旱鸭子水手）。
 
 # game/script.rpy:1413
 translate Chinese firstchoice_greet_0c1ef4bd:
@@ -528,7 +500,6 @@ translate Chinese firstchoice_greet_77416f5f:
 
     # "Julian's smile curls up adorably across his reptilian muzzle. Seems he found your little icebreaker rather amusing."
     "Julian那爬行动物特有的吻部扬起一抹讨喜的笑意。看来他觉得你这句打破冷场的玩笑挺逗。"
-    # 译注：reptilian muzzle指蜥蜴的吻部，icebreaker指破冰/打破僵局的俏皮话。
 
 # game/script.rpy:1433
 translate Chinese firstchoice_quiet_77cecdd2:
@@ -607,7 +578,6 @@ translate Chinese firstchoice_done_3607ee39:
 
     # "You're thankful not everyone saw the commotion you caused earlier; you quietly hope that Julian doesn't pry any further, allowing the incident to fade into oblivion."
     "你暗自庆幸没多少人看到你先前闹出的乱子；只盼着Julian别再刨根问底，好让那桩丢人现眼的事就此翻篇。"
-    # 译注：修正人称混淆（原译将叙述视角“你/You”误译为第一人称“我”）；commotion指先前主角在起重机下挡道闹出的乱子。
 
 # game/script.rpy:1474
 translate Chinese firstchoice_done_2eea007d:
@@ -656,7 +626,7 @@ translate Chinese firstchoice_done_f3f23683:
 
     # j "Really? Well, you're in for something then. It's not for everyone. Hope you get your sea legs quick."
     j "真的？那你接下来可有得受了。航海生活可不是人人都吃得消的。希望你能快点找到出海的脚感。"
-    # 译注：get your sea legs为经典航海俚语，指适应甲板颠簸摇晃、不再晕船并能稳步站立行走的能力。原译残留了未整理的生硬草稿“生活海腿”。
+    # 译注：get your sea legs为经典航海俚语，指适应甲板颠簸摇晃、不再晕船并能稳步站立行走的能力。
 
 # game/script.rpy:1490
 translate Chinese firstchoice_done_4b8a153b:
@@ -669,7 +639,6 @@ translate Chinese firstchoice_done_574b96e0:
 
     # j "Few trips here and there. Dad's in the navy, so I grew up with it all. Just never done anything this big."
     j "零星出过几趟海。我老爹在海军服役，所以我从小耳濡目染，多少懂点门道。只是从没出过这么大规模的远航。"
-    # 译注：grew up with it all指从小耳濡目染熟悉航海，原译“跟着沾光”词不达意；anything this big指像Conway号这样跨洋远航的大规模出海。
 
 # game/script.rpy:1494
 translate Chinese firstchoice_done_b11a018c:
@@ -712,13 +681,12 @@ translate Chinese firstchoice_done_e71ac4f4:
 
     # "The wolf's deep voice interrupts the conversation from behind you, drawing your attention. You glance over your shoulder to see him still engrossed in his coin, its polished surface gleaming in the sunlight as he expertly flips it through the air."
     "身后传来灰狼那低沉浑厚的嗓音，打断了你们的对话，引得你转过身去。只见他依旧全神贯注地摆弄着手中的硬币，硬币磨得光亮的表面在阳光下熠熠生辉，随着他娴熟利落的指法在半空中翻转飞舞。"
-    # 译注：expertly flips it through the air 指手法老练纯熟地抛接硬币，原译“花里胡哨”破坏了Wolf沉稳深沉的硬汉气质，予以修正。
 
 # game/script.rpy:1519
 translate Chinese firstchoice_done_875ce35a:
 
     # p ". . ."
-    p ". . ."
+    p "……"
 
 # game/script.rpy:1521
 translate Chinese firstchoice_done_de411af8:
@@ -749,14 +717,12 @@ translate Chinese firstchoice_done_03904d97:
 
     # "Julian leans in, clapping a hand on your shoulder in a friendly gesture."
     "Julian凑上前来，友善地拍了拍你的肩膀。"
-    # 译注：补齐漏译。clapping a hand on your shoulder指亲切/鼓励地拍肩膀。
 
 # game/script.rpy:1548
 translate Chinese firstchoice_done_1d812308:
 
     # j "So if you've never been on a ship, what made you sign up? Let me take a wild guess. Running away from the farm life?"
     j "话说回来，既然你以前从没上过船，那是图个啥来签字当水手的？让我瞎猜猜——受够了乡下种地放牛的日子，跑出来逃避现实的？"
-    # 译注：Running away from the farm life 指受够农活劳作逃出农庄。原译“逃离田园生活”带有浪漫诗意的误读，修正为真实的农庄劳作生活。
 
 # game/script.rpy:1550
 translate Chinese firstchoice_done_c5525d76:
@@ -793,7 +759,6 @@ translate Chinese firstchoice_done_0ee2dd91:
 
     # "The way the ocean has always seemed to offer an escape for you—how boxed in your village was, save for the endless expanse of sea..."
     "大海对你而言始终意味着一条出路——回想起来，你的村庄除了那片无垠的汪洋，是多么逼仄闭塞……"
-    # 译注：修正人称混淆（原译将叙述视角“你/your”误译为第一人称“我”）；boxed in形容闭塞被困。
 
 # game/script.rpy:1564
 translate Chinese firstchoice_done_11128422:
@@ -841,7 +806,7 @@ translate Chinese firstchoice_done_f5ca8fce:
 translate Chinese firstchoice_done_6a71bbe2:
 
     # p "It was this or working on the farm. And..."
-    p "要么这样，要么在农场工作。而且..."
+    p "要么这样，要么在农场工作。而且……"
 
 # game/script.rpy:1588
 translate Chinese firstchoice_done_748828a4:
@@ -860,14 +825,12 @@ translate Chinese firstchoice_done_e0e24275:
 
     # "The wolf doesn't rise to the bait. Julian, however, smiles affably."
     "灰狼并未接招。不过，Julian倒是随和地笑了笑。"
-    # 译注：去除原译角色名外不必要添加的中文双引号“狼”。
 
 # game/script.rpy:1599
 translate Chinese firstchoice_done_b75a6094:
 
     # j "As long as you know that before you start. You can always return, if you find out it's not for you."
     j "只要你在上船之前心里有数就行。要是干下来发现自己实在不适合这行，大不了随时回头。"
-    # 译注：口语化润色，消除欧化语序。
 
 # game/script.rpy:1603
 translate Chinese firstchoice_done_bcb836bb:
@@ -880,14 +843,12 @@ translate Chinese firstchoice_done_7a89e0c8:
 
     # "That sounds childish, too, once you say it out loud. But you can't help casting one last, slightly wistful look at the harbor."
     "话一出口，你觉得自己听起来确实挺孩子气的。可你还是忍不住朝港湾投去了最后一眼，心头掠过一丝若有若无的留恋。"
-    # 译注：wistful look指依依不舍/怅惘的一瞥。
 
 # game/script.rpy:1607
 translate Chinese firstchoice_done_a97bca64:
 
     # "All that security. Everything you've known. You'll be leaving it all behind, to spend..."
     "所有熟悉的安稳、过往已知的一切，如今你都要尽数抛在身后，去度过……"
-    # 译注：修正人称混淆（原译误作第一人称“我都要抛下它们”）。
 
 # game/script.rpy:1609
 translate Chinese firstchoice_done_e66209f7:
@@ -942,7 +903,6 @@ translate Chinese firstchoice_done_8af92370:
 
     # p "Nobody?"
     p "一个都没有？"
-    # 译注：承接上下文Julian否认有人会牵挂他，主角反问“连一个挂念你的人都没有？”，原译“谁都不行？”为荒谬机翻，予以纠正。
 
 # game/script.rpy:1631
 translate Chinese firstchoice_done_fa4a836a:
@@ -967,7 +927,7 @@ translate Chinese firstchoice_done_2c4f6d83:
 
     # p "What do they say—salt water in your veins?"
     p "俗话怎么说的来着——血管里淌着海水？"
-    # 译注：补齐漏译。salt water in your veins为经典航海成语，指天生的水手血统/生来就属于海洋。
+    # 译注：salt water in your veins为经典航海成语，指天生的水手血统/生来就属于海洋。
 
 # game/script.rpy:1641
 translate Chinese firstchoice_done_02801b7a:
@@ -997,15 +957,13 @@ translate Chinese firstchoice_done_adcea35e:
 translate Chinese firstchoice_done_3b40e24f:
 
     # j "Hey, who knows?"
-    wolf "哈，那可不。咱们这位小少爷的前程想必是锦绣无量，保不齐哪天就直奔海军部当大官了。"
-    # 译注：Wolf带着老练水手特有的冷嘲讽刺（sarcasm），The Admiralty指英国皇家海军部（最高指挥机构），在此嘲弄Julian自命不凡。
+    j "嘿，谁知道呢？"
 
 # game/script.rpy:1662
 translate Chinese firstchoice_done_025224c3:
 
     # "He seems to do a better job than you of not letting the wolf's personality get to him. Or maybe he takes it as a challenge, because his next question is directed at the canine as he makes his way over to him."
     "看来他比你更懂得如何不把这只灰狼的冷硬脾气放在心上。又或许，他反倒把这当成了一种挑战——因为当他踱步走向那只犬科兽人时，接下来的问题便是直冲着对方去的。"
-    # 译注：not letting... get to him意为不被其影响/不往心里去，原译误作“控制住对方脾气”，完全背离原意。canine在此指犬科的Wolf。
 
 # game/script.rpy:1668
 translate Chinese firstchoice_done_1daad1b6:
@@ -1066,7 +1024,6 @@ translate Chinese firstchoice_done_3acffd14:
 
     # wolf "And? I didn't, did I? Maybe I should've asked for a bonus. Being interrogated wasn't part of the description."
     wolf "所以呢？老子不乐意在镇上挣，不行么？早知如此该跟他们多要份津贴的。招募须知上可没写还要被你们盘问审讯。"
-    # 译注：And? I didn't, did I? 口语极度不耐烦的反诘；bonus指招募赏金/额外补贴；part of the description指招募工种说明。
 
 # game/script.rpy:1701
 translate Chinese firstchoice_done_c8a71010:
@@ -1187,8 +1144,7 @@ translate Chinese firstchoice_done_63e9f822:
 translate Chinese firstchoice_done_40c07307:
 
     # "He leans the other way to get close to you, whispering so that the wolf—Wolf—can't hear him."
-    "他侧过身凑到你耳边，压低嗓音耳语，好让那只狼——也就是Wolf——听不见。"
-    # 译注：补齐漏译。the wolf—Wolf玩了双关梗（本想说那只灰狼，但意识到对方名字真就叫Wolf）。
+    "他朝另一侧倾过身，凑近你耳边低声说道，好让那只狼——呃...Wolf——听不见。"
 
 # game/script.rpy:1764
 translate Chinese firstchoice_done_8a3236de:
@@ -1207,7 +1163,7 @@ translate Chinese firstchoice_done_0c2e968d:
 
     # a "Hello, ladies!"
     a "怎么着，各位娇小姐！"
-    # 译注：军营与水手长官习惯用“ladies”戏谑嘲弄初出茅庐的新手（犹如戏称娇滴滴的小姐）。原译直译为“各位女士”脱离全男水手语境。
+    # 译注：军营与水手长官习惯用“ladies”戏谑嘲弄初出茅庐的新手（娇滴滴的小姐）。
 
 # game/script.rpy:1776
 translate Chinese firstchoice_done_414d0202:
@@ -1238,7 +1194,6 @@ translate Chinese firstchoice_done_6629f1cb:
 
     # "Or you could bail now. Like Julian said—turn back, while you still have the chance...{p}No."
     "或者，你现在还可以临阵脱逃。正如Julian所说的那样——趁现在还有机会，打道回府……{p}不。"
-    # 译注：补齐漏译。bail在此指跳船逃跑/半途而废。
 
 # game/script.rpy:1795
 translate Chinese firstchoice_done_0d0a847e:
@@ -1335,7 +1290,6 @@ translate Chinese firstchoice_done_0c02cdee:
 
     # a "We may not be aboard a warship, but lives of others are going to depend on your diligent work. I expect you—all of you—to take it seriously."
     a "咱们脚下踩着的虽说不是军舰战船，但他人的身家性命全系在你们脚踏实地的干活上。我要求你们——所有人——都给我严肃对待。"
-    # 译注：补齐漏译。Arthur再次强调本船并非战舰（warship），但商船航海同样人命关天。
 
 # game/script.rpy:1835
 translate Chinese firstchoice_done_2ff2d055:
@@ -1366,14 +1320,12 @@ translate Chinese firstchoice_done_eff5237d:
 
     # "Again, a chorus of \"yes, sir\"—in unison, certainly more disciplined than you feel."
     "又是一阵异口同声的“明白，长官”——那整齐划一的阵势，听上去可远比你内心的底气要有板有眼得多。"
-    # 译注：补齐漏译。more disciplined than you feel形容表面回答虽然整齐，但主角内心其实十分忐忑发虚。
 
 # game/script.rpy:1845
 translate Chinese firstchoice_done_cc34e7d8:
 
     # a "The chain of command is your god, now. Whatever you were before, you'll be sailors, soon enough."
     a "从现在起，指挥命令就是你们的上帝。不管你们以前是干什么的，要不了多久，你们都得脱胎换骨变成真正的水手。"
-    # 译注：The chain of command指军队与船舶上的上下级指挥链条，原译“等级制度是你们的天职”不合文意且生硬。
 
 # game/script.rpy:1847
 translate Chinese firstchoice_done_c2fbfdaa:
@@ -1410,7 +1362,6 @@ translate Chinese firstchoice_done_066a76bd:
 
     # "When he nods to the bags sitting next to you, you hurry to grab yours—everything that remains of your previous life."
     "见他朝放在你们身旁的行囊颔首示意，你急忙抓起自己的那只包袱——那是你在过往人生中所残留的全部痕迹。"
-    # 译注：补齐漏译。everything that remains of your previous life 指告别农庄后主角仅有的随身遗留物品。
 
 # game/script.rpy:1867
 translate Chinese firstchoice_done_8c04989a:
@@ -1476,7 +1427,8 @@ translate Chinese firstchoice_done_86ea528f:
 translate Chinese firstchoice_done_62585de9:
 
     # sailschwartz "Final messages from shore, sir. And the most recent soundings. They're still dredging the main channel, unfortunately."
-    sailschwartz "长官，这是岸上送来的最后一批消息，还有最新的水深测量报告。不幸的是，他们还在{a=https://en.wikipedia.org/wiki/Dredging}疏浚{/a}主航道。"
+    sailschwartz "长官，这是岸上送来的最后一批消息，还有最新的水深测量报告。不幸的是，他们还在疏浚主航道。"
+    # 译注：dredging（疏浚），清理航道或港口水底淤泥砂石以加深航道水深的作业。参考：https://en.wikipedia.org/wiki/Dredging
 
 # game/script.rpy:1914
 translate Chinese firstchoice_done_96d6e9a2:
@@ -1506,13 +1458,15 @@ translate Chinese firstchoice_done_0f28ac0d:
 translate Chinese firstchoice_done_ec5852bb:
 
     # sailschwartz "Sir. The kedge is fast. The quartermaster recommends we catch the tide, sir."
-    sailschwartz "长官，已经用{a=https://en.wikipedia.org/wiki/Warping_(sailing)}kedge{/a}（小艇锚）固定好了。军需官建议我们抓住这次涨潮的机会，长官。"
+    sailschwartz "长官，已经用小艇锚固定好了。军需官建议我们抓住这次涨潮的机会，长官。"
+    # 译注：kedge（小艇锚/导向锚）与 warping（绞锚移船），用小艇将小锚带到远处抛下，通过船上绞盘拉动缆绳移动帆船。参考：https://en.wikipedia.org/wiki/Warping_(sailing)
 
 # game/script.rpy:1931
 translate Chinese firstchoice_done_1f96963d:
 
     # a "And catch it we shall. Have them hoist the flying jib, but keep it eased until I say so."
-    a "好，那就抓住这次机会。让他们升起{a=https://en.wikipedia.org/wiki/Jib}jib{/a}（三角帆），但在我下令之前，先松着点。"
+    a "好，那就抓住这次机会。让他们升起外飞头帆，但在我下令之前，先松着点。"
+    # 译注：flying jib（外飞头帆/大三角帆），位于船首斜桅最前端的高处大三角帆，用于在顺风或微风中增加航速。参考：https://en.wikipedia.org/wiki/Jib
 
 # game/script.rpy:1935
 translate Chinese firstchoice_done_bcd595b4:
@@ -1592,14 +1546,12 @@ translate Chinese firstchoice_done_3404c749:
 
     # a "Today, if you please!"
     a "动作麻利点，最好今天就能弄完！"
-    # 译注：Today, if you please! 讽刺手下动作拖沓缓慢的军官口头禅，意为“要是诸位赏脸，今天之内能完工不？”
 
 # game/script.rpy:1985
 translate Chinese firstchoice_done_32ed9395:
 
     # "This seems to have been directed at a maned wolf, supervising the capstan. He gives Arthur a salute."
     "这声吆喝似乎是冲着正在监督绞盘作业的一只鬃狼喊的。那鬃狼随即朝Arthur行了个军礼。"
-    # 译注：补齐漏译。maned wolf指鬃狼Samuel，负责绞盘监督。
 
 # game/script.rpy:1987
 translate Chinese firstchoice_done_fc4291ed:
@@ -1649,7 +1601,6 @@ translate Chinese firstchoice_done_3c73ed60:
 
     # "Arthur's eyes flick from the capstan to the shore, narrowing at the direction of the rising smoke."
     "Arthur的目光从绞盘移向岸边，望向冉冉升起的炊烟方向，微微眯起了双眼。"
-    # 译注：补齐漏译。rising smoke指港口岸边升起的烟雾。
 
 # game/script.rpy:2005
 translate Chinese firstchoice_done_bba34e23:
@@ -1668,7 +1619,7 @@ translate Chinese firstchoice_done_134ab1d9:
 
     # a "All hands, man the halyards! Now, damnit—brace the yards and hoist the stays'ls! Samuel, stand by!"
     a "全体集合，升降索就位！都给我动作快点，操——转动帆桁，升起支索帆！Samuel，做好准备！"
-    # 译注：补齐漏译。man the halyards（升降索就位）；brace the yards（转动帆桁迎风角度）；hoist the stays'ls（升起支索帆）。18世纪标准起帆航海口令。
+    # 译注：man the halyards（升降索就位）；brace the yards（转动帆桁迎风角度）；hoist the stays'ls（升起支索帆），18世纪标准起帆航海口令。
 
 # game/script.rpy:2014
 translate Chinese firstchoice_done_97460d6a:
@@ -1711,14 +1662,12 @@ translate Chinese firstchoice_done_075f8076:
 
     # a "You can stay out of the bloody way. Clear of the damned ladders—what did I say?"
     a "你们只要别他妈的在这儿碍手碍脚就行！给我离那些该死的舱梯远点——老子刚才怎么说的？！"
-    # 译注：补齐漏译。Arthur严厉喝退贸然上前想帮忙的新兵主角。
 
 # game/script.rpy:2033
 translate Chinese firstchoice_done_aaa561b1:
 
     # "Julian gives your arm a gentle tug, to draw you away from the horse's sight—and his ire."
     "Julian轻轻拽了拽你的胳膊，把你拉离这位马长官的视线——也免得触了他的霉头。"
-    # 译注：补齐漏译。ire指长官的怒火/霉头。
 
 # game/script.rpy:2037
 translate Chinese firstchoice_done_1d3fecd5:
@@ -1730,8 +1679,9 @@ translate Chinese firstchoice_done_1d3fecd5:
 translate Chinese firstchoice_done_26b95952:
 
     # a "Mind the downhaul on the mizen stays'l!"
-    a "留神后桅支索帆的{a=https://en.wikipedia.org/wiki/Downhaul}下曳索{/a}！"
-    # 译注：mizen (mizzen) stays'l专指“后桅支索帆”，原译误作“顶桅纵帆”；downhaul指拉下帆面的下曳索。
+    a "留神后桅支索帆的下曳索！"
+    # 译注：downhaul（下曳索），用于迅速拉下或收拢三角帆与支索帆的专用索具。参考：https://en.wikipedia.org/wiki/Downhaul
+    # 译注：mizen (mizzen) stays'l专指“后桅支索帆”；downhaul指拉下帆面的下曳索。
 
 # game/script.rpy:2041
 translate Chinese firstchoice_done_104bd539:
@@ -1751,21 +1701,18 @@ translate Chinese firstchoice_done_71fec747:
 
     # "The maned wolf and his crew on the capstan work with renewed effort. It seems, at least, to be easier."
     "起锚绞盘旁的鬃狼和他的水手们再度加了把劲。至少看上去，绞盘转得比刚才要顺当了些。"
-    # 译注：补齐漏译。work with renewed effort指重整旗鼓、再次发力推绞盘。
 
 # game/script.rpy:2047
 translate Chinese firstchoice_done_bf63086e:
 
     # "They're no longer pulling the ship, you realize: The Conway is moving under her own power. Samuel just needs to raise the anchor as you pass over it."
     "你这才省悟过来，他们已经不再是纯靠人力拖船前行了：Conway号正借助自身风力航行。Samuel只需等船身驶过锚位正上方，将锚彻底收起即可。"
-    # 译注：遵照规范，船名统一使用“Conway号”；moving under her own power指船帆受风获得自主动力。
 
 # game/script.rpy:2051
 translate Chinese firstchoice_done_8ec71ae7:
 
     # a "Keep the stays'ls sheeted in! That's good, lads."
     a "把支索帆的缭绳拉紧！干得漂亮，伙计们。"
-    # 译注：stays'ls为支索帆（纵帆）；sheet in指将控制帆角迎风的缭绳（sheet）收紧拉顺。
 
 # game/script.rpy:2053
 translate Chinese firstchoice_done_1812709c:
@@ -1783,7 +1730,7 @@ translate Chinese firstchoice_done_cba08017:
 translate Chinese firstchoice_done_703fd602:
 
     # a "While I appreciate your... enthusiasm..."
-    a "我很欣赏你们的这份...热情..."
+    a "我很欣赏你们的这份...热情……"
 
 # game/script.rpy:2070
 translate Chinese firstchoice_done_76afd139:
@@ -1827,7 +1774,6 @@ translate Chinese firstchoice_done_e0485388:
 
     # a "Take care of your bags first. Both of you. You're... posts 36 and 37, if I remember."
     a "先把你们的行囊归置好。你们俩都要去。如果我没记错的话，你们的号位是……36号和37号吊床位。"
-    # 译注：posts指分配给新水手的卧铺/吊床铺位编号。
 
 # game/script.rpy:2099
 translate Chinese firstchoice_done_0aa463f5:
@@ -1840,7 +1786,6 @@ translate Chinese firstchoice_done_5d900710:
 
     # a "Stow your gear. Then go see Samuel."
     a "把行囊铺盖归置收好。然后去找Samuel。"
-    # 译注：Stow your gear是水手常用口令，意为把个人随身行李物品安放进下层铺位并固定好。
 
 # game/script.rpy:2103
 translate Chinese firstchoice_done_828f8215:
@@ -1871,7 +1816,7 @@ translate Chinese firstchoice_done_cc52b8c9:
 
     # a "Mind the downhaul on the mizen stays'l—Samuel, haul away!"
     a "留神后桅支索帆的下曳索——Samuel，开绞！用力拉！"
-    # 译注：补齐漏译。mizen stays'l（后桅支索帆）；downhaul（下曳索）；haul away（开绞拉拽）。
+    # 译注：mizen stays'l（后桅支索帆）；downhaul（下曳索）；haul away（开绞拉拽）。
 
 # game/script.rpy:2119
 translate Chinese firstchoice_done_71fec747_1:
@@ -1884,7 +1829,6 @@ translate Chinese firstchoice_done_bf63086e_1:
 
     # "They're no longer pulling the ship, you realize: The Conway is moving under her own power. Samuel just needs to raise the anchor as you pass over it."
     "你这才省悟过来，他们已经不再是纯靠人力拖船前行了：Conway号正借助自身风力航行。Samuel只需等船身驶过锚位正上方，将锚彻底收起即可。"
-    # 译注：遵照规范，船名统一使用“Conway号”。
 
 # game/script.rpy:2125
 translate Chinese firstchoice_done_ef85c08c:
@@ -1903,21 +1847,18 @@ translate Chinese firstchoice_done_47ad9044:
 
     # a "Keep the stays'ls sheeted in."
     a "把支索帆的缭绳拉紧！"
-    # 译注：stays'ls为支索帆（纵帆）；sheet in指收紧拉顺控制帆角迎风的缭绳。
 
 # game/script.rpy:2142
 translate Chinese firstchoice_done_cba08017_1:
 
     # "He watches for another minute or so, then turns to the three of you."
     "他驻足注视了约莫一分钟，随后转过身，看向你们三人。"
-    # 译注：Arthur长官在甲板观察帆装与船身受风动向。
 
 # game/script.rpy:2144
 translate Chinese firstchoice_done_fba1fc46:
 
     # a "Well, you apparently can keep out of trouble. Let's see if you can be useful, too. You're at posts... 36, and 37, I believe."
     a "看来你们几个还算识相没惹麻烦。再让我瞧瞧你们能不能派上点用场。你们在……36号和37号位，我没记错的话。"
-    # 译注：posts指船上的分工战位/岗位号。长官口吻严厉居高临下。
 
 # game/script.rpy:2146
 translate Chinese firstchoice_done_0aa463f5_1:
@@ -1930,7 +1871,6 @@ translate Chinese firstchoice_done_a02a5d67:
 
     # a "Stow your gear and report to Samuel. Be quick about it."
     a "收好各自的行囊，去向Samuel报到。手脚都给我麻利点！"
-    # 译注：stow your gear是水手用语，指收存固定个人随身包裹行囊。
 
 # game/script.rpy:2172
 translate Chinese firstchoice_done_1fb36b70:
@@ -1985,21 +1925,18 @@ translate Chinese firstchoice_done_7600a17d:
 
     # p "With that... winch the maned wolf was running?"
     p "靠刚才那只鬃狼操作的那个……大绞盘拉？"
-    # 译注：winch（卷扬机/绞盘），James不知专业名词capstan，故称winch。
 
 # game/script.rpy:2196
 translate Chinese firstchoice_done_8e892929:
 
     # j "The capstan?"
     j "你说起锚绞盘？"
-    # 译注：capstan特指立式起锚绞盘。Julian指正术语。
 
 # game/script.rpy:2198
 translate Chinese firstchoice_done_13e5c01e:
 
     # "He looks around at the posts, searching for where they're identified."
     "他四下打量着那些立柱，寻找上面标示的编号。"
-    # 译注：posts指舱位或缆柱编号。
 
 # game/script.rpy:2202
 translate Chinese firstchoice_done_6251cb9d:
@@ -2012,7 +1949,6 @@ translate Chinese firstchoice_done_af126572:
 
     # "You do as he says, although you have to take Julian's own knowledge of the Conway on faith."
     "你照他说的放下包裹，尽管你其实只能全凭瞎蒙，指望Julian是真了解Conway号上的门道。"
-    # 译注：遵照规范统一船名为“Conway号”。
 
 # game/script.rpy:2208
 translate Chinese firstchoice_done_37314b59:
@@ -2025,7 +1961,6 @@ translate Chinese firstchoice_done_1dd4185e:
 
     # j "No."
     j "那倒不是。"
-    # 译注：Julian否定绞盘拉帆的作用。
 
 # game/script.rpy:2212
 translate Chinese firstchoice_done_93be50a0:
@@ -2038,7 +1973,6 @@ translate Chinese firstchoice_done_d16756ad:
 
     # "He gives you one of those airy, boyish smiles, as if it was the least meaningful thing in the world."
     "他冲你露出了那副轻佻顽皮的少年笑容，仿佛这根本微不足道一样。"
-    # 译注：airy, boyish smile指Julian吊儿郎当但富有少年气的神态。
 
 # game/script.rpy:2218
 translate Chinese firstchoice_done_2251bce5:
@@ -2058,7 +1992,6 @@ translate Chinese firstchoice_done_1e1fa6c7:
 
     # "He keeps making this pronouncement. You have the sense that, beneath his lackadaisical exterior, Julian is more complex than he lets on."
     "他总是一副胸有成竹的断言口吻。你隐约感觉得出，在他那副玩世不恭的漫不经心背后，Julian其实比他展现出来的要深藏不露得多。"
-    # 译注：lackadaisical（懒散、漫不经心）。修正原译生硬结构。
 
 # game/script.rpy:2226
 translate Chinese firstchoice_done_2095160f:
@@ -2077,7 +2010,6 @@ translate Chinese firstchoice_done_e5a5dd08:
 
     # j "Yep. So let's get back on deck before Wolf has a chance to turn that other dog against us."
     j "没错。赶紧回甲板上去吧，免得Wolf趁机把那只大鬃狼拉到他的阵营来对付咱们。"
-    # 译注：that other dog指鬃狼Samuel，Wolf是灰狼，Julian调侃两人都是犬科。
 
 # game/script.rpy:2232
 translate Chinese firstchoice_done_84a9c1e4:
@@ -2102,7 +2034,6 @@ translate Chinese day_1_dinner_ae3c42a7:
 
     # "The maned wolf is leaning against the railing, the capstan now abandoned. He looks remarkably carefree, with his arm hooked around one of the ship's cables, and his foot propped against one of the cleats."
     "那只鬃狼正倚靠在栏杆边，这会儿起锚绞盘旁已经空了下来。他看起来一副悠然自得的样子，一只手臂松垮地搭在船缆上，一只脚踏在系缆桩上歇着。"
-    # 译注：cleat指船上的系缆羊角桩/双头栓。补齐漏译文本。
 
 # game/script.rpy:2271
 translate Chinese day_1_dinner_888ca081:
@@ -2158,14 +2089,13 @@ translate Chinese day_1_dinner_d4e09588:
 
     # "But he's clearly an experienced member of the Conway's crew—someone Arthur could rely on, despite the wicked easiness of the smile he's turned on you."
     "但他显然是Conway号上的老船员了——是深得Arthur器重的人，尽管他此刻冲你露出的笑容里带着一丝狡黠而随性的戏谑。"
-    # 译注：补齐漏译文本。统一船名Conway号。
 
 # game/script.rpy:2293
 translate Chinese day_1_dinner_2558f17d:
 
     # s "If the sailing master needs ya help, he'll ask ya for it. Especially when ya' new. And dead weight."
     s "航海长要是真需要你们帮忙，他自会使唤。特别是你们这些刚上船的新丁，纯属累赘。"
-    # 译注：补齐漏译文本。sailing master指航海长官Arthur；dead weight指新手拖油瓶。
+    # 译注：sailing master指航海长官/领航员；dead weight指新手拖油瓶。
 
 # game/script.rpy:2295
 translate Chinese day_1_dinner_75597283:
@@ -2178,7 +2108,6 @@ translate Chinese day_1_dinner_4f9b5c06:
 
     # "You are, admittedly, slightly concerned about making the wrong impression—although Samuel seems fairly friendly.{w} More than Arthur, at least."
     "说实在的，你心里确实有点担心留下坏印象——好在Samuel看起来挺随和的。{w}至少比Arthur要好相处多了。"
-    # 译注：补齐漏译文本。表现初登商船的心理起伏。
 
 # game/script.rpy:2301
 translate Chinese day_1_dinner_9c156eb4:
@@ -2210,7 +2139,7 @@ translate Chinese day_1_dinner_50b97f3e:
 
     # s "Mr. Hudson. \"Sir.\""
     s "是Hudson先生。“长官”。"
-    # 译注：Samuel纠正称谓，指出普通水手对长官不能直呼其名，须称Mr. Hudson或Sir。
+    # 译注：在传统帆船礼节中，普通水手对军官长官不能直呼其名，须称Mr. Hudson或Sir。
 
 # game/script.rpy:2313
 translate Chinese day_1_dinner_e6ebf546:
@@ -2223,7 +2152,6 @@ translate Chinese day_1_dinner_9b7e7c0e:
 
     # s "Oh. I figured you were new, but I didn't realize you were that new..."
     s "呵。我料到你是新来的，可没想到你生疏成这副模样……"
-    # 译注：老水手对新兵的戏谑感慨。
 
 # game/script.rpy:2319
 translate Chinese day_1_dinner_de7fc918_1:
@@ -2242,7 +2170,6 @@ translate Chinese day_1_dinner_5369e160:
 
     # s "He chewed ya out, then?"
     s "这么说，他狠狠训了你一顿？"
-    # 译注：chew ya out指狗血淋头大骂一通。
 
 # game/script.rpy:2325
 translate Chinese day_1_dinner_51654c41:
@@ -2255,7 +2182,6 @@ translate Chinese day_1_dinner_6e7e821e:
 
     # "But that just means you're even more conscious of your desire to make a good impression on him."
     "正因如此，你反而更加渴望能在他面前留下个好印象。"
-    # 译注：修正原译非日常语序。
 
 # game/script.rpy:2329
 translate Chinese day_1_dinner_1c1f292b:
@@ -2274,7 +2200,7 @@ translate Chinese day_1_dinner_705d41f2:
 
     # "He looks up at the masts, where most of the sails are still neatly rolled up. \"Furled\"—you know that much."
     "他抬眼望向桅杆，上面的大部分风帆依然整齐地卷裹着。“卷帆”——至少这点航海常识你还是知道的。"
-    # 译注：补齐漏译文本。furled在航海中指将帆卷拢系缚在帆桁上。
+    # 译注：furled在航海中指将帆卷拢系缚在帆桁上。
 
 # game/script.rpy:2337
 translate Chinese day_1_dinner_0dbdde2b:
@@ -2293,7 +2219,6 @@ translate Chinese day_1_dinner_3fe0b811:
 
     # s "The wind not doing what's expected of 'er? All the time. But Hudson knows how to handle something like that. You'll figure it out, too."
     s "风不照着人想的意思刮？那是家常便饭。不过Hudson长官精通怎么应付这道坎。用不了多久，你也能摸出门道来的。"
-    # 译注：口语化老水手传授经验。
 
 # game/script.rpy:2347
 translate Chinese day_1_dinner_5e8b9f0c:
@@ -2343,35 +2268,31 @@ translate Chinese day_1_dinner_09e06f2c:
 
     # "His grin is sardonic, although you imagine that, with his friends, it's not that rare."
     "他脸上的笑容带着几分讥诮，不过你能想象得出，他在熟人堆里大概向来就是这副调调。"
-    # 译注：sardonic grin指Samuel的戏谑神情。
 
 # game/script.rpy:2367
 translate Chinese day_1_dinner_6cfabea3:
 
     # s "Realistically, yes. That's what you'll be spending your time doing."
     s "实话实说，正是这活儿。往后大半光阴你都得泡在里头。"
-    # 译注：老水手打趣日常苦差。
 
 # game/script.rpy:2371
 translate Chinese day_1_dinner_cb941511:
 
     # s "Welcome to life at sea."
     s "欢迎来到海上生活。"
-    # 译注：反讽幽默口吻。
 
 # game/script.rpy:2373
 translate Chinese day_1_dinner_59df9b72:
 
     # s "Though it's not just the deck, sheets needs to be tarred, masts slushed.{p} It's almost funny how little a ship actually wants to be at sea."
     s "不仅得擦甲板，绳索得刷焦油防腐，桅杆还得抹熟油润滑。{p}仔细想想真有点滑稽，这大船打心眼里压根就不想呆在海里。"
-    # 译注：tarred指涂煤焦油防海水腐蚀；masts slushed指用熟猪油涂抹上桅以使帆桁滑动顺畅。修正原译在台词中硬塞括号注释的缺陷。
+    # 译注：tarred指涂煤焦油防海水腐蚀；masts slushed指用熟猪油涂抹上桅以使帆桁滑动顺畅。
 
 # game/script.rpy:2375
 translate Chinese day_1_dinner_9b6d1ac2:
 
     # s "Almost. Perhaps more fun if we weren't on the receiving end of the joke."
     s "滑稽是滑稽。但要不是咱们自己当了笑柄里挨整的那个，没准还会觉得更有乐子。"
-    # 译注：on the receiving end of the joke指成为被捉弄戏弄的苦主。
 
 # game/script.rpy:2379
 translate Chinese day_1_dinner_f675f4bb:
@@ -2384,7 +2305,6 @@ translate Chinese day_1_dinner_9412e7a4:
 
     # "Julian nods, straightening briefly to attention. Samuel points to you next."
     "Julian点了点头，立正挺直了身板。Samuel紧接着指了指你。"
-    # 译注：attention在水手/军营礼节中为“立正”，原译误作“稍息”，予以校正。
 
 # game/script.rpy:2383
 translate Chinese day_1_dinner_94b547d5:
@@ -2403,14 +2323,13 @@ translate Chinese day_1_dinner_0a610e64:
 
     # s "Well. I'll try to remember that, I guess. We'll find uses for new hands like you, 'course."
     s "成吧。我尽量记着点。像你们这种生瓜蛋子，船上少不了使唤你们的地方。"
-    # 译注：new hands指新上船的水手新手。
 
 # game/script.rpy:2408
 translate Chinese day_1_dinner_6b579e50:
 
     # "You look at the deck, and then your eyes wander from the Conway's bowsprit back to her stern, where you can see Arthur in conversation with one of other officers."
     "你低头看了看脚下的甲板，目光从Conway号高挑的船首斜桅一路游移回船尾——那儿能看到Arthur正同另一位军官交谈。"
-    # 译注：bowsprit指船首斜桅。统一船名Conway号。
+    # 译注：bowsprit指船首斜桅。
 
 # game/script.rpy:2410
 translate Chinese day_1_dinner_fac5c9fb:
@@ -2435,14 +2354,13 @@ translate Chinese day_1_dinner_4f5c4d7a:
 
     # s "If ya' smart, you'll have some alcohol to trade before someone hands you the bucket. But maybe that's just me."
     s "要是个放聪明的，趁着别人把水桶硬塞进你手里前，最好先攒点烈酒去跟老水手换换差事。不过这兴许只是我的个人心得。"
-    # 译注：alcohol to trade指用配给的朗姆酒/格罗格酒换取轻松差事，18世纪水手潜规则。
+    # 译注：alcohol to trade指用配给的朗姆酒/格罗格酒换取轻松差事，为18世纪水手潜规则。
 
 # game/script.rpy:2429
 translate Chinese day_1_dinner_05d396f8:
 
     # "And you do have the sense that, young as he is, Samuel counts as being an old salt. The scar on his cheek, and some markings tattooed around his left wrist, complete the picture."
     "而且你明显感觉得出，Samuel尽管面相年轻，却实打实是个老江湖。脸颊上那道刀疤，加上左手腕刺的一圈刺青，活脱脱勾勒出一名老水手的气派。"
-    # 译注：old salt为航海俚语，指老练沧桑的老水手。
 
 # game/script.rpy:2433
 translate Chinese day_1_dinner_0e14702e:
@@ -2497,14 +2415,12 @@ translate Chinese day_1_dinner_5828a8e5:
 
     # j "I'm just saying, that's all. We're fast friends, him and I."
     j "我不过随口说说罢了。我和他那可是铁打的拜把子交情。"
-    # 译注：fast friends指亲密无间的好友（反讽）。
 
 # game/script.rpy:2453
 translate Chinese day_1_dinner_29fea082:
 
     # "Julian really does have no idea when to stop with the wolf. Samuel doesn't seem especially convinced by this explanation, either."
     "Julian在对付这只灰狼时，向来不知道什么时候该见好就收。Samuel听了这番说辞，脸上也瞧不出半分信服的神色。"
-    # 译注：灰狼与蜥蜴的性格冲突描写。
 
 # game/script.rpy:2455
 translate Chinese day_1_dinner_273b6fea:
@@ -2517,7 +2433,6 @@ translate Chinese day_1_dinner_0e5ea682:
 
     # "...But not to the extent that he keeps himself from glaring daggers at Julian."
     "……但也仅仅止步于没动手，他眼里射出的凶光简直恨不得把Julian当场生吞活剥。"
-    # 译注：glaring daggers直译为怒目如刀，意译为射出凶光。
 
 # game/script.rpy:2461
 translate Chinese day_1_dinner_bd397fd2:
@@ -2536,14 +2451,12 @@ translate Chinese day_1_dinner_067550c7:
 
     # "The maned wolf clears his throat. His lanky body does not project the same authority as Arthur, but he does manage to sound like a voice of wisdom."
     "那只鬃狼清了清喉咙。他那精瘦修长的体格虽然透不出Arthur那种威压十足的官威，但拿捏起老成管事的口吻来却也自有一股威信。"
-    # 译注：Samuel作为水手长的威严展现。
 
 # game/script.rpy:2471
 translate Chinese day_1_dinner_93a87c1f:
 
     # s "You two can continue this courtship on your own time."
     s "你们俩要打情骂俏，留着私底下自己找工夫去。"
-    # 译注：courtship反讽调侃两人的互掐。
 
 # game/script.rpy:2473
 translate Chinese day_1_dinner_7010a53a:
@@ -2556,7 +2469,6 @@ translate Chinese day_1_dinner_829c05a2:
 
     # s "Fine. You can have the drunken brawl ya' angling for on your own time, too. I'd recommend ya wait until after we get to harbor."
     s "成啊。那你们眼馋的那场醉鬼群架，也一样留着私底下去打。不过我好心劝你们一句，最好憋到船进港靠了岸再说。"
-    # 译注：angling for指挖空心思谋求。Samuel警告船上不得斗殴。
 
 # game/script.rpy:2482
 translate Chinese day_1_dinner_f958dc92:
@@ -2569,7 +2481,6 @@ translate Chinese day_1_dinner_78c7732b:
 
     # s "In a harbor bar, you might not be identified. Maybe you be really lucky, and we'll sail before anybody wants damages covered."
     s "在港口的烂酒馆里打烂了桌椅，没人能认出你们是谁。运气要是够好，没等店家找上门来索赔，咱们的船早就扬帆出海了。"
-    # 译注：老水手港口逃账逃殴的潜规则。
 
 # game/script.rpy:2488
 translate Chinese day_1_dinner_f82cae54:
@@ -2589,7 +2500,6 @@ translate Chinese day_1_dinner_8d91138d:
 
     # s "Don't let me stop ya from getting in the way of your good time."
     s "那我也懒得拦着，免得扫了你们皮肉受苦的雅兴。"
-    # 译注：反讽幽默口吻。
 
 # game/script.rpy:2498
 translate Chinese day_1_dinner_dd3d7bfc:
@@ -2602,14 +2512,12 @@ translate Chinese day_1_dinner_586ab155:
 
     # w "A long way for you to swim back to shore, you mean."
     w "你小子是想说，离岸这么远，够你一路游回去的，对吧。"
-    # 译注：修正原译将for you to swim误译为'我游回岸边'的人称翻转严重错误。
 
 # game/script.rpy:2505
 translate Chinese day_1_dinner_c436798a:
 
     # "The snarl in his voice was not particularly subtle, but it mostly vanishes when he turns towards Samuel."
     "他喉咙里的低嗥带着毫不掩饰的威胁意味，但当他转头看向Samuel时，那股狠劲便收敛得无影无踪了。"
-    # 译注：Wolf在老水手面前识趣收敛。
 
 # game/script.rpy:2509
 translate Chinese day_1_dinner_fc943d63:
@@ -2622,7 +2530,6 @@ translate Chinese day_1_dinner_d78a4fda:
 
     # s "Good. Apparently, Arthur expects me to make sailors out of you. I'd really prefer not to look like I can't keep you from each other's throats for a full watch."
     s "很好。Arthur看样子是指望我把你们调教成合格水手。我可不想让人看笑话，显得我连当一班哨的功夫都没法拦着你们互相掐架。"
-    # 译注：watch指帆船上的4小时值班班次。
 
 # game/script.rpy:2515
 translate Chinese day_1_dinner_bb86494c:
@@ -2671,14 +2578,12 @@ translate Chinese day_1_dinner_4878823b:
 
     # "He recovers, though, straightening up to emerge from behind the railing. You have a brief glimpse of large, rounded ears before he disappears again."
     "不过他很快缓了过来，挣扎着直起身子，从栏杆后探出头来。你隐约瞥见了一对又大又圆的耳朵，随后他便又缩了回去。"
-    # 译注：Nomax（非洲野犬）特征初现。
 
 # game/script.rpy:2548
 translate Chinese day_1_dinner_60086ce7:
 
     # "Samuel laughs once more, this time in a knowing chuckle."
     "Samuel再次笑了起来，这回发出的是一阵心照不宣的会心轻笑。"
-    # 译注：老水手见怪不怪。
 
 # game/script.rpy:2550
 translate Chinese day_1_dinner_93165834:
@@ -2703,7 +2608,6 @@ translate Chinese day_1_dinner_479c0448:
 
     # w "Oh. Well. I don't know about that.{w} I might take that if it meant we could lose some more unnecessary weight."
     w "呵。那倒也难说。{w}要是吐一吐能帮咱们船上甩掉点多余的无用累赘，我倒宁愿他也多吐吐。"
-    # 译注：Wolf暗指Julian是多余累赘。
 
 # game/script.rpy:2571
 translate Chinese day_1_dinner_41e4b63b:
@@ -2728,14 +2632,12 @@ translate Chinese day_1_dinner_3fc79519:
 
     # "It's still not entirely clear to you how much of Wolf's attitude is theatric."
     "你依旧没能彻底摸透，Wolf这副凶神恶煞的架势里究竟有几分只是在虚张声势。"
-    # 译注：纠正原译第二人称翻成第一人称的错误。
 
 # game/script.rpy:2579
 translate Chinese day_1_dinner_e7dfbd16:
 
     # "What you do know is that he, and Julian, seem quite comfortable on the Conway, at least from a physical point of view."
     "但至少有一点你心里清楚：无论他和Julian，在这条Conway号上起码身体底子还算吃得消，站得足够安稳。"
-    # 译注：统一船名Conway号。
 
 # game/script.rpy:2581
 translate Chinese day_1_dinner_634d0be6:
@@ -2754,14 +2656,12 @@ translate Chinese day_1_dinner_d2490578:
 
     # s "He got big teeth. Don't worry."
     s "他牙口硬实着呢，少瞎操心。"
-    # 译注：Samuel打趣，以为James是指Wolf咬人。
 
 # game/script.rpy:2594
 translate Chinese day_1_dinner_4d49a893:
 
     # p "No. Him."
     p "不是他。我是说那位。"
-    # 译注：James指正。
 
 # game/script.rpy:2596
 translate Chinese day_1_dinner_d38c4a18:
@@ -2780,7 +2680,6 @@ translate Chinese day_1_dinner_9f490845:
 
     # s "Not really. Can't do much. Sometimes ya just get caught by it. The ocean's not for everyone, that's for sure."
     s "帮不上，谁也奈何不了晕船。碰上这档子事只能硬扛。这茫茫大海本就不是人人都受得了的，这话一点不假。"
-    # 译注：老水手对晕船的态度。
 
 # game/script.rpy:2605
 translate Chinese day_1_dinner_fb5fcf06:
@@ -2835,21 +2734,18 @@ translate Chinese day_1_dinner_3d461445:
 
     # p "We're supposed to be working for you, aren't we? I was told chain of command was very important."
     p "我们不是得听从你的差遣吗？之前有人告诫过我，说船上的规矩尊卑重于一切。"
-    # 译注：chain of command指船上指挥链与层级服从。
 
 # game/script.rpy:2632
 translate Chinese day_1_dinner_6acdc17f:
 
     # s "Don't worry. I can release you to go administer rites, or whatever it is ya think would help."
     s "放宽心。我有权批准你去给他做临终祈祷，或者随便折腾你觉得管用的什么偏方。"
-    # 译注：administer rites指临终圣事/仪式，此处为Samuel水手式的荒诞调侃。
 
 # game/script.rpy:2634
 translate Chinese day_1_dinner_f704ff9a:
 
     # s "The rest of us are about to have other things to do, anyway."
     s "反正咱们大伙儿待会儿也有别的事要张罗。"
-    # 译注：老水手打发口吻。
 
 # game/script.rpy:2636
 translate Chinese day_1_dinner_88eb524a:
@@ -2892,7 +2788,7 @@ translate Chinese day_1_dinner_62116388:
 
     # j "You have work for us? We looked to be already trimmed."
     j "还有活儿分派给咱们？我看帆装不是都已经调顺就位了吗。"
-    # 译注：trimmed在航海中指调整帆桁与帆角索使帆面顺风受力，清除原译台词中硬塞的英文与括号释义。
+    # 译注：trimmed在航海中指调整帆桁与帆脚索使帆面顺风受力。
 
 # game/script.rpy:2656
 translate Chinese day_1_dinner_512d10f6:
@@ -2918,7 +2814,7 @@ translate Chinese day_1_dinner_e6fbb892:
 
     # s "The ship's sails are properly set for the wind we have. We're close-hauled 'til we can turn southwards."
     s "船帆已经照着眼下的风向完全挂稳了。在能折向南航之前，咱们都得顶着风抢风航行。"
-    # 译注：close-hauled指顶风/抢风航行（帆面尽可能贴紧迎风面）。清除原译中突兀的维基百科超链接标签。
+    # 译注：close-hauled指顶风/抢风航行（帆面尽可能贴紧迎风面）。
 
 # game/script.rpy:2666
 translate Chinese day_1_dinner_1c22c1b9:
@@ -2931,7 +2827,6 @@ translate Chinese day_1_dinner_9b1b1df9:
 
     # s "The important thing is: I don't have work for ya. Not now. But they'll ring the bell for dinner, soon enough."
     s "最要紧的是：我现在手头没派给你们的苦差。眼下没有。不过用不了多久，船钟就该敲响开饭了。"
-    # 译注：清除原译中意外插入的维基百科超链接标签。船钟报时是帆船航海作息核心。
 
 # game/script.rpy:2670
 translate Chinese day_1_dinner_ecaf908d:
@@ -2980,7 +2875,6 @@ translate Chinese day_1_dinner_8c394524:
 
     # s "Or someone hates your guts, though I can't imagine why."
     s "要不就是有人打心眼里烦透了你，虽说我实在想不出他烦你的由头。"
-    # 译注：Samuel反讽调侃Julian招人嫌。
 
 # game/script.rpy:2697
 translate Chinese day_1_dinner_871db740:
@@ -2999,7 +2893,6 @@ translate Chinese day_1_dinner_9edac298:
 
     # "The maned wolf flexes his long fingers, then balls them into a fist and socks Julian on the shoulder before he can dodge it."
     "那名鬃狼活动了一下修长有力的指骨，随即猛地攥成拳头，趁着Julian还没来得及缩脖子闪避，结结实实一拳捶在了他的肩膀上。"
-    # 译注：老水手教训年轻后辈的玩笑动作。
 
 # game/script.rpy:2712
 translate Chinese day_1_dinner_ffa3e875:
@@ -3078,14 +2971,12 @@ translate Chinese smallchoice_abit_4cd24767:
 
     # "The lizard acts like you're off on some boarding-school camping trip, not a proper sailing vessel.{w} At least, what you imagine a camping trip would be like. Something a lot less serious than working aboard the Conway."
     "这只小蜥蜴的一举一动，简直就像是在参加全托贵族寄宿学校组织的郊游野营，根本不是在正规出海航行。{w}至少，也符合你脑海中对郊游野营的全部想象——跟在Conway号甲板上卖命干活比起来，简直轻松得如同儿戏。"
-    # 译注：boarding-school camping trip反讽Julian的不成熟。统一船名Conway号。
 
 # game/script.rpy:2767
 translate Chinese smallchoice_abit_d5b6b6dc:
 
     # p "You do come on a bit strong."
     p "你确实有点……太自来熟得过头了。"
-    # 译注：come on a bit strong指表现得过于主动乃至让人不适。
 
 # game/script.rpy:2769
 translate Chinese smallchoice_abit_bee03836:
@@ -3110,14 +3001,12 @@ translate Chinese smallchoice_abit_fc27c55e:
 
     # s "As in, the diplomatic way of saying \"annoying little shit.\" In the local dialect..."
     s "意思就是，换成本地街坊土话，人家是在客客气气地骂你是个“讨厌的小浑球”……"
-    # 译注：local dialect指粗俗市井俚语。
 
 # game/script.rpy:2777
 translate Chinese smallchoice_abit_8e7b67e8:
 
     # "Julian looks at you, as if expecting further explanation. But if he doesn't understand why his antics would rub anyone the wrong way, you doubt you can explain it to him."
     "Julian定定地看着你，仿佛还眼巴巴等着你给出进一步的解释。但如果他连自己轻浮胡闹的毛病为何会招人厌烦都想不通，你恐怕也很难同他讲得明白。"
-    # 译注：纠正原译'估计我也说不清'的人称倒置错误。
 
 # game/script.rpy:2781
 translate Chinese smallchoice_abit_8cd6e672:
@@ -3178,7 +3067,6 @@ translate Chinese firstchoice_lightenup_46c5225a:
 
     # "But, the way he briefly sticks out his tongue, Julian clearly understands that you're just teasing him. The fact that you didn't punch him probably helps."
     "不过看他偷偷吐了吐舌头，Julian心里显然清楚你只是在拿他打趣。你没真一拳砸上去，大概也起了点安抚作用。"
-    # 译注：纠正原译'我是在逗他玩'的人称混淆错误。
 
 # game/script.rpy:2815
 translate Chinese firstchoice_lightenup_83940c1d:
@@ -3215,7 +3103,6 @@ translate Chinese firstchoice_lightenup_460454b8:
 
     # p "Wolf will be fine, I'm sure. That's all."
     p "我相信Wolf总会习惯的，就这意思。"
-    # 译注：修正原译将Wolf误译为'狼'的严重专名错误。
 
 # game/script.rpy:2827
 translate Chinese firstchoice_lightenup_4a1671ae:
@@ -3228,7 +3115,6 @@ translate Chinese day_1_dinner_2_a3733003:
 
     # s "Be that as it may, good behavior goes both ways. We're gonna be stuck here for a while. You don't have to like each other, but you do have to tolerate each other."
     s "话虽如此，规规矩矩也是相互的。咱们可得在这船上挤好一阵子。你们用不着掏心掏肺，但起码得互相担待着点。"
-    # 译注：补齐漏译文本。老水手长规劝众人同舟相忍。
 
 # game/script.rpy:2840
 translate Chinese day_1_dinner_2_40326679:
@@ -3253,7 +3139,6 @@ translate Chinese day_1_dinner_2_51a72c53:
 
     # s "Everybody's got their own past. Their own little... quirks and things they don't want to talk about."
     s "谁心底里还没点过往呢。各自都有点小脾气……或者不想翻出来的陈年旧事。"
-    # 译注：老水手对人情世故的洞悉。
 
 # game/script.rpy:2852
 translate Chinese day_1_dinner_2_ab7da46d:
@@ -3266,7 +3151,6 @@ translate Chinese day_1_dinner_2_a3a4bd64:
 
     # s "And you don't want to start off by getting one everyone's bad side."
     s "刚一开船，你们总不想把全船上下得罪个遍吧。"
-    # 译注：补齐漏译文本。修正原句typo（getting one everyone's -> on everyone's bad side）。
 
 # game/script.rpy:2856
 translate Chinese day_1_dinner_2_f8036b45:
@@ -3285,21 +3169,18 @@ translate Chinese day_1_dinner_2_aee4bdc2:
 
     # s "Well, in that case, at least try'n make ya ribbing funny. Just some advice."
     s "成吧，既然这样，往后拿人寻开心好歹也说点好笑的俏皮话。老哥我好心提点你一句。"
-    # 译注：make ya ribbing funny指打趣嘲弄也得讲究分寸幽默。
 
 # game/script.rpy:2864
 translate Chinese day_1_dinner_2_5c70fe0f:
 
     # j "Oh, of course. There's so many people here I can take pointers from on {i}that{/i} one."
     j "哈，那是自然。这船上能在这档子事上指点我几招的高人可真是一抓一大把呢。"
-    # 译注：take pointers from反讽船上水手粗鲁无趣。
 
 # game/script.rpy:2866
 translate Chinese day_1_dinner_2_9c2091c8:
 
     # "He shakes his head, but keeps a reasonably brave face."
     "他摇了摇头，脸上依旧强撑着一副死鸭子嘴硬的满不在乎。"
-    # 译注：keeps a reasonably brave face指强装镇定/嘴硬。
 
 # game/script.rpy:2868
 translate Chinese day_1_dinner_2_d6e3e9ee:
@@ -3324,7 +3205,6 @@ translate Chinese day_1_dinner_2_574bdd71:
 
     # s "Let's go down and wait for dinner. You're hungry, right?"
     s "走吧，下到底舱去等开饭。肚子早就饿扁了吧？"
-    # 译注：老水手招呼下舱开饭。
 
 # game/script.rpy:2880
 translate Chinese day_1_dinner_2_4f424144:
@@ -3349,7 +3229,6 @@ translate Chinese day_1_dinner_2_79049577:
 
     # s "And you haven't even done any work yet."
     s "瞧你这点出息，手头连半点像样活计都还没干呢就喊饿。"
-    # 译注：老手逗弄新兵。
 
 # game/script.rpy:2893
 translate Chinese day_1_dinner_2_7d76ea1c:
@@ -3400,7 +3279,6 @@ translate Chinese day_1_dinner_2_65ed5847:
 
     # s "Well. Bandile could almost make that edible, too."
     s "这倒也是。不过就算是水手硬饼干，Bandile差不多也能调理得勉强能下咽。"
-    # 译注：老水手打趣hardtack。
 
 # game/script.rpy:2917
 translate Chinese day_1_dinner_2_08f97af1:
@@ -3425,7 +3303,6 @@ translate Chinese day_1_dinner_2_85ab9f70:
 
     # s "Probably Bandile, then, yes. I heard rumors that it would be salmon. Something of a specialty for him."
     s "那八成就是Bandile没跑了。我听到风声说今晚做的是鲑鱼。那可是他的看家绝活之一。"
-    # 译注：salmon指新鲜大马哈鱼/鲑鱼。
 
 # game/script.rpy:2929
 translate Chinese day_1_dinner_2_ffc9f95e:
@@ -3474,7 +3351,6 @@ translate Chinese day_1_dinner_2_ed01f97c:
 
     # "And his physique doesn't exactly lend itself to the ocean, you suppose, which must be why he ends that in a wry grin."
     "你心想，以他那副身材骨架在海里估计也扑腾不出什么水花，难怪他最后露出了那副无可奈何的苦笑。"
-    # 译注：彻底清除原译文本中污染残留的印地/孟加拉外文字符“एक চटुल”。恢复自然叙述。
 
 # game/script.rpy:2951
 translate Chinese day_1_dinner_2_82113570:
@@ -3493,7 +3369,6 @@ translate Chinese day_1_dinner_2_6088f673:
 
     # "Despite the ribbing, you're pretty sure Julian and Samuel will ensure you don't go hungry."
     "虽说免不了被他们打趣几句，但你确信Julian和Samuel绝不会真让你饿着肚子。"
-    # 译注：修正原译“虽然他们会打趣我，但我相信...”的人称倒置错误。
 
 # game/script.rpy:2968
 translate Chinese day_1_dinner_2_cc62c7b2:
@@ -3513,14 +3388,12 @@ translate Chinese day_1_dinner_2_f7490fa6:
 
     # "The sound of your claws clacking—whatever \"sea legs\" are, you don't have them yet—announces your presence to the passenger."
     "你的肉爪指甲在木梯上踩出哒哒的细碎轻响——不管所谓的“海腿脚感”究竟是什么名堂，反正你现在还根本没找着门道——这一响动让那名乘客察觉到了你的靠近。"
-    # 译注：补齐漏译文本。sea legs指适应甲板摇晃站稳的脚感技巧。
 
 # game/script.rpy:2987
 translate Chinese day_1_dinner_2_17b16f73:
 
     # "He turns to face you, and on closer inspection you can see that he's an African Wild Dog.{w} You've not met many of those before, but the look of his fur is unmistakeable. So, too, are his round ears."
     "他转过头来面向你，凑近细看你才认出他原来是一只非洲野犬。{w}你以前极少遇到过这类兽人，但他那身斑斓花俏的毛色绝不可能认错，还有他那对招风的大圆耳朵。"
-    # 译注：African Wild Dog指非洲野犬/斑纹野狗（Lycaon pictus）。修正原译“非洲猎犬”。
 
 # game/script.rpy:2989
 translate Chinese day_1_dinner_2_b67e306f:
@@ -3599,7 +3472,6 @@ translate Chinese day_1_dinner_2_ec9585ca:
 
     # "And you wouldn't have wanted to damage them. The frames are thin, but made of gold. They look expensive. Aristocratic, even."
     "你自然也不愿失手弄坏它。镜框极细，通体由纯金精工打造。瞧着就身价不菲，甚至透出一股公侯贵胄的典雅气派。"
-    # 译注：修正原译将narration误作“您肯定不想弄坏它”的视角混乱。
 
 # game/script.rpy:3027
 translate Chinese day_1_dinner_2_683d7c00:
@@ -3612,7 +3484,6 @@ translate Chinese day_1_dinner_2_396b6ba1:
 
     # "His black suit is fancier than anything else you've seen aboard ship, even from the officers. It would've been out of place ashore, too. Even the men who dressed in their Sunday finest for services don't dress like this."
     "他身上那件剪裁得体的纯黑礼服，比你在船上见过的任何行头都要考究得多，就连那些当官的军官也比不上。哪怕搁在陆地上，这身打扮也显得格格不入。即便是在礼拜天盛装去教堂祈祷的乡绅显贵，也极少有人能穿出这等矜贵派头。"
-    # 译注：Sunday finest指礼拜日盛装；suit指绅士礼服黑常服。修正原译生硬翻译腔。
 
 # game/script.rpy:3031
 translate Chinese day_1_dinner_2_bf4bdab7:
@@ -3662,7 +3533,6 @@ translate Chinese day_1_dinner_2_679431c5:
 
     # p "You do still look a bit under the weather. Do you need help?"
     p "您看起来脸色还是不大对劲。需要帮忙吗？"
-    # 译注：under the weather是常用口语，指身体欠佳/不适。
 
 # game/script.rpy:3051
 translate Chinese day_1_dinner_2_833333de:
@@ -3693,7 +3563,6 @@ translate Chinese day_1_dinner_2_526048e8:
 
     # pd "Because there is certainly some evidence to the contrary, to anyone observing this tableau keenly. Or absence of evidence, if you would rather formulate it that way."
     pd "因为任何敏锐打量这一幕光景的人，分明都能找出相反的确凿铁证。或者说是‘并非人人如此的反例证伪’，如果您偏爱用这般论调表述的话。"
-    # 译注：Nomax身为学者，用学术修辞（evidence to the contrary / absence of evidence）幽默自嘲自己是船上唯一吐得爬不起来的人。
 
 # game/script.rpy:3063
 translate Chinese day_1_dinner_2_1b640dae:
@@ -3736,7 +3605,6 @@ translate Chinese day_1_dinner_2_c8ac484d:
 
     # "The two of you lapse back into silence while the African Wild Dog steadies himself again."
     "你们两人重新陷入了沉默，那只非洲野犬则在海风中极力稳住脚步。"
-    # 译注：将“彩绘犬”统一为“非洲野犬”。
 
 # game/script.rpy:3081
 translate Chinese day_1_dinner_2_ecdda13b:
@@ -3749,7 +3617,6 @@ translate Chinese day_1_dinner_2_34ffb417:
 
     # "The rhythmic splash of waves against the hull as Conway truly gets underway towards her destination..."
     "波浪有节奏地拍打着船侧木板，伴随着Conway号真正扬帆起航，稳稳破浪驶向远方的目的地……"
-    # 译注：遵照规范统一船名为“Conway号”。
 
 # game/script.rpy:3085
 translate Chinese day_1_dinner_2_7d4bb0ba:
@@ -3780,7 +3647,6 @@ translate Chinese day_1_dinner_2_2c332233:
 
     # pd "I am, yes. I suppose I do not much look the part of a sailor, either, do I? It was not required for me to travel incognito, and, well... I am fond of these clothes, I admit."
     pd "确实如此，我是乘客。我想我这副模样横看竖看也扮不出半点水手的做派，不是吗？此番出行倒没要求我隐姓埋名，而且，哎……我承认，我打心眼里还是舍不得脱下这身行头。"
-    # 译注：travel incognito指隐姓埋名/微服出行。
 
 # game/script.rpy:3097
 translate Chinese day_1_dinner_2_b311e20e:
@@ -3799,7 +3665,6 @@ translate Chinese day_1_dinner_2_e9070a7c:
 
     # "You think about trying to offer some assistance—even if only a reassuring pat on the arm—before deciding to err on the side of discretion, and look the other way."
     "你原本想伸手帮衬他一把——哪怕只是安抚地拍拍他的臂膀——但思前想后还是觉得谨慎避嫌为妙，知趣地将视线转开望向了别处。"
-    # 译注：补齐漏译文本。err on the side of discretion指宁可谨慎行事免惹尴尬。
 
 # game/script.rpy:3107
 translate Chinese day_1_dinner_2_9c7ffcbd:
@@ -3824,7 +3689,6 @@ translate Chinese day_1_dinner_2_d25367d7:
 
     # "Some additional sails have been set, and rustle with the minutest changes in wind. But, until you gain truly open waters, most of them remain furled."
     "船上又多支起了几面帆页，随着微风细小的流转发出细碎的窸窣摩挲声。不过，在真正驶入毫无遮拦的辽阔公海之前，绝大部分风帆依然整齐地卷束在帆桁上。"
-    # 译注：furled指风帆卷拢系缚在帆桁上。
 
 # game/script.rpy:3115
 translate Chinese day_1_dinner_2_20118801:
@@ -3933,7 +3797,6 @@ translate Chinese day_1_dinner_2_591bdd32:
 
     # pd "What a ghastly thing, really."
     pd "真是件教人毛骨悚然的事物，委实可怕。"
-    # 译注：ghastly指阴森可怕、毛骨悚然。修正原译生硬的“糟糕的东西”。
 
 # game/script.rpy:3162
 translate Chinese day_1_dinner_2_c4c3e648:
@@ -3976,7 +3839,6 @@ translate Chinese day_1_dinner_2_27d852f1:
 
     # pd "Count your blessings, on that one."
     pd "在这件事上，您可真该好好感谢上苍庇佑了。"
-    # 译注：count your blessings指知足感恩、庆幸。
 
 # game/script.rpy:3178
 translate Chinese day_1_dinner_2_7c59c0a2:
@@ -3989,7 +3851,6 @@ translate Chinese day_1_dinner_2_df571f6e:
 
     # pd "Comforting platitudes for the ailing, I imagine..."
     pd "无非是拿来哄骗病患的宽心套话罢了，我想……"
-    # 译注：platitudes指陈词滥调、安慰套话。
 
 # game/script.rpy:3184
 translate Chinese day_1_dinner_2_0d92380f:
@@ -4002,7 +3863,7 @@ translate Chinese day_1_dinner_2_76922ebd:
 
     # pd "I read in a book once that you should stare at a fixed point. It is something about the equilibrium of our... well, some humor or another, would it not be?"
     pd "我从前在典籍里读到过，说晕眩时应当凝视某一处固定不动之物。此举关乎人体某种……怎么说来着，四体液的调和平衡，不是么？"
-    # 译注：humor指欧洲18世纪主流医学古希腊“四体液说”（血液、粘液、黄胆汁、黑胆汁）。
+    # 译注：humor指欧洲18世纪主流医学古希腊“四体液说”（血液、粘液、黄胆汁、黑胆汁），此处借体液失调与现代幽默感双关。
 
 # game/script.rpy:3188
 translate Chinese day_1_dinner_2_ece1d4cf:
@@ -4015,7 +3876,6 @@ translate Chinese day_1_dinner_2_5b395b30:
 
     # pd "Nor do I. And, truth be told, this has left me rather short of humor altogether. The real problem, I find..."
     pd "我同样是一知半解。而且说句公道话，这番折腾下来，我不仅体内体液失调，连脑子里的幽默兴致也给吐得荡然无存了。在我看来，真正的症结所在……"
-    # 译注：此处英文原作者借由humor（古医理体液）与humor（现代幽默感）巧妙双关。译文采用“不仅体内体液失调，连脑子里的幽默兴致也给吐得荡然无存”忠实还原双关机锋。
 
 # game/script.rpy:3192
 translate Chinese day_1_dinner_2_9a60e330:
@@ -4028,7 +3888,7 @@ translate Chinese day_1_dinner_2_3141e96d:
 
     # pd "...Is that it means you need to look at all this water. Countless, ghastly leagues of it."
     pd "……症结在于，这意味着你不得不直面这漫天遍地的茫茫海水。一眼望不到头、足足绵延几百里格的森森凶涛。"
-    # 译注：league（里格，18世纪航海里程单位，约3海里/5.5公里）。”。
+    # 译注：league（里格，18世纪航海里程单位，约3海里/5.5公里）。
 
 # game/script.rpy:3196
 translate Chinese day_1_dinner_2_49f8809f:
@@ -4065,7 +3925,6 @@ translate Chinese day_1_dinner_2_9a99e359:
 
     # "A black ribbon, dividing sea and sky. It's hard to believe you called it home."
     "宛如一条黑色的丝带，在天地间生生将沧海与苍穹劈成两半。真难相信，你曾把那片逼仄的土地唤作自己的故乡家园。"
-    # 译注：修正原译第二人称翻成第一人称“我曾经把那里叫做家”的失误。
 
 # game/script.rpy:3215
 translate Chinese day_1_dinner_2_160aee26:
@@ -4120,14 +3979,12 @@ translate Chinese day_1_dinner_2_78a5b8cb:
 
     # "It is a more congenial sort of inquisitiveness. Perhaps he's happy to have something else to think about."
     "那是一种更为温和、更富教养的探求心。或许，他心里也正巴不得能找些别的话题来转移对腹中难受的注意力。"
-    # 译注：congenial sort of inquisitiveness指温和投契的好奇心。
 
 # game/script.rpy:3240
 translate Chinese day_1_dinner_2_bd03560e:
 
     # p "No, I'm part of the crew. I just joined today. They call me a landsman, which I suppose is a sort of rank."
     p "不，我是船上的水手，今天才刚入伙报到。他们管我叫“旱鸭子新手水手”，我琢磨着这大概也算是个职级名堂吧。"
-    # 译注：landsman指18世纪英国海军与商船上服役未满1年的无经验新手水手。
 
 # game/script.rpy:3242
 translate Chinese day_1_dinner_2_3c19f31d:
@@ -4248,7 +4105,6 @@ translate Chinese day_1_dinner_2_1b07e8ab:
 
     # pd "Not to say that the roving impulse is felt by all of us equally. There must be separate fashions for separate kinds... the spheres of our various interests and talents—am I rambling?"
     pd "倒不是说这种浪迹天涯的冲动在每个人心头都激起同等的分量。不同的族类天性自当有各自的活法……我们各有所长、才情志向所属的领地也各不相同——抱歉，我是不是扯得太远了？"
-    # 译注：补齐漏译文本。roving impulse指流浪远游的冲动。
 
 # game/script.rpy:3292
 translate Chinese day_1_dinner_2_b1458955:
@@ -4267,7 +4123,6 @@ translate Chinese day_1_dinner_2_7f1a7407:
 
     # "That seems to be a rather philosophical statement, but the painted dog is clearly a man of some intellect.{w} You try to meet him on the same ground."
     "这话听上去颇具哲学思辨意味，但眼前这只非洲野犬显然是位满腹经纶、颇有学识的学者。{w}你试着尽力跟上他的谈吐节奏。"
-    # 译注：清除原译污染的“彩绘犬painted dog”，规范修正为“非洲野犬”。
 
 # game/script.rpy:3300
 translate Chinese day_1_dinner_2_038a04f9:
@@ -4322,7 +4177,6 @@ translate Chinese day_1_dinner_2_9635f295:
 
     # p "So... why the Conway, then? If you're not a sailor, and you don't like traveling..."
     p "话说回来……您为什么非要登上Conway号呢？既然您既不是水手，又这般吃不消长途跋涉……"
-    # 译注：修正原译“Conway号Conway”的重复污染Bug，统一船名为Conway号。
 
 # game/script.rpy:3322
 translate Chinese day_1_dinner_2_ee091661:
@@ -4341,7 +4195,6 @@ translate Chinese day_1_dinner_2_1b70a24f:
 
     # pd "Coming aboard with no mess kit or fishing tackle or... whatever sort of accoutrements I would be expected to have, as a proper tar."
     pd "我上船时甚至连一件像样的水手餐具、钓鱼排钩都没置办，更别提……那些一个正经老水手按规矩该随身携带的琐碎家当了。"
-    # 译注：proper tar指地道老水手；mess kit指水手饭盒/餐具罐；fishing tackle指钓鱼索具。
 
 # game/script.rpy:3328
 translate Chinese day_1_dinner_2_183658e4:
@@ -4354,7 +4207,6 @@ translate Chinese day_1_dinner_2_0464c1c0:
 
     # "Perhaps Julian can help, later. For now, you focus on the painted dog."
     "兴许回头可以找Julian请教请教。不过眼下，你的心神全放在了身旁这位非洲野犬身上。"
-    # 译注：清除原译污染残留的“JulianJulian”与“彩绘犬painted dog”。
 
 # game/script.rpy:3332
 translate Chinese day_1_dinner_2_c09ab340:
@@ -4367,7 +4219,6 @@ translate Chinese day_1_dinner_2_4ff25183:
 
     # pd "Is that not the rub? I am being brought over by my patron, who desires that I work on her estate in the south."
     pd "这不正是左右为难的症结所在么？我是受我的资助人慷慨聘请前往南方的，她盛情相邀，期盼我去她在南方的私人庄园里主持差事。"
-    # 译注：patron指欧洲18世纪贵族科学资助人/赞助人；rub指症结难处。
 
 # game/script.rpy:3338
 translate Chinese day_1_dinner_2_845e17b1:
@@ -4525,7 +4376,6 @@ translate Chinese day_1_dinner_2_bb7010b7:
 
     # pd "I feel the world around which I am sailing is... only incidentally the one shared by the good ship Conway."
     pd "我总觉得，我所遨游环行的那个世界……不过是碰巧与这艘结实的Conway号商船有所重叠罢了。"
-    # 译注：统一船名为“Conway号”。
 
 # game/script.rpy:3406
 translate Chinese day_1_dinner_2_df19ecd2:
@@ -4550,7 +4400,7 @@ translate Chinese day_1_dinner_2_e36f4bee:
 
     # "Nobody is aloft right now, but you recall the ones you saw other sailors scrambling up, and point them out."
     "眼下桅杆上虽说空无一人，但你脑海里还清晰记着起航时目睹其他老水手猿猱般飞步攀爬的那些绳梯，便抬手指向了它们。"
-    # 译注：ratlines/shrouds指梯状攀爬绳网。
+    # 译注：ratlines/shrouds指侧支索绳梯（梯状攀爬绳网）。
 
 # game/script.rpy:3416
 translate Chinese day_1_dinner_2_5ae1bbaf:
@@ -4569,7 +4419,6 @@ translate Chinese day_1_dinner_2_6f0ceac6:
 
     # p "{i}We'll{/i}.{w} Those are the ones {i}we'll{/i} be climbing."
     p "是{i}我们{/i}。{w}那才是{i}我们{/i}该爬的绳网。"
-    # 译注：严重纠错：原译错误将James纠正口误的肯定句误作问句“我们？我们要爬这些东西？”。原文是James意识到自己也是水手一员，从‘they’改为‘we’，配合Nomax挑眉的幽默情景。
 
 # game/script.rpy:3424
 translate Chinese day_1_dinner_2_b4e6eb69:
@@ -4666,7 +4515,6 @@ translate Chinese day_1_dinner_2_02064f15:
 
     # "With a polite bow, he makes his way unsteadily down the ladder to the main deck. He is careful, putting one foot in front of the other, but at least he no longer seems like he needs to spend every moment bent over the railing."
     "行过一记温雅的脱帽躬身礼后，他脚步虽仍有些踉跄虚浮，却稳扎稳打地沿着梯级走回主甲板。他走得极其小心翼翼，一步一顿，但至少他看上去已经用不着每分每秒都把整个人瘫挂在冰冷的船舷上了。"
-    # 译注：走下舷梯细节。
 
 # game/script.rpy:3474
 translate Chinese day_1_dinner_2_cdd4d767:
@@ -4679,7 +4527,6 @@ translate Chinese day_1_dinner_2_b5216743:
 
     # "There's not much space aboard the Conway, so you expect to see more of the painted dog."
     "好在整艘Conway号统共也就这么大点天地，你料定往后抬头不见低头见，少不了还要与这只非洲野犬打交道。"
-    # 译注：将“彩绘犬”统一为“非洲野犬”，统一船名Conway号。
 
 # game/script.rpy:3480
 translate Chinese day_1_dinner_2_1d005a79:
@@ -4692,7 +4539,6 @@ translate Chinese day_1_dinner_2_ecc1b601:
 
     # "Well, surely Nomax would be the first to tell you that you should make your own destiny, in that regard. You smile to yourself, and decide that will have to be the case. And it's time for you to get going, yourself. Dinner beckons."
     "反正要是换作Nomax，定会第一个站出来劝你万事当遵从自己的心愿与主见。你嘴角噙着笑意，暗下决心往后便这般坦然处之。你也该动身了，底舱热气腾腾的晚饭正在召唤你呢。"
-    # 译注：转场进入底舱用膳。
 
 # game/script.rpy:3484
 translate Chinese day_1_dinner_2_1ebe4646:
@@ -4717,28 +4563,25 @@ translate Chinese day_1_dinner_2_188a76a4:
 
     # "Of course, first you have to find where it is. The last of the day's light flickers through scanty windows, sending faint beams through rising steam and motes of dust."
     "当然，当务之急你得先摸清楚排队打饭的方位。暮色残留的最后一缕微光穿过逼仄狭小的采光舷窗，在蒸腾升起的饭菜热气与浮动的尘糜中投射下几道微茫暗淡的光柱。"
-    # 译注：底舱光影细节。
 
 # game/script.rpy:3506
 translate Chinese day_1_dinner_2_96e332e0:
 
     # "Beneath it are the shifting, dim forms of your fellow crew. The end of the room marks the door to the officers' quarters; you can see Arthur in conversation with some feline, a cheetah you haven't seen before."
     "光柱下方，是你那些水手同伴们晃动模糊的昏暗身影。舱室尽头是一道通往军官起居舱的木门；你透过缝隙能瞥见Arthur正在同某位猫科兽人低声攀谈，那是一只你此前从未谋面的猎豹。"
-    # 译注：officers' quarters指军官舱；cheetah为后续剧情角色。
 
 # game/script.rpy:3522
 translate Chinese day_1_dinner_2_c0ff3d88:
 
     # "It's not your world, anyway. You belong here, in the milieu of the other working men on the Conway."
     "不过无论如何，那不是属于你的阶层世界。你真正的归宿在这里，在Conway号底舱这帮卖苦力干粗活的水手弟兄中间。"
-    # 译注：统一船名Conway号。表现主角对水手阶层的认同感。
 
 # game/script.rpy:3534
 translate Chinese day_1_dinner_2_1f035f36:
 
     # "Later, the commons area is where the crew will set up their hammocks, if you understand correctly. For now, wooden crates have been set up as tables."
     "等夜深了，这处公共通舱便是水手们拉起吊床歇息的地方，如果你的记忆没出错的话。而眼下，笨重的储物木箱被临时码成了一排排排餐桌。"
-    # 译注：帆船生活空间：白天公共食堂（mess deck），入夜吊床铺位（hammocks）。
+    # 译注：帆船生活空间：白天公共食堂（mess deck），入夜挂吊床铺位（hammocks）。
 
 # game/script.rpy:3539
 translate Chinese day_1_dinner_2_6d5d0230:
@@ -4763,7 +4606,6 @@ translate Chinese day_1_dinner_2_b8fcca11:
 
     # "You duck under a heavy beam, congratulating yourself for not discovering the sturdy wooden brace with your forehead."
     "你机灵地一低头猫腰钻过一根粗壮的甲板承重横梁，暗自庆幸自己的脑门这回没结结实实撞在那道坚硬如铁的木枋上。"
-    # 译注：底舱低矮横梁的真实生活细节。
 
 # game/script.rpy:3560
 translate Chinese day_1_dinner_2_6a3b591e:
@@ -4782,14 +4624,12 @@ translate Chinese firstdinner_Wolf_837f47c2:
 
     # "A rather generous slice of it, at that."
     "而且分量给得相当大方，好大一块。"
-    # 译注：generous slice体现刚起航时的丰盛配给，避免生硬欧化词'慷慨'。
 
 # game/script.rpy:3607
 translate Chinese firstdinner_Wolf_c72acc39:
 
     # "It looks absolutely mouthwatering. The cook, Bandile, has even made sure to garnish it for every crew member so that it really looks the part."
     "看着真让人直咽口水。大厨Bandile甚至还给每位船员的盘子里都点缀了配菜，摆盘有模有样。"
-    # 译注：looks the part指像高级餐馆的正餐，摆盘体面讲究。
 
 # game/script.rpy:3609
 translate Chinese firstdinner_Wolf_154e5982:
@@ -4802,7 +4642,6 @@ translate Chinese firstdinner_Wolf_258d8ab3:
 
     # "The hare looks up from his work, as if surprised to be greeted that way."
     "这只野兔从忙活中抬起头，似乎挺惊讶有人会这么客气地向他打招呼。"
-    # 译注：Bandile是野兔（hare），习惯了粗鲁的水手催饭，对新人的礼貌感到意外。
 
 # game/script.rpy:3619
 translate Chinese firstdinner_Wolf_833753a5:
@@ -4827,7 +4666,6 @@ translate Chinese firstdinner_Wolf_1e20c719:
 
     # p "No! No! Far from it.{w} Samuel's been talking up your cooking, and I couldn't wait."
     p "不！绝没有！差得远呢。{w}Samuel一直在夸你的手艺，我都快等不及尝尝了。"
-    # 译注：保留{w}停顿，talking up指大力夸赞、吹捧。
 
 # game/script.rpy:3629
 translate Chinese firstdinner_Wolf_19c73bdb:
@@ -4840,7 +4678,6 @@ translate Chinese firstdinner_Wolf_51dd7e48:
 
     # b "Oh? Has he now? Well, I think you've just ensured Samuel will have a little extra care put into his next meal."
     b "哦？他真这么夸了？哈哈，冲你这句话，Samuel下一顿饭我可得多关照关照他了。"
-    # 译注：extra care厨师黑话双关，既指加料照顾也指开玩笑的恶作剧。
 
 # game/script.rpy:3635
 translate Chinese firstdinner_Wolf_6389d9d0:
@@ -4853,21 +4690,18 @@ translate Chinese firstdinner_Wolf_2b08989f:
 
     # p "No, he's just over there, actually."
     p "没呢，其实他就在那边。"
-    # 译注：James指明方向。
 
 # game/script.rpy:3641
 translate Chinese firstdinner_Wolf_2b8cf9a3:
 
     # "You nod over your shoulder, in the direction of Samuel and Julian's table."
     "你朝肩后歪头示意，指向Samuel和Julian那一桌。"
-    # 译注：nod over your shoulder指偏头示意身后方向。
 
 # game/script.rpy:3643
 translate Chinese firstdinner_Wolf_d145dc86:
 
     # b "Hm, he already had his supper earlier..."
     b "嗯，他刚才已经吃过晚饭了……"
-    # 译注：老海员了解用餐作息。
 
 # game/script.rpy:3645
 translate Chinese firstdinner_Wolf_643f722f:
@@ -4880,7 +4714,6 @@ translate Chinese firstdinner_Wolf_361e44ef:
 
     # b "I shouldn't... but...{w} On second though, maybe I can smuggle him something."
     b "按规矩可不行……不过……{w}转念一想，说不定我能偷偷给他塞点好吃的。"
-    # 译注：保留{w}，smuggle幽默指从厨房偷藏加餐。
 
 # game/script.rpy:3651
 translate Chinese firstdinner_Wolf_8c91a7a6:
@@ -4893,14 +4726,12 @@ translate Chinese firstdinner_Wolf_333f5fe5:
 
     # "He begins doing just that, setting about the task with obvious skill. As far as you're concerned, he could just as easily have been at one of those fancy restaurants you've always heard about in the city."
     "他当即动起手来，动作娴熟利落。在你看来，这等身手就算去城里那些常听人念叨的高档餐馆当主厨也绰绰有余。"
-    # 译注：纠正原译第二人称游戏视角误用'我觉得'的视角混淆错误。
 
 # game/script.rpy:3661
 translate Chinese firstdinner_Wolf_0762fbc6:
 
     # b "So, you're one of the new pups? Already making friends, I see."
     b "这么说，你就是新来的雏儿之一了？瞧你这架势，已经交上朋友了嘛。"
-    # 译注：pups在兽人航海背景中指年轻新兵、新丁雏儿。
 
 # game/script.rpy:3663
 translate Chinese firstdinner_Wolf_bcc6e9ce:
@@ -4913,7 +4744,6 @@ translate Chinese firstdinner_Wolf_46026067:
 
     # b "Ah, wonderful. The enthusiasm never hurts, I'll tell you that much. The work isn't easy, and..."
     b "哈，挺好。有股冲劲绝不是坏事，这我敢跟你打包票。海上的活计可没那么轻松，而且……"
-    # 译注：enthusiasm never hurts老海员的安慰劝诫。
 
 # game/script.rpy:3671
 translate Chinese firstdinner_Wolf_96659fcb:
@@ -4926,21 +4756,18 @@ translate Chinese firstdinner_Wolf_d5440d02:
 
     # b "I'll let you in on a secret. The food won't always be quite this... fancy."
     b "我悄悄透露你一个秘密吧。往后的伙食可不一定总有这么……体面。"
-    # 译注：fancy指精美体面的菜肴，与后续航行中的硬饼干形成对比。
 
 # game/script.rpy:3679
 translate Chinese firstdinner_Wolf_7eb4db13:
 
     # p "They told me that, too. Kind of like a... a last hurrah, on leaving port."
     p "大伙也跟我这么说过。说这就像是……出港前的最后一次告别欢聚。"
-    # 译注：last hurrah指离港告别宴、最后的犒赏狂欢。
 
 # game/script.rpy:3683
 translate Chinese firstdinner_Wolf_de367a5e:
 
     # b "Indeed! It helps keep everyone's spirits up. On your third week of salt pork, that can be a bit of a challenge..."
     b "可不是嘛！这能帮大伙提振士气。等到了连啃三周咸腌猪肉的时候，想打起精神可就没那么容易了……"
-    # 译注：salt pork按术语表统一为咸腌猪肉，帆船时代核心储备肉。
 
 # game/script.rpy:3685
 translate Chinese firstdinner_Wolf_79397695:
@@ -4971,7 +4798,7 @@ translate Chinese firstdinner_Wolf_264cfd39:
 
     # b "Hand-picked by yours truly just this morning. One of the advantages of being in port. Seeing new things, taking in the fleshpots, that's pleasant enough."
     b "今天一早本人亲自挑的。这可是靠港的好处之一。见见世面，逛逛风月欢场，倒也挺快活。"
-    # 译注：fleshpots指港口酒馆、勾栏青楼等销金享乐之地，老海员地道用语。
+    # 译注：fleshpots指港口酒馆、勾栏青楼等销金享乐之地，为老海员地道用语。
 
 # game/script.rpy:3697
 translate Chinese firstdinner_Wolf_d1d24657:
@@ -4991,14 +4818,13 @@ translate Chinese firstdinner_Wolf_5a7dd5fe:
 
     # "He pauses and rubs at his temple, struggling to remember the details. You can't help noticing that he keeps the fingers he's been using away from his fur. It's a subtle touch."
     "他停下动作揉了揉太阳穴，费劲地回想着细节。你注意到他特意避开刚才抓过食材的手指，没去碰自己的毛发。这细节颇显讲究。"
-    # 译注：修正原译网络用语'细节控啊'，符合18世纪背景与细致观察。
 
 # game/script.rpy:3709
 translate Chinese firstdinner_Wolf_63ec7dac:
 
     # b "Bright yellow house. Lovely old lady runs it. Her sons have a fishing boat... and she apparently has an appetite for hare ears, given how much she chewed mine off."
     b "一栋刷成明黄色的房子。是个和蔼的老太太开的。她几个儿子有条渔船……而且她大概顶喜欢兔耳朵，拉着我絮絮叨叨，简直快把我的耳朵都念出茧子来了。"
-    # 译注：双关纠正！chewed my ear off是英语俚语'唠叨个不停/磨破嘴皮'，Bandile自身是野兔，在此双关老妪爱嚼兔耳，原译直译为'啃光耳朵'为误译。
+    # 译注：chew someone's ear off是英语熟语，意为拉着某人喋喋不休、唠叨没完。
 
 # game/script.rpy:3711
 translate Chinese firstdinner_Wolf_41a5e7c8:
@@ -5029,7 +4855,6 @@ translate Chinese firstdinner_Wolf_e9a7076b:
 
     # "You don't get out the word \"treasure\" before the hare cuts you off excitedly."
     "你还没来得及说出“大好人”三个字，就被这只野兔兴奋地打断了话头。"
-    # 译注：treasure形容长辈和蔼慈祥，译为'大好人/活宝'更符合中文习惯。
 
 # game/script.rpy:3723
 translate Chinese firstdinner_Wolf_0b54c65c:
@@ -5066,7 +4891,6 @@ translate Chinese firstdinner_Wolf_c27a4c47:
 
     # p "We could never afford to buy it. She just always pushed a little something into my paws."
     p "我们那会儿根本买不起那玩意儿。她每次就是由着性子，总往我爪子里塞点零嘴。"
-    # 译注：paws体现猫族兽人设定，自然融入生活细节。
 
 # game/script.rpy:3737
 translate Chinese firstdinner_Wolf_137679f2:
@@ -5109,7 +4933,6 @@ translate Chinese firstdinner_Wolf_6ee01608:
 
     # p "I'm sure that's not—I mean—no, I'm sure—I'm sure you're cute enough."
     p "我相信绝不是因为那个——我是说——不，我敢说——你肯定也够惹人喜欢的啦。"
-    # 译注：【补齐原空缺行】James被调侃后窘迫慌乱地辩解，结结巴巴称赞野兔大厨可爱。
 
 # game/script.rpy:3757
 translate Chinese firstdinner_Wolf_0b9c5fdf:
@@ -5170,7 +4993,7 @@ translate Chinese firstdinner_Wolf_674f4be2:
 
     # b "Lemon and dill. Nothing fancy, but it's a favorite of the crew when we leave port. Something of a tradition."
     b "柠檬莳萝酱。谈不上名贵，但每次离港出航，船员们最爱吃的就是这口。算得上是咱们船上的老规矩了。"
-    # 译注：lemon and dill是欧洲海员经典的柠檬莳萝鱼酱；something of a tradition为航海出海传统。
+    # 译注：lemon and dill是欧洲海员经典的柠檬莳萝鱼酱配方。
 
 # game/script.rpy:3789
 translate Chinese firstdinner_Wolf_c6532417:
@@ -5213,7 +5036,6 @@ translate Chinese firstdinner_Wolf_c7e06728:
 
     # "He leans closer, giving you a conspiratorial wink as he hands the plate to you. You doubt Samuel is going to complain."
     "他凑近了些，递盘子给你时还促狭地冲你眨了眨眼。料想Samuel绝不会挑剔半句。"
-    # 译注：纠正原译误译！原译误将'You doubt Samuel is going to complain'译为'你怀疑Samuel会抱怨'（语义完全反了），实意为料想Samuel绝不可能抱怨挑剔。
 
 # game/script.rpy:3818
 translate Chinese firstdinner_Wolf_90636f94:
@@ -5250,7 +5072,6 @@ translate Chinese firstdinner_Wolf_84889963:
 
     # sail "Not being worked hard enough, you mean, if you've time for gossip."
     sail "我看是派给你的苦活还不够重！要是还有闲工夫在这儿扯闲篇，力气多得没处使是吧？"
-    # 译注：老水手对新丁的呵斥与不耐烦。
 
 # game/script.rpy:3843
 translate Chinese firstdinner_Wolf_a722fa12:
@@ -5305,7 +5126,6 @@ translate Chinese firstdinner_Wolf_69dd5c1a:
 
     # "As you head off, he turns his attention to the curt man behind you."
     "你迈步离开时，他已转头去应付你身后那个语气生硬的家伙了。"
-    # 译注：curt man指说话粗暴的水手。
 
 # game/script.rpy:3863
 translate Chinese firstdinner_Wolf_2a002b30:
@@ -5336,14 +5156,12 @@ translate Chinese firstdinner_Wolf_3538f5a5:
 
     # sail "Starting early is what we're going to be doing tomorrow. And every day after it. Some of us would like to eat and get some time in our racks before that happens."
     sail "赶早可是咱们明天一早的规矩，打明儿起天天都得这样！我们有些人就想赶紧扒拉两口饭，好抓紧时间回铺位躺会儿。"
-    # 译注：racks在帆船俚语中指水手的悬挂吊床/铺位。
 
 # game/script.rpy:3878
 translate Chinese firstdinner_Wolf_d5d9a4b2:
 
     # sail "Who are you, anyway?"
     sail "话说回来，你又是哪根葱？"
-    # 译注：老水手打量新人的粗俗质问。
 
 # game/script.rpy:3880
 translate Chinese firstdinner_Wolf_1883522c:
@@ -5356,21 +5174,18 @@ translate Chinese firstdinner_Wolf_07001fd6:
 
     # sail "Well, if you don't want to go back to shore-"
     sail "行吧，要是你不想卷铺盖被扔回岸上去——"
-    # 译注：老水手恐吓新人。
 
 # game/script.rpy:3884
 translate Chinese firstdinner_Wolf_edb23a71:
 
     # b "Oh, calm down. Save it for when we're breaking into the hardtack."
     b "行了行了，消停点。把这股火气留到咱们开啃硬饼干的时候再撒吧。"
-    # 译注：hardtack水手硬饼干，海上艰苦生活的标志物。
 
 # game/script.rpy:3886
 translate Chinese firstdinner_Wolf_c576c428:
 
     # "For the briefest of moments, the hare seems stern, even paternal. Then he turns back to you, smiling."
     "那一瞬间，野兔大厨的神情显得极具威严，甚至像个严厉的老长辈。紧接着他又转过身，朝你露出了笑容。"
-    # 译注：纠正原译人称错误（原译误写为'朝我笑了笑'），必须为'朝你'。
 
 # game/script.rpy:3888
 translate Chinese firstdinner_Wolf_bae5d703:
@@ -5407,7 +5222,6 @@ translate Chinese firstdinner_Wolf_edfeb4db:
 
     # "He's polishing his plate clean with a piece of bread, making sure not a single drop of sauce goes to waste."
     "他正拿面包把盘底抹得干干净净，一滴酱汁也没糟蹋。"
-    # 译注：海员吃光盘中餐的习惯；纠正原译'舔得干干净净'（原文是用面包擦盘子）。
 
 # game/script.rpy:3912
 translate Chinese firstdinner_Wolf_218faf9e:
@@ -5420,7 +5234,6 @@ translate Chinese firstdinner_Wolf_0f8597fd:
 
     # "Devour what you can now, it might have taught him, for we might meet again one day. Or maybe you're reading too much into it."
     "或许是饥饿曾教导过他：只要眼下有吃的就得尽数下肚，谁晓得咱们哪天又会狭路相逢。又或者，只是你自己想得太多了。"
-    # 译注：【纠正原译第一人称】'我自己想太多了'纠正为'你自己想得太多了'。
 
 # game/script.rpy:3916
 translate Chinese firstdinner_Wolf_b18e075c:
@@ -5457,7 +5270,6 @@ translate Chinese firstdinner_Wolf_57ba7c43:
 
     # "The canine nods, almost reluctantly. He might not be fully on board with your presence, but he seems to understand having a desire for peace."
     "这只犬族点了点头，神情显得颇为勉强。他虽未必多乐意你的凑近，但对于水手想图个清静的念头，倒也并非不能理解。"
-    # 译注：纠正原译第一人称错误'我的到来'为第二人称'你的凑近'。
 
 # game/script.rpy:3961
 translate Chinese firstdinner_Wolf_b9ae3bf6:
@@ -5476,14 +5288,12 @@ translate Chinese firstdinner_Wolf_b027873a:
 
     # w "I can't decide who's worse, you or that lizard.{w} But someone's starting to pull ahead."
     w "你跟那只蜥蜴到底哪个更讨人嫌，我还真说不上来。{w}不过嘛，眼下倒有某个人正迎头赶上呢。"
-    # 译注：pull ahead指在'谁更烦人'的较量中逐渐领先。纠正原译生硬翻译。
 
 # game/script.rpy:3972
 translate Chinese firstdinner_Wolf_077f4b7b:
 
     # "The lupine bites into the fresh bread. A fleeing drop of cream escapes through his teeth, making its way past his lips and down his chin, before being caught by his tongue."
     "这头灰狼咬了一大口新鲜面包。一滴漏网的乳白色酱汁从他齿缝间溢出，滑过嘴角淌往下巴，随即被他的舌尖敏捷地卷了回去。"
-    # 译注：lupine指狼族；细节生动刻画吃相。
 
 # game/script.rpy:3976
 translate Chinese firstdinner_Wolf_20bb2664:
@@ -5508,7 +5318,6 @@ translate Chinese firstdinner_Wolf_7bd4ed7d:
 
     # "That's the last straw for your stomach, whose loud protestations are luckily covered by the creaking of wood and the noise of the crew."
     "这对你的胃口来说简直是最后通牒，你的肚皮终于抗议般地擂起了大鼓；所幸这阵咕噜声被船板木料的吱嘎声和船员们的喧哗掩盖了过去。"
-    # 译注：纠正原译第一人称错误'我的胃终于撑不住了'，必须为第二人称；描写饥肠辘辘。
 
 # game/script.rpy:3996
 translate Chinese firstdinner_Wolf_d1aa270f:
@@ -5521,7 +5330,7 @@ translate Chinese firstdinner_Wolf_888471ce:
 
     # "Heavens! Or... Neptune? You don't know what deity sailors usually refer to while on their voyages, but what you do know is that this salmon is {i}divine{/i}."
     "天老爷啊！或者……该叫海神涅普顿？你不知道水手们出海航行通常都求告哪位神仙，但你确确实实知道，这鲑鱼的味道简直如同{i}神馔{/i}。"
-    # 译注：【纠正重大常识误译！】Neptune在航海背景下指罗马海神涅普顿（Neptune），原译竟然离谱地译成了天文行星'海王星'！保留{i}强调标签。
+    # 译注：Neptune在航海背景下指罗马海神涅普顿（Neptune）。
 
 # game/script.rpy:4000
 translate Chinese firstdinner_Wolf_f6e15d48:
@@ -5540,7 +5349,6 @@ translate Chinese firstdinner_Wolf_7c08fd2a:
 
     # "Whatever God or Goddess it is that sailors pray to, you thank them for this boon."
     "不论水手们出海时祭拜的究竟是哪位神灵，你在心底都由衷感激他们赐下的这份厚赏。"
-    # 译注：纠正原译第一人称错误'我都衷心地感谢您'为第二人称视角。
 
 # game/script.rpy:4006
 translate Chinese firstdinner_Wolf_24e0af0a:
@@ -5553,14 +5361,12 @@ translate Chinese firstdinner_Wolf_c11e1804:
 
     # "Your first bite is quickly followed by another, then another, and your meal is in full swing."
     "第一口刚下肚，紧接着便是第二口、第三口……这顿饭彻底渐入佳境。"
-    # 译注：in full swing形容大吃大喝进入高潮状态。
 
 # game/script.rpy:4011
 translate Chinese firstdinner_Wolf_4e38c79a:
 
     # "Wolf doesn't seem to mind your appreciation of Bandile's cooking skills. He's okay with you being there, as long as your mouth is occupied with food rather than chatter."
     "Wolf倒是不大介意你对Bandile厨艺的赞不绝口。只要你的嘴巴忙着嚼饭而不是叭叭扯闲话，他并不在乎你在旁边待着。"
-    # 译注：去除了原译网文风的'狼哥'称呼，还原老练水手Wolf的冷淡克制性格。
 
 # game/script.rpy:4013
 translate Chinese firstdinner_Wolf_0ff410d1:
@@ -5579,7 +5385,6 @@ translate Chinese firstdinner_Wolf_4c14e3b1:
 
     # "There's no awkwardness in the silence hanging between you. It's the calm after the storm so to speak, a welcome respite from all the hustle and emotions of the departure."
     "悬在你们之间的沉默并不令人感到尴尬。说起来，这倒像是暴风雨过后的平静，正好让疲惫的身心从起航时的喧嚣忙乱与跌宕情绪中喘上一口气。"
-    # 译注：calm after the storm比喻航行启航忙乱之后的短暂松弛。
 
 # game/script.rpy:4019
 translate Chinese firstdinner_Wolf_44882d85:
@@ -5598,14 +5403,12 @@ translate Chinese firstdinner_Wolf_3d742bee:
 
     # "There's a noticeably varied representation of people on board, socializing in the low orange light; perhaps unsurprisingly, considering the globetrotting nature of this ship."
     "在昏黄的橙色灯火下扎堆说笑的船员形形色色，种族迥异；不过考虑到这艘船常年四海通商、周游全球的营生，倒也并不让人感到意外。"
-    # 译注：globetrotting nature交代商船远洋环球航线的属性。
 
 # game/script.rpy:4025
 translate Chinese firstdinner_Wolf_839d6347:
 
     # "There's foxes, an otter, uncommon but not unusual. You spot a tiger and an Armadillo, a couple of birds, and canines and other felines that barely register in their mundanity."
     "人群里有狐狸、有水獭，虽不常见但也算不得稀奇。你还瞥见了一头猛虎和一只犰狳，几只飞禽，以及多得数不过来、寻常得让你甚至懒得细看的犬类与各色猫族。"
-    # 译注：描写兽人世界各物种丰富度。
 
 # game/script.rpy:4027
 translate Chinese firstdinner_Wolf_e0158538:
@@ -5642,7 +5445,6 @@ translate Chinese firstdinner_Wolf_eee3306d:
 
     # "You catch your tail swaying a little too excitedly and rein it back in before it starts sweeping the wooden floor."
     "你猛然发觉自己的尾巴正兴奋得轻轻甩个不停，赶忙把它收紧按住，免得它得意忘形地扫到了木甲板上。"
-    # 译注：猫族兽人生理特征细节描写。
 
 # game/script.rpy:4039
 translate Chinese firstdinner_Wolf_269a3ed2:
@@ -5697,7 +5499,6 @@ translate Chinese firstdinner_Wolf_461c94aa:
 
     # "You can't quite make out his face in the dark corner, but your ears tell you he's smiling. You believe them."
     "角落里光线晦暗，你不大能瞧清他的面容，但你的耳朵却敏锐地捕捉到了他嗓音里带出的笑意。你相信自己那对猫耳朵的直觉。"
-    # 译注：纠正原译抽象直觉，此处体现猫族主角凭借灵敏听觉听出了Wolf语声中的笑意。
 
 # game/script.rpy:4067
 translate Chinese firstdinner_Wolf_bfb337c5:
@@ -5746,7 +5547,6 @@ translate Chinese firstdinner_Wolf_6f1c8b1d:
 
     # w "Do you ever quit yapping?"
     w "你嘴里就没个消停的时候吗？"
-    # 译注：quit yapping口语指闭嘴、消停点。
 
 # game/script.rpy:4103
 translate Chinese firstdinner_Wolf_d8b70fbd:
@@ -5795,7 +5595,6 @@ translate Chinese firstdinner_Wolf_6df8a2cd:
 
     # w "A piece of advice."
     w "送你句忠告。"
-    # 译注：老海员指点新人。
 
 # game/script.rpy:4126
 translate Chinese firstdinner_Wolf_ea1f1c19:
@@ -5808,20 +5607,18 @@ translate Chinese firstdinner_Wolf_60812df1:
 
     # "You slice one of the asparagus in half and pick it up with your fingers, dangling over your muzzle."
     "你切开半根芦笋，用指尖捏起来，悬在自己嘴筒子上方晃悠。"
-    # 译注：muzzle口鼻部，兽人特征。
 
 # game/script.rpy:4135
 translate Chinese firstdinner_Wolf_0074c5f1:
 
     # "You drop it in, while waiting for Wolf to continue. It is also really, really good."
     "你把它扔进嘴里，一边嚼着一边等Wolf接着往下说。这芦笋的味道也同样绝顶鲜嫩。"
-    # 译注：边吃边听老水手传授经验。
 
 # game/script.rpy:4137
 translate Chinese firstdinner_Wolf_8534ca42:
 
     # ". . ."
-    ". . ."
+    "……"
 
 # game/script.rpy:4144
 translate Chinese firstdinner_Wolf_85e047a4:
@@ -5840,7 +5637,6 @@ translate Chinese firstdinner_Wolf_ac70e94f:
 
     # p "It feels a little... laconic."
     p "这话听着未免……太言简意赅了点。"
-    # 译注：laconic指惜字如金、言简意赅（源自斯巴达拉哥尼亚简短风格）。
 
 # game/script.rpy:4152
 translate Chinese firstdinner_Wolf_4b108cd4:
@@ -5913,7 +5709,6 @@ translate Chinese firstdinner_Wolf_d39245f8:
 
     # w "We're not all here for thrills and adventures, kid."
     w "咱们可不是人人出海都为了寻刺激、图冒险的，小鬼。"
-    # 译注：现实主义老水手对年轻浪漫主义的棒喝。
 
 # game/script.rpy:4193
 translate Chinese firstdinner_Wolf_d06b9945:
@@ -5932,14 +5727,12 @@ translate Chinese firstdinner_Wolf_dbcee82d:
 
     # p "It... just feels odd, that's all. There are far easier jobs around. You can't risk shipwrecking by working at a tavern..."
     p "我……只是觉得有点怪，仅此而已。世上多得是轻松省力的差使。在岸上酒馆里跑堂，总不至于冒触礁沉船的掉脑袋风险吧……"
-    # 译注：【纠正原译颠倒误译】原译误写为'你总不能为了在酒馆打工冒船毁人亡风险'，实际是反问'在酒馆打工可绝不会有触礁沉船的风险'。
 
 # game/script.rpy:4208
 translate Chinese firstdinner_Wolf_60141f31:
 
     # "The sound of a mug crashing against the wooden floor cuts your reply short."
     "“啪嚓”一声陶杯摔在木甲板上粉碎的脆响，猛地打断了你的话音。"
-    # 译注：下层食堂粗鲁水手的动静。
 
 # game/script.rpy:4210
 translate Chinese firstdinner_Wolf_bb508021:
@@ -5988,7 +5781,6 @@ translate Chinese firstdinner_Wolf_8d9761cb:
 
     # "There's a smirk across his lips. Whether it's a display of derision, sarcasm, or showing you a glimpse of his fangs as a threat, you can't tell."
     "他的嘴角掠过一丝似笑非笑的弧度。究竟是嘲弄、讥讽，还是故意露出半截犬齿向你示威恐吓，你一时辨别不清。"
-    # 译注：【纠正'狞笑'误译】smirk是戏谑嘲讽的冷笑或似笑非笑，原译'狞笑'过度戏剧化扭曲了人物性格。
 
 # game/script.rpy:4245
 translate Chinese firstdinner_Wolf_e026da49:
@@ -6007,28 +5799,24 @@ translate Chinese firstdinner_Wolf_8f874eb7:
 
     # w "Moonless nights on the ocean are dark. The deck is always slippery. I'm just saying..."
     w "大洋上没有月亮的黑夜伸手不见五指。甲板上又成天滑腻得要命。我无非是随便这么一说……"
-    # 译注：老水手对海上意外身亡的冷酷描述。
 
 # game/script.rpy:4255
 translate Chinese firstdinner_Wolf_c3890a61:
 
     # "The smirk disappears from his lips."
     "他嘴角那抹似笑非笑的弧度瞬间敛去，神色重归冷漠。"
-    # 译注：纠正'狞笑'为'似笑非笑的弧度'。
 
 # game/script.rpy:4257
 translate Chinese firstdinner_Wolf_9d45ab7d:
 
     # w "A ship's a dangerous place."
     w "一条船上可从来不是什么安乐窝，险恶得很。"
-    # 译注：老水手的警世恒言。
 
 # game/script.rpy:4259
 translate Chinese firstdinner_Wolf_5c04efa4:
 
     # "You swallow, even though you haven't taken another bite since he started talking."
     "你喉咙发紧地咽了咽唾沫，尽管自从他开口说话起，你就吓得连一口东西都没敢再吃。"
-    # 译注：【纠正原译'没再动过筷子'文化常识错误】1791年英国水手绝不使用筷子！修正为通用餐饮口吻。
 
 # game/script.rpy:4261
 translate Chinese firstdinner_Wolf_e875bd6f:
@@ -6041,7 +5829,6 @@ translate Chinese firstdinner_Wolf_0b46db05:
 
     # "The smirk returns on his face, widening into a grin."
     "那抹促狭的笑意重新浮现在他脸上，转而咧成了一副痛快的笑模样。"
-    # 译注：纠正'狞笑'，此处是捉弄新人得逞后的痛快得意。
 
 # game/script.rpy:4267
 translate Chinese firstdinner_Wolf_c86ca20f:
@@ -6102,7 +5889,6 @@ translate Chinese firstdinner_Wolf_2c61cde4:
 
     # "You wonder if Bandile would be able to teach you some of his cooking—the basics, at least."
     "你心里暗自思忖，不知道Bandile能不能乐意教你两手烹饪手艺——至少教教最基本的下厨功夫。"
-    # 译注：【补齐原空缺行】主角萌生跟野兔大厨学做菜的念头。
 
 # game/script.rpy:4301
 translate Chinese firstdinner_Wolf_a401b830:
@@ -6139,7 +5925,6 @@ translate Chinese firstdinner_Wolf_353359d3:
 
     # "You crane your neck back to look up at the maned wolf."
     "你向后仰起脖子，抬头打量着这只高大的鬃狼。"
-    # 译注：crane neck仰头观察。
 
 # game/script.rpy:4322
 translate Chinese firstdinner_Wolf_55f7aa8e:
@@ -6206,7 +5991,6 @@ translate Chinese firstdinner_Wolf_c5ef5da9:
 
     # "Samuel shows you a warm smile, his previous amusement just a hint in the back of his eyes."
     "Samuel冲你露出了温和的笑意，方才打趣戏谑的锋芒只在眼底化作了一抹微末的暖意。"
-    # 译注：展现水手长体贴老练的大哥一面。
 
 # game/script.rpy:4362
 translate Chinese firstdinner_Wolf_718a333e:
@@ -6219,7 +6003,6 @@ translate Chinese firstdinner_Wolf_ff9a1ebc:
 
     # s "Things can be tough when ya' just starting out. New job, whole new way of living, whole lotta terms and rules to learn from scratch. Can't blame people for wanting a break."
     s "凡事刚起头的那阵子，任谁都难熬。一份新差使，一种彻底变样的活法，还有一大堆黑话切口和规矩条例得从头学起。想找个消停地界透口气，半点不丢人。"
-    # 译注：水手长对水手生活真实的开导。
 
 # game/script.rpy:4366
 translate Chinese firstdinner_Wolf_8c8078b6:
@@ -6232,7 +6015,6 @@ translate Chinese firstdinner_Wolf_c45107b6:
 
     # s "And a whole new group o' people to deal with. Being stuck on a ship with a bunch o' strangers—hah!"
     s "更别提还得跟这么一大家子素不相识的人打交道了。成日成夜跟一帮陌生汉子困在这条木头船上——哈！"
-    # 译注：【补齐原空缺行】Samuel水手长口吻感慨船上封闭环境下的社交压力。
 
 # game/script.rpy:4372
 translate Chinese firstdinner_Wolf_28bb4220:
@@ -6299,21 +6081,19 @@ translate Chinese firstdinner_Wolf_9dcc1b14:
 
     # s "Anyway, I'm not here to steal any more of your free time. I came to let you know that we've got the morning watch tomorrow."
     s "行了，我也不多占你们清闲的工夫了。我专门过来，就是来知会你们一声：明早咱们俩值晨更。"
-    # 译注：morning watch航海术语晨更（早上4点至8点），避免简陋直译为'早上值班'。
+    # 译注：morning watch航海术语晨更（早上4点至8点）。
 
 # game/script.rpy:4398
 translate Chinese firstdinner_Wolf_37e1eace:
 
     # p "Morning watch?"
     p "晨更？"
-    # 译注：新水手初次听说值更术语。
 
 # game/script.rpy:4400
 translate Chinese firstdinner_Wolf_9288f1f4:
 
     # s "Yes. Pretty simple, as far as duties go. If you're already used to waking up before dawn, that is."
     s "没错。就差事本身而言挺轻省的。当然前提是你平时早就习惯了天不亮就爬起来。"
-    # 译注：Samuel解释晨更特点。
 
 # game/script.rpy:4402
 translate Chinese firstdinner_Wolf_e2778528:
@@ -6380,7 +6160,6 @@ translate Chinese firstdinner_Wolf_cdfd2f05:
 
     # "The coin bounces off the wooden floor with a series of tinkling sounds, starts rolling towards you, and comes to a final stop against one of your paw pads."
     "硬币伴着一连串清脆的叮当轻响在木板甲板上跳跃翻滚，一路朝着你的方向滚来，最终冷不丁抵在你的一只肉垫边停了下来。"
-    # 译注：paw pads猫爪肉垫，兽人特征融入生活细节。
 
 # game/script.rpy:4440
 translate Chinese firstdinner_Wolf_3998c92b:
@@ -6639,7 +6418,6 @@ translate Chinese firstdinner_Wolf_bf3e1d94:
 
     # w "See you for the morning watch."
     w "明早晨更值班时见。"
-    # 译注：morning watch晨更。
 
 # game/script.rpy:4569
 translate Chinese firstdinner_Wolf_8fad2d31:
@@ -6887,7 +6665,6 @@ translate Chinese firstdinner_Wolf_31e6bfad:
 
     # "Your ears perk up as you snap out of your daze. Someone's been calling for you for a while now."
     "你猛然从恍惚中惊醒，两只猫耳随之机警地支棱起来。原来不知何时起，早就有人在远处扯着嗓子呼唤你半天了。"
-    # 译注：耳朵支棱，猫族兽人听觉描写。
 
 # game/script.rpy:4709
 translate Chinese firstdinner_Wolf_3679e600:
@@ -6918,7 +6695,6 @@ translate Chinese firstdinner_Wolf_af25dc34:
 
     # "Two other people are sitting with them, a lynx and a peregrine falcon."
     "与他们同桌落座的还有另外两位船员，分别是一只猞猁和一只游隼。"
-    # 译注：介绍Konrad（猞猁）与Torres（游隼）。
 
 # game/script.rpy:4734
 translate Chinese firstdinner_Wolf_4bb30a11:
@@ -6979,14 +6755,12 @@ translate Chinese firstdinner_Wolf_f3878271:
 
     # "Samuel stretches his long legs under the table with a pleased smirk. It's time for introductions."
     "Samuel嘴角挂着满意的笑意，在桌底下大大咧咧地舒展起他那双显眼的大长腿。是时候引见新朋友了。"
-    # 译注：鬃狼修长大长腿特征与好客风采。
 
 # game/script.rpy:4781
 translate Chinese firstdinner_Wolf_60d71d9b:
 
     # s "That's Konrad next to me and Torres there—probably hiding behind Julian from your view. And, to ya most shocked surprise, they're also members of the crew."
     s "挨着我坐的是Konrad，那边那个是Torres——刚才八成正好被Julian挡住了你的视线。而且，准保叫你大吃一惊的是，他们二位也全都是咱们船上的弟兄。"
-    # 译注：【补齐原空缺行】Samuel向新水手介绍猞猁Konrad与游隼Torres。
 
 # game/script.rpy:4783
 translate Chinese firstdinner_Wolf_5fadbb15:
@@ -7053,14 +6827,12 @@ translate Chinese firstdinner_Wolf_48361b25:
 
     # t "Hah! And what do you know about wooing ladies, Samuel? Never seen one talking to you in all the years I've been on the Conway!"
     t "哈！就凭你也配在人家跟前传授讨姑娘欢心的门道，Samuel？我在Conway号上当差这么些年，可打没见过哪个正经姑娘乐意多搭理你半句！"
-    # 译注：船名严格采用'Conway号'，同僚间揭短打趣。
 
 # game/script.rpy:4826
 translate Chinese firstdinner_Wolf_6820a152:
 
     # s "That's because they all run away when they smell you coming, Torres! Stop dousing yourself in cologne and take a bath for once!"
     s "那是因为每次一打老远闻着你身上那股呛人的骚气，人家姑娘早吓得掉头跑光了，Torres！有空少拿古龙香水往自个儿羽毛上死浇，痛痛快快洗个正经澡比什么都强！"
-    # 译注：老水手粗鄙互呛恶搞。
 
 # game/script.rpy:4834
 translate Chinese firstdinner_Wolf_f2361edd:
@@ -7079,21 +6851,18 @@ translate Chinese firstdinner_Wolf_d8c27e63:
 
     # k "Hah! Ooh, he gutted ya, hah, like a fish, Torres!"
     k "哈！哎哟喂，他这一嗓子简直跟把一条鱼开膛破肚似的把你给剖了个透亮，Torres！"
-    # 译注：gut like a fish水手粗俗比喻。
 
 # game/script.rpy:4849
 translate Chinese firstdinner_Wolf_5ddad4b2:
 
     # "The lynx uses the opportunity to lean across the table and extend his paw. You meet it, and immediately feel his firm grip, almost to the point of discomfort."
     "这只猞猁借机隔着长桌探出身来，朝你伸出了一只毛茸茸的大爪。你伸手相迎，随即立刻感受到他掌心传来的一股结实得近乎令人指骨发疼的惊人握力。"
-    # 译注：描写猞猁Konrad粗壮结实的大手劲。
 
 # game/script.rpy:4851
 translate Chinese firstdinner_Wolf_94c0c66e:
 
     # "It's the grip of a sailor who's more familiar with ropes and wooden planks than people, and you are thankful once he decides to release your hand."
     "这等手劲唯有经年累月同缆绳滑轮与厚重木板死磕的老练工匠才磨练得出来；等他终于肯松开手时，你由不得暗暗松了一大口气。"
-    # 译注：船匠长年操作硬木索具磨出的老茧与握力。
 
 # game/script.rpy:4856
 translate Chinese firstdinner_Wolf_defecb35:
@@ -7113,7 +6882,6 @@ translate Chinese firstdinner_Wolf_05a5a8fe:
 
     # "He's roughly in his forties, but his manners seem to project a mindset far beyond his age. And in the eyes of the others at the table, a high level of respect."
     "他年纪约莫四十出头，但言谈气度间却透露出一股远迈其实际岁数的深沉老到。而在同桌其他弟兄的眼中，他显然享有极高的威望与敬重。"
-    # 译注：船匠作为高级技工在帆船上的崇高地位。
 
 # game/script.rpy:4864
 translate Chinese firstdinner_Wolf_ddb96072:
@@ -7126,14 +6894,12 @@ translate Chinese firstdinner_Wolf_8b837712:
 
     # k "'S my pleasure. Samuel told us about ya earlier."
     k "很荣幸结识。Samuel刚才在前头就已经跟我们提起过你了。"
-    # 译注：豪爽有礼的船匠。
 
 # game/script.rpy:4870
 translate Chinese firstdinner_Wolf_c61719d4:
 
     # "He speaks like a fisherman, you notice, but wisdom and experience sanded all roughness off his manners."
     "你留意到，他谈吐间带着几分老渔民的质朴，但漫长岁月积淀下的阅历与智慧，早已将他举手投足间的粗砺边角打磨得圆融温和。"
-    # 译注：细致品味老船匠Konrad的人格魅力。
 
 # game/script.rpy:4872
 translate Chinese firstdinner_Wolf_182fa754:
@@ -7152,7 +6918,6 @@ translate Chinese firstdinner_Wolf_e7263544:
 
     # "The lynx nods."
     "这只猞猁笃定地点了点头。"
-    # 译注：描写老船匠神情。
 
 # game/script.rpy:4882
 translate Chinese firstdinner_Wolf_9d7e0eb4:
@@ -7165,7 +6930,7 @@ translate Chinese firstdinner_Wolf_43b5e462:
 
     # k "Just pulling your tail, lad."
     k "扯你尾巴逗你玩呢，小伙子。"
-    # 译注：pull your tail兽人文化俚语，相当于'逗你玩呢/拿你开涮'。
+    # 译注：pull your tail为兽人文化俚语，相当于“逗你玩呢/拿你开涮”。
 
 # game/script.rpy:4890
 translate Chinese firstdinner_Wolf_6d37e9d4:
@@ -7184,7 +6949,6 @@ translate Chinese firstdinner_Wolf_db201dca:
 
     # k "And not a whisper about how yer big heart won't let a passenger go uncomforted, even in the middle of your first day."
     k "至于你小子那副菩萨似的热心肠，即便头一天上船累死累活，也硬是要好言安抚那位素昧平生的贵客乘客，他更是一句风凉话都没往外吐露过。"
-    # 译注：呼应帮助非洲野犬学者Nomax捡眼镜的情节，证明Samuel在背后对James充满赞赏。
 
 # game/script.rpy:4896
 translate Chinese firstdinner_Wolf_32c0a8c8:
@@ -7197,7 +6961,6 @@ translate Chinese firstdinner_Wolf_16a38e84:
 
     # "The tufts on the tips of his ears wobble as he laughs heartily. His voice is deep but not cavernous, though you can't recall ever thinking of a laugh as 'reverberating' before now."
     "他开怀放声大笑时，两只耳尖上的标志性黑色簇毛也跟着剧烈抖动起来。他的嗓音低沉雄浑却绝不显得空洞，但直到此时此刻，你才真真切切体会到何为所谓的“笑声如洪钟回荡”。"
-    # 译注：猞猁耳尖簇毛与如雷笑声。
 
 # game/script.rpy:4908
 translate Chinese firstdinner_Wolf_1d92ebaf:
@@ -7216,7 +6979,6 @@ translate Chinese firstdinner_Wolf_88dbfb38:
 
     # s "I must let ya know it's the morning watch for us tomorrow. Which means it's a good idea to cut this party a little shorter than you might be used to."
     s "我得提前把话搁在这儿：明儿一早是咱们这拨人值晨更。这意味着今晚这场拼酒胡闹，最好比你们平日里撒欢时早早就收场散席。"
-    # 译注：morning watch晨更。
 
 # game/script.rpy:4916
 translate Chinese firstdinner_Wolf_e824c529:
@@ -7235,7 +6997,6 @@ translate Chinese firstdinner_Wolf_db743b5b:
 
     # p "Message received. I'll finish up my plate quickly first, if you don't mind."
     p "令行禁止，完全明白。不介意的话，我先把盘里剩下的两口吃完。"
-    # 译注：【纠正原译'吃完我的盘子'语病】finish up my plate吃完盘中食物。
 
 # game/script.rpy:4926
 translate Chinese firstdinner_Wolf_8a4333bd:
@@ -7290,7 +7051,6 @@ translate Chinese firstdinner_Wolf_3dc44be7:
 
     # "While you can't shake the canine from your mind you at least try to take comfort in finally reaching what you were gunning for for so long.{p}To finally have a ship to call your home.{p}To be able to call yourself a sailor."
     "尽管那头灰狼的身影始终在脑海里挥之不去，但你至少还能在心底暗暗自慰，庆幸自己终于实现了苦苦追寻已久的宿愿。{p}终于有了一艘可以唤作“家”的大船。{p}终于能够堂堂正正自称是一名水手了。"
-    # 译注：【纠正严重恶意错译！】原译将'the canine'极其离谱恶劣地错译为'那只狗东西'，彻底扭曲了主角对Wolf复杂敬畏的心境！纠正为'那头灰狼的身影'；保留段落标签{p}。
 
 # game/script.rpy:4962
 translate Chinese firstdinner_Wolf_bb3d7b93:
@@ -7303,7 +7063,6 @@ translate Chinese firstdinner_Wolf_144c7cd8:
 
     # "What an exemplary first day on the job."
     "头一天上差便这般光景，可真是个绝妙的“典范”。"
-    # 译注：反讽自省。
 
 # game/script.rpy:4966
 translate Chinese firstdinner_Wolf_4a544ad6:
@@ -7328,14 +7087,12 @@ translate Chinese firstdinner_samuelandjulian_837f47c2:
 
     # "A rather generous slice of it, at that."
     "而且分量给得相当大方，好大一块。"
-    # 译注：generous slice体现刚起航时的丰盛配给，口语化表达分量足。
 
 # game/script.rpy:4999
 translate Chinese firstdinner_samuelandjulian_c72acc39:
 
     # "It looks absolutely mouthwatering. The cook, Bandile, has even made sure to garnish it for every crew member so that it really looks the part."
     "看着真让人直咽口水。大厨Bandile甚至还给每位船员的盘子里都点缀了配菜，摆盘有模有样。"
-    # 译注：looks the part指像样、体面，大厨虽然在船上但也讲究摆盘。
 
 # game/script.rpy:5001
 translate Chinese firstdinner_samuelandjulian_154e5982:
@@ -7348,7 +7105,6 @@ translate Chinese firstdinner_samuelandjulian_258d8ab3:
 
     # "The hare looks up from his work, as if surprised to be greeted that way."
     "这只野兔从忙活中抬起头，似乎挺惊讶有人会这么客气地向他打招呼。"
-    # 译注：野兔（hare）大厨习惯了糙水手催饭，对新人的礼貌感到意外。
 
 # game/script.rpy:5011
 translate Chinese firstdinner_samuelandjulian_833753a5:
@@ -7361,7 +7117,6 @@ translate Chinese firstdinner_samuelandjulian_b58ff0ab:
 
     # p "I just reported aboard today, that's right. My name's [name] [family_name]."
     p "我今天刚上船报到，没错。我叫[name]·[family_name]。"
-    # 译注：reported aboard海员术语，指登船报到。
 
 # game/script.rpy:5017
 translate Chinese firstdinner_samuelandjulian_0fc992e4:
@@ -7374,7 +7129,6 @@ translate Chinese firstdinner_samuelandjulian_1e20c719:
 
     # p "No! No! Far from it.{w} Samuel's been talking up your cooking, and I couldn't wait."
     p "不！没有的事！差得远呢。{w}Samuel一直在夸你的手艺，我都快等不及尝尝了。"
-    # 译注：保留{w}等待停顿标签。talking up指大加夸赞。
 
 # game/script.rpy:5021
 translate Chinese firstdinner_samuelandjulian_19c73bdb:
@@ -7387,7 +7141,6 @@ translate Chinese firstdinner_samuelandjulian_51dd7e48:
 
     # b "Oh? Has he now? Well, I think you've just ensured Samuel will have a little extra care put into his next meal."
     b "哦？他真这么说了？得，冲你这句话，下次给Samuel盛饭我可得给他开个小灶、多照顾照顾。"
-    # 译注：extra care口语化意译为'开个小灶/多照顾照顾'。
 
 # game/script.rpy:5027
 translate Chinese firstdinner_samuelandjulian_6389d9d0:
@@ -7424,14 +7177,12 @@ translate Chinese firstdinner_samuelandjulian_42c5649f:
 
     # b "He already had his supper earlier, but thank you."
     b "他刚才已经吃过晚饭了，不过还是谢谢你的好意。"
-    # 译注：supper船上晚饭口语表达。
 
 # game/script.rpy:5041
 translate Chinese firstdinner_samuelandjulian_8d4a77e0:
 
     # b "Oh...hm... On second though, maybe I can smuggle him something."
     b "哦……唔……话又说回来，也许我可以偷偷给他塞点好吃的。"
-    # 译注：smuggle幽默用法，指伙房私下夹带零嘴。
 
 # game/script.rpy:5045
 translate Chinese firstdinner_samuelandjulian_324db461:
@@ -7468,7 +7219,6 @@ translate Chinese firstdinner_samuelandjulian_96659fcb:
 
     # "He pauses, dropping his voice to a playful stage whisper."
     "他话头一顿，压低嗓门，神神秘秘地小声咬起耳朵。"
-    # 译注：stage whisper戏剧性低语，形容搞怪说悄悄话。
 
 # game/script.rpy:5067
 translate Chinese firstdinner_samuelandjulian_d5440d02:
@@ -7487,14 +7237,12 @@ translate Chinese firstdinner_samuelandjulian_de367a5e:
 
     # b "Indeed! It helps keep everyone's spirits up. On your third week of salt pork, that can be a bit of a challenge..."
     b "没错！起码能提振提振大伙的士气。等到了连啃三周咸腌猪肉的时候，想提振士气可就费劲喽……"
-    # 译注：salt pork腌咸肉，长途帆船标准耐储口粮。
 
 # game/script.rpy:5079
 translate Chinese firstdinner_samuelandjulian_79397695:
 
     # "He grins, though. Every bit of him radiates an exuberant cheeriness that you imagine must be infectious."
     "但他还是咧嘴笑了起来。他整个人都洋溢着一股饱满的活力与开朗，让人不由自主地被他感染。"
-    # 译注：exuberant cheeriness表现野兔厨师天生乐观开朗。
 
 # game/script.rpy:5081
 translate Chinese firstdinner_samuelandjulian_6c9b7891:
@@ -7519,14 +7267,12 @@ translate Chinese firstdinner_samuelandjulian_264cfd39:
 
     # b "Hand-picked by yours truly just this morning. One of the advantages of being in port. Seeing new things, taking in the fleshpots, that's pleasant enough."
     b "今儿一大早我亲自挑的。这也是靠港停泊的好处之一。见见世面，去港口红灯区的声色欢场找找乐子，确实挺惬意的。"
-    # 译注：fleshpots指港口的声色欢场/烟花酒柳之地。yours truly口语自称我本人。
 
 # game/script.rpy:5091
 translate Chinese firstdinner_samuelandjulian_d1d24657:
 
     # b "But a market! Fresh food and spices... and the trust of the purser to spend his coin, of course."
     b "不过集市才是大头！新鲜食材和香料……当然，还得承蒙事务长信得过，肯把钱交给我采办。"
-    # 译注：purser帆船事务长/军需官，掌管船上财务采办。
 
 # game/script.rpy:5097
 translate Chinese firstdinner_samuelandjulian_76a5da9d:
@@ -7539,14 +7285,13 @@ translate Chinese firstdinner_samuelandjulian_5a7dd5fe:
 
     # "He pauses and rubs at his temple, struggling to remember the details. You can't help noticing that he keeps the fingers he's been using away from his fur. It's a subtle touch."
     "他停下动作揉了揉太阳穴，使劲回想着细节。你忍不住注意到，他切菜用过的手指始终小心避开自己的皮毛。真是个讲究细致的人。"
-    # 译注：修正'细节控'为符合18世纪叙述的'真是个讲究细致的人'。
 
 # game/script.rpy:5103
 translate Chinese firstdinner_samuelandjulian_63ec7dac:
 
     # b "Bright yellow house. Lovely old lady runs it. Her sons have a fishing boat... and she apparently has an appetite for hare ears, given how much she chewed mine off."
     b "一栋刷得鲜黄的房子。打理店铺的是个慈祥的老太太。她几个儿子有条渔船……而且她显然很中意野兔耳朵，拉着我唠叨个没完，耳朵都快被她磨出茧子了。"
-    # 译注：纠正'啃光耳朵'的严重误译！chew someone's ear off是英语熟语，意为拉着某人喋喋不休、唠叨没完。
+    # 译注：chew someone's ear off是英语熟语，意为拉着某人喋喋不休、唠叨没完。
 
 # game/script.rpy:5105
 translate Chinese firstdinner_samuelandjulian_41a5e7c8:
@@ -7577,7 +7322,6 @@ translate Chinese firstdinner_samuelandjulian_e9a7076b:
 
     # "You don't get out the word \"treasure\" before the hare cuts you off excitedly."
     "还没等你说出“大好人”这个词，野兔便兴奋地打断了你。"
-    # 译注：treasure意译为大好人/热心肠的活宝贝。
 
 # game/script.rpy:5117
 translate Chinese firstdinner_samuelandjulian_0b54c65c:
@@ -7596,7 +7340,6 @@ translate Chinese firstdinner_samuelandjulian_3b30b3e5:
 
     # p "Yes. She's a treasure. It's her son and grandson, actually. I've known them for years."
     p "对。她真是个难得的大好人。其实是她儿子和孙子在打理，我认识他们好多年了。"
-    # 译注：treasure符合语境意译为难得的大好人。
 
 # game/script.rpy:5125
 translate Chinese firstdinner_samuelandjulian_d253e63a:
@@ -7615,7 +7358,6 @@ translate Chinese firstdinner_samuelandjulian_c27a4c47:
 
     # p "We could never afford to buy it. She just always pushed a little something into my paws."
     p "那会儿我们可买不起这金贵东西。她却总是硬往我爪心里塞上一点。"
-    # 译注：into my paws兽人世界观的'爪心/爪子里'。
 
 # game/script.rpy:5131
 translate Chinese firstdinner_samuelandjulian_137679f2:
@@ -7676,7 +7418,6 @@ translate Chinese firstdinner_samuelandjulian_3db426f8:
 
     # "None of this is what you expected to be doing on your first day!"
     "出海头一天会遇上这番光景，可完全出乎你的意料！"
-    # 译注：纠正'第一天上班'的现代职场用词。
 
 # game/script.rpy:5157
 translate Chinese firstdinner_samuelandjulian_22af124a:
@@ -7719,7 +7460,6 @@ translate Chinese firstdinner_samuelandjulian_674f4be2:
 
     # b "Lemon and dill. Nothing fancy, but it's a favorite of the crew when we leave port. Something of a tradition."
     b "柠檬莳萝酱。谈不上名贵，但每次离港出航，船员们最爱吃的就是这口。算得上是咱们船上的老规矩了。"
-    # 译注：lemon and dill欧洲海员经典的柠檬莳萝鱼酱；something of a tradition出海传统。
 
 # game/script.rpy:5183
 translate Chinese firstdinner_samuelandjulian_c6532417:
@@ -7762,7 +7502,6 @@ translate Chinese firstdinner_samuelandjulian_c7e06728:
 
     # "He leans closer, giving you a conspiratorial wink as he hands the plate to you. You doubt Samuel is going to complain."
     "他凑近了些，把盘子递给你时冲你狡黠地眨了眨眼。料想Samuel是绝不会挑剔半句的。"
-    # 译注：纠正'你怀疑Samuel会抱怨'的反向严重误译。doubt Samuel is going to complain表示相信他肯定不会抱怨。
 
 # game/script.rpy:5212
 translate Chinese firstdinner_samuelandjulian_90636f94:
@@ -7781,7 +7520,7 @@ translate Chinese firstdinner_samuelandjulian_3eced360:
 
     # sail "Did Gundred or whatever teach you anything about fish, Bandile, or just how to yammer on like a fishwife?"
     sail "那个叫Gundred的老太婆到底教过你半点烧鱼的本事没有啊，Bandile？还是光教你像个卖鱼婆一样扯着嗓门瞎唠叨？"
-    # 译注：fishwife卖鱼婆，常用于形容嗓门大、嘴碎唠叨的市井妇人。体现老水手的粗鲁急躁。
+    # 译注：fishwife卖鱼婆，常用于形容嗓门大、嘴碎唠叨的市井妇人。
 
 # game/script.rpy:5229
 translate Chinese firstdinner_samuelandjulian_0b4428d0:
@@ -7800,14 +7539,12 @@ translate Chinese firstdinner_samuelandjulian_84889963:
 
     # sail "Not being worked hard enough, you mean, if you've time for gossip."
     sail "我看是派给你的活计还不够重，你小子才有闲工夫在这儿嚼舌根吧。"
-    # 译注：老水手对新兵惯有的刁难刺耳语气。
 
 # game/script.rpy:5237
 translate Chinese firstdinner_samuelandjulian_a722fa12:
 
     # b "Your food will be just as carefully prepared and just as fresh."
     b "你的那份同样会精心烹制，也同样新鲜热乎。"
-    # 译注：Bandile温和沉稳地安抚挑事的老水手。
 
 # game/script.rpy:5239
 translate Chinese firstdinner_samuelandjulian_cf9269e8:
@@ -7892,21 +7629,18 @@ translate Chinese firstdinner_samuelandjulian_07001fd6:
 
     # sail "Well, if you don't want to go back to shore-"
     sail "哼，你小子要是还想平平安安回到岸上——"
-    # 译注：老水手恐吓新人半句被打断。
 
 # game/script.rpy:5274
 translate Chinese firstdinner_samuelandjulian_edb23a71:
 
     # b "Oh, calm down. Save it for when we're breaking into the hardtack."
     b "行了，少吵吵两句吧。把这股骂街的力气留到啃干硬饼干的时候再使。"
-    # 译注：hardtack航海脱水硬饼干，坚硬如铁，水手常戏称留着力气啃干粮。
 
 # game/script.rpy:5276
 translate Chinese firstdinner_samuelandjulian_c576c428:
 
     # "For the briefest of moments, the hare seems stern, even paternal. Then he turns back to you, smiling."
     "有那么一瞬间，野兔的神情显得格外威严，甚至透着长辈般的严厉。但紧接着他又转过头来，朝你露出温暖的微笑。"
-    # 译注：纠正视角错误（原文中的you译成了我）。
 
 # game/script.rpy:5278
 translate Chinese firstdinner_samuelandjulian_72c31d13:
@@ -7937,7 +7671,6 @@ translate Chinese firstdinner_samuelandjulian_9736d5bd:
 
     # "It seems to have won the hungry sailor over, too; he's not even grumbling by the time they fade out of earshot with the buzz of other conversations around you."
     "看来饥肠辘辘的水手也被大厨给抚平了性子；等到他们的声音被周围此起彼伏的嘈杂谈笑声淹没时，那人已经连一句嘟囔抱怨都听不见了。"
-    # 译注：细节描写老水手被抚慰。
 
 # game/script.rpy:5315
 translate Chinese firstdinner_samuelandjulian_ab58da5d:
@@ -7950,14 +7683,12 @@ translate Chinese firstdinner_samuelandjulian_c63d5e7f:
 
     # "They've been joined by two other sailors you don't recognize. A falcon and a lynx, by the looks of them."
     "他们身边又多了两位你素未谋面的水手。从模样上看，是一只游隼和一只猞猁。"
-    # 译注：falcon统一为游隼（Torres），lynx统一为猞猁（Konrad）。
 
 # game/script.rpy:5331
 translate Chinese firstdinner_samuelandjulian_37aa9c2a:
 
     # s "Two, eh? Someone learned to start flirting with Bandile early."
     s "哟呵，两盘？看来有人刚上船就摸透了门道，懂得怎么讨好Bandile了。"
-    # 译注：flirting在口语语境中指打趣讨好大厨开小灶。
 
 # game/script.rpy:5333
 translate Chinese firstdinner_samuelandjulian_4a6ad6bd:
@@ -7970,21 +7701,18 @@ translate Chinese firstdinner_samuelandjulian_b1cd50f9:
 
     # "The maned wolf regards you skeptically."
     "鬃狼一脸狐疑地上下打量着你。"
-    # 译注：Samuel是鬃狼（maned wolf）。
 
 # game/script.rpy:5341
 translate Chinese firstdinner_samuelandjulian_c6c0fa35:
 
     # "Chatting with Bandile has put you in a teasing mood. You let your serious expression drop only dragging Samuel along for a few seconds."
     "刚才和Bandile的畅聊让你心情大好，也跟着有了开玩笑的兴致。你故意板着一本正经的严肃面孔，逗了Samuel好几秒才破功。"
-    # 译注：纠正病句，使逗闷子的戏谑神态更加流畅自然。
 
 # game/script.rpy:5343
 translate Chinese firstdinner_samuelandjulian_3e0bb4e4:
 
     # p "It's for you, actually. Your gushing review of his fine establishment earned you a bit extra. Here."
     p "其实是专门给你的。你在外头对他大加赞赏的好评，替你换来了这份额外的加餐。拿着吧。"
-    # 译注：纠正'对寒舍的好评'这一严重荒谬翻译！fine establishment是幽默反语，指Bandile的伙房/厨艺。
 
 # game/script.rpy:5348
 translate Chinese firstdinner_samuelandjulian_c945bf69:
@@ -8015,7 +7743,6 @@ translate Chinese firstdinner_samuelandjulian_1ef49d88:
 
     # p "Could you scoot over a bit?"
     p "能稍微往旁边挪一挪吗？"
-    # 译注：纠正现代口语'哥们儿，挪挪呗？'，保持礼貌水手口吻。
 
 # game/script.rpy:5384
 translate Chinese firstdinner_samuelandjulian_de3502c5:
@@ -8028,7 +7755,6 @@ translate Chinese firstdinner_samuelandjulian_bcbad7d3:
 
     # "The wooden box he's sitting on is hardly the most comfortable seat, and the wood is rather coarse, but there aren't exactly many alternatives."
     "他坐着的那只木箱可绝谈不上舒适，木料也粗糙得很，不过在这舱底下倒也实在找不出更好的替代品了。"
-    # 译注：帆船底层货舱简陋生活环境。
 
 # game/script.rpy:5401
 translate Chinese firstdinner_samuelandjulian_1eebe937:
@@ -8047,7 +7773,6 @@ translate Chinese firstdinner_samuelandjulian_51a1a558:
 
     # "Just as you start, the maned wolf clears his throat, drawing your attention back to him."
     "正当你抓起叉子准备开动时，那只鬃狼清了清嗓子，把你的注意力再次拉了过去。"
-    # 译注：纠正'动筷子'的荒诞文化错误，改为'抓起叉子准备开动'。
 
 # game/script.rpy:5421
 translate Chinese firstdinner_samuelandjulian_5f0d71bb:
@@ -8096,7 +7821,6 @@ translate Chinese firstdinner_samuelandjulian_50a28f36:
 
     # "He's not the only one with teeth. You give him a scowl you figure Wolf would be proud of."
     "长着利齿的又不止他一个。你恶狠狠地瞪了他一眼，心想这眼神要是让Wolf瞧见，保准也会夸你有出息。"
-    # 译注：纠正'谁还没几颗牙啊？'。James展示水手骨气，提到了大副Wolf。
 
 # game/script.rpy:5439
 translate Chinese firstdinner_samuelandjulian_4001c0de:
@@ -8109,7 +7833,6 @@ translate Chinese firstdinner_samuelandjulian_a8248eb5:
 
     # p "Come any closer and this is ending in a brawl."
     p "你要是敢再靠过来一步，咱们可就得当场干上一架了。"
-    # 译注：纠正'老子跟你干起来'现代粗俗语，改为符合半大年轻水手逞强的硬气口吻。
 
 # game/script.rpy:5445
 translate Chinese firstdinner_samuelandjulian_6e6945ae:
@@ -8122,7 +7845,6 @@ translate Chinese firstdinner_samuelandjulian_a9d6e8aa:
 
     # "You narrow your eyes at him, and try to look the part of a grizzled old salt."
     "你冲他眯起双眼，竭力摆出一副饱经风霜的粗犷老水手派头。"
-    # 译注：old salt指老水手/老海狼。
 
 # game/script.rpy:5449
 translate Chinese firstdinner_samuelandjulian_2c8b1246:
@@ -8159,7 +7881,6 @@ translate Chinese firstdinner_samuelandjulian_5e18438e:
 
     # "There's enough room to fit—barely. The rest of the group is sitting at a rather makeshift \"table,\" just a plank propped on top of another, smaller barrel."
     "地方勉强够坐——仅仅是勉强挤得下。同行的其他几个人正围坐在一张相当简陋的“餐桌”旁，那不过是架在另一个稍小的木桶上的一块木板。"
-    # 译注：【补齐空缺翻译】描述货舱水手食堂简陋的就餐环境，makeshift table用木板搭在小木桶上。
 
 # game/script.rpy:5487
 translate Chinese firstdinner_samuelandjulian_f67c7b20:
@@ -8268,7 +7989,6 @@ translate Chinese firstdinner_samuelandjulian_5077e118:
 
     # lynx "That's the other new boy, Sam?"
     lynx "这就是另一个新来的小毛头吗，Sam？"
-    # 译注：Konrad（lynx猞猁）开口询问。new boy水手口语小毛头/新崽子。
 
 # game/script.rpy:5544
 translate Chinese firstdinner_samuelandjulian_c7849ff6:
@@ -8329,7 +8049,6 @@ translate Chinese firstdinner_samuelandjulian_f131ad8c:
 
     # t "That's what happens when you get smacked across the noggin a few times, huh?"
     t "脑袋瓜上挨了几记狠的，可不就落下这毛病了嘛，嗯？"
-    # 译注：Torres（游隼）插嘴挖苦Samuel被揍伤了脑子。noggin俚语脑袋瓜。
 
 # game/script.rpy:5576
 translate Chinese firstdinner_samuelandjulian_67f92ca6:
@@ -8354,7 +8073,6 @@ translate Chinese firstdinner_samuelandjulian_f92c7472:
 
     # "Julian leans back to open the view on him. The falcon is leaning against one of the ship's timbers, he looks quite relaxed, despite the vessel's constant shifting and rolling."
     "Julian往后仰了仰身子，好让你把视线落在他的身上。只见那只游隼斜倚在船舱的立柱上，尽管整艘船都在持续起伏晃荡，他看上去却格外悠然自得。"
-    # 译注：游隼Torres从容不迫的姿态。timbers船身木柱。
 
 # game/script.rpy:5619
 translate Chinese firstdinner_samuelandjulian_b2a3858a:
@@ -8397,7 +8115,6 @@ translate Chinese firstdinner_samuelandjulian_ee306d0c:
 
     # "He smirks, the flickering candlelight giving his eyes a particularly keen glint."
     "他似笑非笑地勾起嘴角，昏暗摇曳的烛光让他的双眼泛起一抹格外锐利的精光。"
-    # 译注：smirks译为似笑非笑勾起嘴角，展现老成船匠的风度。
 
 # game/script.rpy:5656
 translate Chinese firstdinner_samuelandjulian_3782b1f8:
@@ -8428,7 +8145,6 @@ translate Chinese firstdinner_samuelandjulian_938a405f:
 
     # "Your hands meet with an audible clap, and he makes no effort to hide his strength when he grips you."
     "你们两手相握，发出啪的一声清脆拍击，他握住你的时候丝毫没有掩饰自己掌心的骇人力道。"
-    # 译注：水手长硬核握手描写。
 
 # game/script.rpy:5679
 translate Chinese firstdinner_samuelandjulian_333eb679:
@@ -8441,14 +8157,12 @@ translate Chinese firstdinner_samuelandjulian_75c1699e:
 
     # "His grip is just a little too firm. You're grateful when he releases you a second or two later, and even more grateful that you managed to avoid wincing."
     "他的手劲实在大得有些吓人。一两秒后他终于松开了手，让你不由暗暗松了口气；更让你庆幸的是，自己在刚才那把铁钳般的握手下居然硬是忍住了没叫出声或龇牙咧嘴。"
-    # 译注：形容握力之大，体现老船匠的筋骨手劲。
 
 # game/script.rpy:5701
 translate Chinese firstdinner_samuelandjulian_0818550f:
 
     # "The falcon next to Julian leans forward for a moment, so that you can see him more clearly, and welcomes you as well with a nod of his head."
     "坐在Julian身边的游隼微微倾身向前，好让你能更真切地看清他的面容，随即轻轻朝你点头致意，权当是欢迎。"
-    # 译注：游隼Torres优雅矜持的招呼风格。
 
 # game/script.rpy:5711
 translate Chinese firstdinner_samuelandjulian_c577049f:
@@ -8521,7 +8235,6 @@ translate Chinese firstdinner_samuelandjulian_772d78d8:
 
     # s "Hey, that's a good question."
     s "嘿，这问题问得可真妙啊。"
-    # 译注：反讽调侃。
 
 # game/script.rpy:5757
 translate Chinese firstdinner_samuelandjulian_9854541a:
@@ -8534,7 +8247,6 @@ translate Chinese firstdinner_samuelandjulian_c35b6d35:
 
     # p "I was just going to use my hands. I mean, I've got sharp enough claws, right?"
     p "我就打算直接用手抓着吃。再说了，我这双爪子生得够锋利，不是吗？"
-    # 译注：兽人水手特色，亮爪子当刀叉。
 
 # game/script.rpy:5761
 translate Chinese firstdinner_samuelandjulian_63b48b42:
@@ -8650,7 +8362,6 @@ translate Chinese firstdinner_samuelandjulian_4e70e40c:
 
     # "A little awkwardly, you push the plate away so that it's clear you would never do such a gauche thing as eat salmon with your fingers."
     "你带着几分尴尬，故作优雅地把盘子往前稍微推了推，仿佛要向全桌人表明自己绝不可能做出直接拿手抓鲑鱼吃这种上不得台面的粗俗事。"
-    # 译注：gauche指笨拙粗鄙、上不得台面。心理神态描写传神生动。
 
 # game/script.rpy:5860
 translate Chinese firstdinner_samuelandjulian_76bb2fea:
@@ -8669,7 +8380,6 @@ translate Chinese firstdinner_samuelandjulian_9b76cad3:
 
     # p "It's not like they gave us an orientation. I didn't think to ask."
     p "又没人给我们做过什么规矩交代。我哪能想到还要特意问这个啊。"
-    # 译注：orientation纠正'入职培训'为航海背景下的规矩交代/新兵指引。
 
 # game/script.rpy:5878
 translate Chinese firstdinner_samuelandjulian_836dec59:
@@ -8935,7 +8645,6 @@ translate Chinese firstdinner_samuelandjulian_7c597658:
 
     # k "Aye. Don't be stupid—{w}stealing coins, that's even easier to get caught at."
     k "可不是。别犯傻了——{w}偷银钱硬币，那更容易当场被逮个正着。"
-    # 译注：【补齐空缺翻译】保留{w}标签。老练船匠Konrad粗声粗气的经验之谈。
 
 # game/script.rpy:6035
 translate Chinese firstdinner_samuelandjulian_cdf135fe:
@@ -9026,7 +8735,6 @@ translate Chinese firstdinner_samuelandjulian_3e62aab9:
 
     # "The falcon seems patently unconvinced."
     "游隼脸上写满了不以为然的怀疑神色。"
-    # 译注：falcon统一为游隼。
 
 # game/script.rpy:6096
 translate Chinese firstdinner_samuelandjulian_86883116:
@@ -9100,7 +8808,6 @@ translate Chinese firstdinner_samuelandjulian_abf383a7:
 
     # "Something in the lynx's blunt tone has you chuckling before you can help yourself."
     "猞猁这番直截了当的粗犷语调，让你忍不住当场噗嗤笑了出来。"
-    # 译注：纠正视角错误（原文中的me纠正为主角第三人称）。
 
 # game/script.rpy:6130
 translate Chinese firstdinner_samuelandjulian_83c05e9f:
@@ -9161,7 +8868,6 @@ translate Chinese firstdinner_samuelandjulian_f64d0aff:
 
     # "You decide your best course of action is to demonstrate."
     "你觉得眼下最有说服力的办法，莫过于当场给他示范一下了。"
-    # 译注：纠正原译视角错误（原译将叙述写成了‘我看...’）。
 
 # game/script.rpy:6167
 translate Chinese firstdinner_samuelandjulian_533a767f:
@@ -9192,7 +8898,6 @@ translate Chinese firstdinner_samuelandjulian_9833f338:
 
     # k "You see, Mr. [family_name]—this is the kind of dexterity that only a master thief can boast of."
     k "瞧见了吧，[family_name]先生——这手绝活，可只有神偷大师才敢拿出来显摆啊。"
-    # 译注：【补齐空缺翻译】Konrad反讽调侃Julian笨手笨脚弄出大动静，保留[family_name]占位符。
 
 # game/script.rpy:6185
 translate Chinese firstdinner_samuelandjulian_d9fcaab1:
@@ -9295,7 +9000,6 @@ translate Chinese firstdinner_samuelandjulian_a49ae413:
 
     # s "I absolutely love asparagus. Especially the way Bandile does 'em. Call me weak for pining for vegetables, if you must."
     s "我可是打心眼里深爱芦笋。特别是Bandile做这道菜的手法。要是你们非要笑话我嘴馋青菜没出息，那你们就尽管笑话去吧。"
-    # 译注：鬃狼喜食蔬果的种族食性呼应。
 
 # game/script.rpy:6252
 translate Chinese firstdinner_samuelandjulian_dcaedfb4:
@@ -9512,7 +9216,6 @@ translate Chinese firstdinner_samuelandjulian_08a174cb:
 
     # k "Guess who's going straight overboard now if this beard goes missing..."
     k "不妨猜猜看，要是老子这把美髯胡须哪天冷不丁缺了半截，谁会被第一个捆起来直接扔进海里喂鱼……"
-    # 译注：Konrad指着自己的宝贝胡须发狠威胁，极富老船匠威严。
 
 # game/script.rpy:6405
 translate Chinese firstdinner_samuelandjulian_651394e7:
@@ -9603,7 +9306,6 @@ translate Chinese firstdinner_samuelandjulian_25e8dff6:
 
     # k "Right, we were talking about you getting your \"smackable\" little arse kicked for thievery."
     k "没错，咱们刚才聊的，原本是你小子这副“欠抽”的小屁股因为手脚不干净被揍得开花的事儿。"
-    # 译注：Konrad精准引用smackable嘲讽Julian。
 
 # game/script.rpy:6456
 translate Chinese firstdinner_samuelandjulian_52209c5b:
@@ -9640,7 +9342,6 @@ translate Chinese firstdinner_samuelandjulian_187bb2df:
 
     # s "Morning watch tomorrow. And you two..."
     s "明儿一早轮到我值早更。还有你们俩小子……"
-    # 译注：Morning watch术语统一为早更/晨更（凌晨4点至早上8点）。
 
 # game/script.rpy:6486
 translate Chinese firstdinner_samuelandjulian_d87384b5:
@@ -9772,7 +9473,7 @@ translate Chinese day1story_8c7674e9:
 translate Chinese day1story_85f60077:
 
     # j "Well. Anyway, you know, we didn't know the good stuff they had. I probably knew that officers ate better than everyone else, but..."
-    j "哎，总之，你知道的，那时候我们哪知道他们藏了这么多好东西。我大概就知道当官的比我们吃得好，不过..."
+    j "哎，总之，你知道的，那时候我们哪知道他们藏了这么多好东西。我大概就知道当官的比我们吃得好，不过……"
 
 # game/script.rpy:6640
 translate Chinese day1story_d1fdb215:
@@ -9802,7 +9503,7 @@ translate Chinese day1story_db50c72e:
 translate Chinese day1story_09ff47c4:
 
     # j "Exactly. And we just fooled around, you know? Played siege with the meat and all?{w} Let me tell you, when you get slapped right in the face by a slobbery piece of pork..."
-    j "就是说嘛。我们当时就是瞎玩，你懂吧？拿肉块当炮弹，玩攻城游戏！{w} 我跟你说，被一块黏糊糊的肥猪肉砸在脸上，那感觉..."
+    j "就是说嘛。我们当时就是瞎玩，你懂吧？拿肉块当炮弹，玩攻城游戏！{w} 我跟你说，被一块黏糊糊的肥猪肉砸在脸上，那感觉……"
 
 # game/script.rpy:6654
 translate Chinese day1story_ca34df8d:
@@ -9814,7 +9515,7 @@ translate Chinese day1story_ca34df8d:
 translate Chinese day1story_30ec37ec:
 
     # t "Boy, you do have a way with words, don't you? Slobbery piece of pork..."
-    t "哎呦，你还挺会说话的嘛？黏糊糊的肥猪肉..."
+    t "哎呦，你还挺会说话的嘛？黏糊糊的肥猪肉……"
 
 # game/script.rpy:6662
 translate Chinese day1story_12e42e81:
@@ -10097,7 +9798,7 @@ translate Chinese day1story_01eaa11b:
 
     # j "What money? I gave you my wit and witticism—dinner and a show! Not a single ha'penny did I ask of you, though it would've been my right! Not one!"
     j "什么钱？我给你们献上了我的满腹机智与连珠妙语——有吃有喝还附带精彩好戏！我可连半个便士都没找你们收过，尽管那是我的合法报酬！一个子儿都没要！"
-    # 译注：【补齐空缺翻译】ha'penny半便士。Julian抗议Torres所谓的‘退钱’玩笑，夸张滑稽。
+    # 译注：ha'penny指半便士（英国传统硬币面额）。
 
 # game/script.rpy:6831
 translate Chinese day1story_fa0a45d3:
@@ -10169,7 +9870,7 @@ translate Chinese day1story_205e72bd:
 translate Chinese day1story_c7002603:
 
     # j "Am I? I didn't even realize! It's all this time I have to spend among these tatterdemalions..."
-    j "是吗？我都忘了！都怪我得和这些阿猫阿狗混在一起..."
+    j "是吗？我都忘了！都怪我得和这些阿猫阿狗混在一起……"
 
 # game/script.rpy:6882
 translate Chinese day1story_89968fdf:
@@ -10181,7 +9882,7 @@ translate Chinese day1story_89968fdf:
 translate Chinese day1story_fde579fa:
 
     # j "Yes, yes. And you're both beautiful, if a challenging audience..."
-    j "是是是。而且你们都很漂亮，就是观众有点难伺候..."
+    j "是是是。而且你们都很漂亮，就是观众有点难伺候……"
 
 # game/script.rpy:6886
 translate Chinese day1story_12859850:
@@ -10247,7 +9948,7 @@ translate Chinese day1story_eb598a8b:
 translate Chinese day1story_abb60285:
 
     # j "Ah, it would be my pleasure! Everyone's on a ship for the first time once, right? It's nice to feel like I'm not just a pretty face..."
-    j "哎呀，我很乐意效劳！谁不是第一次上船啊，是吧？总感觉自己不只是个好看的摆设..."
+    j "哎呀，我很乐意效劳！谁不是第一次上船啊，是吧？总感觉自己不只是个好看的摆设……"
 
 # game/script.rpy:6947
 translate Chinese day1story_c28a4a65:
@@ -10403,7 +10104,7 @@ translate Chinese day1story_b15906bd:
 translate Chinese day1story_de0ef7a0:
 
     # j "Ah, no worries. Everyone has to be new once. Even if I only have seniority by a few hours..."
-    j "啊，没事儿。谁都有第一次嘛。就算我只比你们早来几个小时..."
+    j "啊，没事儿。谁都有第一次嘛。就算我只比你们早来几个小时……"
 
 # game/script.rpy:7100
 translate Chinese day1story_80f0dda1:
@@ -10535,7 +10236,7 @@ translate Chinese day1story_eb598a8b_2:
 translate Chinese day1story_abb60285_1:
 
     # j "Ah, it would be my pleasure! Everyone's on a ship for the first time once, right? It's nice to feel like I'm not just a pretty face..."
-    j "哎呀，我很乐意效劳！谁不是第一次上船啊，是吧？总感觉自己不只是个好看的摆设..."
+    j "哎呀，我很乐意效劳！谁不是第一次上船啊，是吧？总感觉自己不只是个好看的摆设……"
 
 # game/script.rpy:7191
 translate Chinese day1story_2a48f6fc:
@@ -10746,7 +10447,6 @@ translate Chinese day1story_c84d069d:
 
     # "He snickers—quietly, mindful of the other sleeping sailors around."
     "他噗嗤低笑了一声——嗓音压得很低，显然是顾及到周围正在酣睡的其他水手。"
-    # 译注：【补齐空缺翻译】夜深人静在吊床舱说话压低声音的细节。
 
 # game/script.rpy:7334
 translate Chinese day1story_f00d8238:
@@ -10914,7 +10614,7 @@ translate Chinese day1story_4cecdee6:
 translate Chinese day1story_641ae468:
 
     # j "No problem, [name]. Good night for real, now, alright? See you tomorrow..."
-    j "没问题，[name]。现在真的晚安了，好吗？明天见..."
+    j "没问题，[name]。现在真的晚安了，好吗？明天见……"
 
 # game/script.rpy:7424
 translate Chinese day1story_3a8252fe:
@@ -10939,7 +10639,6 @@ translate Chinese day1story_a279d5a7:
 
     # "You're not sure what that means—the Conway has been at sea for less than a full day, after all."
     "你吃不准这话到底是什么意思——毕竟，Conway号出海航行统共也还不到一整天呢。"
-    # 译注：【补齐空缺翻译】船名Conway统一按要求译为Conway号。
 
 # game/script.rpy:7440
 translate Chinese day1story_4ad4433b:
@@ -11059,7 +10758,7 @@ translate Chinese headtobed_1f3a4c6d:
 translate Chinese headtobed_10f8a26d:
 
     # p "Now that you mention it, Samuel..."
-    p "说起来，Samuel..."
+    p "说起来，Samuel……"
 
 # game/script.rpy:7500
 translate Chinese headtobed_add9182d:
@@ -11126,7 +10825,6 @@ translate Chinese headtobed_89380ac5:
 
     # s "This isn't the Royal Navy, Julian. They don't award medals for gallantry like that on the Conway."
     s "这又不是皇家海军，Julian。在Conway号上，他们可不会随随便便因为你逞匹夫之勇就给你颁奖章。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:7532
 translate Chinese headtobed_874311b0:
@@ -11205,7 +10903,6 @@ translate Chinese headtobed_c81134cd:
 
     # s "Probably should get that sorted, though."
     s "不过，那事儿可能还是得先搞定。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:7580
 translate Chinese headtobed_1c45b90f:
@@ -11218,7 +10915,6 @@ translate Chinese headtobed_e6051daa:
 
     # s "Good luck with it."
     s "祝你好运。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:7586
 translate Chinese headtobed_0c7a5255:
@@ -11296,7 +10992,7 @@ translate Chinese headtobed_c19cbac1:
 translate Chinese headtobed_112619f8:
 
     # j "That's what I thought, too. 36 and 37. Right here. Anyway..."
-    j "我也觉得是。36号和37号，就是这儿了。对了..."
+    j "我也觉得是。36号和37号，就是这儿了。对了……"
 
 # game/script.rpy:7639
 translate Chinese headtobed_95a26dc6:
@@ -11308,7 +11004,7 @@ translate Chinese headtobed_95a26dc6:
 translate Chinese headtobed_3ef21a08:
 
     # j "We haven't done all that much, yet. Are you..."
-    j "咱们也没做多少事啊。你是不是..."
+    j "咱们也没做多少事啊。你是不是……"
 
 # game/script.rpy:7643
 translate Chinese headtobed_93f1cdd7:
@@ -11398,7 +11094,7 @@ translate Chinese headtobed_28c8408e:
 translate Chinese headtobed_1322c593:
 
     # "Still, you get yourself into the hammock without making too much of a fool of yourself..."
-    "就算这样，你还是设法爬进了吊床，也没怎么出丑......"
+    "就算这样，你还是设法爬进了吊床，也没怎么出丑...……"
 
 # game/script.rpy:7685
 translate Chinese headtobed_91986aaa:
@@ -11423,7 +11119,6 @@ translate Chinese headtobed_8177ff5a:
 
     # "You listen to the sounds around you—the quiet breathing of the other sleeping crew, and the creak of the ship's timbers."
     "你静静聆听着周围的声响——身旁熟睡的同伴们轻微平缓的呼吸声，以及整艘船身木料大梁在波涛起伏中的沉闷吱呀声。"
-    # 译注：【补齐空缺翻译】帆船深夜卧铺吊床舱的宁静氛围与船身木结构声响。
 
 # game/script.rpy:7693
 translate Chinese headtobed_b4934a3b:
@@ -11465,7 +11160,7 @@ translate Chinese headtobed_f7e71e07:
 translate Chinese headtobed_732de205:
 
     # p "Yeah. If we're on the morning watch..."
-    p "是啊，如果咱们是早班的话..."
+    p "是啊，如果咱们是早班的话……"
 
 # game/script.rpy:7720
 translate Chinese headtobed_150d8189:
@@ -11501,7 +11196,7 @@ translate Chinese headtobed_d3d28394:
 translate Chinese headtobed_c7731b77:
 
     # p "But I shouldn't say-"
-    p "我不该说这些的..."
+    p "我不该说这些的……"
 
 # game/script.rpy:7744
 translate Chinese headtobed_ef337ba6:
@@ -11513,7 +11208,7 @@ translate Chinese headtobed_ef337ba6:
 translate Chinese headtobed_32002a50:
 
     # t "First day, especially. Still thinking like you're back on land, not run by the bells..."
-    t "特别是第一天，脑子里还想着陆地上的那一套，还没适应这按钟声作息的规矩..."
+    t "特别是第一天，脑子里还想着陆地上的那一套，还没适应这按钟声作息的规矩……"
 
 # game/script.rpy:7748
 translate Chinese headtobed_2ee21f5a:
@@ -11526,7 +11221,6 @@ translate Chinese headtobed_4f9dc97c:
 
     # "The lizard is still pouting, though. Samuel, for his part, has already left—purely professional."
     "不过小蜥蜴还在气鼓鼓地撇着嘴赌气。至于Samuel嘛，早就已经打道回舱了——办事极有分寸、一丝不苟。"
-    # 译注：【补齐空缺翻译】Julian撒娇赌气，Samuel老练守时按时就寝准备早更。
 
 # game/script.rpy:7765
 translate Chinese headtobed_248a4666:
@@ -11580,13 +11274,14 @@ translate Chinese headtobed_80593538:
 translate Chinese headtobed_4017c60b:
 
     # k "You can jump straight to the part where you get your ass tarred for stealing."
-    k "你可以直接跳到你因为偷东西要被涂沥青那段。（一种在船上常见的惩罚方式。）"
+    k "你可以直接跳到你因为偷东西要被涂沥青那段。"
+    # 译注：tarring（涂沥青），帆船时代水手之间惩戒小偷盗贼的私刑，将其全身涂满滚热黑沥青。
 
 # game/script.rpy:7789
 translate Chinese headtobed_3b22c9f0:
 
     # j "You're all such good company..."
-    j "和你们在一起真是太好了......"
+    j "和你们在一起真是太好了...……"
 
 # game/script.rpy:7791
 translate Chinese headtobed_46ba4e66:
@@ -11634,7 +11329,7 @@ translate Chinese headtobed_d0802161:
 translate Chinese headtobed_d187a30e:
 
     # p "I think it was just that late. I'm trying to make a good first impression..."
-    p "我想只是太晚了。我这不是想给大家留个好印象嘛..."
+    p "我想只是太晚了。我这不是想给大家留个好印象嘛……"
 
 # game/script.rpy:7827
 translate Chinese headtobed_4b526cc1:
@@ -11778,7 +11473,7 @@ translate Chinese headtobed_5e6ce782:
 translate Chinese headtobed_5c228996:
 
     # p "I guess we'll find out tomorrow, but..."
-    p "看来明天就知道了，不过..."
+    p "看来明天就知道了，不过……"
 
 # game/script.rpy:7893
 translate Chinese headtobed_a475dd4c:
@@ -11880,7 +11575,7 @@ translate Chinese headtobed_8e819f5a:
 translate Chinese headtobed_2bb269e3:
 
     # p "I'm pretty sure I got the gist of it. Anyway..."
-    p "我都猜到个大概了。算了..."
+    p "我都猜到个大概了。算了……"
 
 # game/script.rpy:7955
 translate Chinese headtobed_87f9126f:
@@ -11911,7 +11606,6 @@ translate Chinese headtobed_0430b507:
 
     # s "Oh. I'm looking forward to it more than anything."
     s "哦。我可太期待了。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:7983
 translate Chinese headtobed_ec835efa:
@@ -11989,7 +11683,7 @@ translate Chinese headtobed_c248be8d:
 translate Chinese headtobed_d301d8b7:
 
     # j "I suppose it is late. I'll probably be coming along soon. Can I have..."
-    j "我想我也差不多该走了。我能要..."
+    j "我想我也差不多该走了。我能要……"
 
 # game/script.rpy:8043
 translate Chinese headtobed_13e8b6a6:
@@ -12050,7 +11744,6 @@ translate Chinese headtobed_da643987:
 
     # s "He's alright, that kid. Probably. Just... well, I was gonna say inexperienced."
     s "那孩子人还行，大概吧。就是...嗯，我本来想说他没什么经验。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8090
 translate Chinese headtobed_dc6d9871:
@@ -12063,7 +11756,6 @@ translate Chinese headtobed_9552f6c9:
 
     # s "But you are, too. You should talk to the purser tomorrow, though. They'll be able to set ya up with a mess kit, or something like it."
     s "不过你也一样。你明天应该和事务长说说，他们会给你弄一套餐具，或者类似的玩意儿。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8096
 translate Chinese headtobed_d30083d5:
@@ -12076,7 +11768,6 @@ translate Chinese headtobed_e373be09:
 
     # s "Hey, and just think: you'll be well on your way to becoming a proper sailor."
     s "嘿，你就等着成为一名真正的水手吧！"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8102
 translate Chinese headtobed_e85900a7:
@@ -12089,7 +11780,6 @@ translate Chinese headtobed_756d494d:
 
     # s "Would ya mind waiting here a moment? I want to thank Bandile."
     s "你介意在这里等我一会儿吗？我想去谢谢Bandile。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8106
 translate Chinese headtobed_d8a3ffd9:
@@ -12126,7 +11816,6 @@ translate Chinese headtobed_da80fd2b:
 
     # s "Just wanted to thank him again for the extra helping. He didn't have to do that. You didn't have to, either."
     s "我就是想再谢谢他给我多盛了一份。他没必要这么照顾我，你也没必要。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8136
 translate Chinese headtobed_6914a927:
@@ -12139,7 +11828,6 @@ translate Chinese headtobed_3fd6cc0f:
 
     # s "Ah, that asparagus. Best part o' being ashore is the supplies. Anyway, now, your number 36, right? Do I remember that correctly?"
     s "啊，那芦笋。靠岸了才能有这些好吃的。对了，你是36号，对吧？我没记错吧？"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8140
 translate Chinese headtobed_6cd0054a:
@@ -12152,7 +11840,6 @@ translate Chinese headtobed_230f9c1a:
 
     # s "It'll all be second-nature soon enough. Especially things like that."
     s "用不了多久，一切就都成习惯了。尤其是这种事。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8144
 translate Chinese headtobed_12298b80:
@@ -12165,7 +11852,6 @@ translate Chinese headtobed_18c95425:
 
     # s "The first thing you want to remember, definitely, is where ya can get some sleep."
     s "你最该记住的，绝对是去哪儿睡觉。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8148
 translate Chinese headtobed_897fb25e:
@@ -12177,7 +11863,7 @@ translate Chinese headtobed_897fb25e:
 translate Chinese headtobed_dafc1e0b:
 
     # "When you reach the post, it's clear enough where a hammock is supposed to go. Beyond that..."
-    "到了柱子边上，吊床该怎么挂，在哪儿挂，一下子就清楚了。除此之外..."
+    "到了柱子边上，吊床该怎么挂，在哪儿挂，一下子就清楚了。除此之外……"
 
 # game/script.rpy:8158
 translate Chinese headtobed_ff2874b6:
@@ -12189,8 +11875,7 @@ translate Chinese headtobed_ff2874b6:
 translate Chinese headtobed_2fbd5057:
 
     # s "Yeah, they clear 'em away to keep things tidy, 'course. These crates here..."
-    s "是啊，他们当然会把东西收起来，这样才整洁。这些板条箱..."
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
+    s "是啊，他们当然会把东西收起来，这样才整洁。这些板条箱……"
 
 # game/script.rpy:8162
 translate Chinese headtobed_b67f4bad:
@@ -12209,7 +11894,6 @@ translate Chinese headtobed_a7459543:
 
     # s "Alright, I'll help. Just this once, as a favor."
     s "好吧，我来帮你。就这一次，算我帮个忙。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8170
 translate Chinese headtobed_92dc9593:
@@ -12228,13 +11912,12 @@ translate Chinese headtobed_3b6d6336:
 
     # s "That's Julian's, I suppose. The way he talked, he probably knows how to set a hammock up, at least. Now you try."
     s "那张应该是Julian的吧。听他那口气，至少知道怎么搭吊床。现在你来试试。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8180
 translate Chinese headtobed_f77a83f6:
 
     # "With the maned wolf's example to work from, it's not terribly difficult. It doesn't look like the coziest place to sleep..."
-    "有了这只“鬃狼”做示范，倒也不是很难。就是看起来睡着不太舒服..."
+    "有了这只“鬃狼”做示范，倒也不是很难。就是看起来睡着不太舒服……"
 
 # game/script.rpy:8182
 translate Chinese headtobed_0158ffcc:
@@ -12271,7 +11954,6 @@ translate Chinese headtobed_b09cf4e8:
 
     # s "You will."
     s "你会的。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8196
 translate Chinese headtobed_100fe2d5:
@@ -12284,7 +11966,6 @@ translate Chinese headtobed_8587564a:
 
     # s "For what it's worth, Mr. [family_name]? You did well today. I thought ya should know."
     s "那个，[family_name]先生？不管怎么说，你今天干得不错。我觉得应该让你知道。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8202
 translate Chinese headtobed_cfac6ca8:
@@ -12297,14 +11978,12 @@ translate Chinese headtobed_251afa82:
 
     # s "Not just that.{w} Well, that you did {i}really{/i} well, too, and I'll kiss ya fucking ass if you somehow manage to make supplying me with asparagus a daily habit. But it's not {i}just{/i} that."
     s "可不光是芦笋的事儿。{w} 当然，芦笋你也弄{i}得特别{/i}好，你要是真能让我每天都吃上芦笋，我就给你跪了。但主要不是{i}这个{/i}。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8210
 translate Chinese headtobed_711c0c46:
 
     # s "I'm sure it was overwhelming, but..."
-    s "肯定有点懵吧，不过..."
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
+    s "肯定有点懵吧，不过……"
 
 # game/script.rpy:8212
 translate Chinese headtobed_fc9d655b:
@@ -12316,13 +11995,13 @@ translate Chinese headtobed_fc9d655b:
 translate Chinese headtobed_a977e44e:
 
     # p "And introducing us to Konrad and Torres. The old hands, I don't know... I want to make a good impression..."
-    p "还把Konrad和Torres介绍给我们。那些老水手，我也不知道...就是想给他们留个好印象..."
+    p "还把Konrad和Torres介绍给我们。那些老水手，我也不知道...就是想给他们留个好印象……"
 
 # game/script.rpy:8216
 translate Chinese headtobed_6c86635c:
 
     # p "I was kind of worried it'd be our officer doing it. A lot of loud barking..."
-    p "我还挺担心是长官来安排这些。那家伙嗓门那么大..."
+    p "我还挺担心是长官来安排这些。那家伙嗓门那么大……"
 
 # game/script.rpy:8220
 translate Chinese headtobed_cc386dbb:
@@ -12335,7 +12014,6 @@ translate Chinese headtobed_4718b75c:
 
     # s "He's not so bad, y'know."
     s "他也没那么糟糕，我说真的。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8224
 translate Chinese headtobed_94fee16d:
@@ -12353,8 +12031,7 @@ translate Chinese headtobed_bf0f2115:
 translate Chinese headtobed_93f8ec4b:
 
     # s "Well..."
-    s "那个..."
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
+    s "那个……"
 
 # game/script.rpy:8230
 translate Chinese headtobed_acecad7a:
@@ -12367,28 +12044,24 @@ translate Chinese headtobed_84b611a3:
 
     # s "Don't mind it. Discipline is important on a ship like this. We got a long way to go, after all."
     s "别往心里去。在这种船上，纪律很重要。毕竟，咱们还有很长的路要走。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8236
 translate Chinese headtobed_f017db4e:
 
     # s "Besides, how else do you keep someone like Julian in line?"
     s "除了这样，你还能怎么让Julian这种人老实点？"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8238
 translate Chinese headtobed_4bfece97:
 
     # s "Can't give 'em an inch. I'm just a sailor, myself, and I know that much."
     s "可不能给他们一点好脸色。我也是个水手，这点我懂。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8240
 translate Chinese headtobed_221324a6:
 
     # s "I'll tell you something, though: show him you can do the job, and you can bet he'll step in for you if someone else is making trouble."
     s "不过跟你说，你要是让他瞧见你有两把刷子，那要是有人找你茬，他肯定罩着你。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8242
 translate Chinese headtobed_cc49b97e:
@@ -12406,8 +12079,7 @@ translate Chinese headtobed_c46b202b:
 translate Chinese headtobed_f1a000e1:
 
     # s "It's a lot of..."
-    s "这可关系到..."
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
+    s "这可关系到……"
 
 # game/script.rpy:8248
 translate Chinese headtobed_eef7e5e4:
@@ -12432,20 +12104,18 @@ translate Chinese headtobed_74ec2895:
 
     # s "It's a lot of giving young sailors the chance to become old sailors. Learn how to ride out a wave like that."
     s "这关系着能不能让年轻水手变成老水手。得学会怎么扛过刚才那样的浪。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8256
 translate Chinese headtobed_c9570ddf:
 
     # p "Yeah... I can imagine..."
-    p "嗯... 我明白..."
+    p "嗯... 我明白……"
 
 # game/script.rpy:8258
 translate Chinese headtobed_ac42de42:
 
     # s "And the only way that happens is keepin' 'em from doing anything too dumb, like getting a crane full of cargo dropped on their head. But ya learn. Like I said: show you can do the work."
     s "要做到这个，就得让他们别犯傻，比如别让起重机吊着一堆货砸脑袋上。不过人嘛，都是学出来的。我跟你说，拿出真本事来。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8260
 translate Chinese headtobed_4873c011:
@@ -12458,7 +12128,6 @@ translate Chinese headtobed_67f92ca6:
 
     # s "Exactly."
     s "就是这个意思。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8267
 translate Chinese headtobed_e708afcd:
@@ -12471,14 +12140,12 @@ translate Chinese headtobed_e0bdf754:
 
     # s "Have a good night, [name]."
     s "晚安，[name]。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8271
 translate Chinese headtobed_d452a98c:
 
     # s "I'll make sure to wake you up if I see you still sleeping."
     s "要是看你还睡着，我肯定叫醒你。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8273
 translate Chinese headtobed_45f1fd7b:
@@ -12508,7 +12175,7 @@ translate Chinese headtobed_c6b7d167:
 translate Chinese headtobed_4a32fd7f:
 
     # "...Handsome..."
-    "...帅啊..."
+    "...帅啊……"
 
 # game/script.rpy:8285
 translate Chinese headtobed_2f9aa0c4:
@@ -12539,7 +12206,6 @@ translate Chinese headtobed_fe7d00b1:
 
     # s "He's not so bad. Just... well, I was gonna say inexperienced."
     s "他倒是不坏。就是...嗯，我本来想说，没什么经验。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8305
 translate Chinese headtobed_dc6d9871_1:
@@ -12552,7 +12218,6 @@ translate Chinese headtobed_223b48f8:
 
     # s "But you are, too. You should talk to the purser tomorrow. They'll be able to cobble together a mess kit for you."
     s "不过你也一样。你明天该去找事务长说说，他们应该能给你凑出一套伙食家伙。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8309
 translate Chinese headtobed_d30083d5_1:
@@ -12565,14 +12230,12 @@ translate Chinese headtobed_9477f79b:
 
     # s "You'll be a proper sailor soon enough. Anyway... you can go ahead and sleep, if you want."
     s "你很快就能成为一个像样的水手了。得了...想睡就睡吧。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8315
 translate Chinese headtobed_d3f23b44:
 
     # s "I want to thank Bandile for that extra plate real quick. I appreciate you putting in a good word, too."
     s "我得赶紧谢谢Bandile多给了我那份吃的。也谢谢你帮我说话了。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8317
 translate Chinese headtobed_99cc9c4d:
@@ -12585,7 +12248,6 @@ translate Chinese headtobed_882ec33d:
 
     # s "Glad it made an impression. Your sleeping spot is... number 36, I think. Right?"
     s "看来我对你印象挺深的。你的铺位是...36号，没错吧？"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8321
 translate Chinese headtobed_a0b54a9f:
@@ -12598,7 +12260,6 @@ translate Chinese headtobed_13d7e037:
 
     # s "Hey. Not bad."
     s "嘿，记性不错嘛。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8327
 translate Chinese headtobed_136386b6:
@@ -12611,7 +12272,6 @@ translate Chinese headtobed_9c9aca4e:
 
     # s "This old noggin is able to retain some stuff. Bumps and everythin'."
     s "我这老脑瓜子，还能记住点东西，不容易啊。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8331
 translate Chinese headtobed_ab665097:
@@ -12630,7 +12290,6 @@ translate Chinese headtobed_4422aebe:
 
     # s "Well, I'll take what I can get. Ya have a good night, [name]. I'll make sure and wake you up in the morning if I catch you sleeping in."
     s "行吧，能占点便宜就占点。[name]，晚安。明儿要是你偷懒睡过头了，我保证叫你起来。"
-    # 译注：Samuel作为值更甲板水手长，沉稳老练兼具随和打趣。
 
 # game/script.rpy:8339
 translate Chinese headtobed_149799cc:
@@ -12660,13 +12319,13 @@ translate Chinese headtobed_2c07ad12:
 translate Chinese headtobed_4e12338b:
 
     # "With even more effort, you're able to pull yourself up and into it, despite the cramped quarters. It's not exactly the coziest place you've ever slept..."
-    "又费了九牛二虎之力，你才爬了上去，躺进了吊床，虽然空间有点挤。这可不是你睡过的最舒服的地方..."
+    "又费了九牛二虎之力，你才爬了上去，躺进了吊床，虽然空间有点挤。这可不是你睡过的最舒服的地方……"
 
 # game/script.rpy:8358
 translate Chinese headtobed_45fd5da0:
 
     # "But it's not the worst, either. And, as you stare at the ship above you, feeling its gentle motion and listening to the creak of ropes and timbers..."
-    "但也还凑合。你抬头看着头顶的船，感受着它轻轻的摇晃，听着绳索和船板发出的嘎吱声..."
+    "但也还凑合。你抬头看着头顶的船，感受着它轻轻的摇晃，听着绳索和船板发出的嘎吱声……"
 
 # game/script.rpy:8360
 translate Chinese headtobed_85e97c7b:
@@ -12739,7 +12398,7 @@ translate Chinese firstdinner_Arthur_261302ef:
 
     # ch "Most likely. With some luck, a couple days earlier. But I wouldn't push things too far—the fact he's able to keep his arm at all is a hair's width shy of a miracle."
     ch "多半如此。要是运气好，还能再提前个一两天。不过我劝你别太操之过急——他这条胳膊能保住没被锯掉，本身就只差毫厘便算得上是奇迹了。"
-    # 译注：【补齐空缺翻译】猎豹医生Rajeeyah（ch）说明伤情。18世纪航海骨折极易致残或截肢。
+    # 译注：在18世纪航海医疗条件下，骨折极易致残或导致截肢。
 
 # game/script.rpy:8428
 translate Chinese firstdinner_Arthur_aaeaa41f:
@@ -12800,7 +12459,6 @@ translate Chinese firstdinner_Arthur_81025793:
 
     # a "Something the matter, recruit?"
     a "有何贵干，新丁？"
-    # 译注：【补齐空缺翻译】Arthur威严生硬的长官口吻，称呼新入伍水手为recruit。
 
 # game/script.rpy:8454
 translate Chinese firstdinner_Arthur_4ce109d2:
@@ -12818,7 +12476,7 @@ translate Chinese firstdinner_Arthur_5eb8ec8a:
 translate Chinese firstdinner_Arthur_9ca59b0f:
 
     # p "I just..." nointeract
-    p "我只是..."
+    p "我只是……"
 
 # game/script.rpy:8479
 translate Chinese firstdinner_Arthur_88bb6056:
@@ -12873,7 +12531,6 @@ translate Chinese firstdinner_Arthur_6146b07d:
 
     # "Something about the woman draws you in. You can't quite put your finger on it—there's more to it than simple curiosity. But it's a complicated feeling, and the more you try to grasp at it, the farther it escapes."
     "这位女士身上有某种特质深深吸引着你。你一时说不大上来——绝不仅仅是单纯的好奇心那么简单。但这是一种极为复杂的情绪，你越是试图去琢磨看透，它就越是飘忽不定、悄然溜走。"
-    # 译注：【补齐空缺翻译】主角对神秘猎豹女医生的复杂心理直觉。
 
 # game/script.rpy:8505
 translate Chinese firstdinner_Arthur_6b53eea3:
@@ -12927,7 +12584,7 @@ translate Chinese firstdinner_Arthur_7fad49de:
 translate Chinese firstdinner_Arthur_785c342e:
 
     # ch "...{w} I do not."
-    ch "...我不认识。"
+    ch "……{w}我不认识。"
 
 # game/script.rpy:8531
 translate Chinese firstdinner_Arthur_07f0313b:
@@ -13090,7 +12747,6 @@ translate Chinese firstdinner_Arthur_40c2ef43:
 
     # "You exist when an officer needs you to exist, otherwise you're the equivalent of a plank of wood—a piece of the ship, necessary in numbers but insignificant in identity."
     "只有在长官需要你的时候，你的存在才有意义；除此以外，你不过就等同于甲板上的一块垫脚木板——只是整艘船的一个小小部件，在编制人数上不可或缺，可在个人身份上却微不足道。"
-    # 译注：【补齐空缺翻译】18世纪商船等级制度的冷酷写照，普通水手毫无个人地位。
 
 # game/script.rpy:8629
 translate Chinese firstdinner_Arthur_ad88e87e:
@@ -13240,14 +12896,13 @@ translate Chinese firstdinner_Arthur_6fb009cd:
 translate Chinese firstdinner_Arthur_8a521bc6:
 
     # a "The difference being, Mr. Blackborow was rushing when there was no need for it. You were dawdling. {w}Loitering. {w}Lollygagging."
-    a "不一样的是，老布莱克波罗那是没必要赶的时候瞎着急。你呢，在那儿磨磨蹭蹭，瞎晃悠。"
+    a "不一样的是，Blackborow先生那是没必要赶的时候瞎着急。你呢，在那儿磨磨蹭蹭。{w}闲荡。{w}虚度光阴。"
 
 # game/script.rpy:8704
 translate Chinese firstdinner_Arthur_8fdd0e22:
 
     # a "That is why I think you're a {i}runt{/i}, recruit."
     a "这就是为什么我认为你是个{i}矮冬瓜{/i}，新丁。"
-    # 译注：【补齐空缺翻译】runt指矮小、瘦弱的新人，Arthur用作贬损蔑称。
 
 # game/script.rpy:8706
 translate Chinese firstdinner_Arthur_d1b1e314:
@@ -13343,7 +12998,7 @@ translate Chinese firstdinner_Arthur_d18525c9:
 translate Chinese firstdinner_Arthur_78b66063:
 
     # a "You know, you should thank the Doctor. Breaking rank to ask for a chat with your superiors is..."
-    a "你知道吗，你应该好好谢谢医生。擅自越级请求和上司谈话，这可是..."
+    a "你知道吗，你应该好好谢谢医生。擅自越级请求和上司谈话，这可是……"
 
 # game/script.rpy:8747
 translate Chinese firstdinner_Arthur_3db37c4e:
@@ -13457,7 +13112,7 @@ translate Chinese firstdinner_Arthur_9850f53c:
 translate Chinese firstdinner_Arthur_9c9cac8f:
 
     # p "Is he..."
-    p "他这是..."
+    p "他这是……"
 
 # game/script.rpy:8803
 translate Chinese firstdinner_Arthur_6261e28d:
@@ -13608,7 +13263,7 @@ translate Chinese firstdinner_Arthur_4a99772f:
 
     # pb "Thank you. Could eat a horse... {w}No offense, sir."
     pb "多谢啦。我现在饿得能吞下一整匹马……{w}无意冒犯，长官。"
-    # 译注：pb为水手Perce Blackborow。eat a horse为饥饿俚语，Arthur是马，所以急忙道歉'No offense'。
+    # 译注：pb为水手Perce Blackborow。eat a horse为饥饿俚语，Arthur是马，所以急忙道歉"No offense"。
 
 # game/script.rpy:8886
 translate Chinese firstdinner_Arthur_577f25f4:
@@ -13980,7 +13635,7 @@ translate Chinese firstdinner_Arthur_331b6ded:
 translate Chinese firstdinner_Arthur_3c864e72:
 
     # p "That's my main worry. I haven't exactly got a lot of experience in..."
-    p "这正是我担心的。我在这方面没什么经验......"
+    p "这正是我担心的。我在这方面没什么经验...……"
 
 # game/script.rpy:9096
 translate Chinese firstdinner_Arthur_d904a574:
@@ -14202,7 +13857,7 @@ translate Chinese firstdinner_Arthur_193d4296:
 translate Chinese firstdinner_Arthur_47cc2e74:
 
     # r "I do. But he'd already disappeared for dinner, and you..."
-    r "是有。可他跑去吃晚饭了，你嘛..."
+    r "是有。可他跑去吃晚饭了，你嘛……"
 
 # game/script.rpy:9224
 translate Chinese firstdinner_Arthur_d9fb9ba3:
@@ -14250,7 +13905,7 @@ translate Chinese firstdinner_Arthur_23c374c3:
 translate Chinese firstdinner_Arthur_2627bf9e:
 
     # "You both exit the stairs, being led back out again into the common area.{w}The sounds of other people chatting and playing cards, along with the sparse few still eating dinner, fill the space again."
-    "你们走下楼梯，又回到了餐厅。（w）人们聊天、玩牌，还有零星几位还在吃饭的声音再次充满了整个空间。"
+    "你们走下楼梯，又回到了餐厅。{w}人们聊天、玩牌，还有零星几位还在吃饭的声音再次充满了整个空间。"
 
 # game/script.rpy:9250
 translate Chinese firstdinner_Arthur_157b72b8:
@@ -14323,7 +13978,6 @@ translate Chinese firstdinner_Arthur_3553c78d:
 
     # "There are two other sailors with them—a lynx and a peregrine falcon."
     "跟他们坐在一块儿的还有另外两名水手——一只猞猁和一只游隼。"
-    # 译注：【补齐空缺翻译】猞猁（lynx）与游隼（peregrine falcon）。兽人角色种族。
 
 # game/script.rpy:9312
 translate Chinese firstdinner_Arthur_1a06707d:
@@ -14371,7 +14025,7 @@ translate Chinese firstdinner_Arthur_4168bece:
 translate Chinese firstdinner_Arthur_9bbc8f94:
 
     # s "...{w} Well, sounds like a good enough reason to me."
-    s "……（w）好吧，听起来理由很充分。"
+    s "……{w}好吧，听起来理由很充分。"
 
 # game/script.rpy:9348
 translate Chinese firstdinner_Arthur_ed61e0e8:
@@ -14666,7 +14320,6 @@ translate Chinese firstdinner_Arthur_188baab3:
 
     # "Her spots are much darker, bolder—in fact, most of the fur on her neck is a solid shade of black. The contrast makes the turquoise of her jewelry almost shine in the darker interiors of the ship."
     "她身上的斑纹颜色深沉得多，也更为粗犷醒目——事实上，她颈间的大部分皮毛都呈现出纯粹的墨黑色。这种强烈的反差衬得她佩戴的绿松石饰品在昏暗的船舱里几乎在熠熠生辉。"
-    # 译注：【补齐空缺翻译】王猎豹（King Cheetah）基因突变特征：粗黑条斑与颈部黑毛，搭配绿松石饰物。
 
 # game/script.rpy:9489
 translate Chinese firstdinner_Arthur_5a0b28e6:
@@ -14792,13 +14445,13 @@ translate Chinese firstdinner_Arthur_05a5c9ac:
 translate Chinese firstdinner_Arthur_c34469fd:
 
     # r "Correct me if I'm mistaken. You decided that walking up to your superior and... {w}Stumbling your way through an awkward conversation was the best way to achieve that goal?"
-    r "纠正我一下，如果我说的不对。你觉得走到上级面前，磕磕巴巴地跟我套近乎，就是你了解情况的方式？"
+    r "如果我说的不对，请纠正我。你觉得走到上级面前……{w}磕磕巴巴地硬聊一场，就是达成目的的最好方式？"
 
 # game/script.rpy:9550
 translate Chinese firstdinner_Arthur_e13275eb:
 
     # r "That's bold, if you allow me a euphemism."
-    r "如果你允许我委婉地说，你可真够大胆的。"
+    r "如果你想让委婉点说那就是：你可真是胆大。"
 
 # game/script.rpy:9552
 translate Chinese firstdinner_Arthur_70063dfc:
@@ -14912,7 +14565,7 @@ translate Chinese firstdinner_Arthur_9850f53c_1:
 translate Chinese firstdinner_Arthur_9c9cac8f_1:
 
     # p "Is he..."
-    p "他这是..."
+    p "他这是……"
 
 # game/script.rpy:9611
 translate Chinese firstdinner_Arthur_6261e28d_1:
@@ -14979,7 +14632,6 @@ translate Chinese firstdinner_Arthur_c130b459:
 
     # r "Mr. Blackborow was very lucky—it was lighter than I feared. But I'm not going to let him out until I'm confident it's all been dealt with."
     r "Blackborow先生运气相当不错——伤势比我先前担心的要轻得多。但在彻底确认隐患排除之前，我是绝不会放他离开病榻回甲板干活的。"
-    # 译注：【补齐空缺翻译】船医严谨负责的职业态度。
 
 # game/script.rpy:9646
 translate Chinese firstdinner_Arthur_108520c6:
@@ -15507,7 +15159,7 @@ translate Chinese firstdinner_Arthur_193d4296_1:
 translate Chinese firstdinner_Arthur_47cc2e74_1:
 
     # r "I do. But he'd already disappeared for dinner, and you..."
-    r "是有。可他跑去吃晚饭了，你嘛..."
+    r "是有。可他跑去吃晚饭了，你嘛……"
 
 # game/script.rpy:9935
 translate Chinese firstdinner_Arthur_49b8286c:
@@ -15946,7 +15598,6 @@ translate Chinese firstdinner_Arthur_cb6a7ef6_1:
 
     # "Torres is polite and affable. Warm, smiling, well groomed—perhaps exceedingly so? The bright blue feathers in his hat feel a tad too much for a sailor."
     "Torres待人既客气又和蔼。热情、笑脸迎人、衣着光鲜得体——甚至可以说得体过了头？他帽子上那几根亮蓝色的羽毛，瞧着未免比普通水手招摇扎眼了些。"
-    # 译注：【补齐空缺翻译】重复分支下对游隼Torres的初见介绍。
 
 # game/script.rpy:10193
 translate Chinese firstdinner_Arthur_07649060_1:
@@ -16277,7 +15928,6 @@ translate Chinese day1_arthur_dinner_rejection_a3d2d2ca:
 
     # a "Count yourself lucky that this is not a military vessel, runt, or {i}your apology{/i} would be written in blood on your back. {w}And I'd be disappointed I wouldn't be holding the whip."
     a "算你命大这艘船不是战舰军船，矮冬瓜，否则{i}你的道歉{/i}早就用鲜血刻在你背上了。{w}而且我还巴不得亲手拿着九尾鞭来抽你呢。"
-    # 译注：【补齐空缺翻译】18世纪英国海军以残酷鞭刑闻名，Arthur生性严厉冷酷。
 
 # game/script.rpy:10348
 translate Chinese day1_arthur_dinner_rejection_a55b81f6:
@@ -16451,7 +16101,7 @@ translate Chinese day_2_start_3883ddc5:
 translate Chinese day_2_start_83e29e3c:
 
     # p "I'm awake, I'm awake, but..."
-    p "我醒了，醒了还不行吗..."
+    p "我醒了，醒了还不行吗……"
 
 # game/script.rpy:10462
 translate Chinese day_2_start_a6e25ac5:
@@ -16463,13 +16113,13 @@ translate Chinese day_2_start_a6e25ac5:
 translate Chinese day_2_start_cd63ca6e:
 
     # "Down his shoulders, the curve of his back... tail..."
-    "顺着他的肩膀，他背部的曲线... 还有那尾巴..."
+    "顺着他的肩膀，他背部的曲线... 还有那尾巴……"
 
 # game/script.rpy:10466
 translate Chinese day_2_start_4d663e9a:
 
     # "...rear..."
-    "... 屁股..."
+    "... 屁股……"
 
 # game/script.rpy:10468
 translate Chinese day_2_start_176270f2:
@@ -16578,7 +16228,6 @@ translate Chinese day_2_start_8f9e3571:
 
     # p "Fine. I'm awake. I'm awake...{w} Kind of."
     p "好啦。我醒了，我醒了……{w}大概算是醒了吧。"
-    # 译注：【补齐空缺翻译】早更被叫醒时睡眼惺忪、迷迷糊糊的口吻。
 
 # game/script.rpy:10518
 translate Chinese day_2_start_ffcf533c:
@@ -16603,7 +16252,7 @@ translate Chinese day_2_start_788a0596:
 
     # s "Hm? Oh it's 3 o'clock. Just rang six bells."
     s "嗯？哦，现在是凌晨三点。刚敲过六响钟呢。"
-    # 译注：【补齐空缺翻译】航海计钟制：半小时一响钟，六响钟（six bells）在夜更对应凌晨3点。
+    # 译注：航海计钟制：半小时一响钟，六响钟（six bells）在夜更对应凌晨3点。
 
 # game/script.rpy:10530
 translate Chinese day_2_start_b4742ff2:
@@ -17384,7 +17033,6 @@ translate Chinese day_2_start_c3719bbc:
 
     # s "Don't sound too eager for it or y'll never gonna get a full night's sleep again on this route."
     s "可别显得太积极主动了，不然这趟航线后头你就别指望能再睡上一个安稳整觉了。"
-    # 译注：【补齐空缺翻译】老水手传授经验：在船上太积极容易被长官派苦活。
 
 # game/script.rpy:10892
 translate Chinese day_2_start_5ea7697d:
@@ -17876,13 +17524,13 @@ translate Chinese day_2_start_0a948ce6:
 translate Chinese day_2_start_b949477c:
 
     # j "I'm not a dragon..."
-    j "我不是龙..."
+    j "我不是龙……"
 
 # game/script.rpy:11149
 translate Chinese day_2_start_557b9c7c:
 
     # s ". . ."
-    s ". . ."
+    s "……"
 
 # game/script.rpy:11156
 translate Chinese day_2_start_5d1ec478:
@@ -17930,7 +17578,7 @@ translate Chinese day_2_start_75f76ad1:
 translate Chinese day_2_start_4bf4773e:
 
     # s "There just aren't that many of your kind around..."
-    s "主要是你们这种，平时真不多见..."
+    s "主要是你们这种，平时真不多见……"
 
 # game/script.rpy:11177
 translate Chinese day_2_start_e2c79762:
@@ -18020,13 +17668,13 @@ translate Chinese day_2_start_cd85856e:
 translate Chinese day_2_start_44d55b63:
 
     # s "Maybe for you..."
-    s "你自己觉得吧..."
+    s "你自己觉得吧……"
 
 # game/script.rpy:11224
 translate Chinese day_2_start_bc25f440:
 
     # s "Anyway, we should eat and get ready.{w} I can't believe ya two dragged me into this..."
-    s "算了算了，咱赶紧吃点东西，准备准备。{w} 真他妈服了，咋被你俩忽悠到这儿来了..."
+    s "算了算了，咱赶紧吃点东西，准备准备。{w} 真他妈服了，咋被你俩忽悠到这儿来了……"
 
 # game/script.rpy:11228
 translate Chinese day_2_start_e83d43c7:
@@ -18044,7 +17692,7 @@ translate Chinese day_2_start_2719a3ff:
 translate Chinese day_2_normalstart_91806246:
 
     # s "Really...? Alright..."
-    s "真的假的...？好吧..."
+    s "真的假的...？好吧……"
 
 # game/script.rpy:11279
 translate Chinese day_2_normalstart_73e08e54:
@@ -18056,7 +17704,7 @@ translate Chinese day_2_normalstart_73e08e54:
 translate Chinese day_2_normalstart_6096a22c:
 
     # s "Wake-up attempt number two..."
-    s "唤醒尝试，二号方案启动..."
+    s "唤醒尝试，二号方案启动……"
 
 # game/script.rpy:11283
 translate Chinese day_2_normalstart_cc6bee9e:
@@ -18152,7 +17800,7 @@ translate Chinese day_2_normalstart_3883ddc5:
 translate Chinese day_2_normalstart_83e29e3c:
 
     # p "I'm awake, I'm awake, but..."
-    p "我醒了，醒了还不行吗..."
+    p "我醒了，醒了还不行吗……"
 
 # game/script.rpy:11328
 translate Chinese day_2_normalstart_a6e25ac5:
@@ -18164,13 +17812,13 @@ translate Chinese day_2_normalstart_a6e25ac5:
 translate Chinese day_2_normalstart_cd63ca6e:
 
     # "Down his shoulders, the curve of his back... tail..."
-    "顺着他的肩膀，他背部的曲线... 还有那尾巴..."
+    "顺着他的肩膀，他背部的曲线... 还有那尾巴……"
 
 # game/script.rpy:11332
 translate Chinese day_2_normalstart_e349e14e:
 
     # "... rear..."
-    "... 船尾..."
+    "... 屁股……"
 
 # game/script.rpy:11334
 translate Chinese day_2_normalstart_f6e05685:
@@ -18297,7 +17945,7 @@ translate Chinese day_2_normalstart_5f1abc47:
 translate Chinese day_2_normalstart_7bfeccba:
 
     # "Well, great. Now you've done it. You can hardly tell him you were dreaming of his shapely rump..."
-    "好家伙，这下可好。你总不能跟他说你梦见他那结实的屁股了吧......"
+    "好家伙，这下可好。你总不能跟他说你梦见他那结实的屁股了吧...……"
 
 # game/script.rpy:11398
 translate Chinese day_2_normalstart_a0a6c967:
@@ -18807,7 +18455,7 @@ translate Chinese day_2_normalstart_d0b074ff:
 translate Chinese day_2_normalstart_779bfdc8:
 
     # "Probably nothing as dirty as yours..."
-    "肯定没我的那么龌龊..."
+    "肯定没我的那么龌龊……"
 
 # game/script.rpy:11682
 translate Chinese day_2_normalstart_90b8c676:
@@ -18981,7 +18629,7 @@ translate Chinese day_2_normalstart_fc536783:
 translate Chinese day_2_normalstart_c0751dde:
 
     # j "Goddamn..."
-    j "该死的..."
+    j "该死的……"
 
 # game/script.rpy:11752
 translate Chinese day_2_normalstart_7814b2dc:
@@ -18999,7 +18647,7 @@ translate Chinese day_2_normalstart_5f3268d8:
 translate Chinese day_2_normalstart_807cadfe:
 
     # p "Sorry for asking, I guess..."
-    p "对不起，我没事找事..."
+    p "对不起，我没事找事……"
 
 # game/script.rpy:11759
 translate Chinese day_2_normalstart_c7ad5f1a:
