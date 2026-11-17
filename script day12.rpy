@@ -4,7 +4,7 @@
 translate Chinese day12_main_start_0e4f13e7:
 
     # "Cold water comes crashing over you in an instant."
-    "顷刻间，冰冷的海水劈头盖脸地扑向了你"
+    "顷刻间，冰冷的海水劈头盖脸地扑向了你。"
 
 # game/script day12.rpy:77
 translate Chinese day12_main_start_2846bba0:
@@ -16,7 +16,7 @@ translate Chinese day12_main_start_2846bba0:
 translate Chinese day12_main_start_e2b1f51c:
 
     # "Deeper."
-    "越来越深"
+    "越来越深。"
 
 # game/script day12.rpy:87
 translate Chinese day12_main_start_5c920bc8:
@@ -40,31 +40,31 @@ translate Chinese day12_main_start_9e3c2971:
 translate Chinese day12_main_start_a81af1df:
 
     # "You scramble,{w} your back bumps into something and even after all these days it still sends a bit of a burn through your body."
-    "你慌乱挣扎着，{w}后背猛地撞在了什么东西上，隔了那么久，那一下还是疼得你身体发出阵阵灼痛"
+    "你慌乱挣扎着，{w}后背猛地撞在了什么东西上，隔了那么久，那一下还是疼得你身体发出阵阵灼痛。"
 
 # game/script day12.rpy:136
 translate Chinese day12_main_start_7c3ea47e:
 
     # "You scramble,{w} your back bumps into something."
-    "你惊慌失措地扑腾着，{w}后背不知撞到了什么东西"
+    "你惊慌失措地扑腾着，{w}后背不知撞到了什么东西。"
 
 # game/script day12.rpy:138
 translate Chinese day12_main_start_2c63c029:
 
     # "Drenched and beginning to shiver as the wind chills your body."
-    "浑身都湿透了，冰冷的海风一吹，你立马打起了寒战"
+    "浑身都湿透了，冰冷的海风一吹，你立马打起了寒战。"
 
 # game/script day12.rpy:140
 translate Chinese day12_main_start_b5efd182:
 
     # "The salt water stings your eyes, nose, and even your sensitive ears are not spared the irritation."
-    "咸涩的海水蛰得你眼睛和鼻子生疼，甚至就连你敏感的耳朵也未能幸免"
+    "咸涩的海水蛰得你眼睛和鼻子生疼，甚至就连你敏感的耳朵也未能幸免。"
 
 # game/script day12.rpy:142
 translate Chinese day12_main_start_bcb130a5:
 
     # "The sun hasn't even made it above the horizon yet, leaving the person in front of you as nothing but a silhouette."
-    "太阳还未爬出地平线，你眼前的人只余一个模糊的黑影"
+    "太阳还未爬出地平线，你眼前的人只余一个模糊的黑影。"
 
 # game/script day12.rpy:144
 translate Chinese day12_main_start_89dc0363:
@@ -100,7 +100,7 @@ translate Chinese day12_main_start_66530d33:
 translate Chinese day12_main_start_c7085301:
 
     # "You get Wolf's low, guttural snarl almost reverberating through your ears. You feel the primal chill of your fur standing on end, or at least as well as it can, after just having been drenched with water."
-    "Wolf那喉咙深处发出的低沉咆哮几乎在你的耳边回响。你能真切体会到一股源自本能的寒意，令你的毛发根根直立，至少在刚刚被冷水彻底浸透之后，毛发还能尽力呈现出直立的状态"
+    "Wolf那喉咙深处发出的低沉咆哮几乎在你的耳边回响。你能真切体会到一股源自本能的寒意，令你的毛发根根直立，至少在刚刚被冷水彻底浸透之后，毛发还能尽力呈现出直立的状态。"
 
 # game/script day12.rpy:168
 translate Chinese day12_main_start_cccd1d02:
@@ -172,7 +172,7 @@ translate Chinese day12_main_start_03597ef6:
 translate Chinese day12_main_start_3f092b34:
 
     # "Julian wastes no time and rushes below deck."
-    "Julian争分夺秒，冲向甲板下层"
+    "Julian争分夺秒，冲向甲板下层。"
 
 # game/script day12.rpy:224
 translate Chinese day12_main_start_d0c7a5b6:
@@ -184,7 +184,7 @@ translate Chinese day12_main_start_d0c7a5b6:
 translate Chinese day12_main_start_ebd257c6:
 
     # "The two seem to be talking momentarily before the piercing ring of the bell sounds through the twilight."
-    "两人好像短暂交谈了几句，随后刺耳的钟声划破了暮色"
+    "两人好像短暂交谈了几句，随后刺耳的钟声划破了暮色。"
 
 # game/script day12.rpy:237
 translate Chinese day12_main_start_e5fd23a2:
@@ -220,7 +220,7 @@ translate Chinese day12_main_start_71f0f46a:
 translate Chinese day12_main_start_df24a4ae:
 
     # "Once your wits return to you, you make your way over to Samuel."
-    "等到你回过神来，就向Samuel走去"
+    "等到你回过神来，就向Samuel走去。"
 
 # game/script day12.rpy:275
 translate Chinese day12_main_start_52f60c5a:
@@ -262,7 +262,7 @@ translate Chinese day12_main_start_295e3d3f:
 translate Chinese day12_main_start_5eed2a65:
 
     # s "I noticed that much, and now we're only a few miles out from them."
-    s "我看得出来，现在我们离它们只有几英里远了"
+    s "我看得出来，现在我们离它们只有几英里远了。"
 
 # game/script day12.rpy:292
 translate Chinese day12_main_start_8a6b4c97:
@@ -274,49 +274,49 @@ translate Chinese day12_main_start_8a6b4c97:
 translate Chinese day12_main_start_2164da0d:
 
     # s "Sir."
-    s "长官"
+    s "长官。"
 
 # game/script day12.rpy:302
 translate Chinese day12_main_start_2104154f:
 
     # "Samuel's focus shifts beyond you and Arthur steps past you from behind."
-    "Samuel的注意力转向你身后，Arthur从你身后走了过来"
+    "Samuel的注意力转向你身后，Arthur从你身后走了过来。"
 
 # game/script day12.rpy:304
 translate Chinese day12_main_start_4e858282:
 
     # s "Thunderhead clouds at two bells off the starboard bow."
-    s "右舷船首方向，两点钟方位，有积雨云"
+    s "右舷船首方向，两点钟方位，有积雨云。"
 
 # game/script day12.rpy:306
 translate Chinese day12_main_start_4f034107:
 
     # "The clouds."
-    "那些云"
+    "那些云。"
 
 # game/script day12.rpy:308
 translate Chinese day12_main_start_62b68c11:
 
     # "They put you on weather watch during the night."
-    "他们安排你来负责夜间的气象瞭望"
+    "他们安排你来负责夜间的气象瞭望。"
 
 # game/script day12.rpy:310
 translate Chinese day12_main_start_fb6e33a2:
 
     # "Shit."
-    "该死"
+    "该死。"
 
 # game/script day12.rpy:312
 translate Chinese day12_main_start_9244c5cd:
 
     # "Arthur nods calmly, raising his voice with his calm confidence."
-    "Arthur平静地点点头，用他沉稳自信的声音提高了嗓音"
+    "Arthur平静地点点头，用他沉稳自信的声音提高了嗓音。"
 
 # game/script day12.rpy:322
 translate Chinese day12_main_start_c922674b:
 
     # "Julian hurries back to you as your wits slowly return to you."
-    "当你慢慢缓过神来时，Julian匆忙回到了你身边"
+    "当你慢慢缓过神来时，Julian匆忙回到了你身边。"
 
 # game/script day12.rpy:324
 translate Chinese day12_main_start_52f60c5a_1:
@@ -340,7 +340,7 @@ translate Chinese day12_main_start_7f3223e0:
 translate Chinese day12_main_start_39b68f08:
 
     # "Your eyes snap open as your mind clears with a sudden snap and the haze of sleep vanishes in an instant."
-    "你的眼睛猛地睁开，头脑随着一声脆响清醒过来，朦胧的睡意瞬间消失得无影无踪"
+    "你的眼睛猛地睁开，头脑随着一声脆响清醒过来，朦胧的睡意瞬间消失得无影无踪。"
 
 # game/script day12.rpy:332
 translate Chinese day12_main_start_891c07f4:
@@ -358,7 +358,7 @@ translate Chinese day12_main_start_ea5693af:
 translate Chinese day12_main_start_6e2c8496:
 
     # p "I- I fell asleep."
-    p "我——我睡着了"
+    p "我——我睡着了。"
 
 # game/script day12.rpy:338
 translate Chinese day12_main_start_e1d3cf22:
@@ -370,25 +370,25 @@ translate Chinese day12_main_start_e1d3cf22:
 translate Chinese day12_main_start_e611448c:
 
     # j "I was the one who had to bucket you from your dreams.{p}I know that you were asleep."
-    j "是我不得不把你从美梦中叫醒的。{p}我知道你睡着了"
+    j "是我不得不把你从美梦中叫醒的。{p}我知道你睡着了。"
 
 # game/script day12.rpy:342
 translate Chinese day12_main_start_174bf9c7:
 
     # j "And now we're a few miles out from a thunderhead without warning."
-    j "而现在，我们在毫无预警的情况下，距离一片积雨云只有几英里远了"
+    j "而现在，我们在毫无预警的情况下，距离一片积雨云只有几英里远了。"
 
 # game/script day12.rpy:344
 translate Chinese day12_main_start_864e3198:
 
     # "As Julian speaks, you hear Arthur shouting a command to coordinate the crew."
-    "Julian说话的时候，你听到Authur正在大声下达指令，协调船员们行动"
+    "Julian说话的时候，你听到Arthur正在大声下达指令，协调船员们行动。"
 
 # game/script day12.rpy:352
 translate Chinese day12_main_start_c79cf9d5:
 
     # "You see Arthur make his way over to speak to Wolf before the canine hurries back to you."
-    "你看见Arthur朝Wolf走去，跟他说了些什么，然后这只犬科动物又匆匆回到你身边"
+    "你看见Arthur朝Wolf走去，跟他说了些什么，然后这只犬科动物又匆匆回到你身边。"
 
 # game/script day12.rpy:354
 translate Chinese day12_main_start_52f60c5a_2:
@@ -430,7 +430,7 @@ translate Chinese day12_main_start_ef0288cd:
 translate Chinese day12_main_start_76b6625f:
 
     # "Another snarl comes as he grips your arm tightly and turns you to face the bow of the ship, pointing off into the distance with a clawed finger."
-    "他又咆哮了一声，紧紧抓住你的胳膊，把你转向船首方向，用长着爪子的手指向远处"
+    "他又咆哮了一声，紧紧抓住你的胳膊，把你转向船首方向，用长着爪子的手指向远处。"
 
 # game/script day12.rpy:374
 translate Chinese day12_main_start_c6cf8b7f:
@@ -443,25 +443,25 @@ translate Chinese day12_main_start_c6cf8b7f:
 translate Chinese day12_main_start_2da07e58:
 
     # "He catches you putting the pieces together."
-    "他察觉到你正在清楚当前的状况"
+    "他察觉到你正在清楚当前的状况。"
 
 # game/script day12.rpy:383
 translate Chinese day12_main_start_bccb624c:
 
     # w "Yeah."
-    w "没错"
+    w "没错。"
 
 # game/script day12.rpy:385
 translate Chinese day12_main_start_31c2f07a:
 
     # "The sleep-induced haze evaporates in an instant as your eyes lock onto the towering mass at the horizon."
-    "当你的目光锁定在地平线那高耸的云团时，困意瞬间消散得无影无踪"
+    "当你的目光锁定在地平线那高耸的云团时，困意瞬间消散得无影无踪。"
 
 # game/script day12.rpy:387
 translate Chinese day12_main_start_9cf41d58:
 
     # p "Shit, I was on weather watch."
-    p "该死，我本该负责气象瞭望的"
+    p "该死，我本该负责气象瞭望的。"
 
 # game/script day12.rpy:389
 translate Chinese day12_main_start_a0b00832:
@@ -473,19 +473,19 @@ translate Chinese day12_main_start_a0b00832:
 translate Chinese day12_main_start_8e016a83:
 
     # "As he speaks, you hear Arthur shout a command to coordinate the crew."
-    "他说话时，你听到Authur正在大声下达指令，协调船员们行动"
+    "他说话时，你听到Arthur正在大声下达指令，协调船员们行动。"
 
 # game/script day12.rpy:397
 translate Chinese day12_main_start_7f0e8047:
 
     # "After the call for all hands had been sounded, Arthur's gaze falls upon you once more. Gradually your wits are beginning to return to you."
-    "全体船员集合的号令响起之后，Authur的目光再次落在你身上。渐渐地，你也开始清醒过来"
+    "全体船员集合的号令响起之后，Arthur的目光再次落在你身上。渐渐地，你也开始清醒过来。"
 
 # game/script day12.rpy:399
 translate Chinese day12_main_start_16981d37:
 
     # a "There's a reason we assign felines to night weather watch, Mr. [family_name]."
-    a "[family_name]先生，我们安排猫科动物负责夜间气象瞭望，是有原因的"
+    a "[family_name]先生，我们安排猫科动物负责夜间气象瞭望，是有原因的。"
 
 # game/script day12.rpy:401
 translate Chinese day12_main_start_7f183992:
@@ -503,7 +503,7 @@ translate Chinese day12_main_start_e5b9d4cd:
 translate Chinese day12_main_start_a3540ac5:
 
     # "Your eyes snap open at your realization, and the sleep-induced haze evaporates in an instant."
-    "你意识到这一点时眼睛猛地睁开，朦胧的睡意瞬间消失得无影无踪"
+    "你意识到这一点时眼睛猛地睁开，朦胧的睡意瞬间消失得无影无踪。"
 
 # game/script day12.rpy:407
 translate Chinese day12_main_start_d001c64e:
@@ -515,19 +515,19 @@ translate Chinese day12_main_start_d001c64e:
 translate Chinese day12_main_start_3e5282a6:
 
     # a "Shit, indeed."
-    a "的确，这下糟了"
+    a "的确，这下糟了。"
 
 # game/script day12.rpy:413
 translate Chinese day12_main_start_b98df8fd:
 
     # a "We're miles from a thunderhead, starboard bow, and no warning."
-    a "我们距离右舷船头方向的积雨云只有几英里了，却没有任何预警"
+    a "我们距离右舷船头方向的积雨云只有几英里了，却没有任何预警。"
 
 # game/script day12.rpy:415
 translate Chinese day12_main_start_9bbfd3b1:
 
     # "Instead of addressing you, he bellows out his next command to the entire crew."
-    "他没有再理会你，而是对着全体船员吼出了下一道命令"
+    "他没有再理会你，而是对着全体船员吼出了下一道命令。"
 
 # game/script day12.rpy:419
 translate Chinese day12_main_start_cf3aa5fa:
@@ -539,49 +539,49 @@ translate Chinese day12_main_start_cf3aa5fa:
 translate Chinese day12_main_start_9a8bda9e:
 
     # a "Topmen to the main topgallants, rest of you to the main upper topsail."
-    a "上桅帆手到主上桅帆，其余人到主上桅中帆"
+    a "上桅帆手到主上桅帆，其余人到主上桅中帆。"
 
 # game/script day12.rpy:427
 translate Chinese day12_main_start_ac846570:
 
     # "As the crew springs into action, not a single breath is wasted. They scale the shrouds with practiced efficiency to carry out the orders."
-    "船员们立刻行动起来，没有浪费一丝力气。他们熟练而高效地沿着侧支索攀爬，去执行命令"
+    "船员们立刻行动起来，没有浪费一丝力气。他们熟练而高效地沿着侧支索攀爬，去执行命令。"
 
 # game/script day12.rpy:431
 translate Chinese day12_main_start_2e01cdfd:
 
     # "Samuel first among them, swift and sure in each movement."
-    "Samuel一马当先，每个动作都迅速而果断"
+    "Samuel一马当先，每个动作都迅速而果断。"
 
 # game/script day12.rpy:437
 translate Chinese day12_main_start_1cdb37a3:
 
     # "Julian seamlessly joins the others."
-    "Julian迅速加入了其他人之中"
+    "Julian迅速加入了其他人之中。"
 
 # game/script day12.rpy:443
 translate Chinese day12_main_start_66d76fe6:
 
     # "Wolf wastes no time either, leaving you on the deck to ascend alongside the others."
-    "Wolf也毫不耽搁，把你留在甲板上，和其他人一起向上爬去"
+    "Wolf也毫不耽搁，把你留在甲板上，和其他人一起向上爬去。"
 
 # game/script day12.rpy:445
 translate Chinese day12_main_start_5fd99d46:
 
     # "They all turn into dark silhouettes, dimly outlined against the twilight sky."
-    "他们都变成了黑暗中的剪影，在暮色天空的映衬下勾勒出模糊的轮廓"
+    "他们都变成了黑暗中的剪影，在暮色天空的映衬下勾勒出模糊的轮廓。"
 
 # game/script day12.rpy:449
 translate Chinese day12_main_start_643ad0a0:
 
     # "You know you blundered."
-    "你知道你搞砸了"
+    "你知道你搞砸了。"
 
 # game/script day12.rpy:455
 translate Chinese day12_main_start_79a46831:
 
     # "And you know Arthur will not be happy about it."
-    "而且你也知道Authur肯定会为此不高兴"
+    "而且你也知道Arthur肯定会为此不高兴。"
 
 # game/script day12.rpy:463
 translate Chinese day12_main_start_08159584:
@@ -593,7 +593,7 @@ translate Chinese day12_main_start_08159584:
 translate Chinese day12_main_start_407c5d06:
 
     # p "I sincerely apologize, sir. I should have reported the cloud earlier."
-    p "长官，我真诚地向您道歉。我本应该早点报告那片云的情况"
+    p "长官，我真诚地向您道歉。我本应该早点报告那片云的情况。"
 
 # game/script day12.rpy:486
 translate Chinese day12_main_start_4f5c1598:
@@ -617,7 +617,7 @@ translate Chinese day12_main_start_6d7e1a57:
 translate Chinese day12_main_start_0a4a447e:
 
     # "You know him well enough, and are smart enough, not to open your muzzle again and let your actions speak instead."
-    "你足够了解他，也够聪明，所以没有再开口，而是用行动来回应"
+    "你足够了解他，也够聪明，所以没有再开口，而是用行动来回应。"
 
 # game/script day12.rpy:505
 translate Chinese day12_main_start_66423442:
@@ -630,85 +630,85 @@ translate Chinese day12_main_start_66423442:
 translate Chinese day12_main_start_55b0f548:
 
     # "The more seasoned sailors easily outpace you, and even though you've been on this ship for a while you still feel unsteady as you climb, given how few opportunities you had to actually do it before."
-    "经验更丰富的水手们轻易地超过了你。尽管你在这艘船上已经待了一段时间，但由于之前实际攀爬的机会寥寥无几，所以爬的时候还是感到不太稳"
+    "经验更丰富的水手们轻易地超过了你。尽管你在这艘船上已经待了一段时间，但由于之前实际攀爬的机会寥寥无几，所以爬的时候还是感到不太稳。"
 
 # game/script day12.rpy:511
 translate Chinese day12_main_start_27aa9f90:
 
     # "Without hesitation, you dart past the ship's boats and onto the shrouds. The more seasoned sailors outpace you, but in the few days you have been here, you've gained some degree of confidence in your movements."
-    "你毫不犹豫地越过船上的小艇，冲向桅索。经验丰富的水手们虽然领先于你，但在你待在这里的这几天里，你对自己的动作已经增添了几分自信"
+    "你毫不犹豫地越过船上的小艇，冲向桅索。经验丰富的水手们虽然领先于你，但在你待在这里的这几天里，你对自己的动作已经增添了几分自信。"
 
 # game/script day12.rpy:517
 translate Chinese day12_main_start_af0447a5:
 
     # "As you ascend along with the others, the thin ratlines catch between the pads of your paws."
-    "随着众人一同向上攀登，细密的绳梯夹在你爪子的肉垫之间"
+    "随着众人一同向上攀登，细密的绳梯夹在你爪子的肉垫之间。"
 
 # game/script day12.rpy:523
 translate Chinese day12_main_start_91c2137b:
 
     # "You struggle against the winds and have to consider every step."
-    "你在狂风中奋力挣扎着，每一步都得小心翼翼"
+    "你在狂风中奋力挣扎着，每一步都得小心翼翼。"
 
 # game/script day12.rpy:525
 translate Chinese day12_main_start_1931836c:
 
     # "Thankfully your feline vision helps you along, though it also makes sure that you can just about make out the wide, dark pillar of rain awaiting the ship."
-    "所幸你猫科动物的视力帮了大忙，尽管它也让你能勉强看清前方等待着船只的那一大片黑压压的雨柱"
+    "所幸你猫科动物的视力帮了大忙，尽管它也让你能勉强看清前方等待着船只的那一大片黑压压的雨柱。"
 
 # game/script day12.rpy:529
 translate Chinese day12_main_start_db626121:
 
     # "Slow as your progress is you already hear the luffing of the sail before you are anywhere close to arriving. The others already in the process of loosening and preparing to hoist it."
-    "尽管你爬得很慢，还没接近目的地就已听到了船帆的拍打声。其他人已经在松解帆布，准备升帆了"
+    "尽管你爬得很慢，还没接近目的地就已听到了船帆的拍打声。其他人已经在松解帆布，准备升帆了。"
 
 # game/script day12.rpy:533
 translate Chinese day12_main_start_25682bfc:
 
     # "The wind tugs at your fur more and more the higher you go, and your feline vision can just about make out the wide, dark pillar of rain awaiting the ship."
-    "越往高处，风就越发猛烈地拉扯着你的毛发，你凭借猫科动物的视力，勉强能看到那片宽阔、暗沉的雨柱正等着这艘船"
+    "越往高处，风就越发猛烈地拉扯着你的毛发，你凭借猫科动物的视力，勉强能看到那片宽阔、暗沉的雨柱正等着这艘船。"
 
 # game/script day12.rpy:537
 translate Chinese day12_main_start_d727de68:
 
     # "The telltale sound of the sail luffing reaches your ears even before you arrive. The others already in the process of loosening and preparing to hoist it."
-    "人未至，船帆拍打的标志性声响就已经传入耳中。其他人已经在松解帆布，准备升帆了"
+    "人未至，船帆拍打的标志性声响就已经传入耳中。其他人已经在松解帆布，准备升帆了。"
 
 # game/script day12.rpy:539
 translate Chinese day12_main_start_40c231bf:
 
     # "You climb onto the main top and continue your journey up until you reach the upper topsail."
-    "你爬上主桅楼，继续向上，直到抵达上桅帆的位置"
+    "你爬上主桅楼，继续向上，直到抵达上桅帆的位置。"
 
 # game/script day12.rpy:546
 translate Chinese day12_main_start_048fe9c6:
 
     # "Although you are not afraid of heights, you try not to look down while carefully taking your position on the upper topsail yard."
-    "虽然你不恐高，但在小心翼翼地在上顶帆的横桁上就位时，还是尽量不往下看"
+    "虽然你不恐高，但在小心翼翼地在上顶帆的横桁上就位时，还是尽量不往下看。"
 
 # game/script day12.rpy:554
 translate Chinese day12_main_start_4a368d6a:
 
     # "Samuel is right beside you, coordinating the crew and leaning over the yard to check the progress along its length."
-    "Samuel就在你旁边，指挥着船员们，并俯身于帆桁上检查整条帆布的进展情况"
+    "Samuel就在你旁边，指挥着船员们，并俯身于帆桁上检查整条帆布的进展情况。"
 
 # game/script day12.rpy:561
 translate Chinese day12_main_start_3f5d83b5:
 
     # s "There you are."
-    s "你可算来了"
+    s "你可算来了。"
 
 # game/script day12.rpy:563
 translate Chinese day12_main_start_9b5d86e5:
 
     # "Initially, you don't respond, focused on catching up with the others. But as your section of the sail slackens, you turn to face Sam."
-    "起初，你没搭理他，一门心思地跟上其他人。但当你那部分的帆布松下来后，你转头面向Sam"
+    "起初，你没搭理他，一门心思地跟上其他人。但当你那部分的帆布松下来后，你转头面向Sam。"
 
 # game/script day12.rpy:565
 translate Chinese day12_main_start_1fbca809:
 
     # p "I didn't mean to fall asleep."
-    p "我不是故意睡着的"
+    p "我不是故意睡着的。"
 
 # game/script day12.rpy:567
 translate Chinese day12_main_start_7c308b9a:
@@ -726,43 +726,43 @@ translate Chinese day12_main_start_ea739d89:
 translate Chinese day12_main_start_7ef025e3:
 
     # "You hoist with the others."
-    "你与其他水手一同拉起帆索"
+    "你与其他水手一同拉起帆索。"
 
 # game/script day12.rpy:575
 translate Chinese day12_main_start_c91d9c3b:
 
     # s "I know."
-    s "我知道"
+    s "我知道。"
 
 # game/script day12.rpy:579
 translate Chinese day12_main_start_2035c127:
 
     # s "But you did."
-    s "但你确实睡着了"
+    s "但你确实睡着了。"
 
 # game/script day12.rpy:581
 translate Chinese day12_main_start_a63aec65:
 
     # s "And now we're scrambling to reef the sails before our masts get torn apart."
-    s "现在我们得赶紧收帆，不然桅杆都要被扯断了"
+    s "现在我们得赶紧收帆，不然桅杆都要被扯断了。"
 
 # game/script day12.rpy:583
 translate Chinese day12_main_start_3946236b:
 
     # s "For fuck's sake, you {i}cannot{/i} fall asleep when you're assigned the weather watch."
-    s "该死，轮到你负责气象瞭望的时候，你{i}绝不能{/i}睡着"
+    s "该死，轮到你负责气象瞭望的时候，你{i}绝不能{/i}睡着。"
 
 # game/script day12.rpy:585
 translate Chinese day12_main_start_00a3ca52:
 
     # s "Not at night, when most of your watchmates struggle to match your vision."
-    s "尤其是在晚上，大多数同班岗哨的船员视力都比不上你的时候"
+    s "尤其是在晚上，大多数同班岗哨的船员视力都比不上你的时候。"
 
 # game/script day12.rpy:587
 translate Chinese day12_main_start_ff9a605b:
 
     # "You take a steadying breath and renew your efforts to raise the sail to the first reef line."
-    "你深吸一口气，稳住心神，重新发力把船帆升到第一道收帆索的位置"
+    "你深吸一口气，稳住心神，重新发力把船帆升到第一道收帆索的位置。"
 
 # game/script day12.rpy:589
 translate Chinese day12_main_start_a55e9de3:
@@ -774,7 +774,7 @@ translate Chinese day12_main_start_a55e9de3:
 translate Chinese day12_main_start_5ccea688:
 
     # "It comes out almost like a whisper at first, and you repeat yourself."
-    "起初你的话几乎像耳语，而后你又重复了一遍"
+    "起初你的话几乎像耳语，而后你又重复了一遍。"
 
 # game/script day12.rpy:593
 translate Chinese day12_main_start_a55e9de3_1:
@@ -786,37 +786,37 @@ translate Chinese day12_main_start_a55e9de3_1:
 translate Chinese day12_main_start_80dc64ee:
 
     # p "I wouldn't be so tired if Arthur weren't on my ass all day since the moment we set sail."
-    p "要不是从起航那一刻起，Authur就整天盯着我不放，我也不会这么累"
+    p "要不是从起航那一刻起，Arthur就整天盯着我不放，我也不会这么累。"
 
 # game/script day12.rpy:597
 translate Chinese day12_main_start_51812976:
 
     # p "Barely got any sleep the last few days."
-    p "这几天我几乎没合过眼"
+    p "这几天我几乎没合过眼。"
 
 # game/script day12.rpy:599
 translate Chinese day12_main_start_2d6dad13:
 
     # p "As if it isn't hard enough to get used to the schedule, but then I have him breathing down my neck."
-    p "光是适应船上的作息本就够难的了，他还一直紧盯着我"
+    p "光是适应船上的作息本就够难的了，他还一直紧盯着我。"
 
 # game/script day12.rpy:601
 translate Chinese day12_main_start_eec02cdc:
 
     # p "Where every single fart of mine is scrutinized."
-    p "连我放的每一个屁都要仔细检查"
+    p "连我放的每一个屁都要仔细检查。"
 
 # game/script day12.rpy:603
 translate Chinese day12_main_start_cd22435d:
 
     # "You feel the urge to vent your frustrations simmer. Longing to hurl something into the dark sea below. To punch something.{w} Anything to let off the steam that has been building for the past week and change."
-    "你感觉心中积压的挫败感开始翻腾，渴望把什么东西扔进下面漆黑的大海，或是狠狠揍上一拳，{w}什么都行，只要能释放过去一周多以来积压的压力"
+    "你感觉心中积压的挫败感开始翻腾，渴望把什么东西扔进下面漆黑的大海，或是狠狠揍上一拳，{w}什么都行，只要能释放过去一周多以来积压的压力。"
 
 # game/script day12.rpy:605
 translate Chinese day12_main_start_bbe3e698:
 
     # "But the weight of the sail denies you that pleasure as it sits heavy in your arms and you strain to haul it up to the second reef line."
-    "但沉重的帆布让你无法如愿，它沉甸甸地压在你臂弯里，你费力地将其拉升至第二道收帆索处"
+    "但沉重的帆布让你无法如愿，它沉甸甸地压在你臂弯里，你费力地将其拉升至第二道收帆索处。"
 
 # game/script day12.rpy:607
 translate Chinese day12_main_start_38a16004:
@@ -834,7 +834,7 @@ translate Chinese day12_main_start_45b1bb07:
 translate Chinese day12_main_start_b11ff9ba:
 
     # "You spit back at [him] as your frustrations start boiling over."
-    "当内心的挫败感终于爆发，你冲着[him]回嘴道"
+    "当内心的挫败感终于爆发，你冲着[him]回嘴道。"
 
 # game/script day12.rpy:613
 translate Chinese day12_main_start_00cfffb6:
@@ -846,7 +846,7 @@ translate Chinese day12_main_start_00cfffb6:
 translate Chinese day12_main_start_5482d53f:
 
     # "Wolf is working on the yard, and you slip in line yourself, joining the group of sailors right next to him."
-    "Wolf正在帆桁上干活，你也排到队伍里，站到紧挨着他的那群水手中间"
+    "Wolf正在帆桁上干活，你也排到队伍里，站到紧挨着他的那群水手中间。"
 
 # game/script day12.rpy:628
 translate Chinese day12_main_start_1fbca809_1:
@@ -858,7 +858,7 @@ translate Chinese day12_main_start_1fbca809_1:
 translate Chinese day12_main_start_d1d8eb9f:
 
     # "He doesn't answer. Concentrating on loosening the sail, his silence stretches for nearly half a minute."
-    "他没有回答。专注于松解船帆，而且沉默了将近半分钟"
+    "他没有回答。专注于松解船帆，而且沉默了将近半分钟。"
 
 # game/script day12.rpy:632
 translate Chinese day12_main_start_f9c93d61:
@@ -870,19 +870,19 @@ translate Chinese day12_main_start_f9c93d61:
 translate Chinese day12_main_start_f9a203eb:
 
     # w "Doesn't matter if you meant it or not."
-    w "不管你是不是故意的"
+    w "不管你是不是故意的。"
 
 # game/script day12.rpy:636
 translate Chinese day12_main_start_2a471c83:
 
     # p "...I know."
-    p "……我知道"
+    p "……我知道。"
 
 # game/script day12.rpy:640
 translate Chinese day12_main_start_e1273972:
 
     # "The air is filled with the sound of Samuel's call—a coordinated pull.{w} You join the others, hoisting the sail."
-    "空气中回荡着Samuel的号令——一次协调的拉拽。{w}你也加入其他水手，和他们一同升起船帆"
+    "空气中回荡着Samuel的号令——一次协调的拉拽。{w}你也加入其他水手，和他们一同升起船帆。"
 
 # game/script day12.rpy:642
 translate Chinese day12_main_start_6cb9537e:
@@ -900,25 +900,25 @@ translate Chinese day12_main_start_f64490ff:
 translate Chinese day12_main_start_3cd5483d:
 
     # p "And perhaps could actually recover from the injuries."
-    p "而且说不定身上的伤真的能慢慢痊愈"
+    p "而且说不定身上的伤真的能慢慢痊愈。"
 
 # game/script day12.rpy:650
 translate Chinese day12_main_start_794b4509:
 
     # p "Even without him following me like a hawk it'd be almost impossible to sleep. I have like one position I've found that doesn't hurt like hell."
-    p "就算他不像老鹰盯着猎物似的跟着我，我也几乎不可能睡着。我好不容易找到一个不会疼得要命的姿势"
+    p "就算他不像老鹰盯着猎物似的跟着我，我也几乎不可能睡着。我好不容易找到一个不会疼得要命的姿势。"
 
 # game/script day12.rpy:652
 translate Chinese day12_main_start_e9382ad6:
 
     # p "Have to sleep on the damn floor, and then I have him breathing down my neck, scrutinizing every single fart of mine."
-    p "不得不睡在该死的地板上，然后还得忍受他在我背后紧盯着，连我放的每一个屁都要锱铢必较"
+    p "不得不睡在该死的地板上，然后还得忍受他在我背后紧盯着，连我放的每一个屁都要锱铢必较。"
 
 # game/script day12.rpy:656
 translate Chinese day12_main_start_e99a60b5:
 
     # p "I've hardly slept the last few days."
-    p "我这几天几乎没合过眼"
+    p "我这几天几乎没合过眼。"
 
 # game/script day12.rpy:658
 translate Chinese day12_main_start_2d6dad13_1:
@@ -961,7 +961,7 @@ translate Chinese day12_main_start_9dd57eec:
 translate Chinese day12_main_start_effa48c8:
 
     # p "Nothing.{w} Nothing, Wolf."
-    p "没什么。{w}没什么，Wolf"
+    p "没什么。{w}没什么，Wolf。"
 
 # game/script day12.rpy:680
 translate Chinese day12_main_start_4f910dba:
@@ -973,25 +973,25 @@ translate Chinese day12_main_start_4f910dba:
 translate Chinese day12_main_start_539b49c5:
 
     # p "I guess I'm starting to understand why you prefer to have a quiet day once in a while."
-    p "我想我开始明白你为什么偶尔喜欢过天清静日子了"
+    p "我想我开始明白你为什么偶尔喜欢过天清静日子了。"
 
 # game/script day12.rpy:686
 translate Chinese day12_main_start_e3125f74:
 
     # "He doesn't answer, but you catch the hitch of his breath as he stops short of a chuckle."
-    "他没有回答，但就在他差点笑出声却又硬生生忍住的时候，你察觉到了他呼吸的一滞"
+    "他没有回答，但就在他差点笑出声却又硬生生忍住的时候，你察觉到了他呼吸的一滞。"
 
 # game/script day12.rpy:690
 translate Chinese day12_main_start_cb603d45:
 
     # p "You know, just to show that you are more than an emotionless husk."
-    p "你知道，只是为了证明你不只是个没有感情的空壳"
+    p "你知道，只是为了证明你不只是个没有感情的空壳。"
 
 # game/script day12.rpy:692
 translate Chinese day12_main_start_3f6c3039:
 
     # "He doesn't respond immediately, instead he blankly searches your expression.{w} You can't quite discern what he's looking for, though."
-    "他没有立即回应，而是茫然地审视着你的表情。{w}不过你不太确定他在寻找什么"
+    "他没有立即回应，而是茫然地审视着你的表情。{w}不过你不太确定他在寻找什么。"
 
 # game/script day12.rpy:694
 translate Chinese day12_main_start_82e60f92:
@@ -1003,43 +1003,43 @@ translate Chinese day12_main_start_82e60f92:
 translate Chinese day12_main_start_d0be500f:
 
     # p "No, Wolf. For all the shit that led to it."
-    p "不，Wolf。我是说导致这件事的所有破事"
+    p "不，Wolf。我是说导致这件事的所有破事。"
 
 # game/script day12.rpy:698
 translate Chinese day12_main_start_cb2a8c9f:
 
     # w "I'm sorry that you are going through this. I can imagine it's not easy to feel someone breathing down your neck, and to live with the suffocating fear that comes with it."
-    w "我很抱歉你正在经历这些。我能想象，被人紧盯着不放，还要忍受随之而来的那种令人窒息的恐惧，这并不容易"
+    w "我很抱歉你正在经历这些。我能想象，被人紧盯着不放，还要忍受随之而来的那种令人窒息的恐惧，这并不容易。"
 
 # game/script day12.rpy:700
 translate Chinese day12_main_start_9bb6351f:
 
     # "You fold down your ears in surprise. Even though you asked for it, you didn't expect to hear a sentence that sounds so heartfelt from him."
-    "你惊讶地垂下耳朵。尽管是你要求的，但你没料到会从他口中听到如此真心实意的话"
+    "你惊讶地垂下耳朵。尽管是你要求的，但你没料到会从他口中听到如此真心实意的话。"
 
 # game/script day12.rpy:702
 translate Chinese day12_main_start_a20d0626:
 
     # p "Um, thank you."
-    p "呃，谢谢"
+    p "呃，谢谢。"
 
 # game/script day12.rpy:704
 translate Chinese day12_main_start_007b8b6f:
 
     # p "Genuinely. I appreciate it."
-    p "真心地。我感激不尽"
+    p "真心地。我感激不尽。"
 
 # game/script day12.rpy:706
 translate Chinese day12_main_start_b456df5c:
 
     # p "It's, uh, less fear and more constant stress, but I'm starting to understand why you prefer to have a quiet day once in a while."
-    p "这，呃，与其说是恐惧，更多的是持续不断的压力，但我开始明白你为什么偶尔喜欢过天清静日子了"
+    p "这，呃，与其说是恐惧，更多的是持续不断的压力，但我开始明白你为什么偶尔喜欢过天清静日子了。"
 
 # game/script day12.rpy:710
 translate Chinese day12_main_start_d953ebc7:
 
     # "You get your wish and Wolf does exactly as you asked him to before he turns back to his task."
-    "你如愿以偿，Wolf完全照你说的做了，然后才回头继续工作"
+    "你如愿以偿，Wolf完全照你说的做了，然后才回头继续工作。"
 
 # game/script day12.rpy:712
 translate Chinese day12_main_start_6f2bc6f4:
@@ -1051,19 +1051,19 @@ translate Chinese day12_main_start_6f2bc6f4:
 translate Chinese day12_main_start_3d6138a7:
 
     # p "Now you look as if you care, and I feel like I'm conversing with someone who isn't just an empty shell."
-    p "现在你看起来像是在意我的感受了，我感觉自己是在和一个有血有肉的人交谈，而不是行尸走肉"
+    p "现在你看起来像是在意我的感受了，我感觉自己是在和一个有血有肉的人交谈，而不是行尸走肉。"
 
 # game/script day12.rpy:716
 translate Chinese day12_main_start_0f981756:
 
     # "You regret your words immediately, but Wolf shows no reaction to them."
-    "话一出口你就反悔了，但Wolf对此毫无反应"
+    "话一出口你就反悔了，但Wolf对此毫无反应。"
 
 # game/script day12.rpy:718
 translate Chinese day12_main_start_2d2b6351:
 
     # p "Mostly I'm just annoyed with myself."
-    p "主要是我只是在生自己的气"
+    p "主要是我只是在生自己的气。"
 
 # game/script day12.rpy:720
 translate Chinese day12_main_start_539b49c5_1:
@@ -1075,13 +1075,13 @@ translate Chinese day12_main_start_539b49c5_1:
 translate Chinese day12_main_start_5f2286c0:
 
     # w "I haven't seen you use anything for your back."
-    w "我没见你用过任何治背的东西"
+    w "我没见你用过任何治背的东西。"
 
 # game/script day12.rpy:726
 translate Chinese day12_main_start_047d324f:
 
     # p "I haven't."
-    p "是没有"
+    p "是没有。"
 
 # game/script day12.rpy:728
 translate Chinese day12_main_start_b29da725:
@@ -1093,7 +1093,7 @@ translate Chinese day12_main_start_b29da725:
 translate Chinese day12_main_start_f2ebb048:
 
     # "He tips his head to the side before turning to you."
-    "他把头歪向一边，然后转向你"
+    "他把头歪向一边，然后转向你。"
 
 # game/script day12.rpy:732
 translate Chinese day12_main_start_2f2f8bf8:
@@ -1105,7 +1105,7 @@ translate Chinese day12_main_start_2f2f8bf8:
 translate Chinese day12_main_start_aa25b7ec:
 
     # p "It's gotten better."
-    p "好一些了"
+    p "好一些了。"
 
 # game/script day12.rpy:736
 translate Chinese day12_main_start_901ff84c:
@@ -1117,13 +1117,13 @@ translate Chinese day12_main_start_901ff84c:
 translate Chinese day12_main_start_096e61d9:
 
     # w "Absolutely not."
-    w "没门"
+    w "没门。"
 
 # game/script day12.rpy:748
 translate Chinese day12_main_start_615a80e2:
 
     # "Julian is working right next to you, leaning against the yard to steady himself."
-    "Julian就在你旁边干活，他靠在帆桁上稳住自己"
+    "Julian就在你旁边干活，他靠在帆桁上稳住自己。"
 
 # game/script day12.rpy:755
 translate Chinese day12_main_start_dbea8f2c:
@@ -1141,7 +1141,7 @@ translate Chinese day12_main_start_aaef0cc5:
 translate Chinese day12_main_start_4d9f6ca0:
 
     # "You don't answer at first, stewing in your frustration while you work, but as soon as your part of the sail is loosened, you turn to Julian."
-    "起初你没有回应，一边干活一边沉浸在懊恼中，但等你负责的那部分船帆一松，你就转向Julian"
+    "起初你没有回应，一边干活一边沉浸在懊恼中，但等你负责的那部分船帆一松，你就转向Julian。"
 
 # game/script day12.rpy:761
 translate Chinese day12_main_start_7b555548:
@@ -1153,19 +1153,19 @@ translate Chinese day12_main_start_7b555548:
 translate Chinese day12_main_start_25f5d937:
 
     # p "I didn't mean to fall asleep, Jules."
-    p "我不是故意睡着的，Jules"
+    p "我不是故意睡着的，Jules。"
 
 # game/script day12.rpy:765
 translate Chinese day12_main_start_2419d700:
 
     # j "Look, man, I get it; I'd rather be sleeping right now, too."
-    j "听着，伙计，我懂；我现在也宁愿在睡觉呢"
+    j "听着，伙计，我懂；我现在也宁愿在睡觉呢。"
 
 # game/script day12.rpy:767
 translate Chinese day12_main_start_b4079a27:
 
     # "A call for a coordinated pull from Samuel soars up among the masts. You hoist the sail in time with the others. Your muscles burn with effort, both from the weight of the sail and from clinging to the rigging."
-    "Samuel发出一声号召大家齐心协力拉的号令声音在桅杆间高高传扬开来。你和其他人一起及时拉起船帆。由于船帆的重量，也因为要紧紧抓着索具，你的肌肉因用力而灼痛"
+    "Samuel发出一声号召大家齐心协力拉的号令声音在桅杆间高高传扬开来。你和其他人一起及时拉起船帆。由于船帆的重量，也因为要紧紧抓着索具，你的肌肉因用力而灼痛。"
 
 # game/script day12.rpy:771
 translate Chinese day12_main_start_6d7e94b0:
@@ -1195,19 +1195,19 @@ translate Chinese day12_main_start_071b2a1d:
 translate Chinese day12_main_start_7d53252a:
 
     # "You stop yourself just shy of shouting at the lizard."
-    "你差点对他吼出来，但还是忍住了"
+    "你差点对他吼出来，但还是忍住了。"
 
 # game/script day12.rpy:785
 translate Chinese day12_main_start_78a8a600:
 
     # p "He's just been up my ass since I came on board. Everything I do is scrutinized."
-    p "自我上船以来，他就一直盯着我不放。我做的每一件事都要被他仔细检查"
+    p "自我上船以来，他就一直盯着我不放。我做的每一件事都要被他仔细检查。"
 
 # game/script day12.rpy:787
 translate Chinese day12_main_start_33518ac6:
 
     # p "My work, my rest, how I eat dinner... He's probably thinking about how I breathe wrong, too."
-    p "我的工作、我的休息、我吃饭的样子……说不定他连我呼吸的方式都觉得不对"
+    p "我的工作、我的休息、我吃饭的样子……说不定他连我呼吸的方式都觉得不对。"
 
 # game/script day12.rpy:789
 translate Chinese day12_main_start_e357a6c7:
@@ -1237,25 +1237,25 @@ translate Chinese day12_main_start_f4c34f71:
 translate Chinese day12_main_start_1348e79a:
 
     # "This time you {i}do{/i} shout. A few heads turn your way before refocusing on their work."
-    "这次你{i}真的{/i}吼了出来。几个水手扭头看了你一眼，随后又专注于自己的工作"
+    "这次你{i}真的{/i}吼了出来。几个水手扭头看了你一眼，随后又专注于自己的工作。"
 
 # game/script day12.rpy:803
 translate Chinese day12_main_start_87e6bd9b:
 
     # "You take a second to breathe and renew your efforts to pull the sail up to the first reef line."
-    "你花了些时间喘口气，重新发力将船帆拉至第一道收帆索处"
+    "你花了些时间喘口气，重新发力将船帆拉至第一道收帆索处。"
 
 # game/script day12.rpy:805
 translate Chinese day12_main_start_0bfde634:
 
     # p "Yes, I know.{p}Yes, I messed up.{p}Yes, we're up here because of me."
-    p "没错，我知道。{p}没错，是我搞砸了。{p}没错，我们落入这般境地都是因为我"
+    p "没错，我知道。{p}没错，是我搞砸了。{p}没错，我们落入这般境地都是因为我。"
 
 # game/script day12.rpy:807
 translate Chinese day12_main_start_f77d634c:
 
     # p "And none of it would have happened if the first mate was reasonable instead of being a fastidious little prick."
-    p "但要是大副能通情达理点，而不是个吹毛求疵的混蛋，这一切就都不会发生"
+    p "但要是大副能通情达理点，而不是个吹毛求疵的混蛋，这一切就都不会发生。"
 
 # game/script day12.rpy:809
 translate Chinese day12_main_start_cd22435d_2:
@@ -1268,7 +1268,6 @@ translate Chinese day12_main_start_bbe3e698_2:
 
     # "But the weight of the sail denies you that pleasure as it sits heavy in your arms and you strain to haul it up to the second reef line."
     "然而沉重粗粝的帆布剥夺了你发泄的余地，它死沉沉地压在你的双臂上，你咬紧牙关，拼尽全力把它拉向第二道缩帆索。"
-    # 译注: reef line（缩帆索），帆船遇强风时用以扎紧部分帆面以减小受风面积的索具；此处指绑扎第二道缩帆（second reef）。
 
 # game/script day12.rpy:813
 translate Chinese day12_main_start_e7562669:
@@ -1280,31 +1279,31 @@ translate Chinese day12_main_start_e7562669:
 translate Chinese day12_main_start_0509ea57:
 
     # "The lizard appears to be taken aback by your outburst and responds meekly. He swallows."
-    "他似乎被你的爆发吓了一跳，又咽了咽口水，怯生生地回应道"
+    "他似乎被你的爆发吓了一跳，又咽了咽口水，怯生生地回应道。"
 
 # game/script day12.rpy:817
 translate Chinese day12_main_start_46cce4b5:
 
     # j "I don't like him either."
-    j "我也不喜欢他"
+    j "我也不喜欢他。"
 
 # game/script day12.rpy:821
 translate Chinese day12_main_start_fe8c04f6:
 
     # j "And I'm sorry about what happened to you."
-    j "我对你遭遇的事情感到很抱歉"
+    j "我对你遭遇的事情感到很抱歉。"
 
 # game/script day12.rpy:823
 translate Chinese day12_main_start_dd249817:
 
     # j "I shouldn't have made light of what they did to you."
-    j "我不该拿他们对你做的事开玩笑"
+    j "我不该拿他们对你做的事开玩笑。"
 
 # game/script day12.rpy:825
 translate Chinese day12_main_start_8f6c6763:
 
     # "You sigh, nodding your understanding before speaking up softly."
-    "你叹了口气，点头表示理解，然后轻声说道"
+    "你叹了口气，点头表示理解，然后轻声说道。"
 
 # game/script day12.rpy:827
 translate Chinese day12_main_start_a2f321cd:
@@ -1316,13 +1315,13 @@ translate Chinese day12_main_start_a2f321cd:
 translate Chinese day12_main_start_2eb00c4c:
 
     # p "Just imagine him scrutinizing and correcting everything you did, even things that aren't his business. He doesn't trust you to even tie a knot on your own."
-    p "想象一下，他对你做的每件事都吹毛求疵、横加纠正，甚至连与他无关的事也不放过。他甚至都不相信你能自己打好一个结"
+    p "想象一下，他对你做的每件事都吹毛求疵、横加纠正，甚至连与他无关的事也不放过。他甚至都不相信你能自己打好一个结。"
 
 # game/script day12.rpy:832
 translate Chinese day12_main_start_3d0ae91c:
 
     # "You scoff, just as frustrated with yourself in the moment."
-    "你嗤之以鼻，此刻对自己也同样感到懊恼"
+    "你嗤之以鼻，此刻对自己也同样感到懊恼。"
 
 # game/script day12.rpy:834
 translate Chinese day12_main_start_63c2c154:
@@ -1334,43 +1333,43 @@ translate Chinese day12_main_start_63c2c154:
 translate Chinese day12_main_start_b4c4971a:
 
     # "You line up next to Perce, who rejoined the active crew a few days ago after recovering from his injury."
-    "你站到Perce旁边，他几天前伤愈后重新加入了现役船员的行列"
+    "你站到Perce旁边，他几天前伤愈后重新加入了现役船员的行列。"
 
 # game/script day12.rpy:846
 translate Chinese day12_main_start_0934e808:
 
     # "You line up next to Perce, a sailor you met a few days ago after he returned to active duty from his injury."
-    "你站到Perce旁边，他是你几天前遇到的一名水手，当时他刚伤愈归队"
+    "你站到Perce旁边，他是你几天前遇到的一名水手，当时他刚伤愈归队。"
 
 # game/script day12.rpy:855
 translate Chinese day12_main_start_1f75ff0b:
 
     # "He scoots over and allows you to work your section of the sail with the ship's deck swaying far below your feet."
-    "他挪了挪身子，让你在脚下远处摇晃的甲板上操作你负责的那部分船帆"
+    "他挪了挪身子，让你在脚下远处摇晃的甲板上操作你负责的那部分船帆。"
 
 # game/script day12.rpy:857
 translate Chinese day12_main_start_14f251d6:
 
     # pb "Here, you can pull in this section."
-    pb "来，你可以拉这一部分"
+    pb "来，你可以拉这一部分。"
 
 # game/script day12.rpy:859
 translate Chinese day12_main_start_dee7dca6:
 
     # "You nod and grip the coarse fabric of the sail."
-    "你点点头，抓住粗糙的帆布"
+    "你点点头，抓住粗糙的帆布。"
 
 # game/script day12.rpy:861
 translate Chinese day12_main_start_9dc57b54:
 
     # p "Will do."
-    p "好的"
+    p "好的。"
 
 # game/script day12.rpy:863
 translate Chinese day12_main_start_976b0ffe:
 
     # "Considering how suddenly the order came, he probably doesn't know why the cloud was—no, rather {i}who{/i} missed it."
-    "考虑到命令来得如此突然，他大概不知道为什么没发现那片云——不，应该说，是{i}谁{/i}没发现"
+    "考虑到命令来得如此突然，他大概不知道为什么没发现那片云——不，应该说，是{i}谁{/i}没发现。"
 
 # game/script day12.rpy:870
 translate Chinese day12_main_start_7dae7b78:
@@ -1382,13 +1381,13 @@ translate Chinese day12_main_start_7dae7b78:
 translate Chinese day12_main_start_8382e3b6:
 
     # "The jackal continues his work of loosening the sail as he answers."
-    "他一边继续松船帆的活儿一边回应你"
+    "他一边继续松船帆的活儿一边回应你。"
 
 # game/script day12.rpy:876
 translate Chinese day12_main_start_bd9a7f73:
 
     # "You glance at his hand for a moment, and see that the bandages still give him difficulties handling the sheets."
-    "你瞥了一眼他的手，看到绷带还是让他操作帆索有些吃力"
+    "你瞥了一眼他的手，看到绷带还是让他操作帆索有些吃力。"
 
 # game/script day12.rpy:880
 translate Chinese day12_main_start_aae9510d:
@@ -1400,7 +1399,7 @@ translate Chinese day12_main_start_aae9510d:
 translate Chinese day12_main_start_0dc085f9:
 
     # p "It somehow feels wrong not to mention it, so I wanted to apologize."
-    p "总觉得不提一下这件事就不太对劲，所以我想道个歉"
+    p "总觉得不提一下这件事就不太对劲，所以我想道个歉。"
 
 # game/script day12.rpy:884
 translate Chinese day12_main_start_6e081b69:
@@ -1412,7 +1411,7 @@ translate Chinese day12_main_start_6e081b69:
 translate Chinese day12_main_start_4e13fde5:
 
     # "He looks at you questioningly."
-    "他疑惑地看着你"
+    "他疑惑地看着你。"
 
 # game/script day12.rpy:888
 translate Chinese day12_main_start_6274003e:
@@ -1424,7 +1423,7 @@ translate Chinese day12_main_start_6274003e:
 translate Chinese day12_main_start_1fe24dd8:
 
     # p "It might have been me who missed the clouds."
-    p "可能是我没注意到那些云"
+    p "可能是我没注意到那些云。"
 
 # game/script day12.rpy:892
 translate Chinese day12_main_start_e2a722d7:
@@ -1436,7 +1435,7 @@ translate Chinese day12_main_start_e2a722d7:
 translate Chinese day12_main_start_19c3b25c:
 
     # "His expression remains unchanged."
-    "他的表情没有变化"
+    "他的表情没有变化。"
 
 # game/script day12.rpy:896
 translate Chinese day12_main_start_6a76ccde:
@@ -1454,67 +1453,67 @@ translate Chinese day12_main_start_a5b5e62f:
 translate Chinese day12_main_start_729bd5d4:
 
     # pb "Could have left it unsaid and I'd be none the wiser."
-    pb "你不说的话我压根就不会知道"
+    pb "你不说的话我压根就不会知道。"
 
 # game/script day12.rpy:904
 translate Chinese day12_main_start_f97bcff8:
 
     # pb "But since you've been so kind to let me know...{w} Fuck yourself, then."
-    pb "但既然你这么好心告诉我……{w}那就去你的吧"
+    pb "但既然你这么好心告诉我……{w}那就去你的吧。"
 
 # game/script day12.rpy:906
 translate Chinese day12_main_start_4f801e92:
 
     # "His tone along with his features sharpen, only emphasizing the sharp angles of his face."
-    "他的语气和神情都变得尖锐起来，让他的脸显得更加棱角分明"
+    "他的语气和神情都变得尖锐起来，让他的脸显得更加棱角分明。"
 
 # game/script day12.rpy:908
 translate Chinese day12_main_start_285ee2d3:
 
     # pb "Get out of my sight."
-    pb "别让我再看到你"
+    pb "别让我再看到你。"
 
 # game/script day12.rpy:910
 translate Chinese day12_main_start_bb7dfb49:
 
     # p "I understand."
-    p "我明白"
+    p "我明白。"
 
 # game/script day12.rpy:912
 translate Chinese day12_main_start_0758a2f0:
 
     # p "Sorry. I'll work on the other side."
-    p "抱歉。我去另一边干活"
+    p "抱歉。我去另一边干活。"
 
 # game/script day12.rpy:920
 translate Chinese day12_main_start_5c5ed1c9:
 
     # "As you move to slip around him, Perce blocks your progress with an outstretched arm and pushes you back into position."
-    "当你尝试着从他身边溜过去时，Perce伸出一只胳膊挡住你的去路，把你推回原位"
+    "当你尝试着从他身边溜过去时，Perce伸出一只胳膊挡住你的去路，把你推回原位。"
 
 # game/script day12.rpy:922
 translate Chinese day12_main_start_23742c05:
 
     # "His lips curl into a wry smile and his voice softens again."
-    "他嘴角泛起一丝苦笑，声音又柔和下来"
+    "他嘴角泛起一丝苦笑，声音又柔和下来。"
 
 # game/script day12.rpy:924
 translate Chinese day12_main_start_b5a65bbb:
 
     # pb "Get back here, you idiot."
-    pb "给我回来，你个傻瓜"
+    pb "给我回来，你个傻瓜。"
 
 # game/script day12.rpy:932
 translate Chinese day12_main_start_54abfde6:
 
     # "His sudden shove nearly sends you off balance, and you cling to the yard for stability."
-    "他猛地一推让你差点失去平衡，你赶紧抓住帆桁稳住自己"
+    "他猛地一推让你差点失去平衡，你赶紧抓住帆桁稳住自己。"
 
 # game/script day12.rpy:939
 translate Chinese day12_main_start_9ffec168:
 
     # pb "As if I care what you did or didn't do."
-    pb "我才不在乎你到底干没干"
+    pb "我才不在乎你到底干没干。"
 
 # game/script day12.rpy:943
 translate Chinese day12_main_start_31b0f8de:
@@ -1532,7 +1531,7 @@ translate Chinese day12_main_start_69f020b8:
 translate Chinese day12_main_start_7b411ea5:
 
     # "He leans on the yard and shrugs, shooting you an inquisitive smirk."
-    "他靠在帆桁上耸了耸肩，带着好奇的神情冲你狡黠一笑"
+    "他靠在帆桁上耸了耸肩，带着好奇的神情冲你狡黠一笑。"
 
 # game/script day12.rpy:949
 translate Chinese day12_main_start_c225de77:
@@ -1544,25 +1543,25 @@ translate Chinese day12_main_start_c225de77:
 translate Chinese day12_main_start_ea5b43ce:
 
     # p "Hot wench? Only woman on board is the surgeon."
-    p "辣妹？那船医就是船上唯一的女人"
+    p "辣妹？那船医就是船上唯一的女人。"
 
 # game/script day12.rpy:955
 translate Chinese day12_main_start_e7348b32:
 
     # "His smirk grows into a grin wide enough for crinkles to appear at the corner of his eyes."
-    "他狡黠的坏笑咧得更开了，连眼角都笑出了皱纹"
+    "他狡黠的坏笑咧得更开了，连眼角都笑出了皱纹。"
 
 # game/script day12.rpy:957
 translate Chinese day12_main_start_0685c8fd:
 
     # pb "I stand by what I said."
-    pb "我坚持我刚说的话"
+    pb "我坚持我刚说的话。"
 
 # game/script day12.rpy:959
 translate Chinese day12_main_start_e2f941a9:
 
     # pb "Don't tell me you never side-eyed her."
-    pb "别告诉我你从没偷瞄过她"
+    pb "别告诉我你从没偷瞄过她。"
 
 # game/script day12.rpy:961
 translate Chinese day12_main_start_73530b98:
@@ -1574,37 +1573,37 @@ translate Chinese day12_main_start_73530b98:
 translate Chinese day12_main_start_c9d3e891:
 
     # p "No, nothing like that. I just fell asleep on the watch."
-    p "不，没那回事。我只是值班的时候睡着了"
+    p "不，没那回事。我只是值班的时候睡着了。"
 
 # game/script day12.rpy:967
 translate Chinese day12_main_start_bb1dfc74:
 
     # pb "It's not quite getting your dick wet, but I wouldn't turn down some sleep."
-    pb "这虽然比不上做爱的快感，但我也不会拒绝睡上一觉"
+    pb "这虽然比不上做爱的快感，但我也不会拒绝睡上一觉。"
 
 # game/script day12.rpy:969
 translate Chinese day12_main_start_668ba7d6:
 
     # p "You slept through most of the last few weeks."
-    p "过去几周大部分时间你都在睡觉"
+    p "过去几周大部分时间你都在睡觉。"
 
 # game/script day12.rpy:971
 translate Chinese day12_main_start_a63cec9a:
 
     # pb "And it was {i}amazing{/i}.{w} Well, if you don't consider the pain, the fever, feeling weak enough to barely be able to lift a finger and all that stuff."
-    pb "那真是{i}棒极了{/i}。{w}嗯，要是你不考虑疼痛、发烧、虚弱得连根手指都抬不起来这些事的话"
+    pb "那真是{i}棒极了{/i}。{w}嗯，要是你不考虑疼痛、发烧、虚弱得连根手指都抬不起来这些事的话。"
 
 # game/script day12.rpy:973
 translate Chinese day12_main_start_7e3ecd6a:
 
     # pb "But the part where I was asleep? Fan-fucking-tastic."
-    pb "但我睡着的那部分呢？那他妈简直是棒极了"
+    pb "但我睡着的那部分呢？那他妈简直是棒极了。"
 
 # game/script day12.rpy:975
 translate Chinese day12_main_start_15de7a1e:
 
     # pb "Not to mention the pampering I was getting and the alcohol I was being supplied with."
-    pb "更别提还有人悉心照顾我，还给我酒喝"
+    pb "更别提还有人悉心照顾我，还给我酒喝。"
 
 # game/script day12.rpy:979
 translate Chinese day12_main_start_8382e3b6_1:
@@ -1623,7 +1622,7 @@ translate Chinese day12_main_start_bd9a7f73_1:
 translate Chinese day12_main_start_92347d4d:
 
     # "You consider telling him, but... he can't be angry with you if he remains unaware."
-    "你想把事情告诉他，但……只要他不知道就没法生你的气"
+    "你想把事情告诉他，但……只要他不知道就没法生你的气。"
 
 # game/script day12.rpy:989
 translate Chinese day12_main_start_3df87f3e:
@@ -1635,13 +1634,13 @@ translate Chinese day12_main_start_3df87f3e:
 translate Chinese day12_main_start_3b3ae9b1:
 
     # "You snap to face him."
-    "你猛地转头看向他"
+    "你猛地转头看向他。"
 
 # game/script day12.rpy:993
 translate Chinese day12_main_start_fb8a7096:
 
     # pb "Of course I'm confined to the bed during fair weather days, and as soon as I get one leg out of bed, we get this shit."
-    pb "没错，天气好的时候我只能在床上躺着，这才刚能下床走动，就碰到这破天气"
+    pb "没错，天气好的时候我只能在床上躺着，这才刚能下床走动，就碰到这破天气。"
 
 # game/script day12.rpy:995
 translate Chinese day12_main_start_f4f59ddd:
@@ -1653,31 +1652,31 @@ translate Chinese day12_main_start_f4f59ddd:
 translate Chinese day12_main_start_775e008f:
 
     # "He laughs as he pulls in another few inches of the sail."
-    "他一边又收了几英寸船帆，一边笑着说"
+    "他一边又收了几英寸船帆，一边笑着说。"
 
 # game/script day12.rpy:1002
 translate Chinese day12_main_start_ebe66f19:
 
     # pb "Aye. Ain't that the truth."
-    pb "是啊。可不是嘛"
+    pb "是啊。可不是嘛。"
 
 # game/script day12.rpy:1004
 translate Chinese day12_main_start_7ae9d7b3:
 
     # pb "Though it wasn't so bad."
-    pb "不过也不算太糟"
+    pb "不过也不算太糟。"
 
 # game/script day12.rpy:1006
 translate Chinese day12_main_start_ad7b7b27:
 
     # pb "Well, if you don't consider the pain, the fever, feeling weak enough to barely be able to lift a finger and all that stuff."
-    pb "嗯，要是你不考虑疼痛、发烧、虚弱得连根手指都抬不起来这些事的话"
+    pb "嗯，要是你不考虑疼痛、发烧、虚弱得连根手指都抬不起来这些事的话。"
 
 # game/script day12.rpy:1008
 translate Chinese day12_main_start_eeac1113:
 
     # pb "All the injury crap."
-    pb "所有这些受伤的破事"
+    pb "所有这些受伤的破事。"
 
 # game/script day12.rpy:1010
 translate Chinese day12_main_start_7e3ecd6a_1:
@@ -1695,7 +1694,7 @@ translate Chinese day12_main_start_74ef5c12:
 translate Chinese day12_main_start_fbeffaae:
 
     # pb "Oh right, you were there that one day."
-    pb "哦对了，那天你也在那儿"
+    pb "哦对了，那天你也在那儿。"
 
 # game/script day12.rpy:1022
 translate Chinese day12_main_start_2ecd4d7b:
@@ -1707,7 +1706,7 @@ translate Chinese day12_main_start_2ecd4d7b:
 translate Chinese day12_main_start_7988a01b:
 
     # p "I do."
-    p "认识"
+    p "认识。"
 
 # game/script day12.rpy:1026
 translate Chinese day12_main_start_806968b3:
@@ -1725,37 +1724,37 @@ translate Chinese day12_main_start_0c88ed84:
 translate Chinese day12_main_start_cba209e1:
 
     # pb "Would have healed right up on the spot, I bet."
-    pb "我敢打赌当场就能痊愈"
+    pb "我敢打赌当场就能痊愈。"
 
 # game/script day12.rpy:1034
 translate Chinese day12_main_start_eef2f950:
 
     # p "I...{p}Well, I guess."
-    p "我……{p}好吧，我想是吧"
+    p "我……{p}好吧，我想是吧。"
 
 # game/script day12.rpy:1036
 translate Chinese day12_main_start_bfb622f7:
 
     # pb "Not to mention the alcohol I was being supplied with."
-    pb "更别提还给我酒喝呢"
+    pb "更别提还给我酒喝呢。"
 
 # game/script day12.rpy:1038
 translate Chinese day12_main_start_b0359c7a:
 
     # "Suddenly the First Mate's bellow echoes up the mast from below."
-    "突然，大副的吼声从桅杆下方传来"
+    "突然，大副的吼声从桅杆下方传来。"
 
 # game/script day12.rpy:1056
 translate Chinese day12_main_start_eb3a434c:
 
     # a "I didn't realize this ship had a crew of cabin boys who can't reef a sail."
-    a "我可没发现这船上还有一群连收帆都不会的见习水手呢"
+    a "我可没发现这船上还有一群连收帆都不会的见习水手呢。"
 
 # game/script day12.rpy:1058
 translate Chinese day12_main_start_83f53eb1:
 
     # a "You better start making some progress before I put those supple hands of yours to work on the nearest street corner once we reach port."
-    a "你们最好在我把你们那双细皮嫩肉的手弄到最近街角干活之前给我赶紧拿出点进展"
+    a "你们最好在我把你们那双细皮嫩肉的手弄到最近街角干活之前给我赶紧拿出点进展。"
 
 # game/script day12.rpy:1060
 translate Chinese day12_main_start_cfd941e1:
@@ -1767,7 +1766,7 @@ translate Chinese day12_main_start_cfd941e1:
 translate Chinese day12_main_start_0c677fa3:
 
     # "Down below you can see more men rushing on deck. The last of the starboard watch must have been woken up and gotten dressed to assist."
-    "你看到下方有更多水手冲上甲板。右舷值班的最后一批人肯定被叫醒穿好衣服来帮忙了"
+    "你看到下方有更多水手冲上甲板。右舷值班的最后一批人肯定被叫醒穿好衣服来帮忙了。"
 
 # game/script day12.rpy:1064
 translate Chinese day12_main_start_2bd9820f:
@@ -1785,55 +1784,55 @@ translate Chinese day12_main_start_3b866782:
 translate Chinese day12_main_start_af4d4fbc:
 
     # "Your arms are starting to seriously hurt, but you are so close to getting the sail where it needs to be."
-    "你的手臂开始疼得厉害，但你已经快把船收到合适的位置了"
+    "你的手臂开始疼得厉害，但你已经快把船收到合适的位置了。"
 
 # game/script day12.rpy:1074
 translate Chinese day12_main_start_748cb772:
 
     # "Samuel fastens [his] section before leaning over to help you pull yours the last bit, holding it steady so you can tie it off securely."
-    "Samuel固定好[his]负责的部分，然后俯身帮你拉完最后一段，稳住船帆好让你能把它牢牢系紧"
+    "Samuel固定好[his]负责的部分，然后俯身帮你拉完最后一段，稳住船帆好让你能把它牢牢系紧。"
 
 # game/script day12.rpy:1076
 translate Chinese day12_main_start_df6b41ed:
 
     # s "Look at me."
-    s "看着我"
+    s "看着我。"
 
 # game/script day12.rpy:1083
 translate Chinese day12_main_start_d854a72a:
 
     # "You do."
-    "你照做了"
+    "你照做了。"
 
 # game/script day12.rpy:1085
 translate Chinese day12_main_start_899d7dbf:
 
     # s "I know it's not easy for you."
-    s "我知道这对你来说不容易"
+    s "我知道这对你来说不容易。"
 
 # game/script day12.rpy:1087
 translate Chinese day12_main_start_b9f26040:
 
     # s "I know he's hounding you too much, but the last thing you want to do is give him a reason to feel justified."
-    s "我知道他对你太苛刻了，但你最不该做的就是给他一个觉得理所当然的理由"
+    s "我知道他对你太苛刻了，但你最不该做的就是给他一个觉得理所当然的理由。"
 
 # game/script day12.rpy:1089
 translate Chinese day12_main_start_a8788de6:
 
     # s "And that is exactly what you have done."
-    s "而你恰恰就这么做了"
+    s "而你恰恰就这么做了。"
 
 # game/script day12.rpy:1091
 translate Chinese day12_main_start_2502c9a8:
 
     # p "Maybe if he actually trusted me, then I wouldn't be worn down to the bone."
-    p "也许如果他真的信任我，那我也不至于累得骨头都散架了"
+    p "也许如果他真的信任我，那我也不至于累得骨头都散架了。"
 
 # game/script day12.rpy:1093
 translate Chinese day12_main_start_a7e31294:
 
     # p "Just yesterday he called me out of bed during my free time to drag me in for an inspection of how I greased the mast."
-    p "就在昨天，我在休息时间被他从床上叫起来，拖去检查我给桅杆上油的情况"
+    p "就在昨天，我在休息时间被他从床上叫起来，拖去检查我给桅杆上油的情况。"
 
 # game/script day12.rpy:1095
 translate Chinese day12_main_start_911b66a8:
@@ -1845,43 +1844,43 @@ translate Chinese day12_main_start_911b66a8:
 translate Chinese day12_main_start_61dc71dc:
 
     # s "So? Your slushing sucks ass."
-    s "不然呢？你涂油涂得烂透了"
+    s "不然呢？你涂油涂得烂透了。"
 
 # game/script day12.rpy:1101
 translate Chinese day12_main_start_ebf66ce7:
 
     # s "{i}I{/i} would double check it."
-    s "换{i}我{/i}也会复查的"
+    s "换{i}我{/i}也会复查的。"
 
 # game/script day12.rpy:1107
 translate Chinese day12_main_start_77d203cc:
 
     # "You pause, considering a retort, but ultimately decide against it. Your gaze follows [him] as [he] shuffles back toward the mast, preparing to descend to the ship's deck again."
-    "你停顿了一下，想要反驳，但最终还是打消了这个念头。你的目光追随着[him]，只见[he]拖着脚走回桅杆，准备再次下到甲板上"
+    "你停顿了一下，想要反驳，但最终还是打消了这个念头。你的目光追随着[him]，只见[he]拖着脚走回桅杆，准备再次下到甲板上。"
 
 # game/script day12.rpy:1109
 translate Chinese day12_main_start_82d0f8b9:
 
     # s "We need to get the foremast next, so get yourself over there."
-    s "接下来我们得去处理前桅了，你到那边去"
+    s "接下来我们得去处理前桅了，你到那边去。"
 
 # game/script day12.rpy:1111
 translate Chinese day12_main_start_93b61101:
 
     # "[He] gestures over to the sails on the foremast that are still catching the wind and strain against the ship's rigging."
-    "[He]指了指前桅上那些仍在兜着风、拉扯着船上索具的前桅帆"
+    "[He]指了指前桅上那些仍在兜着风、拉扯着船上索具的前桅帆。"
 
 # game/script day12.rpy:1115
 translate Chinese day12_main_start_ea189d36:
 
     # w "Quiet days do have their perks."
-    w "风平浪静的日子也有好处"
+    w "风平浪静的日子也有好处。"
 
 # game/script day12.rpy:1122
 translate Chinese day12_main_start_82db7462:
 
     # w "That you finally understand this can only be a good thing."
-    w "你终于明白了这一点，这总归是件好事"
+    w "你终于明白了这一点，这总归是件好事。"
 
 # game/script day12.rpy:1124
 translate Chinese day12_main_start_49050fc2:
@@ -1893,109 +1892,109 @@ translate Chinese day12_main_start_49050fc2:
 translate Chinese day12_main_start_f3b78e60:
 
     # p "I just... I don't know what to do anymore, Wolf."
-    p "我只是……我真不知道该怎么办了，Wolf"
+    p "我只是……我真不知道该怎么办了，Wolf。"
 
 # game/script day12.rpy:1128
 translate Chinese day12_main_start_ed046be4:
 
     # p "And you never seem to have any trouble with him."
-    p "而你好像从来都跟他相安无事"
+    p "而你好像从来都跟他相安无事。"
 
 # game/script day12.rpy:1130
 translate Chinese day12_main_start_edc966d8:
 
     # "His eyes meet yours briefly before he looks off to the horizon."
-    "他的目光与你短暂交汇，随后望向远方的地平线"
+    "他的目光与你短暂交汇，随后望向远方的地平线。"
 
 # game/script day12.rpy:1132
 translate Chinese day12_main_start_29707269:
 
     # w "Because I do my best to keep it that way."
-    w "因为我尽力保持这种状态"
+    w "因为我尽力保持这种状态。"
 
 # game/script day12.rpy:1134
 translate Chinese day12_main_start_2fe07f4a:
 
     # w "I avoid making mistakes, sure, but I don't try to impress either."
-    w "当然，我尽量不犯错，但我也不会刻意表现"
+    w "当然，我尽量不犯错，但我也不会刻意表现。"
 
 # game/script day12.rpy:1136
 translate Chinese day12_main_start_135cba7f:
 
     # w "Unlike you, I don't dream of becoming a great sailor, or whatever romantic ideals you are chasing."
-    w "不像你，我不梦想成为伟大的水手，也不追求你那些浪漫的理想"
+    w "不像你，我不梦想成为伟大的水手，也不追求你那些浪漫的理想。"
 
 # game/script day12.rpy:1140
 translate Chinese day12_main_start_83511862:
 
     # w "They pay me, I do what they ask of me."
-    w "他们付钱，我就照他们说的做"
+    w "他们付钱，我就照他们说的做。"
 
 # game/script day12.rpy:1142
 translate Chinese day12_main_start_8e3432f7:
 
     # w "No more, no less."
-    w "不多也不少"
+    w "不多也不少。"
 
 # game/script day12.rpy:1146
 translate Chinese day12_main_start_f6f6388f:
 
     # w "Certainly not try and be stupid enough to get flogged."
-    w "当然不会蠢到去挨鞭子"
+    w "当然不会蠢到去挨鞭子。"
 
 # game/script day12.rpy:1150
 translate Chinese day12_main_start_9f20b245:
 
     # w "Maybe try not wanting to be the Mate's lapdo- cat."
-    w "也许试着别总想当大副的哈巴狗"
+    w "也许试着别总想当大副的哈巴狗。"
 
 # game/script day12.rpy:1152
 translate Chinese day12_main_start_06c6420b:
 
     # "Despite his words, there's no trace of contempt in his tone."
-    "尽管他这么说，但语气里却没有一丝轻蔑"
+    "尽管他这么说，但语气里却没有一丝轻蔑。"
 
 # game/script day12.rpy:1154
 translate Chinese day12_main_start_4424a7b3:
 
     # "He seems to try to offer you a genuine recommendation."
-    "他似乎真心想给你一个建议"
+    "他似乎真心想给你一个建议。"
 
 # game/script day12.rpy:1156
 translate Chinese day12_main_start_ac244d7e:
 
     # p "It may be a tad late for that."
-    p "现在说这个可能有点晚了"
+    p "现在说这个可能有点晚了。"
 
 # game/script day12.rpy:1160
 translate Chinese day12_main_start_99547b57:
 
     # w "It is."
-    w "确实"
+    w "确实。"
 
 # game/script day12.rpy:1164
 translate Chinese day12_main_start_29470ef3:
 
     # p "What with me having had a target on my back that he's been aiming at since I stepped on this ship."
-    p "自从我踏上这艘船，我背上就像有一个他瞄准的靶子一样对我紧盯不放"
+    p "自从我踏上这艘船，我背上就像有一个他瞄准的靶子一样对我紧盯不放。"
 
 # game/script day12.rpy:1166
 translate Chinese day12_main_start_c8ad4337:
 
     # w "You're not the first young man driven by the desire to be some kind of golden boy to his superiors."
-    w "你不是第一个渴望成为上司眼中的红人、被这种欲望驱使的年轻人"
+    w "你不是第一个渴望成为上司眼中的红人、被这种欲望驱使的年轻人。"
 
 # game/script day12.rpy:1168
 translate Chinese day12_main_start_67a865d4:
 
     # w "To chase the accolades they hand you like breadcrumbs."
-    w "像追逐面包屑一样追逐他们撒给你的嘉奖"
+    w "像追逐面包屑一样追逐他们撒给你的嘉奖。"
 
 # game/script day12.rpy:1172
 translate Chinese day12_main_start_0a79cb2b:
 
     # "He exhales sharply and turns to face you again."
-    "他重重地呼出一口气，再次转身面对你"
+    "他重重地呼出一口气，再次转身面对你。"
 
 # game/script day12.rpy:1174
 translate Chinese day12_main_start_05175151:
@@ -2007,19 +2006,19 @@ translate Chinese day12_main_start_05175151:
 translate Chinese day12_main_start_cea8ebaa:
 
     # w "You're {i}useful{/i} for him. That's all you are."
-    w "你对他{i}有用{/i}。仅此而已"
+    w "你对他{i}有用{/i}。仅此而已。"
 
 # game/script day12.rpy:1178
 translate Chinese day12_main_start_06cb184a:
 
     # w "The whipping boy for our {i}distinguished{/i} gentlemen; your only purpose is to take their blame so they can appear spotless in front of their ilk."
-    w "我们那些{i}尊贵{/i}绅士的替罪羊；你唯一的目的就是替他们背锅，好让他们在同僚面前显得完美无瑕"
+    w "我们那些{i}尊贵{/i}绅士的替罪羊；你唯一的目的就是替他们背锅，好让他们在同僚面前显得完美无瑕。"
 
 # game/script day12.rpy:1180
 translate Chinese day12_main_start_6861247d:
 
     # "This time he adds the flair of a bitter snort at the end of his sentence."
-    "这次，他说完还带着一丝苦涩冷哼了一声"
+    "这次，他说完还带着一丝苦涩冷哼了一声。"
 
 # game/script day12.rpy:1186
 translate Chinese day12_main_start_8c669f88:
@@ -2031,25 +2030,25 @@ translate Chinese day12_main_start_8c669f88:
 translate Chinese day12_main_start_0ad58c86:
 
     # p "And for my trouble I've gotten a lifelong reminder."
-    p "而我自讨苦吃，得到了一个终生难忘的教训"
+    p "而我自讨苦吃，得到了一个终生难忘的教训。"
 
 # game/script day12.rpy:1190
 translate Chinese day12_main_start_85fecdfa:
 
     # w "A painful lesson."
-    w "一个惨痛的教训"
+    w "一个惨痛的教训。"
 
 # game/script day12.rpy:1192
 translate Chinese day12_main_start_d9b70407:
 
     # w "But sometimes it is what it takes to learn."
-    w "但有时这就是成长必须付出的代价"
+    w "但有时这就是成长必须付出的代价。"
 
 # game/script day12.rpy:1196
 translate Chinese day12_main_start_845b90d0:
 
     # p "Alright, old man.{w} Clearly, I'm asking the wrong person for help here."
-    p "好吧，老家伙。{w}显然，我这是问错人了"
+    p "好吧，老家伙。{w}显然，我这是问错人了。"
 
 # game/script day12.rpy:1200
 translate Chinese day12_main_start_1fe48014:
@@ -2061,43 +2060,43 @@ translate Chinese day12_main_start_1fe48014:
 translate Chinese day12_main_start_978f6d71:
 
     # "Once it is secured the members of your watch start to make their way down the shrouds again."
-    "船帆固定好后，值班的船员们又开始顺着侧支索爬下去"
+    "船帆固定好后，值班的船员们又开始顺着侧支索爬下去。"
 
 # game/script day12.rpy:1214
 translate Chinese day12_main_start_77a00b30:
 
     # p "I just don't get it. Why is he fine with everyone but me? I thought officer types like him would barely notice guys like us."
-    p "我就是不明白。为什么他对别人都好好的，偏偏针对我？我以为像他那样的军官根本不会注意到我们这种人"
+    p "我就是不明白。为什么他对别人都好好的，偏偏针对我？我以为像他那样的军官根本不会注意到我们这种人。"
 
 # game/script day12.rpy:1216
 translate Chinese day12_main_start_fbf81a02:
 
     # "Julian grunts, either from the effort of fastening the sails or from some bad memory."
-    "Julian咕哝了一声，不知是因为固定船帆费力，还是想起了什么糟糕的回忆"
+    "Julian咕哝了一声，不知是因为固定船帆费力，还是想起了什么糟糕的回忆。"
 
 # game/script day12.rpy:1218
 translate Chinese day12_main_start_65fe0991:
 
     # j "In my experience, some just pick men to bully. Take out whatever is going wrong in their life on someone that can't fight back."
-    j "照我看，有些人就喜欢挑人欺负。把生活里的不顺都发泄在那些没法还手的人身上"
+    j "照我看，有些人就喜欢挑人欺负。把生活里的不顺都发泄在那些没法还手的人身上。"
 
 # game/script day12.rpy:1220
 translate Chinese day12_main_start_deb5b756:
 
     # "You frown at that, imagining having to put up with that for however many months the rest of this trip will take."
-    "你为此皱起眉头，想象着在接下来这几个月的航程里都得忍受这种事"
+    "你为此皱起眉头，想象着在接下来这几个月的航程里都得忍受这种事。"
 
 # game/script day12.rpy:1222
 translate Chinese day12_main_start_afcfe503:
 
     # p "But... From how Samuel and the others talk about him, it doesn't seem like he's done anything like this before. It has to be me, right? Unless something happened recently."
-    p "但是……从Samuel和其他人谈论他的方式来看，他以前似乎没做过这种事。问题肯定出在我身上，对吧？除非最近发生了什么事"
+    p "但是……从Samuel和其他人谈论他的方式来看，他以前似乎没做过这种事。问题肯定出在我身上，对吧？除非最近发生了什么事。"
 
 # game/script day12.rpy:1224
 translate Chinese day12_main_start_5274d7ae:
 
     # "Julian hums, thinking for a moment."
-    "Julian沉吟了一声，思考了片刻"
+    "Julian沉吟了一声，思考了片刻。"
 
 # game/script day12.rpy:1228
 translate Chinese day12_main_start_ddc0715e:
@@ -2109,7 +2108,7 @@ translate Chinese day12_main_start_ddc0715e:
 translate Chinese day12_main_start_a26f593f:
 
     # "You look over to Julian, confused."
-    "你一脸困惑地看向Julian"
+    "你一脸困惑地看向Julian。"
 
 # game/script day12.rpy:1232
 translate Chinese day12_main_start_1b640dae:
@@ -2121,37 +2120,37 @@ translate Chinese day12_main_start_1b640dae:
 translate Chinese day12_main_start_73a28108:
 
     # j "You know! Marital problems."
-    j "你懂的！婚姻问题"
+    j "你懂的！婚姻问题。"
 
 # game/script day12.rpy:1238
 translate Chinese day12_main_start_65099a1a:
 
     # "He nods down at the hollering Arthur."
-    "他朝下面正在嚷嚷的Arthur点了点头"
+    "他朝下面正在嚷嚷的Arthur点了点头。"
 
 # game/script day12.rpy:1240
 translate Chinese day12_main_start_343ae77b:
 
     # j "One hundred percent certain that his wife left him, if he even had one to begin with."
-    j "我百分之百肯定他老婆离开他了，如果他真有老婆的话"
+    j "我百分之百肯定他老婆离开他了，如果他真有老婆的话。"
 
 # game/script day12.rpy:1244
 translate Chinese day12_main_start_79c7f539:
 
     # j "His type always does, though.{p} Maybe she left him recently; probably why he's taking it out on you."
-    j "他这类人总是这样。{p} 也许她最近才离开他；这可能就是他拿你出气的原因"
+    j "他这类人总是这样。{p} 也许她最近才离开他；这可能就是他拿你出气的原因。"
 
 # game/script day12.rpy:1246
 translate Chinese day12_main_start_cba34166:
 
     # "You give Julian a blank stare."
-    "你面无表情地看着Julian"
+    "你面无表情地看着Julian。"
 
 # game/script day12.rpy:1248
 translate Chinese day12_main_start_6b464846:
 
     # j "Come on! I don't like him, you hate him, and we both feel like crap being out in the ocean, having to haul this stupid sail, with a stupid thunderhead about to soak us to the bone."
-    j "得了吧！我不喜欢他，你讨厌他，咱们俩在这海上难受得要命，还得拖着这该死的帆，而且还有片该死的雷雨云眼看就要把我们淋成落汤鸡了"
+    j "得了吧！我不喜欢他，你讨厌他，咱们俩在这海上难受得要命，还得拖着这该死的帆，而且还有片该死的雷雨云眼看就要把我们淋成落汤鸡了。"
 
 # game/script day12.rpy:1252
 translate Chinese day12_main_start_85dbb018:
@@ -2163,25 +2162,25 @@ translate Chinese day12_main_start_85dbb018:
 translate Chinese day12_main_start_6b007c4b:
 
     # j "If you agree quickly then I won't smack your back as encouragement."
-    j "如果你爽快同意，我就不拍你后背给你鼓劲了"
+    j "如果你爽快同意，我就不拍你后背给你鼓劲了。"
 
 # game/script day12.rpy:1258
 translate Chinese day12_main_start_1c2c91ed:
 
     # p "Please don't."
-    p "求你别拍"
+    p "求你别拍。"
 
 # game/script day12.rpy:1260
 translate Chinese day12_main_start_54ee3b9a:
 
     # "He gives a broad grin, light glinting off his teeth."
-    "他咧嘴一笑，牙齿在光下闪闪发亮"
+    "他咧嘴一笑，牙齿在光下闪闪发亮。"
 
 # game/script day12.rpy:1270
 translate Chinese day12_main_start_edef10df:
 
     # p "Oh, he {i}definitely{/i} has problems."
-    p "哦，他{i}绝对{/i}有问题"
+    p "哦，他{i}绝对{/i}有问题。"
 
 # game/script day12.rpy:1272
 translate Chinese day12_main_start_a34bd928:
@@ -2193,7 +2192,7 @@ translate Chinese day12_main_start_a34bd928:
 translate Chinese day12_main_start_e83d4f52:
 
     # "His grin shapes into a laugh before he swipes his hand in front of his face to hide the switch of his expression to a completely serious one behind it."
-    "他咧嘴一笑，然后笑出声来，又用手在脸前一抹，把表情切换成一副完全严肃的样子"
+    "他咧嘴一笑，然后笑出声来，又用手在脸前一抹，把表情切换成一副完全严肃的样子。"
 
 # game/script day12.rpy:1280
 translate Chinese day12_main_start_94b360d7:
@@ -2205,7 +2204,7 @@ translate Chinese day12_main_start_94b360d7:
 translate Chinese day12_main_start_95104426:
 
     # "You still feel a deep anger and frustration after this morning, but the way he impersonates Arthur wrings a small chuckle from your throat. You indulge him further."
-    "今早的事让你依然感到深深的愤怒和沮丧，但他模仿Authur的样子还是让你忍不住轻笑，你决定顺着他继续聊下去"
+    "今早的事让你依然感到深深的愤怒和沮丧，但他模仿Arthur的样子还是让你忍不住轻笑，你决定顺着他继续聊下去。"
 
 # game/script day12.rpy:1284
 translate Chinese day12_main_start_ced6a2bf:
@@ -2217,25 +2216,25 @@ translate Chinese day12_main_start_ced6a2bf:
 translate Chinese day12_main_start_ece222ed:
 
     # j "What?! No way."
-    j "什么？！不可能"
+    j "什么？！不可能。"
 
 # game/script day12.rpy:1292
 translate Chinese day12_main_start_975e4574:
 
     # j "I can't even imagine him being, like... romantic."
-    j "我甚至无法想象他会……浪漫"
+    j "我甚至无法想象他会……浪漫。"
 
 # game/script day12.rpy:1298
 translate Chinese day12_main_start_23a7b799:
 
     # "He turns from his work to give you a suggestive little grin."
-    "他停下手中的活，转向你，露出一个意味深长的坏笑"
+    "他停下手中的活，转向你，露出一个意味深长的坏笑。"
 
 # game/script day12.rpy:1300
 translate Chinese day12_main_start_3022f7aa:
 
     # j "And you know that I'm an {i}expert{/i} when it comes to everything romantic."
-    j "而且你知道，在一切浪漫的事情上，我可是个{i}专家{/i}"
+    j "而且你知道，在一切浪漫的事情上，我可是个{i}专家。{/i}"
 
 # game/script day12.rpy:1302
 translate Chinese day12_main_start_c1af1686:
@@ -2247,19 +2246,19 @@ translate Chinese day12_main_start_c1af1686:
 translate Chinese day12_main_start_dc6060ac:
 
     # j "You know, I really thought I would win you over with the mouse."
-    j "你知道吗，我还真以为那只老鼠能打动你呢"
+    j "你知道吗，我还真以为那只老鼠能打动你呢。"
 
 # game/script day12.rpy:1308
 translate Chinese day12_main_start_f1acd574:
 
     # "You roll your eyes as he laughs at his own joke, suppressing the urge to just shove him and his stupid grin down into the waves."
-    "他对自己的笑话笑的前仰后合，你翻了个白眼，强忍着把他和他那愚蠢的笑容一起推下海浪的冲动"
+    "他对自己的笑话笑的前仰后合，你翻了个白眼，强忍着把他和他那愚蠢的笑容一起推下海浪的冲动。"
 
 # game/script day12.rpy:1312
 translate Chinese day12_main_start_c358e9bc:
 
     # p "He probably gives his wife commands in bed."
-    p "他搞不好在床上也会对他老婆发号施令"
+    p "他搞不好在床上也会对他老婆发号施令。"
 
 # game/script day12.rpy:1314
 translate Chinese day12_main_start_003985c2:
@@ -2284,7 +2283,7 @@ translate Chinese day12_main_start_2a3a8e82:
 translate Chinese day12_main_start_753926c0:
 
     # "You have to suppress your laughter for that one. Julian gives a smug little look as his joke lands, so you try to get him back, puffing out your chest."
-    "你不得不憋住笑，Julian看到自己的笑话凑效了，露出得意的小表情，于是你想反击，就挺起胸膛"
+    "你不得不憋住笑，Julian看到自己的笑话凑效了，露出得意的小表情，于是你想反击，就挺起胸膛。"
 
 # game/script day12.rpy:1328
 translate Chinese day12_main_start_e7ee3ce0:
@@ -2296,19 +2295,19 @@ translate Chinese day12_main_start_e7ee3ce0:
 translate Chinese day12_main_start_1a0ed34c:
 
     # "He bursts into a laugh and lets himself drop over the yard beam with practiced ease, using the momentum to reach for more of the sail to haul in."
-    "他大笑起来，熟练而轻松地让自己从帆桁上荡下去，借着这股劲去够更多的帆布收进来"
+    "他大笑起来，熟练而轻松地让自己从帆桁上荡下去，借着这股劲去够更多的帆布收进来。"
 
 # game/script day12.rpy:1340
 translate Chinese day12_main_start_ec3a848b:
 
     # "You look around at the other figures climbing the shrouds and fastening the sails."
-    "你环顾四周其他正在爬侧支索和固定船帆的身影"
+    "你环顾四周其他正在爬侧支索和固定船帆的身影。"
 
 # game/script day12.rpy:1344
 translate Chinese day12_main_start_95a14078:
 
     # p "I dunno... I don't want some brown noser listening in and telling Arthur. I don't want him angry at you, too."
-    p "我不知道……我不想让哪个马屁精听见然后告诉Authur。我不想让他也生你的气"
+    p "我不知道……我不想让哪个马屁精听见然后告诉Arthur。我不想让他也生你的气。"
 
 # game/script day12.rpy:1346
 translate Chinese day12_main_start_e8831a3c:
@@ -2320,7 +2319,7 @@ translate Chinese day12_main_start_e8831a3c:
 translate Chinese day12_main_start_1a94db9d:
 
     # "You fix your eyes on him, then just nod at a dog on another mast that was taking a glance at you. The man quickly looks back to his work."
-    "你盯着他，然后朝另一根桅杆上一个正瞥了你一眼的家伙点了点头。那人迅速转回头继续工作"
+    "你盯着他，然后朝另一根桅杆上一个正瞥了你一眼的家伙点了点头。那人迅速转回头继续工作。"
 
 # game/script day12.rpy:1352
 translate Chinese day12_main_start_e5833322:
@@ -2332,13 +2331,13 @@ translate Chinese day12_main_start_e5833322:
 translate Chinese day12_main_start_f2c8e2e9:
 
     # "The lizard turns back to you after a brief glance down at Arthur. He doesn't look quite as worried as you feel, but he's definitely frowning."
-    "Julian短暂地瞥了一眼下面的Authur，然后转过头来看你。他看起来不像你那么担忧，但确实皱着眉头"
+    "Julian短暂地瞥了一眼下面的Arthur，然后转过头来看你。他看起来不像你那么担忧，但确实皱着眉头。"
 
 # game/script day12.rpy:1356
 translate Chinese day12_main_start_77ca05f8:
 
     # p "I just don't want to risk it. Not after... this."
-    p "我只是不想冒险。尤其是在……那件事之后"
+    p "我只是不想冒险。尤其是在……那件事之后。"
 
 # game/script day12.rpy:1360
 translate Chinese day12_main_start_280fa16a:
@@ -2350,13 +2349,13 @@ translate Chinese day12_main_start_280fa16a:
 translate Chinese day12_main_start_9daca68d:
 
     # "He grins at you, attempting to cheer you up. You return it faintly. Julian then hops over the yard beam, using the momentum and his weight to pull at the sail and haul it in."
-    "他朝你笑了笑，试图让你振作起来。你淡淡地回以一笑。Julian随即跳过帆桁，利用冲力和自身体重拉动船帆，将其收拢"
+    "他朝你笑了笑，试图让你振作起来。你淡淡地回以一笑。Julian随即跳过帆桁，利用冲力和自身体重拉动船帆，将其收拢。"
 
 # game/script day12.rpy:1374
 translate Chinese day12_main_start_1ae2af05:
 
     # "You raise your brow at the mere suggestion."
-    "光是这个提议就让你挑起了眉毛"
+    "光是这个提议就让你挑起了眉毛。"
 
 # game/script day12.rpy:1378
 translate Chinese day12_main_start_72e558e8:
@@ -2380,13 +2379,13 @@ translate Chinese day12_main_start_43cc34db:
 translate Chinese day12_main_start_a028c046:
 
     # "Julian lets his shoulders slump as you chastise him, and leans into his work to avoid looking at you. His tail sticks out like an arrow behind him to balance him across the beam."
-    "被你责备后，Julian肩膀耷拉下来，埋头干活避免看你。他的尾巴像箭一样伸在身后，帮助他在桁架上保持平衡"
+    "被你责备后，Julian肩膀耷拉下来，埋头干活避免看你。他的尾巴像箭一样伸在身后，帮助他在桁架上保持平衡。"
 
 # game/script day12.rpy:1388
 translate Chinese day12_main_start_d16f1560:
 
     # p "Not to mention, who knows who might be listening? Next thing you know, I've got Arthur on my case again."
-    p "更何况，谁知道会不会有人在偷听？说不定下一秒，Authur就又来找我麻烦了"
+    p "更何况，谁知道会不会有人在偷听？说不定下一秒，Arthur就又来找我麻烦了。"
 
 # game/script day12.rpy:1390
 translate Chinese day12_main_start_da55741c:
@@ -2398,25 +2397,25 @@ translate Chinese day12_main_start_da55741c:
 translate Chinese day12_main_start_d4c48146:
 
     # j "You don't have to lay into me just because I tried to lighten the mood, you know."
-    j "你要知道，没必要因为我想活跃下气氛就这么数落我"
+    j "你要知道，没必要因为我想活跃下气氛就这么数落我。"
 
 # game/script day12.rpy:1394
 translate Chinese day12_main_start_19bc4043:
 
     # "The lizard turns back to you after he pulls in a few more inches of sail. A gust of wind sends a chill through your bones as you do the same and continue your work."
-    "他又收了几英寸帆后，转回身面对你。一阵风吹来，寒意刺骨，你也继续着手头的工作"
+    "他又收了几英寸帆后，转回身面对你。一阵风吹来，寒意刺骨，你也继续着手头的工作。"
 
 # game/script day12.rpy:1398
 translate Chinese day12_main_start_df8a2df0:
 
     # j "But fine, have it your way, I guess."
-    j "行吧，我想就按你说的来吧"
+    j "行吧，我想就按你说的来吧。"
 
 # game/script day12.rpy:1405
 translate Chinese day12_main_start_d448197b:
 
     # "Julian fastens his part before leaning over to assist you in pulling yours the final stretch, steadying it so you can securely tie it off."
-    "Julian固定好他那部分，然后俯身帮你将你那部分拉到最后一段，稳住它让你能安全地系紧"
+    "Julian固定好他那部分，然后俯身帮你将你那部分拉到最后一段，稳住它让你能安全地系紧。"
 
 # game/script day12.rpy:1410
 translate Chinese day12_main_start_d3dbbe56:
@@ -2428,13 +2427,13 @@ translate Chinese day12_main_start_d3dbbe56:
 translate Chinese day12_main_start_f3e0ce3f:
 
     # p "I hate that guy."
-    p "我讨厌那家伙"
+    p "我讨厌那家伙。"
 
 # game/script day12.rpy:1423
 translate Chinese day12_main_start_e22b47ff:
 
     # "Perce shoots you a puzzled glance."
-    "Perce疑惑地瞥了你一眼"
+    "Perce疑惑地瞥了你一眼。"
 
 # game/script day12.rpy:1425
 translate Chinese day12_main_start_ce39bd59:
@@ -2452,19 +2451,19 @@ translate Chinese day12_main_start_9ae5ed91:
 translate Chinese day12_main_start_09e0e910:
 
     # p "He's just been on my ass ever since I joined. I don't know, he has it out for me from the moment he laid eyes on me."
-    p "自我上船以来他就一直盯着我不放。我也不知道为什么，他从第一眼见到我就看我不顺眼"
+    p "自我上船以来他就一直盯着我不放。我也不知道为什么，他从第一眼见到我就看我不顺眼。"
 
 # game/script day12.rpy:1431
 translate Chinese day12_main_start_5427ffc9:
 
     # p "At this point, he must hold a personal grudge against me, or he's just dense."
-    p "到了这个地步，他要么是对我有私人恩怨，要么就是脑子不太灵光"
+    p "到了这个地步，他要么是对我有私人恩怨，要么就是脑子不太灵光。"
 
 # game/script day12.rpy:1435
 translate Chinese day12_main_start_2a41ec2f:
 
     # pb "Absolutely do not let him hear {i}that{/i}."
-    pb "绝对、绝对不要让他听到你刚才说的那些话"
+    pb "绝对、绝对不要让他听到你刚才说的那些话。"
 
 # game/script day12.rpy:1439
 translate Chinese day12_main_start_5857dd13:
@@ -2476,13 +2475,13 @@ translate Chinese day12_main_start_5857dd13:
 translate Chinese day12_main_start_e1761f58:
 
     # pb "Sounds to me like he's been right to keep an eye on you."
-    pb "听起来，他时刻提防着你倒是没错"
+    pb "听起来，他时刻提防着你倒是没错。"
 
 # game/script day12.rpy:1443
 translate Chinese day12_main_start_923d7d19:
 
     # p "Yeah, because I haven't gotten a proper hour of sleep in god knows how long."
-    p "是啊，因为天知道我已经多久没睡过一个好觉了"
+    p "是啊，因为天知道我已经多久没睡过一个好觉了。"
 
 # game/script day12.rpy:1445
 translate Chinese day12_main_start_10e09796:
@@ -2494,13 +2493,13 @@ translate Chinese day12_main_start_10e09796:
 translate Chinese day12_main_start_76624cce:
 
     # p "Maybe if he'd actually have some trust in me and let me do my damn job in peace... but I guess that is too much to ask."
-    p "要是他能对我有点最基础的信任，让我安安静静干自己的活儿……不过我想这要求可能太高了"
+    p "要是他能对我有点最基础的信任，让我安安静静干自己的活儿……不过我想这要求可能太高了。"
 
 # game/script day12.rpy:1451
 translate Chinese day12_main_start_b1e788a8:
 
     # p "He's been wearing me down to the point where I don't even know what to really do anymore."
-    p "他把我折磨得我都不知道该怎么办了"
+    p "他把我折磨得我都不知道该怎么办了。"
 
 # game/script day12.rpy:1453
 translate Chinese day12_main_start_cf2a9f22:
@@ -2524,7 +2523,7 @@ translate Chinese day12_main_start_593eccf5:
 translate Chinese day12_main_start_6bfc13e6:
 
     # "Perce fastens his part before leaning over to assist you in pulling yours the final stretch, steadying it so you can securely tie it off."
-    "Perce固定好他那部分帆索，然后倾身过来帮你把最后一段拉紧并稳住它，让你能安全地系牢"
+    "Perce固定好他那部分帆索，然后倾身过来帮你把最后一段拉紧并稳住它，让你能安全地系牢。"
 
 # game/script day12.rpy:1470
 translate Chinese day12_main_start_d3dbbe56_1:
@@ -2536,55 +2535,55 @@ translate Chinese day12_main_start_d3dbbe56_1:
 translate Chinese day12_main_start_d845471e:
 
     # "You follow them and try to avoid holding them up as much as you can on the crowded shrouds."
-    "你跟着他们，在拥挤的侧支索上尽量不拖大家的后腿"
+    "你跟着他们，在拥挤的侧支索上尽量不拖大家的后腿。"
 
 # game/script day12.rpy:1481
 translate Chinese day12_main_start_2ffd6e31:
 
     # "Topmen pass you by as they, too, receive their call to repeat the process for both the fore and mizzen masts."
-    "桅楼水手们从你身边经过，他们也接到了命令要对前桅和后桅重复同样的操作"
+    "桅楼水手们从你身边经过，他们也接到了命令要对前桅和后桅重复同样的操作。"
 
 # game/script day12.rpy:1485
 translate Chinese day12_main_start_986335b3:
 
     # "You follow close behind. The shrouds become crowded as the topmen receive their call to repeat the process for both the fore and mizzen masts."
-    "你紧随其后。当桅楼水手们接到命令要对前桅和后桅重复操作时，侧支索变得拥挤起来"
+    "你紧随其后。当桅楼水手们接到命令要对前桅和后桅重复操作时，侧支索变得拥挤起来。"
 
 # game/script day12.rpy:1487
 translate Chinese day12_main_start_d348ad47:
 
     # "The wind picks up with each passing minute, and the dark thunderhead cloud shimmers faintly with the pale blue of the sky as the sun edges ever closer to the horizon."
-    "风势每分钟都在加大，黑暗的雷雨云随着太阳渐渐接近地平线，与淡蓝色的天空交相辉映，闪烁着微弱的光芒"
+    "风势每分钟都在加大，黑暗的雷雨云随着太阳渐渐接近地平线，与淡蓝色的天空交相辉映，闪烁着微弱的光芒。"
 
 # game/script day12.rpy:1489
 translate Chinese day12_main_start_7767a836:
 
     # "What was once a faint cloud on the horizon now towers in front of the ship, urging the crew into double-time efforts."
-    "地平线上那团原本淡淡的云此刻已高耸在船前，迫使全体船员加倍努力"
+    "地平线上那团原本淡淡的云此刻已高耸在船前，迫使全体船员加倍努力。"
 
 # game/script day12.rpy:1491
 translate Chinese day12_main_start_e1d6a2b1:
 
     # "You hurry toward the ship's bow, waiting for your chance to grasp the shrouds."
-    "你匆忙赶到船头，等待时机抓住侧支索"
+    "你匆忙赶到船头，等待时机抓住侧支索。"
 
 # game/script day12.rpy:1515
 translate Chinese day12_main_start_36c6c67a:
 
     # "As you begin your climb of the foremast, you feel the first drops of rain spatter against your snout."
-    "当你开始攀爬前桅时，你感觉到最初的雨点噼里啪啦打在你的鼻子上"
+    "当你开始攀爬前桅时，你感觉到最初的雨点噼里啪啦打在你的鼻子上。"
 
 # game/script day12.rpy:1519
 translate Chinese day12_main_start_b31af812:
 
     # "Once the yard is lowered and everyone is in position, Samuel takes the reins again, raising [his] voice to coordinate the team's efforts."
-    "帆桁降下，众人就位后，Samuel提高嗓门再次发号施令协调船员们行动"
+    "帆桁降下，众人就位后，Samuel提高嗓门再次发号施令协调船员们行动。"
 
 # game/script day12.rpy:1523
 translate Chinese day12_main_start_ee1dd4f7:
 
     # "Once the yard is lowered and everyone is in position, Samuel resumes [his] command."
-    "帆桁降下，所有人各就各位后，Samuel重新开始指挥"
+    "帆桁降下，所有人各就各位后，Samuel重新开始指挥。"
 
 # game/script day12.rpy:1530
 translate Chinese day12_main_start_7c66062a:
@@ -2608,49 +2607,49 @@ translate Chinese day12_main_start_f8d58e08:
 translate Chinese day12_main_start_96b34fcd:
 
     # "You start your effort on the dot, along with the rest, and start pulling in the heavy sail."
-    "你和其余船员同时一起发力，动手收拢沉重的船帆"
+    "你和其余船员同时一起发力，动手收拢沉重的船帆。"
 
 # game/script day12.rpy:1549
 translate Chinese day12_main_start_18dc6daf:
 
     # "Inch by inch, pound by pound, progress is made as the elements slowly begin to grow more intense around you."
-    "一寸一寸，一磅一磅，收帆工作缓慢推进，而你周围的天气正逐渐变得恶劣"
+    "一寸一寸，一磅一磅，收帆工作缓慢推进，而你周围的天气正逐渐变得恶劣。"
 
 # game/script day12.rpy:1551
 translate Chinese day12_main_start_08b30dad:
 
     # "Your tail, which you use to aid your balance up here, grows heavy as it soaks up the rain. So do your clothes and as they cling wetly to your body and, worst of all, so does the sail itself."
-    "你用来在高处保持平衡的尾巴因吸饱了雨水而变得沉重。你的衣服也湿漉漉地粘在身上。最糟糕的是船帆本身也变得沉重不堪"
+    "你用来在高处保持平衡的尾巴因吸饱了雨水而变得沉重。你的衣服也湿漉漉地粘在身上。最糟糕的是船帆本身也变得沉重不堪。"
 
 # game/script day12.rpy:1553
 translate Chinese day12_main_start_abae8bce:
 
     # "The last thing you need while the ship unrelentingly continues on its course."
-    "在船坚定不移地继续航行的此刻，这真是雪上加霜"
+    "在船坚定不移地继续航行的此刻，这真是雪上加霜。"
 
 # game/script day12.rpy:1557
 translate Chinese day12_main_start_24461452:
 
     # "You work side by side in a stern silence. Just concentrating on pulling in the sail, bit by slow bit."
-    "你们在严峻的沉默中并肩工作，只是专注于慢慢地把船帆收进来"
+    "你们在严峻的沉默中并肩工作，只是专注于慢慢地把船帆收进来。"
 
 # game/script day12.rpy:1559
 translate Chinese day12_main_start_bdd174da:
 
     # "The silence allows plenty of space for thoughts to creep into your mind."
-    "许多思绪在这片沉默中有机可乘，悄悄潜入你的脑海"
+    "许多思绪在这片沉默中有机可乘，悄悄潜入你的脑海。"
 
 # game/script day12.rpy:1561
 translate Chinese day12_main_start_63e47534:
 
     # "Thoughts about what could have happened.{w} What could {i}still{/i} happen."
-    "关于本可能发生之事的思绪。{w}关于可能{i}仍然{/i}会发生之事的思绪"
+    "关于本可能发生之事的思绪。{w}关于可能{i}仍然{/i}会发生之事的思绪。"
 
 # game/script day12.rpy:1567
 translate Chinese day12_main_start_de2f011f:
 
     # "The wails of straining timber reverberate through every corner in your consciousness."
-    "船木不堪重负的呻吟在你的脑海中回荡"
+    "船木不堪重负的呻吟在你的脑海中回荡。"
 
 # game/script day12.rpy:1571
 translate Chinese day12_main_start_60a38c96:
@@ -2662,7 +2661,7 @@ translate Chinese day12_main_start_60a38c96:
 translate Chinese day12_main_start_f3f3adc5:
 
     # "Your eyes shift their focus past the sail, and there's Samuel."
-    "你的目光越过船帆聚焦过去——Samuel在那里"
+    "你的目光越过船帆聚焦过去——Samuel在那里。"
 
 # game/script day12.rpy:1579
 translate Chinese day12_main_start_34d65ee3:
@@ -2674,19 +2673,19 @@ translate Chinese day12_main_start_34d65ee3:
 translate Chinese day12_main_start_298f604e:
 
     # "reaching for you."
-    "伸向你"
+    "伸向你。"
 
 # game/script day12.rpy:1583
 translate Chinese day12_main_start_f1a85ae1:
 
     # "Desperately."
-    "拼命地"
+    "拼命地。"
 
 # game/script day12.rpy:1585
 translate Chinese day12_main_start_ce3a39d1:
 
     # "Trying to grab your hand as the dark depths loom below."
-    "在下方黑暗深渊逼近之际，拼命地想抓住你的手"
+    "在下方黑暗深渊逼近之际，拼命地想抓住你的手。"
 
 # game/script day12.rpy:1587
 translate Chinese day12_main_start_74c4e7c3:
@@ -2704,13 +2703,13 @@ translate Chinese day12_main_start_31e7194a:
 translate Chinese day12_main_start_92f0a92f:
 
     # "You feel that nothing you could say beats simply throwing yourself into the work at hand, which is exactly what you do."
-    "你觉得此时说什么都不如全身心投入手头的工作，而你也正是这么做的"
+    "你觉得此时说什么都不如全身心投入手头的工作，而你也正是这么做的。"
 
 # game/script day12.rpy:1613
 translate Chinese day12_main_start_47af2909:
 
     # "You let your feet hook into the support you're standing on, leaning out further and using your legs as a counterweight to reach that extra inch or two."
-    "你用脚勾住站立的支撑物，身体进一步前倾，用双腿作为配重，以求多够到那一两英寸"
+    "你用脚勾住站立的支撑物，身体进一步前倾，用双腿作为配重，以求多够到那一两英寸。"
 
 # game/script day12.rpy:1615
 translate Chinese day12_main_start_67499dba:
@@ -2722,13 +2721,13 @@ translate Chinese day12_main_start_67499dba:
 translate Chinese day12_main_start_61e83b76:
 
     # "To the point where you almost savor the heavy pit they create in your stomach, as you leave your mind open to their invasion."
-    "甚至你几乎开始回味它们在你胃里造成的那种沉重的不适感，任由思绪被它们侵袭"
+    "甚至你几乎开始回味它们在你胃里造成的那种沉重的不适感，任由思绪被它们侵袭。"
 
 # game/script day12.rpy:1619
 translate Chinese day12_main_start_d45521a1:
 
     # "Your very own punishment."
-    "这是你应得的惩罚"
+    "这是你应得的惩罚。"
 
 # game/script day12.rpy:1621
 translate Chinese day12_main_start_2b5c4d76:
@@ -2740,7 +2739,7 @@ translate Chinese day12_main_start_2b5c4d76:
 translate Chinese day12_main_start_9fccd911:
 
     # s "We got to keep up the pace and lower the mizzen's sails as well, if we don't want it flying past our heads soon."
-    s "我们得加快速度，把后桅帆也降下来，不然它很快就要从我们头顶飞过去了"
+    s "我们得加快速度，把后桅帆也降下来，不然它很快就要从我们头顶飞过去了。"
 
 # game/script day12.rpy:1632
 translate Chinese day12_main_start_86a357e6:
@@ -2752,25 +2751,25 @@ translate Chinese day12_main_start_86a357e6:
 translate Chinese day12_main_start_00e3bf3c:
 
     # "You ask the maned wolf next to you, struggling to speak as you catch your breath."
-    "你一边喘着气，一边费力地开口问向身旁的鬃狼"
+    "你一边喘着气，一边费力地开口问向身旁的鬃狼。"
 
 # game/script day12.rpy:1638
 translate Chinese day12_main_start_3687cee5:
 
     # "[He] perks up the ear that faces you and raises a brow, waiting for you to specify what you're talking about."
-    "[He]朝向你那边的耳朵竖了起来，眉毛一挑，等着你说明白具体指什么"
+    "[He]朝向你那边的耳朵竖了起来，眉毛一挑，等着你说明白具体指什么。"
 
 # game/script day12.rpy:1640
 translate Chinese day12_main_start_3bc418c3:
 
     # "You pick up on it without [him] having to ask aloud."
-    "没等[him]开口问你就明白了"
+    "没等[him]开口问你就明白了。"
 
 # game/script day12.rpy:1642
 translate Chinese day12_main_start_bf20780a:
 
     # p "Getting the sails in, I mean."
-    p "我是说收帆的事"
+    p "我是说收帆的事。"
 
 # game/script day12.rpy:1644
 translate Chinese day12_main_start_0c50c2ee:
@@ -2782,7 +2781,7 @@ translate Chinese day12_main_start_0c50c2ee:
 translate Chinese day12_main_start_0234f79b:
 
     # s "We're not doing badly, though the mizzen mast could be trouble if we don't get it in fast enough and the wind suddenly turns bad."
-    s "目前情况还不算糟，不过如果后桅帆收得不够快，而且风向突然变差，后桅可能会出问题"
+    s "目前情况还不算糟，不过如果后桅帆收得不够快，而且风向突然变差，后桅可能会出问题。"
 
 # game/script day12.rpy:1652
 translate Chinese day12_main_start_c01280b2:
@@ -2800,109 +2799,109 @@ translate Chinese day12_main_start_d5064bec:
 translate Chinese day12_main_start_d68c421d:
 
     # "You pick up on it without [him] having to ask aloud for you to continue."
-    "没等[him]开口让你继续说你就明白了"
+    "没等[him]开口让你继续说你就明白了。"
 
 # game/script day12.rpy:1660
 translate Chinese day12_main_start_f571147c:
 
     # p "I wanted to say that I'm sorry I fell asleep."
-    p "我想说，我很抱歉我睡着了"
+    p "我想说，我很抱歉我睡着了。"
 
 # game/script day12.rpy:1662
 translate Chinese day12_main_start_c17c59ec:
 
     # p "And for putting you all in danger."
-    p "也抱歉把大家都置于危险之中"
+    p "也抱歉把大家都置于危险之中。"
 
 # game/script day12.rpy:1666
 translate Chinese day12_main_start_673b0e9d:
 
     # "[He] answers without turning to you, while [he] secures another part of the sail on the yard."
-    "[He]头也不回地回答，同时将船帆的另一部分固定在帆桁上"
+    "[He]头也不回地回答，同时将船帆的另一部分固定在帆桁上。"
 
 # game/script day12.rpy:1668
 translate Chinese day12_main_start_9c9c31bc:
 
     # s "Good."
-    s "不错"
+    s "不错。"
 
 # game/script day12.rpy:1670
 translate Chinese day12_main_start_044fae60:
 
     # s "You should be."
-    s "你确实该感到抱歉"
+    s "你确实该感到抱歉。"
 
 # game/script day12.rpy:1674
 translate Chinese day12_main_start_bb070442:
 
     # s "Now get on with it, because if we don't do this quickly enough, we may soon have the mizzen flying over our heads if the wind turns bad enough."
-    s "现在接着干活，因为如果我们动作不够快，要是风向变得够糟，后桅帆可能很快就会从我们头顶飞过去了"
+    s "现在接着干活，因为如果我们动作不够快，要是风向变得够糟，后桅帆可能很快就会从我们头顶飞过去了。"
 
 # game/script day12.rpy:1676
 translate Chinese day12_main_start_df3367ed:
 
     # "[His] voice begins to sound ragged under the strain."
-    "[His]声音在重压下开始变得嘶哑"
+    "[His]声音在重压下开始变得嘶哑。"
 
 # game/script day12.rpy:1678
 translate Chinese day12_main_start_e89133fc:
 
     # "At least you are not the only one."
-    "至少你不是唯一一个觉得累的"
+    "至少你不是唯一一个觉得累的。"
 
 # game/script day12.rpy:1680
 translate Chinese day12_main_start_845b186a:
 
     # s "And I assume they'll want us to raise the lower topsails and courses as well."
-    s "我猜他们还会让我们升起下桅帆和主帆"
+    s "我猜他们还会让我们升起下桅帆和主帆。"
 
 # game/script day12.rpy:1682
 translate Chinese day12_main_start_3efc1d3c:
 
     # s "At least partly."
-    s "至少得升一部分"
+    s "至少得升一部分。"
 
 # game/script day12.rpy:1684
 translate Chinese day12_main_start_669e918f:
 
     # "Your eyes wander from one sail to the next."
-    "你的目光从一面帆游移到另一面帆"
+    "你的目光从一面帆游移到另一面帆。"
 
 # game/script day12.rpy:1686
 translate Chinese day12_main_start_76e0e0b1:
 
     # p "A lot of work waiting for us."
-    p "还有一大堆活儿等着我们呢"
+    p "还有一大堆活儿等着我们呢。"
 
 # game/script day12.rpy:1688
 translate Chinese day12_main_start_34487dec:
 
     # s "Aye."
-    s "没错"
+    s "没错。"
 
 # game/script day12.rpy:1690
 translate Chinese day12_main_start_c71e8f97:
 
     # s "Why? Don't tell me you need a break already."
-    s "怎么？别告诉我你现在就想休息了"
+    s "怎么？别告诉我你现在就想休息了。"
 
 # game/script day12.rpy:1694
 translate Chinese day12_main_start_4d372f90:
 
     # "Another heavy lift of the sail follows before you can respond."
-    "没等你回答，又是一次沉重的收帆动作"
+    "没等你回答，又是一次沉重的收帆动作。"
 
 # game/script day12.rpy:1696
 translate Chinese day12_main_start_0d121fb8:
 
     # p "You're one to talk.{w} Listen to yourself starting to huff."
-    p "你还有脸说呢。{w}听听你自己都开始喘气了"
+    p "你还有脸说呢。{w}听听你自己都开始喘气了。"
 
 # game/script day12.rpy:1700
 translate Chinese day12_main_start_ef1ed4f6:
 
     # s "Tsk."
-    s "啧"
+    s "啧。"
 
 # game/script day12.rpy:1704
 translate Chinese day12_main_start_54782949:
@@ -2914,7 +2913,7 @@ translate Chinese day12_main_start_54782949:
 translate Chinese day12_main_start_038fc724:
 
     # "You have to adjust your own balance as your section of the brace is pulled back, forcing you to lean further over the yard."
-    "你负责的那段撑索被向后拉动，迫使你身体在帆桁上探得更远，你不得不调整自己的平衡"
+    "你负责的那段撑索被向后拉动，迫使你身体在帆桁上探得更远，你不得不调整自己的平衡。"
 
 # game/script day12.rpy:1710
 translate Chinese day12_main_start_e1e3b896:
@@ -2926,7 +2925,7 @@ translate Chinese day12_main_start_e1e3b896:
 translate Chinese day12_main_start_11d1db3b:
 
     # "You give [him] a playful bump with your elbow."
-    "你用胳膊肘俏皮地轻轻撞了[him]一下"
+    "你用胳膊肘俏皮地轻轻撞了[him]一下。"
 
 # game/script day12.rpy:1719
 translate Chinese day12_main_start_2002b5a8:
@@ -2938,7 +2937,7 @@ translate Chinese day12_main_start_2002b5a8:
 translate Chinese day12_main_start_e8763d15:
 
     # p "Nothing."
-    p "没什么"
+    p "没什么。"
 
 # game/script day12.rpy:1723
 translate Chinese day12_main_start_4e7ff4de:
@@ -2950,19 +2949,19 @@ translate Chinese day12_main_start_4e7ff4de:
 translate Chinese day12_main_start_c6ca843b:
 
     # p "No, nothing, sorry."
-    p "不，没什么，对不起"
+    p "不，没什么，对不起。"
 
 # game/script day12.rpy:1729
 translate Chinese day12_main_start_9d69aba2:
 
     # s "It just slipped."
-    s "只是手滑了"
+    s "只是手滑了。"
 
 # game/script day12.rpy:1731
 translate Chinese day12_main_start_f8150f68:
 
     # s "Because {i}someone{/i} thought it would be a grand ol' idea to add a building storm to the reefing of the sails."
-    s "因为{i}某个人{/i}觉得在收帆的时候加上一场酝酿中的风暴是个绝妙的主意"
+    s "因为{i}某个人{/i}觉得在收帆的时候加上一场酝酿中的风暴是个绝妙的主意。"
 
 # game/script day12.rpy:1733
 translate Chinese day12_main_start_04606e4f:
@@ -2974,49 +2973,49 @@ translate Chinese day12_main_start_04606e4f:
 translate Chinese day12_main_start_4dbb831a:
 
     # "It doesn't take long though before you need a breather, the strain of your injuries making it difficult to keep up with the others."
-    "不过没过多久你就需要喘口气了，伤口的疼痛痛让你很难跟上其他人的节奏"
+    "不过没过多久你就需要喘口气了，伤口的疼痛痛让你很难跟上其他人的节奏。"
 
 # game/script day12.rpy:1747
 translate Chinese day12_main_start_2ed396ba:
 
     # "At least it gives you space to think about what he said."
-    "至少这让你有时间去思考他说的话"
+    "至少这让你有时间去思考他说的话。"
 
 # game/script day12.rpy:1749
 translate Chinese day12_main_start_5792c7a7:
 
     # "After a short while you're pulled out of your thoughts by a voice right next to you."
-    "过了一会儿，你被身旁的一个声音从思绪中拉了回来"
+    "过了一会儿，你被身旁的一个声音从思绪中拉了回来。"
 
 # game/script day12.rpy:1753
 translate Chinese day12_main_start_c1b6cc8e:
 
     # "You catch your breath in silence next to Wolf, joining the effort to pull in the sail bit by slow bit."
-    "你在Wolf身旁默默地喘着气，和大家一起慢慢地拉着船帆"
+    "你在Wolf身旁默默地喘着气，和大家一起慢慢地拉着船帆。"
 
 # game/script day12.rpy:1755
 translate Chinese day12_main_start_11990ee5:
 
     # "It gives you space to think about what he said and question yourself and the reasons that brought you here."
-    "这让你有时间思考他说的话，也让你开始审视自己以及来到这里的原因"
+    "这让你有时间思考他说的话，也让你开始审视自己以及来到这里的原因。"
 
 # game/script day12.rpy:1757
 translate Chinese day12_main_start_029cb87e:
 
     # "Not for long, though, for a voice draws your attention."
-    "但没过多久，一个声音就吸引了你的注意"
+    "但没过多久，一个声音就吸引了你的注意。"
 
 # game/script day12.rpy:1759
 translate Chinese day12_main_start_1f9714fc:
 
     # pb "Yo."
-    pb "喂"
+    pb "喂。"
 
 # game/script day12.rpy:1769
 translate Chinese day12_main_start_387ad4c6:
 
     # "You jolt back into action, fearing that its someone who just wants to whip you back in shape."
-    "你猛地回过神来开始行动，担心是有人想督促你好好干活"
+    "你猛地回过神来开始行动，担心是有人想督促你好好干活。"
 
 # game/script day12.rpy:1771
 translate Chinese day12_main_start_97047a96:
@@ -3028,31 +3027,31 @@ translate Chinese day12_main_start_97047a96:
 translate Chinese day12_main_start_9d6288cd:
 
     # "He asks again. This time you actually turn to look at him."
-    "他又问了一遍。这次你终于转过身去看他"
+    "他又问了一遍。这次你终于转过身去看他。"
 
 # game/script day12.rpy:1777
 translate Chinese day12_main_start_ad3c31c7:
 
     # "The jackal leans over the yard, nudging your arm gently to get you to turn around."
-    "那只豺狼探过帆桁轻轻碰了碰你的胳膊，示意你转过身"
+    "那只豺狼探过帆桁轻轻碰了碰你的胳膊，示意你转过身。"
 
 # game/script day12.rpy:1781
 translate Chinese day12_main_start_a933a540:
 
     # "It is Perce, the sailor you spent quite some time with sharing the sick cabin."
-    "是Perce，那个和你在病舱里待了好一阵子的水手"
+    "是Perce，那个和你在病舱里待了好一阵子的水手。"
 
 # game/script day12.rpy:1783
 translate Chinese day12_main_start_3b0d3f7c:
 
     # "He recently rejoined the active crew after the infection in his hand subsided enough."
-    "他手上的感染好转不少后，最近才重返现役船员行列"
+    "他手上的感染好转不少后，最近才重返现役船员行列。"
 
 # game/script day12.rpy:1787
 translate Chinese day12_main_start_553e48cb:
 
     # "It is Perce, the sailor you assisted Rajeeyah with on your very first day."
-    "是Perce，你第一天协助Rajeeyah照料过的那位水手"
+    "是Perce，你第一天协助Rajeeyah照料过的那位水手。"
 
 # game/script day12.rpy:1789
 translate Chinese day12_main_start_3b0d3f7c_1:
@@ -3064,7 +3063,7 @@ translate Chinese day12_main_start_3b0d3f7c_1:
 translate Chinese day12_main_start_e5f8043e:
 
     # "It is Perce. A sailor who recently rejoined the crew after being out for a while with what he said was a rather nasty infection."
-    "是Perce。这个水手之前说自己染上了相当严重的感染，休养了一段时间后最近才重新归队"
+    "是Perce。这个水手之前说自己染上了相当严重的感染，休养了一段时间后最近才重新归队。"
 
 # game/script day12.rpy:1797
 translate Chinese day12_main_start_afc19f35:
@@ -3076,7 +3075,7 @@ translate Chinese day12_main_start_afc19f35:
 translate Chinese day12_main_start_6186867a:
 
     # "You nod."
-    "你点点头"
+    "你点点头。"
 
 # game/script day12.rpy:1803
 translate Chinese day12_main_start_c1e6eaf5:
@@ -3088,13 +3087,13 @@ translate Chinese day12_main_start_c1e6eaf5:
 translate Chinese day12_main_start_8daf861d:
 
     # "It takes a moment for things to click into place and for you to reply."
-    "你花了一会儿才理清头绪并作出回应"
+    "你花了一会儿才理清头绪并作出回应。"
 
 # game/script day12.rpy:1807
 translate Chinese day12_main_start_6bc6dd21:
 
     # p "You could say that."
-    p "可以这么说"
+    p "可以这么说。"
 
 # game/script day12.rpy:1813
 translate Chinese day12_main_start_2e838a2a:
@@ -3106,13 +3105,13 @@ translate Chinese day12_main_start_2e838a2a:
 translate Chinese day12_main_start_4ef07e19:
 
     # pb "But from one sailor to another, in your situation you should think about a way to help your case along."
-    pb "但同为水手，以你的情况，你应该想个办法改善现状"
+    pb "但同为水手，以你的情况，你应该想个办法改善现状。"
 
 # game/script day12.rpy:1817
 translate Chinese day12_main_start_0cd70868:
 
     # pb "I have seen few people come back into the good graces after such an early punishment without some... let's call it {i}help{/i}."
-    pb "我很少见到有人在这么早受罚后还能重新赢得青睐的，除非……我们称之为{i}助力{/i}"
+    pb "我很少见到有人在这么早受罚后还能重新赢得青睐的，除非……我们称之为{i}助力。{/i}"
 
 # game/script day12.rpy:1820
 translate Chinese day12_main_start_ac537399:
@@ -3124,43 +3123,43 @@ translate Chinese day12_main_start_ac537399:
 translate Chinese day12_main_start_364f240f:
 
     # pb "Grease the wheels."
-    pb "打点打点"
+    pb "打点打点。"
 
 # game/script day12.rpy:1824
 translate Chinese day12_main_start_033a981d:
 
     # p "I'm not quite sure I follow."
-    p "我不太明白你的意思"
+    p "我不太明白你的意思。"
 
 # game/script day12.rpy:1826
 translate Chinese day12_main_start_84d8238a:
 
     # w "Bribery."
-    w "就是贿赂他"
+    w "就是贿赂他。"
 
 # game/script day12.rpy:1828
 translate Chinese day12_main_start_0fd9ea5f:
 
     # w "He's talking about bribing the Mate."
-    w "他是在说贿赂大副"
+    w "他是在说贿赂大副。"
 
 # game/script day12.rpy:1830
 translate Chinese day12_main_start_08c2bdaa:
 
     # "The corners of Perce's lips twitch in a subtle smile."
-    "Perce嘴角微微抽搐，露出一抹不易察觉的微笑"
+    "Perce嘴角微微抽搐，露出一抹不易察觉的微笑。"
 
 # game/script day12.rpy:1832
 translate Chinese day12_main_start_2962c2d8:
 
     # pb "He's got it.{w} Arthur's got a bit of a taste for a good drink, you know. And there's been many a problem which was smoothed over by wetting the old man's throat."
-    pb "他懂了。{w}Authur挺爱喝两口好酒的，你知道的。很多问题只要让那老家伙喝上两口好酒就解决了"
+    pb "他懂了。{w}Arthur挺爱喝两口好酒的，你知道的。很多问题只要让那老家伙喝上两口好酒就解决了。"
 
 # game/script day12.rpy:1834
 translate Chinese day12_main_start_71ff516d:
 
     # pb "{i}Too much{/i} of a liking, I've heard. But you wouldn't know that from me."
-    pb "我听说是{i}太过{/i}喜欢了。不过你可别提是我说的"
+    pb "我听说是{i}太过{/i}喜欢了。不过你可别提是我说的。"
 
 # game/script day12.rpy:1838
 translate Chinese day12_main_start_b23b8d99:
@@ -3172,13 +3171,13 @@ translate Chinese day12_main_start_b23b8d99:
 translate Chinese day12_main_start_1451b040:
 
     # pb "Others will start asking questions, and lacking any good answers, they'll make up their own reasons."
-    pb "别人会开始打听，要是你给不出好的解释，他们就会自己编造理由"
+    pb "别人会开始打听，要是你给不出好的解释，他们就会自己编造理由。"
 
 # game/script day12.rpy:1842
 translate Chinese day12_main_start_4da83c56:
 
     # pb "You don't want to be the one who's brown-nosing the gentlemen."
-    pb "你也不想成为巴结上司的马屁精"
+    pb "你也不想成为巴结上司的马屁精。"
 
 # game/script day12.rpy:1846
 translate Chinese day12_main_start_88d1e667:
@@ -3196,91 +3195,91 @@ translate Chinese day12_main_start_df0e8b8f:
 translate Chinese day12_main_start_b6de80a4:
 
     # w "The herre like to play a game of deniability."
-    w "这些老爷们喜欢玩一套“概不承认”的把戏"
+    w "这些老爷们喜欢玩一套“概不承认”的把戏。"
 
 # game/script day12.rpy:1862
 translate Chinese day12_main_start_89bc5e30:
 
     # w "You have to play along. Act friendly, like you're just there to show your appreciation for them."
-    w "你得配合着点。表现得友好点，就好像你只是去表达对他们的感激之情"
+    w "你得配合着点。表现得友好点，就好像你只是去表达对他们的感激之情。"
 
 # game/script day12.rpy:1864
 translate Chinese day12_main_start_42d61b50:
 
     # w "They can save face and say you are only grateful towards your betters, and you just happen to get better treatment afterward."
-    w "他们可以保住面子，说你只是感激上司的关照，然后你刚好就得到更好的待遇了"
+    w "他们可以保住面子，说你只是感激上司的关照，然后你刚好就得到更好的待遇了。"
 
 # game/script day12.rpy:1866
 translate Chinese day12_main_start_896b8097:
 
     # p "Right, subtle.{w} Got it."
-    p "对，要含蓄点。{w}我明白了"
+    p "对，要含蓄点。{w}我明白了。"
 
 # game/script day12.rpy:1875
 translate Chinese day12_main_start_1f9755a8:
 
     # "Perce nods to Wolf with a knowing smile."
-    "Perce朝Wolf会意地笑着点了点头"
+    "Perce朝Wolf会意地笑着点了点头。"
 
 # game/script day12.rpy:1877
 translate Chinese day12_main_start_71a4c055:
 
     # pb "Told you he gets it."
-    pb "我说了他能懂吧"
+    pb "我说了他能懂吧。"
 
 # game/script day12.rpy:1879
 translate Chinese day12_main_start_893318f5:
 
     # "You lean against the yard, arms crossed, catching your breath."
-    "你双臂交叉，靠在帆桁上，喘着气"
+    "你双臂交叉，靠在帆桁上，喘着气。"
 
 # game/script day12.rpy:1881
 translate Chinese day12_main_start_48193de3:
 
     # p "But I'm a sailor like everyone else. How am I supposed to get my paws on it if it's all rationed out?"
-    p "可我跟其他水手一样啊。酒都是定量配给的，我要怎么弄到酒呢"
+    p "可我跟其他水手一样啊。酒都是定量配给的，我要怎么弄到酒呢？"
 
 # game/script day12.rpy:1883
 translate Chinese day12_main_start_ef6b80aa:
 
     # p "I don't know if you two have looked around lately, but a visit to the nearest alehouse isn't in the cards."
-    p "我不知道你们俩最近有没有留意周围，但想去最近的酒馆是不可能的"
+    p "我不知道你们俩最近有没有留意周围，但想去最近的酒馆是不可能的。"
 
 # game/script day12.rpy:1885
 translate Chinese day12_main_start_c9be154d:
 
     # pb "Get creative."
-    pb "想点新主意"
+    pb "想点新主意。"
 
 # game/script day12.rpy:1887
 translate Chinese day12_main_start_55b9b673:
 
     # pb "Make friends who might be able to arrange it. Bandile's not one to give out more than he's allowed to, but if you're in his good graces, he might let yours accumulate if you practice abstinence."
-    pb "交些可能有门路的朋友。Bandile不会发放超出规定数量的东西，但要是你能讨他欢心，如果你能节制着不喝，他或许会让你把酒攒起来"
+    pb "交些可能有门路的朋友。Bandile不会发放超出规定数量的东西，但要是你能讨他欢心，如果你能节制着不喝，他或许会让你把酒攒起来。"
 
 # game/script day12.rpy:1891
 translate Chinese day12_main_start_b4b70a26:
 
     # pb "Come on, don't you remember? I've told you as much about some of the vices of the crew."
-    pb "得了吧，你不记得了吗？我跟你说过不少船员的那些小毛病"
+    pb "得了吧，你不记得了吗？我跟你说过不少船员的那些小毛病。"
 
 # game/script day12.rpy:1893
 translate Chinese day12_main_start_042f0ae0:
 
     # pb "Myself included. So pick your poison, gamble or barter."
-    pb "包括我自己。所以你得自己选，是赌博还是以物易物"
+    pb "包括我自己。所以你得自己选，是赌博还是以物易物。"
 
 # game/script day12.rpy:1895
 translate Chinese day12_main_start_c8f1c5e4:
 
     # pb "I'd be happy to part with something for the right offer.{w} Though of course not officially so."
-    pb "要是条件合适，我也很乐意拿东西出来交换。{w}当然，这可不能是明面上的"
+    pb "要是条件合适，我也很乐意拿东西出来交换。{w}当然，这可不能是明面上的。"
 
 # game/script day12.rpy:1899
 translate Chinese day12_main_start_8e468ba7:
 
     # pb "Or, if that's not your style, just gamble or barter. I know that a lot of the crew have their own little stash for desperate times, and I'm sure some would be willing to part with it for the right offer."
-    pb "或者，要是你不喜欢这种方式，那就去赌博或者以物易物。我知道很多船员都自己藏了点酒以备不时之需，我相信只要条件合适，有些人会愿意拿出来的"
+    pb "或者，要是你不喜欢这种方式，那就去赌博或者以物易物。我知道很多船员都自己藏了点酒以备不时之需，我相信只要条件合适，有些人会愿意拿出来的。"
 
 # game/script day12.rpy:1901
 translate Chinese day12_main_start_117139ac:
@@ -3292,19 +3291,19 @@ translate Chinese day12_main_start_117139ac:
 translate Chinese day12_main_start_9158963f:
 
     # "He laughs for a moment and gestures for you to continue your task."
-    "他笑了一会儿，示意你继续干活"
+    "他笑了一会儿，示意你继续干活。"
 
 # game/script day12.rpy:1907
 translate Chinese day12_main_start_4864eb68:
 
     # p "Got it, so if I need to find something you might be the right person to talk to."
-    p "明白了，所以要是我需要找东西，或许找你聊聊是个不错的选择"
+    p "明白了，所以要是我需要找东西，或许找你聊聊是个不错的选择。"
 
 # game/script day12.rpy:1910
 translate Chinese day12_main_start_6e74e59d:
 
     # pb "Hah, quick one, aren't you?{w} Not {i}officially{/i}, no."
-    pb "哈，反应挺快嘛？{w}不是{i}官方{/i}意义上的，不"
+    pb "哈，反应挺快嘛？{w}不是{i}官方{/i}意义上的，不。"
 
 # game/script day12.rpy:1912
 translate Chinese day12_main_start_a9eaf082:
@@ -3322,67 +3321,67 @@ translate Chinese day12_main_start_6da1dffd:
 translate Chinese day12_main_start_ed52f733:
 
     # "You immediately feel awkward having laid it on so thick, but Perce doesn't appear to mind and his smile remains."
-    "你马上就因为话说得太刻意而感到尴尬，但Perce似乎并不在意，脸上依旧挂着笑容"
+    "你马上就因为话说得太刻意而感到尴尬，但Perce似乎并不在意，脸上依旧挂着笑容。"
 
 # game/script day12.rpy:1918
 translate Chinese day12_main_start_b404c95a:
 
     # pb "Naturally."
-    pb "那是自然"
+    pb "那是自然。"
 
 # game/script day12.rpy:1920
 translate Chinese day12_main_start_d4434be7:
 
     # pb "If you really want, we can talk about it later. When we're dry and my hand isn't killing me anymore."
-    pb "要是你真有想法，咱们之后再聊。等咱们身上干了，我手也不那么疼了再说"
+    pb "要是你真有想法，咱们之后再聊。等咱们身上干了，我手也不那么疼了再说。"
 
 # game/script day12.rpy:1934
 translate Chinese day12_main_start_8b6740cf:
 
     # "It doesn't take long though before you need a breather, the strain of your injuries making it difficult to keep up with Julian."
-    "没过多久你就需要歇口气了，身上的伤让你很难跟上Julian的节奏"
+    "没过多久你就需要歇口气了，身上的伤让你很难跟上Julian的节奏。"
 
 # game/script day12.rpy:1936
 translate Chinese day12_main_start_c99d651d:
 
     # "Thankfully he's experienced enough and is able to cover up your slack, no matter how frustrating it might be to be reliant on someone else."
-    "还好他经验丰富能帮你补上你的进度，尽管依赖别人可能会让人有些沮丧"
+    "还好他经验丰富能帮你补上你的进度，尽管依赖别人可能会让人有些沮丧。"
 
 # game/script day12.rpy:1938
 translate Chinese day12_main_start_f8161a8c:
 
     # "But he's the more knowledgeable of you two, and his support over the past few days has been invaluable after you had been left behind."
-    "但他比你懂得多，在你掉队之后，他这几天的帮助可太重要了"
+    "但他比你懂得多，在你掉队之后，他这几天的帮助可太重要了。"
 
 # game/script day12.rpy:1942
 translate Chinese day12_main_start_4a9a8b73:
 
     # "You work next to Julian in a stern silence. Just concentrating on pulling in the sail, slowly, bit by bit."
-    "你和Julian默默地在船尾一起干活。只是专注于慢慢地、一点一点地收帆"
+    "你和Julian默默地在船尾一起干活。只是专注于慢慢地、一点一点地收帆。"
 
 # game/script day12.rpy:1944
 translate Chinese day12_main_start_707a3e48:
 
     # "The two of you work well together. You aren't anywhere near as experienced as the sailors around you, but the two of you learning together has helped you understand each other's strengths and shortcomings well."
-    "你们俩配合得十分默契。和身边那些经验丰富的水手相比你还很青涩，但在共同学习的过程中你们很好地了解了彼此的优缺点"
+    "你们俩配合得十分默契。和身边那些经验丰富的水手相比你还很青涩，但在共同学习的过程中你们很好地了解了彼此的优缺点。"
 
 # game/script day12.rpy:1946
 translate Chinese day12_main_start_2efb9d6e:
 
     # "He's more knowledgeable than you, and more confident because of that, but he helps you and you help him. You're definitely getting more work done with him than you would be alone."
-    "他比你懂得多，也因此表现得更自信。不过你们相互帮助，有他在，你们完成的工作量肯定比你独自工作时要多得多"
+    "他比你懂得多，也因此表现得更自信。不过你们相互帮助，有他在，你们完成的工作量肯定比你独自工作时要多得多。"
 
 # game/script day12.rpy:1948
 translate Chinese day12_main_start_94d6b8ed:
 
     # "You follow Julian's example and hook your feet into a support beneath you, leaning further forward than you could manage normally, dragging more sail up."
-    "你学着Julian的样子，把脚勾在下方的支撑物上，身体比平时更向前倾，用力拉起更多的船帆"
+    "你学着Julian的样子，把脚勾在下方的支撑物上，身体比平时更向前倾，用力拉起更多的船帆。"
 
 # game/script day12.rpy:1955
 translate Chinese day12_main_start_ebca9185:
 
     # "After minutes of clambering around and working the sail, however, the silent tension is getting to you."
-    "然而，在攀爬和操作船帆的几分钟后，沉默带来的紧张感让你有些难受"
+    "然而，在攀爬和操作船帆的几分钟后，沉默带来的紧张感让你有些难受。"
 
 # game/script day12.rpy:1957
 translate Chinese day12_main_start_ebb0adfe:
@@ -3394,13 +3393,13 @@ translate Chinese day12_main_start_ebb0adfe:
 translate Chinese day12_main_start_c40ec487:
 
     # "Julian takes a moment to glance at you, but then turns back to his work, staying focused as he speaks."
-    "Julian瞥了你一眼，然后又专注于工作，边干活边回答你"
+    "Julian瞥了你一眼，然后又专注于工作，边干活边回答你。"
 
 # game/script day12.rpy:1965
 translate Chinese day12_main_start_d8d98e57:
 
     # j "Whoa, whoa, just because I wanted to talk about Arthur doesn't mean I'm volunteering information about myself."
-    j "哇哦，哇哦，我只是想聊聊Authur，可没说要分享我自己的事"
+    j "哇哦，哇哦，我只是想聊聊Arthur，可没说要分享我自己的事。"
 
 # game/script day12.rpy:1969
 translate Chinese day12_main_start_70f1aa13:
@@ -3418,61 +3417,61 @@ translate Chinese day12_main_start_4ea5ae00:
 translate Chinese day12_main_start_215a8feb:
 
     # p "It's not gossip if I'm asking you directly."
-    p "我直接问你，这可不叫八卦"
+    p "我直接问你，这可不叫八卦。"
 
 # game/script day12.rpy:1975
 translate Chinese day12_main_start_558a6f88:
 
     # p "I'm just curious, is all. I've never really known any cases of... Well, my parents were fine with each other. No fighting.{w} That I saw, anyway."
-    p "我只是好奇而已。我其实也不太了解……嗯，我爸妈相处得挺好的，不吵架。{w}至少我看到的没有"
+    p "我只是好奇而已。我其实也不太了解……嗯，我爸妈相处得挺好的，不吵架。{w}至少我看到的没有。"
 
 # game/script day12.rpy:1977
 translate Chinese day12_main_start_b6402f40:
 
     # "The two of you work in silence for a while, Julian clearly thinking a bit. You both acknowledge other sailors passing down, having finished the topgallants while you work this one."
-    "你们俩又安静地干了一会儿活，Julian显然在思考着什么。你们留意到其他水手结束了桅帆的工作从上面下来了，而你们还在整理现在这面帆"
+    "你们俩又安静地干了一会儿活，Julian显然在思考着什么。你们留意到其他水手结束了桅帆的工作从上面下来了，而你们还在整理现在这面帆。"
 
 # game/script day12.rpy:1979
 translate Chinese day12_main_start_5c2f0f1e:
 
     # "When they've passed, Julian turns back to you. He seems a bit more taciturn than usual, lost in thought on something serious to him."
-    "等他们走过去后，Julian又转向你。他似乎比平时更沉默寡言，陷入了对他来说很严肃的沉思中"
+    "等他们走过去后，Julian又转向你。他似乎比平时更沉默寡言，陷入了对他来说很严肃的沉思中。"
 
 # game/script day12.rpy:1981
 translate Chinese day12_main_start_5b49a9cc:
 
     # j "Well... Not everyone had your idealized pastoral upbringing, let's say."
-    j "呃……这么说吧，不是每个人都像你一样有个理想化的田园牧歌式的成长环境"
+    j "呃……这么说吧，不是每个人都像你一样有个理想化的田园牧歌式的成长环境。"
 
 # game/script day12.rpy:1983
 translate Chinese day12_main_start_7e4ed891:
 
     # j "But come on, let's not add even more bullshit to today. At least I would prefer if we didn't."
-    j "但算了，咱们今天就别再添堵了。至少我希望别再聊这些烦心事了"
+    j "但算了，咱们今天就别再添堵了。至少我希望别再聊这些烦心事了。"
 
 # game/script day12.rpy:1985
 translate Chinese day12_main_start_f996b4ac:
 
     # j "I'm quite content not having to think about the old man right now, so give me at least that."
-    j "我现在挺高兴不用去想那个老家伙，所以至少让我享受这片刻宁静吧"
+    j "我现在挺高兴不用去想那个老家伙，所以至少让我享受这片刻宁静吧。"
 
 # game/script day12.rpy:1987
 translate Chinese day12_main_start_a7f289c0:
 
     # j "We've got to finish this sail and then get to the mizzen, unless you want to be blasted with splinters like a canister of grapeshot."
-    j "我们得收完这面帆，然后去后桅那边，除非你想像葡萄弹罐子一样被木屑炸个满脸花"
+    j "我们得收完这面帆，然后去后桅那边，除非你想像葡萄弹罐子一样被木屑炸个满脸花。"
 
 # game/script day12.rpy:1994
 translate Chinese day12_main_start_b0dbc766:
 
     # "You get the hint and focus on your work instead of prying."
-    "你明白了他的意思，不再追问，而是专注于手头的工作"
+    "你明白了他的意思，不再追问，而是专注于手头的工作。"
 
 # game/script day12.rpy:1999
 translate Chinese day12_main_start_bf161ff9:
 
     # "You work alongside Perce, focused on gradually pulling in the sail. After catching your breath from the climb, you resume where you left off."
-    "你和Perce一起工作，专注于慢慢收起船帆。攀爬之后喘了口气，你又接着之前停下的地方继续干"
+    "你和Perce一起工作，专注于慢慢收起船帆。攀爬之后喘了口气，你又接着之前停下的地方继续干。"
 
 # game/script day12.rpy:2005
 translate Chinese day12_main_start_0d3ae7d4:
@@ -3496,7 +3495,7 @@ translate Chinese day12_main_start_0ba4e2a7:
 translate Chinese day12_main_start_57f3a47c:
 
     # pb "Others will start asking questions, and barring any good answers, they'll make up their own reasons for it."
-    pb "别人会开始打听，要是你给不出好的解释，他们就会自己编造理由"
+    pb "别人会开始打听，要是你给不出好的解释，他们就会自己编造理由。"
 
 # game/script day12.rpy:2013
 translate Chinese day12_main_start_4da83c56_1:
@@ -3508,25 +3507,25 @@ translate Chinese day12_main_start_4da83c56_1:
 translate Chinese day12_main_start_bd0192bc:
 
     # pb "But some little something something can go a long way to change someone's view."
-    pb "但送点小礼物能大大改变别人对你的看法"
+    pb "但送点小礼物能大大改变别人对你的看法。"
 
 # game/script day12.rpy:2017
 translate Chinese day12_main_start_78080669:
 
     # p "So I should bring him a gift? What even {i}could{/i} I bring him that he probably doesn't already have in abundance?"
-    p "那我该给他带个礼物吗？{i}可是{/i}我能送他什么呢，他八成什么都不缺啊"
+    p "那我该给他带个礼物吗？{i}可是{/i}我能送他什么呢，他八成什么都不缺啊？"
 
 # game/script day12.rpy:2019
 translate Chinese day12_main_start_527a98b1:
 
     # pb "Exactly."
-    pb "没错"
+    pb "没错。"
 
 # game/script day12.rpy:2021
 translate Chinese day12_main_start_7abb00a4:
 
     # p "He's not hurting with his officer's salary, that's for certain."
-    p "他拿军官的薪水，肯定不缺钱"
+    p "他拿军官的薪水，肯定不缺钱。"
 
 # game/script day12.rpy:2023
 translate Chinese day12_main_start_2098e47c:
@@ -3544,13 +3543,13 @@ translate Chinese day12_main_start_f4a558ce:
 translate Chinese day12_main_start_dfac7bea:
 
     # "Perce smirks broadly, miming taking a sip from an invisible bottle."
-    "Perce咧嘴一笑，假装从一个看不见的瓶子里抿了一口"
+    "Perce咧嘴一笑，假装从一个看不见的瓶子里抿了一口。"
 
 # game/script day12.rpy:2031
 translate Chinese day12_main_start_7be76d68:
 
     # pb "My man, it's what keeps the ship from falling to pieces. The firewood that warms most sailors during harsh days."
-    pb "老兄，酒可是让这艘船不散架的法宝。就像寒日里给大多数水手取暖的柴火"
+    pb "老兄，酒可是让这艘船不散架的法宝。就像寒日里给大多数水手取暖的柴火。"
 
 # game/script day12.rpy:2033
 translate Chinese day12_main_start_fab92439:
@@ -3562,13 +3561,13 @@ translate Chinese day12_main_start_fab92439:
 translate Chinese day12_main_start_6502cd1d:
 
     # pb "A good sip of the strong stuff is what makes days like these bearable.{p}And wouldn't you know it, the mate's got a bit of a penchant for it."
-    pb "来一口烈酒，才能让这样的日子好过些。{p}而且你猜怎么着，大副就好这口"
+    pb "来一口烈酒，才能让这样的日子好过些。{p}而且你猜怎么着，大副就好这口。"
 
 # game/script day12.rpy:2037
 translate Chinese day12_main_start_d236058a:
 
     # pb "{i}Too much{/i} of a penchant, I've heard, but you wouldn't know that from me."
-    pb "我听说他好这口都{i}过头了{/i}，但这话你可别说是我说的"
+    pb "我听说他好这口都{i}过头了{/i}，但这话你可别说是我说的。"
 
 # game/script day12.rpy:2045
 translate Chinese day12_main_start_893318f5_1:
@@ -3587,7 +3586,7 @@ translate Chinese day12_main_start_2c9544a3:
 translate Chinese day12_main_start_814e2c4c:
 
     # p "I don't know if you've looked around lately, but I can't exactly visit the next ale house."
-    p "你最近也不看看周围的情况，我又不能跑去下一家酒馆买酒"
+    p "你最近也不看看周围的情况，我又不能跑去下一家酒馆买酒。"
 
 # game/script day12.rpy:2051
 translate Chinese day12_main_start_55b9b673_1:
@@ -3617,7 +3616,7 @@ translate Chinese day12_main_start_9158963f_1:
 translate Chinese day12_main_start_0879a876:
 
     # pb "Hah, quick one aren't you?{w} Not {i}officially{/i}, no."
-    pb "哈，反应挺快嘛？{w}不是{i}官方{/i}意义上的，不"
+    pb "哈，反应挺快嘛？{w}不是{i}官方{/i}意义上的，不。"
 
 # game/script day12.rpy:2066
 translate Chinese day12_main_start_a9eaf082_1:
@@ -3653,79 +3652,79 @@ translate Chinese day12_main_start_d4434be7_1:
 translate Chinese day12_main_start_af4cd79c:
 
     # "Some time passes before you secure the sail in its close-reefed position. As before, she assists you by holding you and the sail steady against the heeling motion of the ship."
-    "过了一段时间，你才把帆固定在缩帆状态。和之前一样，她扶住你和帆，帮助你们稳定对抗船只的倾斜摇晃"
+    "过了一段时间，你才把帆固定在缩帆状态。和之前一样，她扶住你和帆，帮助你们稳定对抗船只的倾斜摇晃。"
 
 # game/script day12.rpy:2086
 translate Chinese day12_main_start_33a999d9:
 
     # "Some time passes before you secure the sail in its close-reefed position. As before, he assists you by holding you and the sail steady against the heeling motion of the ship."
-    "过了一段时间，你才把帆固定在缩帆状态。和之前一样，他扶住你和帆，帮助你们稳定对抗船只的倾斜摇晃"
+    "过了一段时间，你才把帆固定在缩帆状态。和之前一样，他扶住你和帆，帮助你们稳定对抗船只的倾斜摇晃。"
 
 # game/script day12.rpy:2093
 translate Chinese day12_main_start_1801bdfb:
 
     # "And the assistance was thoroughly needed by this point. The wind and rain intensify, as the ship now continues to navigate under the thick clouds."
-    "到这时，他的帮忙显得尤为重要。风更猛了，雨更大了，船在厚厚的云层下继续航行"
+    "到这时，他的帮忙显得尤为重要。风更猛了，雨更大了，船在厚厚的云层下继续航行。"
 
 # game/script day12.rpy:2095
 translate Chinese day12_main_start_2d12b62e:
 
     # "Gone are the sunny days and fair winds."
-    "阳光灿烂风平浪静的日子一去不复返了"
+    "阳光灿烂风平浪静的日子一去不复返了。"
 
 # game/script day12.rpy:2097
 translate Chinese day12_main_start_bd942274:
 
     # "Instead, just a few days in and you are battling the forces of nature."
-    "然而仅仅才过了几天，你就不得不与大自然的力量展开搏斗"
+    "然而仅仅才过了几天，你就不得不与大自然的力量展开搏斗。"
 
 # game/script day12.rpy:2101
 translate Chinese day12_main_start_7c2c9035:
 
     # "And you begin to realize the limits of your abilities as you struggle to secure the sail, even with Samuel's assistance."
-    "在努力固定船帆的过程中，即便有Samuel的协助，你也开始意识到自己能力的局限"
+    "在努力固定船帆的过程中，即便有Samuel的协助，你也开始意识到自己能力的局限。"
 
 # game/script day12.rpy:2105
 translate Chinese day12_main_start_c80a027a:
 
     # "And you begin to realize the limits of your abilities as you struggle to secure the sail, even with Julian's assistance."
-    "在努力固定船帆的过程中，即便有Julian的协助，你也开始意识到自己能力的局限"
+    "在努力固定船帆的过程中，即便有Julian的协助，你也开始意识到自己能力的局限。"
 
 # game/script day12.rpy:2109
 translate Chinese day12_main_start_4ba1e6ac:
 
     # "And you begin to realize the limits of your abilities as you struggle to secure the sail, even with the help of Wolf and Perce."
-    "在努力固定船帆的过程中，即便有Wolf和Perce的协助，你也开始意识到自己能力的局限"
+    "在努力固定船帆的过程中，即便有Wolf和Perce的协助，你也开始意识到自己能力的局限。"
 
 # game/script day12.rpy:2113
 translate Chinese day12_main_start_56f8eb5a:
 
     # "And you begin to realize the limits of your abilities as you struggle to secure the sail, even with Perce's assistance."
-    "在努力固定船帆的过程中，即便有Perce的协助，你也开始意识到自己能力的局限"
+    "在努力固定船帆的过程中，即便有Perce的协助，你也开始意识到自己能力的局限。"
 
 # game/script day12.rpy:2115
 translate Chinese day12_main_start_03cfd130:
 
     # "When you're done, the yard is decorated with a few claw marks of yours etched into it for posterity... Although by the looks of it, they are in good company."
-    "工作完成后，桅杆上留下了你抓出的几道爪痕，权当是留作纪念……不过从样子来看，这帆桁上类似的痕迹可不少"
+    "工作完成后，桅杆上留下了你抓出的几道爪痕，权当是留作纪念……不过从样子来看，这帆桁上类似的痕迹可不少。"
 
 # game/script day12.rpy:2124
 translate Chinese day12_main_start_6daf9743:
 
     # "Samuel signs you to stay put for the moment and let the others descend first, conveniently giving you a moment of rest as both of you lean across the yard together."
-    "Samuel示意你先别动，让其他人先下去，这样一来，你们俩靠在帆桁上正好能休息一会儿"
+    "Samuel示意你先别动，让其他人先下去，这样一来，你们俩靠在帆桁上正好能休息一会儿。"
 
 # game/script day12.rpy:2128
 translate Chinese day12_main_start_38960960:
 
     # j "Let's wait for a moment until it thins out a bit."
-    j "咱们等一会儿，等人少点再说"
+    j "咱们等一会儿，等人少点再说。"
 
 # game/script day12.rpy:2130
 translate Chinese day12_main_start_4650a4d0:
 
     # "You return a nod to the lizard, certainly not minding the moment of rest it provides as both of you lean across the yard together."
-    "你向蜥蜴点头回应，你们俩一起靠在帆桁上，你自然不会介意这片刻的休息"
+    "你向蜥蜴点头回应，你们俩一起靠在帆桁上，你自然不会介意这片刻的休息。"
 
 # game/script day12.rpy:2134
 translate Chinese day12_main_start_d500cfa0:
@@ -3737,7 +3736,7 @@ translate Chinese day12_main_start_d500cfa0:
 translate Chinese day12_main_start_92111b8c:
 
     # "Conveniently, it grants you a moment to catch your breath, leaning across the yard."
-    "这正好给了你一个靠在帆桁上喘口气的机会"
+    "这正好给了你一个靠在帆桁上喘口气的机会。"
 
 # game/script day12.rpy:2138
 translate Chinese day12_main_start_4dfc5b0f:
@@ -3749,13 +3748,13 @@ translate Chinese day12_main_start_4dfc5b0f:
 translate Chinese day12_main_start_820b60de:
 
     # "The canine asks, having just grabbed the shrouds to descend himself."
-    "Wolf一边问，一边抓住桅索准备自己下去"
+    "Wolf一边问，一边抓住桅索准备自己下去。"
 
 # game/script day12.rpy:2147
 translate Chinese day12_main_start_34ad1c0e:
 
     # p "In a moment. You can go ahead."
-    p "等一下。你先下去吧"
+    p "等一下。你先下去吧。"
 
 # game/script day12.rpy:2155
 translate Chinese day12_main_start_d500cfa0_1:
@@ -3773,13 +3772,13 @@ translate Chinese day12_main_start_92111b8c_1:
 translate Chinese day12_main_start_9769f53e:
 
     # "You look down, the deck of the ship looking frighteningly small from this height."
-    "你朝下望去，从这么高的地方看，船甲板小得吓人"
+    "你朝下望去，从这么高的地方看，船甲板小得吓人。"
 
 # game/script day12.rpy:2172
 translate Chinese day12_main_start_d800c600:
 
     # "Fortunately, vertigo is not something you have to deal with."
-    "幸运的是，你不用担心会晕高"
+    "幸运的是，你不用担心会晕高。"
 
 # game/script day12.rpy:2174
 translate Chinese day12_main_start_099932fd:
@@ -3809,37 +3808,37 @@ translate Chinese day12_main_start_f8db6b15:
 translate Chinese day12_main_start_d703d110:
 
     # "You make sure you hold on to the yard a little tighter."
-    "你确保自己把帆桁抓得更紧了些"
+    "你确保自己把帆桁抓得更紧了些。"
 
 # game/script day12.rpy:2194
 translate Chinese day12_main_start_1b80b161:
 
     # s "She'll make it."
-    s "船会没事的"
+    s "船会没事的。"
 
 # game/script day12.rpy:2202
 translate Chinese day12_main_start_1e896182:
 
     # "You look over at Samuel who is looking up at the towering cloud above."
-    "你看向Samuel，他正抬头望着上方高耸的云层"
+    "你看向Samuel，他正抬头望着上方高耸的云层。"
 
 # game/script day12.rpy:2204
 translate Chinese day12_main_start_112b87d2:
 
     # s "The problem isn't the clouds ahead."
-    s "问题不在前面的云"
+    s "问题不在前面的云。"
 
 # game/script day12.rpy:2206
 translate Chinese day12_main_start_308067f8:
 
     # s "She can weather anything if we're prepared."
-    s "只要我们做好准备，她能经受住任何风浪"
+    s "只要我们做好准备，她能经受住任何风浪。"
 
 # game/script day12.rpy:2208
 translate Chinese day12_main_start_39c11560:
 
     # s "The problem was that your screw-up left us ill-prepared."
-    s "问题是你搞砸了，让我们准备不足"
+    s "问题是你搞砸了，让我们准备不足。"
 
 # game/script day12.rpy:2210
 translate Chinese day12_main_start_6b0adef0:
@@ -3851,37 +3850,37 @@ translate Chinese day12_main_start_6b0adef0:
 translate Chinese day12_main_start_994baf17:
 
     # s "Just telling it like it is."
-    s "我只是实话实说"
+    s "我只是实话实说。"
 
 # game/script day12.rpy:2216
 translate Chinese day12_main_start_82aae281:
 
     # s "Don't expect me to coddle you."
-    s "别指望我哄着你"
+    s "别指望我哄着你。"
 
 # game/script day12.rpy:2218
 translate Chinese day12_main_start_140a89de:
 
     # "As a passing sailor brushes past, you tuck your tail in, allowing him space. You look over your shoulder and watch him slip back to the mast from the outer edges of the yard."
-    "一名路过的水手擦身而过，你收起尾巴，给他让了让地方。你回头瞥了一眼，看着他从横桁边缘溜回到桅杆那边"
+    "一名路过的水手擦身而过，你收起尾巴，给他让了让地方。你回头瞥了一眼，看着他从横桁边缘溜回到桅杆那边。"
 
 # game/script day12.rpy:2222
 translate Chinese day12_main_start_a7f124bb:
 
     # s "Looks less crowded now.{w} Let's get down."
-    s "现在看起来没那么挤了。{w} 我们下去吧"
+    s "现在看起来没那么挤了。{w} 我们下去吧。"
 
 # game/script day12.rpy:2227
 translate Chinese day12_main_start_20e865dc:
 
     # "[He] nods toward the mast, stepping along the brace just like the other sailor before, and climbs onto the shrouds."
-    "[He]朝桅杆点点头，像之前那名水手一样沿着撑杆走去，然后爬上桅索"
+    "[He]朝桅杆点点头，像之前那名水手一样沿着撑杆走去，然后爬上桅索。"
 
 # game/script day12.rpy:2229
 translate Chinese day12_main_start_7d19a916:
 
     # "You follow, each foothold precarious. The lines grow slippery, and the ship's heel doesn't make it any easier."
-    "你跟在后面，每一个落脚点都摇摇欲坠。绳索变得湿滑，而船身的倾斜也让下降变得更加艰难"
+    "你跟在后面，每一个落脚点都摇摇欲坠。绳索变得湿滑，而船身的倾斜也让下降变得更加艰难。"
 
 # game/script day12.rpy:2255
 translate Chinese day12_main_start_cea12dfa:
@@ -3894,61 +3893,61 @@ translate Chinese day12_main_start_cea12dfa:
 translate Chinese day12_main_start_a05ab1c1:
 
     # "Even the deck is becoming treacherous for you, the wet surface leaning off to the side, and the swell of the waves rocking the ship strongly enough to threaten your balance."
-    "就连甲板对你来说也变得危险起来，湿漉漉的表面向一侧倾斜，海浪的涌动猛烈地摇晃着船身，险些让你失去平衡"
+    "就连甲板对你来说也变得危险起来，湿漉漉的表面向一侧倾斜，海浪的涌动猛烈地摇晃着船身，险些让你失去平衡。"
 
 # game/script day12.rpy:2259
 translate Chinese day12_main_start_6da0bf92:
 
     # s "You don't have to go up for this one, you know."
-    s "你知道，这次你不用上去了"
+    s "你知道，这次你不用上去了。"
 
 # game/script day12.rpy:2261
 translate Chinese day12_main_start_0197757d:
 
     # s "I may be pissed right now, but the last thing I want is to walk by your empty hammock during this trip."
-    s "我现在可能很生气，但我最不希望的就是在这次航程中路过你空荡荡的吊床"
+    s "我现在可能很生气，但我最不希望的就是在这次航程中路过你空荡荡的吊床。"
 
 # game/script day12.rpy:2263
 translate Chinese day12_main_start_31db6d3c:
 
     # s "Conditions are getting a little nasty, and by now you've felt just how much rougher it's going to be up there."
-    s "情况变得有点恶劣了，到现在你也该感受到在上面会有多艰难了"
+    s "情况变得有点恶劣了，到现在你也该感受到在上面会有多艰难了。"
 
 # game/script day12.rpy:2265
 translate Chinese day12_main_start_cfa75d8d:
 
     # s "We'll be fine without you this time."
-    s "这次没你我们也行"
+    s "这次没你我们也行。"
 
 # game/script day12.rpy:2269
 translate Chinese day12_main_start_7cd60ad4:
 
     # j "I think we'll make it.{w} The ship, I mean. And us."
-    j "我想我们会没事的。{w} 我是说这艘船。还有我们"
+    j "我想我们会没事的。{w} 我是说这艘船。还有我们。"
 
 # game/script day12.rpy:2276
 translate Chinese day12_main_start_832e6a3d:
 
     # "You turn towards Julian."
-    "你转向Julian"
+    "你转向Julian。"
 
 # game/script day12.rpy:2278
 translate Chinese day12_main_start_f91cc210:
 
     # j "This crew's experienced. This sucked, but they've been through worse before, I can tell."
-    j "这帮船员们经验丰富。这次情况很糟，但我看得出来，他们经历过更艰难的时刻"
+    j "这帮船员们经验丰富。这次情况很糟，但我看得出来，他们经历过更艰难的时刻。"
 
 # game/script day12.rpy:2280
 translate Chinese day12_main_start_d4ce67c0:
 
     # j "It was just that we had to rush for it in the rain 'cause you were asleep."
-    j "只是因为你在睡觉，我们才不得不冒雨仓促行动"
+    j "只是因为你在睡觉，我们才不得不冒雨仓促行动。"
 
 # game/script day12.rpy:2282
 translate Chinese day12_main_start_681e3962:
 
     # "You sigh."
-    "你叹了口气"
+    "你叹了口气。"
 
 # game/script day12.rpy:2284
 translate Chinese day12_main_start_ac885ba0:
@@ -3960,37 +3959,37 @@ translate Chinese day12_main_start_ac885ba0:
 translate Chinese day12_main_start_f85a70ee:
 
     # j "No, man, I'm not trying to scold you, it is Arthur's fault for keeping you up. Look, this mast is mostly done, let's head down."
-    j "不，伙计，我不是想责备你，是Authur让你熬夜，这是他的错。你看，这根桅杆的活儿基本干完了，咱们下去吧"
+    j "不，伙计，我不是想责备你，是Arthur让你熬夜，这是他的错。你看，这根桅杆的活儿基本干完了，咱们下去吧。"
 
 # game/script day12.rpy:2290
 translate Chinese day12_main_start_406f3709:
 
     # "You consider protesting, but another gust of wind puts a bone-deep chill into you and reminds you just how tired you are. You nod sullenly."
-    "你想着要不要抗议，但又一阵强风袭来让你彻骨生寒，也让你想起自己有多疲惫。你闷闷不乐地点了点头"
+    "你想着要不要抗议，但又一阵强风袭来让你彻骨生寒，也让你想起自己有多疲惫。你闷闷不乐地点了点头。"
 
 # game/script day12.rpy:2296
 translate Chinese day12_main_start_2ac72778:
 
     # "You move along the brace, managing to maneuver onto the shrouds. You're extra careful the entire time as the rain slicks the ropes, making it quite easy to slip and bringing back bad thoughts from earlier."
-    "你沿着支索移动，设法爬到了护桅索上。由于雨水让绳索变得湿滑，很容易滑倒，还勾起了你之前不好的回忆，所以你全程都格外小心"
+    "你沿着支索移动，设法爬到了护桅索上。由于雨水让绳索变得湿滑，很容易滑倒，还勾起了你之前不好的回忆，所以你全程都格外小心。"
 
 # game/script day12.rpy:2298
 translate Chinese day12_main_start_01a437d7:
 
     # "Julian is less cautious than you, beating you to the deck; he alternates between watching you descend and the mizzen mast, which is still not fully reefed."
-    "Julian没你那么谨慎，他比你先到甲板。他一边看着你下来，一边留意着还没完全收帆的后桅"
+    "Julian没你那么谨慎，他比你先到甲板。他一边看着你下来，一边留意着还没完全收帆的后桅。"
 
 # game/script day12.rpy:2324
 translate Chinese day12_main_start_3d417cf4:
 
     # "Your feet touch the deck and find it barely better than the ropes you just left. The wood is equally slick with rain and the waves batter the ship enough that you could lose your footing if you weren't careful."
-    "你的脚触到了甲板，却发现甲板的状况也好不到哪儿去。木板同样被雨水打得湿滑，海浪不断冲击着船身，要是不小心，你很可能会摔倒"
+    "你的脚触到了甲板，却发现甲板的状况也好不到哪儿去。木板同样被雨水打得湿滑，海浪不断冲击着船身，要是不小心，你很可能会摔倒。"
 
 # game/script day12.rpy:2326
 translate Chinese day12_main_start_6182c490:
 
     # "The two of you head towards the mizzen mast. You catch Julian giving you a concerned look; you must truly look miserable to him if you look half as tired as you feel, fur matted to your body by the rain. The rush of an emergency fading."
-    "你们俩朝后桅走去。你注意到Julian关切地看了你一眼。如果你看起来有你感觉的一半疲惫，那在他眼里你肯定狼狈极了，雨水把你的毛贴在了身上。紧急情况带来的紧张感渐渐消退"
+    "你们俩朝后桅走去。你注意到Julian关切地看了你一眼。如果你看起来有你感觉的一半疲惫，那在他眼里你肯定狼狈极了，雨水把你的毛贴在了身上。紧急情况带来的紧张感渐渐消退。"
 
 # game/script day12.rpy:2328
 translate Chinese day12_main_start_1eb462da:
@@ -4008,37 +4007,37 @@ translate Chinese day12_main_start_77c75405:
 translate Chinese day12_main_start_3aa26d96:
 
     # j "If you're exhausted, the rain's just going to make it worse.{w} If you lose focus for even a second while climbing..."
-    j "如果你已经精疲力竭，这雨只会让情况更糟。要是你在攀爬的时候哪怕走神一秒……"
+    j "如果你已经精疲力竭，这雨只会让情况更糟。{w}要是你在攀爬的时候哪怕走神一秒……"
 
 # game/script day12.rpy:2336
 translate Chinese day12_main_start_5de7d4d4:
 
     # j "I'm just saying, we'll be fine, alright? Stay safe. This ship's not worth your life, and I know that you just really want to prove yourself among the crew."
-    j "我只是说，我们会没事的，好吗？注意安全。这艘船不值得你拿命去拼，而且我知道你很想在船员中证明自己"
+    j "我只是说，我们会没事的，好吗？注意安全。这艘船不值得你拿命去拼，而且我知道你很想在船员中证明自己。"
 
 # game/script day12.rpy:2338
 translate Chinese day12_main_start_ef988ba4:
 
     # j "But, I don't think now is that time, and I'm sure Samuel would agree if he was here."
-    j "但我觉得现在不是时候，要是Samuel在这儿，他肯定也会这么说"
+    j "但我觉得现在不是时候，要是Samuel在这儿，他肯定也会这么说。"
 
 # game/script day12.rpy:2344
 translate Chinese day12_main_start_cb06fb2d:
 
     # "Soon enough, the last sailor makes it past you from the outer edge of the yard. You help each of them along by pulling in your tail whenever they pass you."
-    "很快，最后一名水手从帆桁边缘超过了你。每当他们经过时，你都会收起尾巴给他们让道"
+    "很快，最后一名水手从帆桁边缘超过了你。每当他们经过时，你都会收起尾巴给他们让道。"
 
 # game/script day12.rpy:2346
 translate Chinese day12_main_start_98a34f27:
 
     # "You follow them, carefully, well aware of how slippery the ropes are becoming."
-    "你小心翼翼地跟在他们后面，心里清楚绳索变得有多滑"
+    "你小心翼翼地跟在他们后面，心里清楚绳索变得有多滑。"
 
 # game/script day12.rpy:2370
 translate Chinese day12_main_start_00d232d1:
 
     # "With your paws back on deck you hurry along the length of the ship, back to the mizzen mast and grab onto the shrouds."
-    "你的爪子一回到甲板，你就匆匆沿着船身，回到后桅抓住桅索"
+    "你的爪子一回到甲板，你就匆匆沿着船身，回到后桅抓住桅索。"
 
 # game/script day12.rpy:2372
 translate Chinese day12_main_start_a05ab1c1_1:
@@ -4050,37 +4049,37 @@ translate Chinese day12_main_start_a05ab1c1_1:
 translate Chinese day12_main_start_f136da78:
 
     # "Going up is quickly becoming dangerous in these conditions, especially for you, as someone who doesn't have the wealth of experience of the other sailors."
-    "在这种情况下往上爬很快就会变得十分危险，尤其是对你来说，毕竟你不像其他水手那样经验丰富"
+    "在这种情况下往上爬很快就会变得十分危险，尤其是对你来说，毕竟你不像其他水手那样经验丰富。"
 
 # game/script day12.rpy:2376
 translate Chinese day12_main_start_d9074c69:
 
     # "You hesitate and watch the others at first, wondering if you should follow them or not."
-    "你犹豫了一下，先看着其他人，琢磨着该不该跟上"
+    "你犹豫了一下，先看着其他人，琢磨着该不该跟上。"
 
 # game/script day12.rpy:2397
 translate Chinese day12_climb_up_8fd81d29:
 
     # p "I'm part of the crew, just like everyone else."
-    p "我和其他人一样，是船员的一份子"
+    p "我和其他人一样，是船员的一份子。"
 
 # game/script day12.rpy:2399
 translate Chinese day12_climb_up_0a5c36bc:
 
     # p "And I am the reason we are in this position in the first place."
-    p "而且我们陷入这种处境，首先就是因为我的错"
+    p "而且我们陷入这种处境，首先就是因为我的错。"
 
 # game/script day12.rpy:2401
 translate Chinese day12_climb_up_ce2de77f:
 
     # p "The least I can do is lend a hand, instead of sitting around counting the knots in the planks."
-    p "我至少可以出份力，而不是坐在这儿数木板上的节疤"
+    p "我至少可以出份力，而不是坐在这儿数木板上的节疤。"
 
 # game/script day12.rpy:2409
 translate Chinese day12_climb_up_a6be80cb:
 
     # "You grab the shrouds and climb onto the gunwale, getting ready to climb up to the mizzen mast."
-    "你抓住桅索，爬上舷墙，准备爬向后桅"
+    "你抓住桅索，爬上舷墙，准备爬向后桅。"
 
 # game/script day12.rpy:2413
 translate Chinese day12_climb_up_8af60b30:
@@ -4092,25 +4091,25 @@ translate Chinese day12_climb_up_8af60b30:
 translate Chinese day12_climb_up_898e9328:
 
     # p "I will, Sam."
-    p "我会的，Sam"
+    p "我会的，Sam。"
 
 # game/script day12.rpy:2419
 translate Chinese day12_climb_up_cf381cd3:
 
     # p "Hell no. I'm part of the crew, I'll manage. Even more so because we're in this situation in the first place because of me."
-    p "绝对不行。我是船员的一员，我能行。更何况一开始就是因为我，我们才陷入这种状况"
+    p "绝对不行。我是船员的一员，我能行。更何况一开始就是因为我，我们才陷入这种状况。"
 
 # game/script day12.rpy:2423
 translate Chinese day12_climb_up_0ce1e411:
 
     # p "The least I can do is help."
-    p "我至少能帮上忙"
+    p "我至少能帮上忙。"
 
 # game/script day12.rpy:2425
 translate Chinese day12_climb_up_228b4c2f:
 
     # "You then give him a smile, slapping him on the shoulder."
-    "然后你对他笑了笑，拍了拍他的肩膀"
+    "然后你对他笑了笑，拍了拍他的肩膀。"
 
 # game/script day12.rpy:2429
 translate Chinese day12_climb_up_08a33770:
@@ -4122,49 +4121,49 @@ translate Chinese day12_climb_up_08a33770:
 translate Chinese day12_climb_up_f4b66ac6:
 
     # "He tries to laugh, to bring the good humor he always had, as you both grab the shrouds and stand on the gunwale to climb the mizzen mast."
-    "他努力挤出笑容，想找回往日的风趣，你们俩都抓住护桅索，站在舷墙上准备爬上后桅"
+    "他努力挤出笑容，想找回往日的风趣，你们俩都抓住护桅索，站在舷墙上准备爬上后桅。"
 
 # game/script day12.rpy:2439
 translate Chinese day12_climb_up_dba738bf:
 
     # j "Then don't go falling off or we'll all laugh at you."
-    j "那可别掉下去，不然我们可要笑话你了"
+    j "那可别掉下去，不然我们可要笑话你了。"
 
 # game/script day12.rpy:2441
 translate Chinese day12_climb_up_520d71d6:
 
     # p "Oh, I'm sure you all could come up with worse than just laughing."
-    p "哦，我敢肯定你们想出的招数可比笑话我更狠"
+    p "哦，我敢肯定你们想出的招数可比笑话我更狠。"
 
 # game/script day12.rpy:2447
 translate Chinese day12_climb_up_929b5fdb:
 
     # "You firm up your grip on the lines, ready to ascend after the other members of the crew."
-    "你紧紧握住绳索，准备跟在其他船员后面往上爬"
+    "你紧紧握住绳索，准备跟在其他船员后面往上爬。"
 
 # game/script day12.rpy:2449
 translate Chinese day12_climb_up_7fe04021:
 
     # "You caused this mess.{w} It's only right that you help them right it."
-    "这烂摊子是你造成的。{w}你帮他们收拾好才是理所应当的"
+    "这烂摊子是你造成的。{w}你帮他们收拾好才是理所应当的。"
 
 # game/script day12.rpy:2451
 translate Chinese day12_climb_up_991e05db:
 
     # "Or how will you look when they return, and you're the one who sat out the worst of it?{w} You can already imagine the looks you'd be getting."
-    "不然等他们回来，而你却在最艰难的时候置身事外，你颜面何存？{w}你都能想象到那时他们看你的眼神了"
+    "不然等他们回来，而你却在最艰难的时候置身事外，你颜面何存？{w}你都能想象到那时他们看你的眼神了。"
 
 # game/script day12.rpy:2455
 translate Chinese day12_climb_up_eaa23404:
 
     # "And you doubt they would let it slide just because you're still feeling sore."
-    "而且你怀疑他们不会仅仅因为你还在疼就放过你"
+    "而且你怀疑他们不会仅仅因为你还在疼就放过你。"
 
 # game/script day12.rpy:2461
 translate Chinese day12_climb_up_e155ab27:
 
     # "With a pull of both your arms you swing your left leg onto the gunwale, and just then, a voice interrupts you."
-    "你用双臂一拉，将左腿甩上舷墙，就在这时，一个声音打断了你"
+    "你用双臂一拉，将左腿甩上舷墙，就在这时，一个声音打断了你。"
 
 # game/script day12.rpy:2466
 translate Chinese day12_climb_up_6a150652:
@@ -4176,61 +4175,61 @@ translate Chinese day12_climb_up_6a150652:
 translate Chinese day12_climb_up_1ea35490:
 
     # "Arthur doesn't address you by name, but since you've been the target of his ire so often in the past few days, you immediately snap in his direction."
-    "Authur没有直呼你的名字，但因为在过去几天里你常常是他怒火的宣泄对象，你立刻朝他那边猛地转过头去"
+    "Arthur没有直呼你的名字，但因为在过去几天里你常常是他怒火的宣泄对象，你立刻朝他那边猛地转过头去。"
 
 # game/script day12.rpy:2493
 translate Chinese day12_climb_up_7c26eac3:
 
     # p "Going to reef the sails as ordered, sir."
-    p "遵照命令去收帆，长官"
+    p "遵照命令去收帆，长官。"
 
 # game/script day12.rpy:2507
 translate Chinese day12_climb_up_c58ad35f:
 
     # "He shakes his head and approaches the gunwale, laying his palm on it."
-    "他摇摇头，走近舷墙，把手搭在上面"
+    "他摇摇头，走近舷墙，把手搭在上面。"
 
 # game/script day12.rpy:2513
 translate Chinese day12_climb_up_ebfe6874:
 
     # "Samuel looks at him in the same way until Arthur gives a quick nod to signal that [he] may go up and continue [his] work."
-    "Samuel以同样的方式看着他，直到Authur快速点头示意[he]可以上去继续[his]工作"
+    "Samuel以同样的方式看着他，直到Arthur快速点头示意[he]可以上去继续[his]工作。"
 
 # game/script day12.rpy:2519
 translate Chinese day12_climb_up_7caca817:
 
     # "Julian looks at him in the same way until Arthur gives a quick nod to signal that he may go up and continue his work."
-    "Julian以同样的方式看着他，直到Authur快速点头示意他可以上去继续他的工作"
+    "Julian以同样的方式看着他，直到Arthur快速点头示意他可以上去继续他的工作。"
 
 # game/script day12.rpy:2521
 translate Chinese day12_climb_up_0d74862b:
 
     # "The lizard's eyes focus back on you, as if to check if you are alright with him following the order and leaving you alone with Arthur, before he climbs up the shrouds."
-    "蜥蜴的目光重新聚焦在你身上，仿佛在确认你是否同意他服从命令，留你单独和Arthur在一起，然后他才爬上桅索"
+    "蜥蜴的目光重新聚焦在你身上，仿佛在确认你是否同意他服从命令，留你单独和Arthur在一起，然后他才爬上桅索。"
 
 # game/script day12.rpy:2525
 translate Chinese day12_climb_up_68c71ff6:
 
     # a "You will stay."
-    a "你留下"
+    a "你留下。"
 
 # game/script day12.rpy:2527
 translate Chinese day12_climb_up_3a4b3003:
 
     # a "The conditions are getting too treacherous."
-    a "现在情况太危险了"
+    a "现在情况太危险了。"
 
 # game/script day12.rpy:2529
 translate Chinese day12_climb_up_ece614c2:
 
     # p "But, sir, I don't want to be the one who both caused this mess, and then sits idly by while the others clean it up."
-    p "但是，长官，我不想既制造了这个烂摊子，又在其他人收拾的时候袖手旁观"
+    p "但是，长官，我不想既制造了这个烂摊子，又在其他人收拾的时候袖手旁观。"
 
 # game/script day12.rpy:2531
 translate Chinese day12_climb_up_8ed90545:
 
     # p "Besides, I'm one of the crew of this ship, just like them. I shouldn't be exempt from the jobs they're doing."
-    p "而且，我和他们一样，也是这艘船的船员。我不应该不参与他们正在做的工作"
+    p "而且，我和他们一样，也是这艘船的船员。我不应该不参与他们正在做的工作。"
 
 # game/script day12.rpy:2533
 translate Chinese day12_climb_up_115092e4:
@@ -4248,13 +4247,13 @@ translate Chinese day12_climb_up_4f4f9670:
 translate Chinese day12_climb_up_bae552ac:
 
     # p "To prove that I am cut out for this and not just someone who screws up everything I lay my hands on."
-    p "证明我适合做这份工作，而不只是个把经手之事都搞砸的人"
+    p "证明我适合做这份工作，而不只是个把经手之事都搞砸的人。"
 
 # game/script day12.rpy:2539
 translate Chinese day12_climb_up_dda95dd3:
 
     # "He considers your case in a lingering silence, raindrops pelting his head as he looks at you."
-    "他沉吟良久，考虑着你的话，看着你时，雨滴不断打在他头上"
+    "他沉吟良久，考虑着你的话，看着你时，雨滴不断打在他头上。"
 
 # game/script day12.rpy:2543
 translate Chinese day12_climb_up_4abd4443:
@@ -4266,7 +4265,7 @@ translate Chinese day12_climb_up_4abd4443:
 translate Chinese day12_climb_up_f7f3269a:
 
     # "But instead of nodding up the mast, the nod is directed back down to the deck of the ship."
-    "但这次不是示意你往桅杆上爬，而是示意你回到甲板上"
+    "但这次不是示意你往桅杆上爬，而是示意你回到甲板上。"
 
 # game/script day12.rpy:2549
 translate Chinese day12_climb_up_f8974765:
@@ -4284,55 +4283,55 @@ translate Chinese day12_climb_up_f7f3269a_1:
 translate Chinese day12_climb_up_74917bcb:
 
     # "Your case does not appear to convince him, however, and he gives a quick nod back down to the deck of the ship."
-    "然而，你的说辞似乎没能说服他，他迅速点头示意你回到甲板上"
+    "然而，你的说辞似乎没能说服他，他迅速点头示意你回到甲板上。"
 
 # game/script day12.rpy:2559
 translate Chinese day12_climb_up_1391b6d7:
 
     # a "Get back down.{p}That is an order."
-    a "下来。{p}这是命令"
+    a "下来。{p}这是命令。"
 
 # game/script day12.rpy:2566
 translate Chinese day12_climb_up_0e45cb5a:
 
     # "You cling to the shrouds for a moment longer before obeying his command, guiding your paws back to the firm wooden deck."
-    "你又在护桅索上抓了一会儿才服从他的命令，把爪子收回到坚实的木质甲板上"
+    "你又在护桅索上抓了一会儿才服从他的命令，把爪子收回到坚实的木质甲板上。"
 
 # game/script day12.rpy:2568
 translate Chinese day12_climb_up_238f5adb:
 
     # p "I could have done it, sir."
-    p "长官，我本可以完成任务的"
+    p "长官，我本可以完成任务的。"
 
 # game/script day12.rpy:2570
 translate Chinese day12_climb_up_7cddc058:
 
     # a "Quiet."
-    a "安静"
+    a "安静。"
 
 # game/script day12.rpy:2574
 translate Chinese day12_climb_up_292352ef:
 
     # a "I've seen enough of you up there to know that I'm not willing to risk it, {i}recruit{/i}."
-    a "{i}新人{/i}，我看你在上面的表现就知道，我可不想冒这个险"
+    a "{i}新人{/i}，我看你在上面的表现就知道，我可不想冒这个险。"
 
 # game/script day12.rpy:2576
 translate Chinese day12_climb_up_58d7cddb:
 
     # a "Not just risking you, but potentially endangering whoever would have to help you if things go awry."
-    a "这不仅是拿你冒险，要是出了问题，还可能危及到不得不来救你的人"
+    a "这不仅是拿你冒险，要是出了问题，还可能危及到不得不来救你的人。"
 
 # game/script day12.rpy:2578
 translate Chinese day12_climb_up_9b1fd069:
 
     # a "Stupidity may have been the way you impressed your friends back home, but it doesn't hold water on this ship, boy."
-    a "在老家，犯傻或许能让你在朋友面前出出风头，但在这艘船上可不管用，小子"
+    a "在老家，犯傻或许能让你在朋友面前出出风头，但在这艘船上可不管用，小子。"
 
 # game/script day12.rpy:2582
 translate Chinese day12_climb_up_c09cbd8d:
 
     # "To add insult to injury, you notice that both Julian and Wolf are up there with the rest. By now bathed in the first rays of faint purple and orange as the sun creeps over the horizon."
-    "更让你窝火的是，你注意到Julian和Wolf都和其他人一起在上面。此时，太阳正从地平线缓缓升起，他们沐浴在第一缕淡紫色和橙色的晨光中"
+    "更让你窝火的是，你注意到Julian和Wolf都和其他人一起在上面。此时，太阳正从地平线缓缓升起，他们沐浴在第一缕淡紫色和橙色的晨光中。"
 
 # game/script day12.rpy:2595
 translate Chinese day12_stay_on_deck_84ce8a4b:
@@ -4344,49 +4343,49 @@ translate Chinese day12_stay_on_deck_84ce8a4b:
 translate Chinese day12_stay_on_deck_ce989036:
 
     # "Samuel nods."
-    "Samuel点了点头"
+    "Samuel点了点头。"
 
 # game/script day12.rpy:2599
 translate Chinese day12_stay_on_deck_9f9d2bc6:
 
     # s "The last thing you want is to cause a rescue mission up there."
-    s "你最不想看到的就是上面引发一场救援行动"
+    s "你最不想看到的就是上面引发一场救援行动。"
 
 # game/script day12.rpy:2601
 translate Chinese day12_stay_on_deck_1562ff0d:
 
     # s "I know. You probably want to make up for falling asleep, but I think it's better to stay here."
-    s "我知道。你可能想弥补之前睡着的过错，但我觉得还是留在这儿比较好"
+    s "我知道。你可能想弥补之前睡着的过错，但我觉得还是留在这儿比较好。"
 
 # game/script day12.rpy:2603
 translate Chinese day12_stay_on_deck_7f6f535c:
 
     # p "I'll stay, then."
-    p "那我就留下吧"
+    p "那我就留下吧。"
 
 # game/script day12.rpy:2607
 translate Chinese day12_stay_on_deck_e564f521:
 
     # "You take a moment to consider the question and it makes you realize all at once just how tired you are. You sag a little, brushing rain out of your eyes, then look up the mizzen mast and see just how high you'd have to go."
-    "你花了点时间思考这个问题，这让你一下子意识到自己有多疲惫。你有点垂头丧气，把雨水从眼睛里拂开，然后抬头望向后桅，看看自己原本要爬多高"
+    "你花了点时间思考这个问题，这让你一下子意识到自己有多疲惫。你有点垂头丧气，把雨水从眼睛里拂开，然后抬头望向后桅，看看自己原本要爬多高。"
 
 # game/script day12.rpy:2609
 translate Chinese day12_stay_on_deck_7405e048:
 
     # p "Well... If you're sure you'll manage."
-    p "嗯……如果你确定你们能应付得来"
+    p "嗯……如果你确定你们能应付得来。"
 
 # game/script day12.rpy:2611
 translate Chinese day12_stay_on_deck_83bfee74:
 
     # j "I think so, at least. We're not in such a bind that we need you risking your life."
-    j "至少我觉得可以。我们还没到非得让你冒生命危险的地步"
+    j "至少我觉得可以。我们还没到非得让你冒生命危险的地步。"
 
 # game/script day12.rpy:2616
 translate Chinese day12_stay_on_deck_8e69bf90:
 
     # "He steps over to the shrouds, then turns to look back at you with a grin, trying to cheer you up."
-    "他走到侧支索旁，然后咧嘴笑着回头看你，试图让你振作起来"
+    "他走到侧支索旁，然后咧嘴笑着回头看你，试图让你振作起来。"
 
 # game/script day12.rpy:2620
 translate Chinese day12_stay_on_deck_306fc19e:
@@ -4404,127 +4403,127 @@ translate Chinese day12_stay_on_deck_a99e1dea:
 translate Chinese day12_stay_on_deck_046b220e:
 
     # "You should go...that much you are sure of. But your instincts scream at you not to."
-    "你心里清楚自己应该上去……这一点你很确定。但你的本能却强烈地抗拒着"
+    "你心里清楚自己应该上去……这一点你很确定。但你的本能却强烈地抗拒着。"
 
 # game/script day12.rpy:2628
 translate Chinese day12_stay_on_deck_0b9ceb87:
 
     # "As you watch the tip of the mast sway under the clouds, it almost appears as if it's scraping along their underside. Your grip softens, you let your fingers slide from the ropes, and take a step back onto the deck."
-    "你看着桅杆顶端在云层下摇晃，它几乎就像是在擦着云层的底部。你抓着绳索的手松了松，手指从绳索上滑落，然后往后退了一步，回到了甲板上"
+    "你看着桅杆顶端在云层下摇晃，它几乎就像是在擦着云层的底部。你抓着绳索的手松了松，手指从绳索上滑落，然后往后退了一步，回到了甲板上。"
 
 # game/script day12.rpy:2630
 translate Chinese day12_stay_on_deck_720f413e:
 
     # "Still facing up to the sky, you watch the crew ascend one after another to the mizzentop and the yards of the sails."
-    "你依旧望着天空，看着船员们一个接一个地爬上桅楼和帆桁"
+    "你依旧望着天空，看着船员们一个接一个地爬上桅楼和帆桁。"
 
 # game/script day12.rpy:2632
 translate Chinese day12_stay_on_deck_cb6ecd08:
 
     # a "Good choice, lad."
-    a "明智的选择，小伙子"
+    a "明智的选择，小伙子。"
 
 # game/script day12.rpy:2645
 translate Chinese day12_stay_on_deck_f078d720:
 
     # "You startle, and immediately snap in the direction of Arthur's voice."
-    "你吓了一跳，立刻朝Authur声音传来的方向转过头去"
+    "你吓了一跳，立刻朝Arthur声音传来的方向转过头去。"
 
 # game/script day12.rpy:2659
 translate Chinese day12_stay_on_deck_29a158eb:
 
     # "His tone remains calm, but having been the target of his ire for these past days keeps you on edge whenever you hear his voice."
-    "他的语气依然平静，但过去几天一直是他怒火的目标，让你每次听到他的声音都如坐针毡"
+    "他的语气依然平静，但过去几天一直是他怒火的目标，让你每次听到他的声音都如坐针毡。"
 
 # game/script day12.rpy:2663
 translate Chinese day12_stay_on_deck_93c7c7a1:
 
     # "Samuel doesn't waste any more time, hurrying up the shrouds with impressive speed now that [he] doesn't have to wait for you."
-    "Samuel不再浪费时间，既然[he]不用等你，便以惊人的速度匆匆爬上侧支索"
+    "Samuel不再浪费时间，既然[he]不用等你，便以惊人的速度匆匆爬上侧支索。"
 
 # game/script day12.rpy:2667
 translate Chinese day12_stay_on_deck_574e4cca:
 
     # "Not once does [he] hesitate; each step is placed with blind confidence, sending [him] upward in what looks more like a run than a measured climb."
-    "他没有丝毫犹豫，每一步都迈得坚定自信，与其说是在小心翼翼地攀爬，倒更像是在往上跑"
+    "[he]没有丝毫犹豫，每一步都迈得坚定自信，与其说是在小心翼翼地攀爬，倒更像是在往上跑。"
 
 # game/script day12.rpy:2669
 translate Chinese day12_stay_on_deck_d18f450c:
 
     # "Though one sight stings as you watch. Both Julian and even Wolf are up there, bathed in the first rays of purple and faint orange as the sun creeps over the horizon."
-    "然而，有一幕景象让你心里有些刺痛。Julian甚至Wolf都在上面，随着太阳缓缓越过地平线，他们沐浴在第一缕淡紫色和微弱的橙色晨光中"
+    "然而，有一幕景象让你心里有些刺痛。Julian甚至Wolf都在上面，随着太阳缓缓越过地平线，他们沐浴在第一缕淡紫色和微弱的橙色晨光中。"
 
 # game/script day12.rpy:2673
 translate Chinese day12_stay_on_deck_9cb8191b:
 
     # "Julian hurries up the shrouds without you, giving you one last sympathetic look at Arthur appearing to bother you."
-    "Julian没等你，匆匆爬上侧支索，看到Authur似乎在为难你，他最后同情地看了你一眼"
+    "Julian没等你，匆匆爬上侧支索，看到Arthur似乎在为难你，他最后同情地看了你一眼。"
 
 # game/script day12.rpy:2677
 translate Chinese day12_stay_on_deck_5f7207fd:
 
     # "The lizard doesn't quite have the experience to match the speeds of Samuel or other veteran sailors, but he's still a natural in a way you've never managed, confident but still measured. He can be serious about something when he needs to be."
-    "这只蜥蜴的经验还不足以达到Samuel或其他老水手的速度，但他在某种程度上仍是个天生的好手，自信却又稳重。需要认真的时候，他也能严肃起来"
+    "这只蜥蜴的经验还不足以达到Samuel或其他老水手的速度，但他在某种程度上仍是个天生的好手，自信却又稳重。需要认真的时候，他也能严肃起来。"
 
 # game/script day12.rpy:2679
 translate Chinese day12_stay_on_deck_c65ea23b:
 
     # "It stings a little to see him working with Samuel and Wolf and all the rest. They're all up there without you, working to keep the ship safe, while you might as well be baggage. You know there's a reason, but that doesn't help."
-    "看到他和Samuel、Wolf以及其他所有人一起工作，你心里有点刺痛。他们都在上面忙碌着，努力保障船只的安全，而你却像个累赘。你知道有原因，但也无济于事"
+    "看到他和Samuel、Wolf以及其他所有人一起工作，你心里有点刺痛。他们都在上面忙碌着，努力保障船只的安全，而你却像个累赘。你知道有原因，但也无济于事。"
 
 # game/script day12.rpy:2681
 translate Chinese day12_stay_on_deck_9ff53df7:
 
     # "The sun's lazily peering over the horizon and bathing them all in faint rays of morning, which gives them all a heroic pale orange glow."
-    "太阳正慵懒地越过地平线，将微弱的晨光洒在他们身上，给他们都披上了一层英雄般的淡橙色光辉"
+    "太阳正慵懒地越过地平线，将微弱的晨光洒在他们身上，给他们都披上了一层英雄般的淡橙色光辉。"
 
 # game/script day12.rpy:2684
 translate Chinese day12_stay_on_deck_98907c1f:
 
     # "You allow your eyes to wander upward again, watching the others work the sails. By now the sun bathes them in the first rays of faint purple and orange as it creeps over the horizon."
-    "你再次抬眼望去，看着其他人操控着船帆。此时，太阳正缓缓爬过地平线，最初的淡紫色和橙色光芒洒在他们身上"
+    "你再次抬眼望去，看着其他人操控着船帆。此时，太阳正缓缓爬过地平线，最初的淡紫色和橙色光芒洒在他们身上。"
 
 # game/script day12.rpy:2686
 translate Chinese day12_stay_on_deck_08282dec:
 
     # "Though seeing both Wolf and Julian up among them stings."
-    "不过，看到Wolf和Julian在上面忙碌，还是让你心里不好受"
+    "不过，看到Wolf和Julian在上面忙碌，还是让你心里不好受。"
 
 # game/script day12.rpy:2688
 translate Chinese day12_stay_on_deck_f3408150:
 
     # a "Knowing your limits is a valuable skill to have."
-    a "了解自己的极限是一项宝贵的技能"
+    a "了解自己的极限是一项宝贵的技能。"
 
 # game/script day12.rpy:2690
 translate Chinese day12_stay_on_deck_090c6557:
 
     # "He says, his head tipped back to watch his crew up high, just like you."
-    "他说着，和你一样，头向后仰，看着高处的船员们"
+    "他说着，和你一样，头向后仰，看着高处的船员们。"
 
 # game/script day12.rpy:2692
 translate Chinese day12_stay_on_deck_43ec7abc:
 
     # p "Thank you, sir."
-    p "谢谢您，长官"
+    p "谢谢您，长官。"
 
 # game/script day12.rpy:2694
 translate Chinese day12_stay_on_deck_cdd9190d:
 
     # p "But it doesn't ease the feeling that I should be up there with them."
-    p "但这并不能减轻我觉得自己应该和他们一起在上面的感觉"
+    p "但这并不能减轻我觉得自己应该和他们一起在上面的感觉。"
 
 # game/script day12.rpy:2696
 translate Chinese day12_stay_on_deck_96ae17d0:
 
     # a "It does, however, ease the tension I would feel just waiting for one of them having to rescue you."
-    a "不过，这确实能缓解那种担心他们中的某个人得下来救你的紧张感"
+    a "不过，这确实能缓解那种担心他们中的某个人得下来救你的紧张感。"
 
 # game/script day12.rpy:2704
 translate Chinese day12_stay_on_deck_7dd10ad2:
 
     # "As if on cue, a particularly strong wave catches the ship, causing it to heel. You grip the gunwale, watching as the other side of the deck is momentarily doused in spray from the wave breaking against the hull."
-    "仿佛是应景一般，一股巨浪打在船上，使船身倾斜。你紧紧抓住船舷，看着甲板的另一侧瞬间被海浪拍打船身溅起的水花浸湿"
+    "仿佛是应景一般，一股巨浪打在船上，使船身倾斜。你紧紧抓住船舷，看着甲板的另一侧瞬间被海浪拍打船身溅起的水花浸湿。"
 
 # game/script day12.rpy:2710
 translate Chinese day12_arthur_ultimatum_98720c2f:
@@ -4536,7 +4535,7 @@ translate Chinese day12_arthur_ultimatum_98720c2f:
 translate Chinese day12_arthur_ultimatum_d1e9d99e:
 
     # "You notice his eyes find you even though he keeps facing up the mast."
-    "你注意到，尽管他一直望着桅杆上方，但目光还是找到了你"
+    "你注意到，尽管他一直望着桅杆上方，但目光还是找到了你。"
 
 # game/script day12.rpy:2716
 translate Chinese day12_arthur_ultimatum_6f83c361:
@@ -4554,13 +4553,13 @@ translate Chinese day12_arthur_ultimatum_13a8e552:
 translate Chinese day12_arthur_ultimatum_9d13dd55:
 
     # "Only now does he turn to face you fully."
-    "直到这时，他才完全转过身来面对你"
+    "直到这时，他才完全转过身来面对你。"
 
 # game/script day12.rpy:2724
 translate Chinese day12_arthur_ultimatum_2d1cf735:
 
     # a "That you did."
-    a "你确实搞砸了"
+    a "你确实搞砸了。"
 
 # game/script day12.rpy:2726
 translate Chinese day12_arthur_ultimatum_20ebe066:
@@ -4572,61 +4571,61 @@ translate Chinese day12_arthur_ultimatum_20ebe066:
 translate Chinese day12_arthur_ultimatum_2dfda441:
 
     # "You falter and struggle to find the right words. It's all just frustrating. Frustration that you wish Arthur would just get. That he would simply understand and consider your point of view of the situation for even just one moment."
-    "你支支吾吾，努力寻找合适的言辞。一切都让人沮丧。你多希望Authur能理解你，哪怕只是考虑一下你对这种情况的看法也好"
+    "你支支吾吾，努力寻找合适的言辞。一切都让人沮丧。你多希望Arthur能理解你，哪怕只是考虑一下你对这种情况的看法也好。"
 
 # game/script day12.rpy:2732
 translate Chinese day12_arthur_ultimatum_da0dcd52:
 
     # a "There's no excuse for it."
-    a "这没有任何借口"
+    a "这没有任何借口。"
 
 # game/script day12.rpy:2734
 translate Chinese day12_arthur_ultimatum_4b1ff0ba:
 
     # "He responds firmly, the intensity returning to his eyes as he listens to your excuses."
-    "他坚定地回应，听着你的借口，眼中重新燃起了锐利的光芒"
+    "他坚定地回应，听着你的借口，眼中重新燃起了锐利的光芒。"
 
 # game/script day12.rpy:2738
 translate Chinese day12_arthur_ultimatum_54f25f72:
 
     # a "You had your duties and you didn't see them through."
-    a "你有你的职责，却没有完成"
+    a "你有你的职责，却没有完成。"
 
 # game/script day12.rpy:2740
 translate Chinese day12_arthur_ultimatum_1a6c0021:
 
     # a "It is not even that you simply did not fulfill them to complete satisfaction. No, you completely disregarded them."
-    a "这甚至不是说你只是没把事情做到让人完全满意。不，你是完全无视了它们"
+    a "这甚至不是说你只是没把事情做到让人完全满意。不，你是完全无视了它们。"
 
 # game/script day12.rpy:2742
 translate Chinese day12_arthur_ultimatum_55183ced:
 
     # a "You completely disregarded my orders.{p}The good of the ship.{p}The lives of the crew."
-    a "你完全无视了我的命令。{p}无视了船的安危。{p}无视了船员的性命"
+    a "你完全无视了我的命令。{p}无视了船的安危。{p}无视了船员的性命。"
 
 # game/script day12.rpy:2744
 translate Chinese day12_arthur_ultimatum_277bad7d:
 
     # a "Not only for mine, but for your own sake, I hope that nothing happens."
-    a "不仅是为了我，也是为了你自己，我希望不要发生任何事"
+    a "不仅是为了我，也是为了你自己，我希望不要发生任何事。"
 
 # game/script day12.rpy:2746
 translate Chinese day12_arthur_ultimatum_b4536fad:
 
     # a "It is not a burden even you should be forced to carry."
-    a "这种负担，哪怕是你也不该被迫承受"
+    a "这种负担，哪怕是你也不该被迫承受。"
 
 # game/script day12.rpy:2748
 translate Chinese day12_arthur_ultimatum_240f1179:
 
     # "He reaches for the cuff of his jacket, now so wet that it sticks to his wrist, and undoes one of the buttons to loosen it."
-    "他伸手去理外套袖口，袖口已经湿透，紧紧贴在手腕上。他解开一颗扣子，让袖口松了松"
+    "他伸手去理外套袖口，袖口已经湿透，紧紧贴在手腕上。他解开一颗扣子，让袖口松了松。"
 
 # game/script day12.rpy:2750
 translate Chinese day12_arthur_ultimatum_954cfe35:
 
     # "Before he addresses you again he raises his voice and shouts a command to the crew working on the mizzen mast, lowering his voice again afterward."
-    "在再次跟你说话之前，他提高音量，向在后桅上工作的船员们喊了一道命令，随后又压低了声音"
+    "在再次跟你说话之前，他提高音量，向在后桅上工作的船员们喊了一道命令，随后又压低了声音。"
 
 # game/script day12.rpy:2754
 translate Chinese day12_arthur_ultimatum_e67d8e37:
@@ -4656,7 +4655,7 @@ translate Chinese day12_arthur_ultimatum_8402fcf6:
 translate Chinese day12_arthur_ultimatum_ff8d579d:
 
     # "He looks down and turns to you."
-    "他低下头，转向你"
+    "他低下头，转向你。"
 
 # game/script day12.rpy:2769
 translate Chinese day12_arthur_ultimatum_768e00cc:
@@ -4668,139 +4667,139 @@ translate Chinese day12_arthur_ultimatum_768e00cc:
 translate Chinese day12_arthur_ultimatum_97e0f06f:
 
     # p "I do not."
-    p "我了解得不多"
+    p "我了解得不多。"
 
 # game/script day12.rpy:2775
 translate Chinese day12_arthur_ultimatum_f4484643:
 
     # a "A country rather unlike the one you grew up in."
-    a "那是个和你成长的国家很不一样的地方"
+    a "那是个和你成长的国家很不一样的地方。"
 
 # game/script day12.rpy:2777
 translate Chinese day12_arthur_ultimatum_e27d06f2:
 
     # a "Some of our crew call it their home."
-    a "我们有些船员把那里当成自己的家"
+    a "我们有些船员把那里当成自己的家。"
 
 # game/script day12.rpy:2779
 translate Chinese day12_arthur_ultimatum_547587de:
 
     # a "A rather beautiful country, if I may say so."
-    a "如果我可以这么说的话，那是个相当美丽的国家"
+    a "如果我可以这么说的话，那是个相当美丽的国家。"
 
 # game/script day12.rpy:2781
 translate Chinese day12_arthur_ultimatum_6b1806c7:
 
     # p "I'm not sure I follow, sir."
-    p "我不太明白您的意思，长官"
+    p "我不太明白您的意思，长官。"
 
 # game/script day12.rpy:2783
 translate Chinese day12_arthur_ultimatum_96646106:
 
     # a "I was your age once. A young landsman trying to make an impression."
-    a "我也曾和你一般年纪。那时我也是个年轻的新手水手，一心想给人留下好印象"
+    a "我也曾和你一般年纪。那时我也是个年轻的新手水手，一心想给人留下好印象。"
 
 # game/script day12.rpy:2785
 translate Chinese day12_arthur_ultimatum_a55015c4:
 
     # "For a moment, it almost seems as if he is opening up to you. His voice softens as he begins to reminisce, but after only a moment or two you notice a subtle twitch in his features, and just like that, the usual firmness returns."
-    "有那么一瞬间，他似乎在向你敞开心扉。他回忆往事时，声音变得柔和起来，但仅仅过了一两秒，你就注意到他脸上有一丝不易察觉的抽搐，转眼间，他又恢复了往常的严肃"
+    "有那么一瞬间，他似乎在向你敞开心扉。他回忆往事时，声音变得柔和起来，但仅仅过了一两秒，你就注意到他脸上有一丝不易察觉的抽搐，转眼间，他又恢复了往常的严肃。"
 
 # game/script day12.rpy:2787
 translate Chinese day12_arthur_ultimatum_284c62a8:
 
     # a "I made mistakes, too."
-    a "我也曾犯过错"
+    a "我也曾犯过错。"
 
 # game/script day12.rpy:2791
 translate Chinese day12_arthur_ultimatum_ba9ab8d0:
 
     # a "But there's a stark difference between a young recruit trying to learn the ropes and someone like you."
-    a "但一个努力学习规矩的年轻新兵和你这样的人有着天壤之别"
+    a "但一个努力学习规矩的年轻新兵和你这样的人有着天壤之别。"
 
 # game/script day12.rpy:2793
 translate Chinese day12_arthur_ultimatum_7be14bc5:
 
     # a "Someone who, for whatever reason, always finds himself at the center of trouble."
-    a "你这种人，不管出于什么原因，总是会陷入麻烦之中"
+    a "你这种人，不管出于什么原因，总是会陷入麻烦之中。"
 
 # game/script day12.rpy:2795
 translate Chinese day12_arthur_ultimatum_100ed925:
 
     # "He crosses his arms, one finger drumming a steady rhythm against the bulk of his other forearm."
-    "他双臂交叉，一根手指有节奏地轻敲着另一条胳膊的粗壮前臂"
+    "他双臂交叉，一根手指有节奏地轻敲着另一条胳膊的粗壮前臂。"
 
 # game/script day12.rpy:2799
 translate Chinese day12_arthur_ultimatum_8d5d1dc6:
 
     # a "I would never have dared to ask for something so frivolous as to sit at my superior's table for dinner."
-    a "我当年可从不敢提这么过分的要求，比如坐到上级的餐桌旁共进晚餐"
+    a "我当年可从不敢提这么过分的要求，比如坐到上级的餐桌旁共进晚餐。"
 
 # game/script day12.rpy:2803
 translate Chinese day12_arthur_ultimatum_79202767:
 
     # a "And who shows blatant disregard for the personal boundaries of the crew."
-    a "而且，你还公然无视船员的个人界限"
+    a "而且，你还公然无视船员的个人界限。"
 
 # game/script day12.rpy:2805
 translate Chinese day12_arthur_ultimatum_29d6d825:
 
     # a "Yes. Rajeeyah. She told me of your advances."
-    a "没错，Rajeeyah。她跟我说了你对她的冒犯之举"
+    a "没错，Rajeeyah。她跟我说了你对她的冒犯之举。"
 
 # game/script day12.rpy:2807
 translate Chinese day12_arthur_ultimatum_18caf5d1:
 
     # a "You are fortunate that her forgiveness outweighs my own."
-    a "你很幸运，她比我更愿意原谅你"
+    a "你很幸运，她比我更愿意原谅你。"
 
 # game/script day12.rpy:2809
 translate Chinese day12_arthur_ultimatum_c06ff83b:
 
     # a "Make no mistake-I've been keeping a close eye on you."
-    a "别搞错了——我一直在密切关注着你"
+    a "别搞错了——我一直在密切关注着你。"
 
 # game/script day12.rpy:2813
 translate Chinese day12_arthur_ultimatum_0206f230:
 
     # a "Make no mistake, the punishment you received was thoroughly justified."
-    a "别搞错了，你受到的惩罚完全是罪有应得"
+    a "别搞错了，你受到的惩罚完全是罪有应得。"
 
 # game/script day12.rpy:2815
 translate Chinese day12_arthur_ultimatum_83ba74b7:
 
     # a "You showed a blatant disregard to the authorities on this ship, and there is only so much room one can allow around here."
-    a "你公然无视这艘船上的权威，在这里可容不得你如此放肆"
+    a "你公然无视这艘船上的权威，在这里可容不得你如此放肆。"
 
 # game/script day12.rpy:2817
 translate Chinese day12_arthur_ultimatum_3ef74e6a:
 
     # a "Naturally, since then I've been keeping an eye on you."
-    a "自然，从那以后我就一直在留意你"
+    a "自然，从那以后我就一直在留意你。"
 
 # game/script day12.rpy:2821
 translate Chinese day12_arthur_ultimatum_7ad5a660:
 
     # a "I've been keeping an eye on you."
-    a "我一直在留意你"
+    a "我一直在留意你。"
 
 # game/script day12.rpy:2825
 translate Chinese day12_arthur_ultimatum_cb5b09c5:
 
     # a "Not only by myself, but I've asked the crew how you're performing as well.{p}What they might observe you doing during your days."
-    a "不光是我自己，我还问过船员你表现如何，{p}以及他们在日常中观察到你都做了些什么"
+    a "不光是我自己，我还问过船员你表现如何，{p}以及他们在日常中观察到你都做了些什么。"
 
 # game/script day12.rpy:2827
 translate Chinese day12_arthur_ultimatum_c964a70a:
 
     # "You seize the moment left by a pause of his and let your own words step in."
-    "你趁着他停顿的间隙，赶忙说出自己的话"
+    "你趁着他停顿的间隙，赶忙说出自己的话。"
 
 # game/script day12.rpy:2829
 translate Chinese day12_arthur_ultimatum_be1471e5:
 
     # p "Sir, with all due respect, but that is exactly {i}why{/i} I've been struggling."
-    p "长官，恕我直言，但这正是{i}为什么{/i}我一直苦苦挣扎"
+    p "长官，恕我直言，但这正是{i}为什么{/i}我一直苦苦挣扎。"
 
 # game/script day12.rpy:2836
 translate Chinese day12_arthur_ultimatum_d2e58b60:
@@ -4812,25 +4811,25 @@ translate Chinese day12_arthur_ultimatum_d2e58b60:
 translate Chinese day12_arthur_ultimatum_9641db83:
 
     # "You lean in to defend yourself, but are immediately ignored by Arthur as he dismisses you with a simple closing of his eyes."
-    "你凑上前去为自己辩解，但Authur只是简单地闭上眼睛，直接无视了你"
+    "你凑上前去为自己辩解，但Arthur只是简单地闭上眼睛，直接无视了你。"
 
 # game/script day12.rpy:2842
 translate Chinese day12_arthur_ultimatum_44133d70:
 
     # a "You've been given every opportunity.{w} No, you've been given more than that."
-    a "你已经得到了每一个机会。{w} 不，你得到的比那更多"
+    a "你已经得到了每一个机会。{w} 不，你得到的比那更多。"
 
 # game/script day12.rpy:2844
 translate Chinese day12_arthur_ultimatum_ca82a388:
 
     # a "But today, today you've crossed the line, boy."
-    a "但今天，今天你太过分了，小子"
+    a "但今天，今天你太过分了，小子。"
 
 # game/script day12.rpy:2846
 translate Chinese day12_arthur_ultimatum_16558197:
 
     # a "I can no longer allow you to endanger the rest of my crew. I will make the necessary arrangement with the captain, and as soon as we reach Morocco you will be let go."
-    a "我不能再让你危及我其他船员的安全了。我会和船长做好必要的安排，等我们一到摩洛哥，你就走人"
+    a "我不能再让你危及我其他船员的安全了。我会和船长做好必要的安排，等我们一到摩洛哥，你就走人。"
 
 # game/script day12.rpy:2850
 translate Chinese day12_arthur_ultimatum_e2995afd:
@@ -4842,7 +4841,7 @@ translate Chinese day12_arthur_ultimatum_e2995afd:
 translate Chinese day12_arthur_ultimatum_cc5a7a3a:
 
     # "He seems to gauge your reaction for a moment, before turning his gaze back up to the rest of the crew."
-    "他似乎观察了一会儿你的反应，然后把目光重新投向其他船员"
+    "他似乎观察了一会儿你的反应，然后把目光重新投向其他船员。"
 
 # game/script day12.rpy:2854
 translate Chinese day12_arthur_ultimatum_f2d637a6:
@@ -4854,7 +4853,7 @@ translate Chinese day12_arthur_ultimatum_f2d637a6:
 translate Chinese day12_arthur_ultimatum_be97a6d6:
 
     # a "The port is well connected to your homeland. Within a month, you should find passage to a port near your home."
-    a "那个港口和你的家乡联系很方便。不出一个月，你应该能找到回你家乡附近港口的船"
+    a "那个港口和你的家乡联系很方便。不出一个月，你应该能找到回你家乡附近港口的船。"
 
 # game/script day12.rpy:2858
 translate Chinese day12_arthur_ultimatum_d8076fa0:
@@ -4872,19 +4871,19 @@ translate Chinese day12_arthur_ultimatum_965a5dab:
 translate Chinese day12_arthur_ultimatum_28e70289:
 
     # "He does not."
-    "他显然不是在开玩笑"
+    "他显然不是在开玩笑。"
 
 # game/script day12.rpy:2864
 translate Chinese day12_arthur_ultimatum_3ee0fbb0:
 
     # "With firm features, and now appearing thoroughly soaked like yourself."
-    "神情严肃，而且现在也和你一样浑身湿透"
+    "神情严肃，而且现在也和你一样浑身湿透。"
 
 # game/script day12.rpy:2866
 translate Chinese day12_arthur_ultimatum_8c3215b9:
 
     # "The rainwater clings to his hair and tail, transforming them from their usual wind-blown lightness to bedraggled disarray."
-    "雨水粘在他的头发和尾巴上，让它们从平时随风飘动的轻盈模样变得凌乱不堪"
+    "雨水粘在他的头发和尾巴上，让它们从平时随风飘动的轻盈模样变得凌乱不堪。"
 
 # game/script day12.rpy:2868
 translate Chinese day12_arthur_ultimatum_1c08727c:
@@ -4896,7 +4895,7 @@ translate Chinese day12_arthur_ultimatum_1c08727c:
 translate Chinese day12_arthur_ultimatum_f1cb10c1:
 
     # "Fueled by desperation you step forward and seize him by the cuff of his jacket to try and get his attention."
-    "绝望驱使你向前一步，抓住他外套的袖口，试图引起他的注意"
+    "绝望驱使你向前一步，抓住他外套的袖口，试图引起他的注意。"
 
 # game/script day12.rpy:2878
 translate Chinese day12_arthur_ultimatum_a2e5bf87:
@@ -4908,19 +4907,19 @@ translate Chinese day12_arthur_ultimatum_a2e5bf87:
 translate Chinese day12_arthur_ultimatum_804f9c60:
 
     # "Your grip tightens and you feel the fabric strain between your fingers."
-    "你越抓越紧，能感觉到手指间的布料都被扯得紧绷起来"
+    "你越抓越紧，能感觉到手指间的布料都被扯得紧绷起来。"
 
 # game/script day12.rpy:2882
 translate Chinese day12_arthur_ultimatum_94cda04a:
 
     # p "All this time, I've been scrutinized like some petty criminal."
-    p "一直以来，我都像个小罪犯一样被监视着"
+    p "一直以来，我都像个小罪犯一样被监视着。"
 
 # game/script day12.rpy:2886
 translate Chinese day12_arthur_ultimatum_f3a15890:
 
     # "He gives you the desired attention, however at the cost of pulling his cuff from your grasp."
-    "他终于注意到了你，但代价是他从你手中抽回了袖口"
+    "他终于注意到了你，但代价是他从你手中抽回了袖口。"
 
 # game/script day12.rpy:2893
 translate Chinese day12_arthur_ultimatum_aee6e391:
@@ -4938,7 +4937,7 @@ translate Chinese day12_arthur_ultimatum_62ff243b:
 translate Chinese day12_arthur_ultimatum_4ce9d45f:
 
     # "You animatedly count the litany of perceived offenses on your fingers."
-    "你激动地掰着手指，数着那些你认为无端强加在你身上的过错"
+    "你激动地掰着手指，数着那些你认为无端强加在你身上的过错。"
 
 # game/script day12.rpy:2899
 translate Chinese day12_arthur_ultimatum_df362f2d:
@@ -4950,13 +4949,13 @@ translate Chinese day12_arthur_ultimatum_df362f2d:
 translate Chinese day12_arthur_ultimatum_831952d2:
 
     # p "{color=#d1a2a8}Everyone on this ship tells me what a great First Mate you are, but I've yet to see why.{/color}"
-    p "{color=#d1a2a8}船上的每个人都跟我说你是个多么出色的大副，但我到现在都不明白好在哪里{/color}"
+    p "{color=#d1a2a8}船上的每个人都跟我说你是个多么出色的大副，但我到现在都不明白好在哪里。{/color}"
 
 # game/script day12.rpy:2903
 translate Chinese day12_arthur_ultimatum_b78fec2b:
 
     # p "{color=#d7959d}All I have seen is someone who, for whatever reason, cannot see even a shred of reason.{/color}"
-    p "{color=#d7959d}我只看到一个，不管出于什么原因，连一丁点道理都讲不通的人{/color}"
+    p "{color=#d7959d}我只看到一个，不管出于什么原因，连一丁点道理都讲不通的人。{/color}"
 
 # game/script day12.rpy:2905
 translate Chinese day12_arthur_ultimatum_97b0c51e:
@@ -4974,13 +4973,13 @@ translate Chinese day12_arthur_ultimatum_eb1aa06a:
 translate Chinese day12_arthur_ultimatum_da049bf4:
 
     # p "{color=#e37272}Be a good sailor.{/color}"
-    p "{color=#e37272}要做个好水手{/color}"
+    p "{color=#e37272}要做个好水手。{/color}"
 
 # game/script day12.rpy:2913
 translate Chinese day12_arthur_ultimatum_bf3019f2:
 
     # p "{color=#e96a6a}That's what he wants."
-    p "{color=#e96a6a}那正是他所期望的{/color}"
+    p "{color=#e96a6a}那正是他所期望的。{/color}"
 
 # game/script day12.rpy:2917
 translate Chinese day12_arthur_ultimatum_0ad86683:
@@ -4992,13 +4991,13 @@ translate Chinese day12_arthur_ultimatum_0ad86683:
 translate Chinese day12_arthur_ultimatum_d9736ab0:
 
     # p "{color=#f05a5a}As soon as I was able, I've been up for every watch of mine. Assisted whenever I was asked to assist, and tried to learn the ropes as fast as I could. All after having gone through a painful recovery.{/color}"
-    p "{color=#f05a5a}自从我身体恢复后，就坚守每一班岗。只要有人需要，我就去帮忙，还尽可能快地学习船上的各项事务。这一切都是在经历了痛苦的康复之后做到的。而这也正是我一直在努力做的{/color}"
+    p "{color=#f05a5a}自从我身体恢复后，就坚守每一班岗。只要有人需要，我就去帮忙，还尽可能快地学习船上的各项事务。这一切都是在经历了痛苦的康复之后做到的。而这也正是我一直在努力做的。{/color}"
 
 # game/script day12.rpy:2923
 translate Chinese day12_arthur_ultimatum_cce2346d:
 
     # p "{color=#ea5f5f}And that's exactly what I've been striving for.{/color}"
-    p "{color=#ea5f5f}而这正是我一直努力的目标{/color}"
+    p "{color=#ea5f5f}而这正是我一直努力的目标。{/color}"
 
 # game/script day12.rpy:2925
 translate Chinese day12_arthur_ultimatum_09414d12:
@@ -5028,19 +5027,19 @@ translate Chinese day12_arthur_ultimatum_e08b4298:
 translate Chinese day12_arthur_ultimatum_e8d92ec8:
 
     # p "{color=#ef4646}{i}Sir.{/i}{/color}"
-    p "{color=#ef4646}{i}先生{/i}{/color}"
+    p "{color=#ef4646}{i}先生{/i}。{/color}"
 
 # game/script day12.rpy:2937
 translate Chinese day12_arthur_ultimatum_eea33ec9:
 
     # a "{i}If{/i} there is anything that can change my mind, you have about...{w} two more days to figure it out, I reckon."
-    a "{i}如果{/i}有什么能改变我的想法，你大概还有……{w}两天时间去想，我估计"
+    a "{i}如果{/i}有什么能改变我的想法，你大概还有……{w}两天时间去想，我估计。"
 
 # game/script day12.rpy:2941
 translate Chinese day12_arthur_ultimatum_9648aa88:
 
     # a "But quite frankly, I have my doubts that you would be able to change my decision at this point."
-    a "但坦白说，我怀疑到这个时候你还能不能改变我的决定"
+    a "但坦白说，我怀疑到这个时候你还能不能改变我的决定。"
 
 # game/script day12.rpy:2943
 translate Chinese day12_arthur_ultimatum_acf11bb2:
@@ -5052,13 +5051,13 @@ translate Chinese day12_arthur_ultimatum_acf11bb2:
 translate Chinese day12_arthur_ultimatum_42f9bc4d:
 
     # a "If you'll excuse me, I must report to the Captain."
-    a "失陪了，我得向船长汇报情况"
+    a "失陪了，我得向船长汇报情况。"
 
 # game/script day12.rpy:2947
 translate Chinese day12_arthur_ultimatum_fab91186:
 
     # "He shouts one last set of instructions up into the masts to keep the crew busy in his absence, before he turns away from you and leaves you alone on the windswept deck."
-    "他朝着桅杆上的船员大声喊出最后一组指令，好让他不在的时候大家也有事可做，然后便转身离开，把你一个人留在狂风肆虐的甲板上"
+    "他朝着桅杆上的船员大声喊出最后一组指令，好让他不在的时候大家也有事可做，然后便转身离开，把你一个人留在狂风肆虐的甲板上。"
 
 # game/script day12.rpy:2955
 translate Chinese day12_arthur_ultimatum_28b6d2d7:
@@ -5077,37 +5076,37 @@ translate Chinese day12_arthur_ultimatum_cf207b8d:
 translate Chinese day12_arthur_ultimatum_97850853:
 
     # "Morocco,{p}and the end of your journey."
-    "摩洛哥，{p}以及你这段航海之旅的终点"
+    "摩洛哥，{p}以及你这段航海之旅的终点。"
 
 # game/script day12.rpy:2980
 translate Chinese day12_arthur_ultimatum_7a41cd18:
 
     # "The dim light below deck casts shadows on the rough-hewn wooden benches. You sit, restless and leaning on the table to avoid the hull of the ship against your back."
-    "甲板下面昏暗的灯光在粗糙的木长凳上投下阴影。你不安地坐着，为了避免后背碰到船身，便身体前倾靠在桌子上"
+    "甲板下面昏暗的灯光在粗糙的木长凳上投下阴影。你不安地坐着，为了避免后背碰到船身，便身体前倾靠在桌子上。"
 
 # game/script day12.rpy:2984
 translate Chinese day12_arthur_ultimatum_3268f014:
 
     # "The dim light below deck casts shadows on the rough-hewn wooden benches. You sit, back resting against the hull, feeling its grain rub against your shirt as you shift back and forth with the sway of the sea."
-    "甲板下面昏暗的灯光在粗糙的木长凳上投下阴影。你坐着，后背靠在船身上，随着海浪的摇晃来回移动，你能感觉到船身的纹理蹭着你的衬衫"
+    "甲板下面昏暗的灯光在粗糙的木长凳上投下阴影。你坐着，后背靠在船身上，随着海浪的摇晃来回移动，你能感觉到船身的纹理蹭着你的衬衫。"
 
 # game/script day12.rpy:2986
 translate Chinese day12_arthur_ultimatum_645b93a6:
 
     # "The air damper than it usually is as the rain continues to pour down on the outside."
-    "外面雨还在下，空气比平时更加潮湿"
+    "外面雨还在下，空气比平时更加潮湿。"
 
 # game/script day12.rpy:2988
 translate Chinese day12_arthur_ultimatum_287bfb6c:
 
     # "Two days."
-    "两天"
+    "两天。"
 
 # game/script day12.rpy:2990
 translate Chinese day12_arthur_ultimatum_0c3e4b69:
 
     # "That's all."
-    "就这样"
+    "就这样。"
 
 # game/script day12.rpy:2992
 translate Chinese day12_arthur_ultimatum_b0ae1631:
@@ -5125,19 +5124,19 @@ translate Chinese day12_arthur_ultimatum_144a2be5:
 translate Chinese day12_arthur_ultimatum_1d26ae0d:
 
     # "You open your eyes, lips moving almost silently as you spill forth the wildest obscenities you can think of."
-    "你睁开眼睛，嘴唇几乎无声地翕动，把你能想到的最恶毒的脏话都吐了出来"
+    "你睁开眼睛，嘴唇几乎无声地翕动，把你能想到的最恶毒的脏话都吐了出来。"
 
 # game/script day12.rpy:3008
 translate Chinese day12_arthur_ultimatum_30a2a64f:
 
     # "It's a good thing your grandmother isn't within earshot, or she'd probably have a heart attack right then and there if she heard what's escaping your muzzle."
-    "还好你祖母不在旁边听着，要是她听到从你嘴里冒出来的这些话，估计当场就得心脏病发作"
+    "还好你祖母不在旁边听着，要是她听到从你嘴里冒出来的这些话，估计当场就得心脏病发作。"
 
 # game/script day12.rpy:3010
 translate Chinese day12_arthur_ultimatum_f81d8368:
 
     # "Unfortunately for you the gods remain indifferent. No lightning strikes in response, and your hastily made soul offering appears to have a disappointingly limited effect."
-    "可惜对你而言诸神对此无动于衷。没有闪电劈下来回应你，你匆忙献上的灵魂祭品似乎效果也令人失望"
+    "可惜对你而言诸神对此无动于衷。没有闪电劈下来回应你，你匆忙献上的灵魂祭品似乎效果也令人失望。"
 
 # game/script day12.rpy:3012
 translate Chinese day12_arthur_ultimatum_5afbc557:
@@ -5161,7 +5160,7 @@ translate Chinese day12_arthur_ultimatum_edeb2de9:
 translate Chinese day12_arthur_ultimatum_61df63f5:
 
     # "All the things you could do."
-    "你能做的事太多了"
+    "你能做的事太多了。"
 
 # game/script day12.rpy:3023
 translate Chinese day12_arthur_ultimatum_e720208c:
@@ -5173,13 +5172,13 @@ translate Chinese day12_arthur_ultimatum_e720208c:
 translate Chinese day12_arthur_ultimatum_5917a3fd:
 
     # "You do none of them."
-    "但你什么都没做"
+    "但你什么都没做。"
 
 # game/script day12.rpy:3032
 translate Chinese day12_arthur_ultimatum_3451e5da:
 
     # "Instead, you take a breath, open your eyes."
-    "相反，你深吸一口气，睁开眼睛"
+    "相反，你深吸一口气，睁开眼睛。"
 
 # game/script day12.rpy:3034
 translate Chinese day12_arthur_ultimatum_ace4d7b5:
@@ -5191,25 +5190,25 @@ translate Chinese day12_arthur_ultimatum_ace4d7b5:
 translate Chinese day12_arthur_ultimatum_da8e0808:
 
     # "You recall how you stood on deck, watching Arthur walk away."
-    "你回想起自己站在甲板上，看着Authur离开的情景"
+    "你回想起自己站在甲板上，看着Arthur离开的情景。"
 
 # game/script day12.rpy:3038
 translate Chinese day12_arthur_ultimatum_7d297ce7:
 
     # "Remembering the feeling in your chest."
-    "记起当时胸口的那种感觉"
+    "记起当时胸口的那种感觉。"
 
 # game/script day12.rpy:3040
 translate Chinese day12_arthur_ultimatum_a92da6b4:
 
     # "Now a somber scene to you.{w} The manifestation of your dreams slipping through your fingers."
-    "如今对你而言，那是一幅阴郁的画面。{w}你的梦想正从指缝间溜走"
+    "如今对你而言，那是一幅阴郁的画面。{w}你的梦想正从指缝间溜走。"
 
 # game/script day12.rpy:3047
 translate Chinese day12_arthur_ultimatum_5ee00a49:
 
     # "This time you don't hold it in."
-    "这次你不再压抑自己"
+    "这次你不再压抑自己。"
 
 # game/script day12.rpy:3054
 translate Chinese day12_arthur_ultimatum_06f651a5:
@@ -5221,7 +5220,7 @@ translate Chinese day12_arthur_ultimatum_06f651a5:
 translate Chinese day12_arthur_ultimatum_571436fe:
 
     # "The sheer catharsis of it satisfies your anger for a split second."
-    "这种纯粹的宣泄让你的愤怒得到了片刻的满足"
+    "这种纯粹的宣泄让你的愤怒得到了片刻的满足。"
 
 # game/script day12.rpy:3058
 translate Chinese day12_arthur_ultimatum_7a2fef5b:
@@ -5245,19 +5244,19 @@ translate Chinese day12_arthur_ultimatum_bb498e72:
 translate Chinese day12_arthur_ultimatum_f1c4953b:
 
     # "You look down at the back of your hand. A small patch of crimson begins to spread across your scraped knuckles."
-    "你低头看向手背。一小片殷红开始在你擦伤的指关节上扩散开来"
+    "你低头看向手背。一小片殷红开始在你擦伤的指关节上扩散开来。"
 
 # game/script day12.rpy:3068
 translate Chinese day12_arthur_ultimatum_4140b618:
 
     # "You massage your hand in an attempt to ease the pain, without much effect."
-    "你揉着手，试图缓解疼痛，但无济于事"
+    "你揉着手，试图缓解疼痛，但无济于事。"
 
 # game/script day12.rpy:3070
 translate Chinese day12_arthur_ultimatum_a9d4be1a:
 
     # p "Think first, you idiot."
-    p "先动动脑子，你个白痴"
+    p "先动动脑子，你个白痴。"
 
 # game/script day12.rpy:3074
 translate Chinese day12_arthur_ultimatum_caeead4e:
@@ -5269,43 +5268,43 @@ translate Chinese day12_arthur_ultimatum_caeead4e:
 translate Chinese day12_arthur_ultimatum_304dd05b:
 
     # "Left in some foreign harbor."
-    "被遗弃在某个异国港口"
+    "被遗弃在某个异国港口。"
 
 # game/script day12.rpy:3078
 translate Chinese day12_arthur_ultimatum_887b8635:
 
     # "If only you'd never had this stupid idea in the first place."
-    "要是你一开始就没生出这个愚蠢的念头就好了"
+    "要是你一开始就没生出这个愚蠢的念头就好了。"
 
 # game/script day12.rpy:3080
 translate Chinese day12_arthur_ultimatum_9407adc7:
 
     # "Sailor."
-    "水手"
+    "水手。"
 
 # game/script day12.rpy:3082
 translate Chinese day12_arthur_ultimatum_784eaa2e:
 
     # "Adventure."
-    "冒险"
+    "冒险。"
 
 # game/script day12.rpy:3084
 translate Chinese day12_arthur_ultimatum_46c561a7:
 
     # "You watch the crew trickle in once they finished setting the sails."
-    "你看着船员们收好帆后陆续进来"
+    "你看着船员们收好帆后陆续进来。"
 
 # game/script day12.rpy:3086
 translate Chinese day12_arthur_ultimatum_fbf1feac:
 
     # "Each of them looking about as miserable as you. Thoroughly soaked, their clothes clinging to them, and their fur hanging limp and sodden from their bodies."
-    "他们每个人看起来都和你一样狼狈。浑身湿透，衣服紧紧贴在身上，毛发湿漉漉地耷拉着"
+    "他们每个人看起来都和你一样狼狈。浑身湿透，衣服紧紧贴在身上，毛发湿漉漉地耷拉着。"
 
 # game/script day12.rpy:3088
 translate Chinese day12_arthur_ultimatum_12076e50:
 
     # "It doesn't take long before the whole area is one big puddle, spreading steadily across the deck."
-    "没过多久，整个区域就成了一大滩水洼，水还在不断地在甲板上蔓延"
+    "没过多久，整个区域就成了一大滩水洼，水还在不断地在甲板上蔓延。"
 
 # game/script day12.rpy:3090
 translate Chinese day12_arthur_ultimatum_452fb145:
@@ -5317,55 +5316,55 @@ translate Chinese day12_arthur_ultimatum_452fb145:
 translate Chinese day12_arthur_ultimatum_6d24c3f0:
 
     # "Some crew members immediately strip off their shirts, while others prefer to at least try and wring out the water that has soaked into their clothes."
-    "一些船员立刻脱掉了衬衫，而另一些人则至少试着拧干衣服里浸透的水"
+    "一些船员立刻脱掉了衬衫，而另一些人则至少试着拧干衣服里浸透的水。"
 
 # game/script day12.rpy:3094
 translate Chinese day12_arthur_ultimatum_0351162d:
 
     # "Boots are emptied if they wear any, and furs and hair are tidied. The lanterns are rekindled as the sun struggles to illuminate the outside world, let alone the interior, through the heavy cloud cover."
-    "穿靴子的倒空了靴子，整理着皮毛和头发。太阳努力想要穿透厚厚的云层照亮外面的世界，更别提船舱内部了，于是大家重新点亮了灯笼"
+    "穿靴子的倒空了靴子，整理着皮毛和头发。太阳努力想要穿透厚厚的云层照亮外面的世界，更别提船舱内部了，于是大家重新点亮了灯笼。"
 
 # game/script day12.rpy:3096
 translate Chinese day12_arthur_ultimatum_96702932:
 
     # "You think you can hear snippets of conversation among them, discussing the sudden change in weather or how they were rudely awakened just as they had fallen asleep."
-    "你觉得自己能听到他们之间断断续续的交谈声，他们在讨论天气的突变，或者抱怨刚睡着就被粗暴地叫醒"
+    "你觉得自己能听到他们之间断断续续的交谈声，他们在讨论天气的突变，或者抱怨刚睡着就被粗暴地叫醒。"
 
 # game/script day12.rpy:3098
 translate Chinese day12_arthur_ultimatum_c326e765:
 
     # "It's hard not to be weighed down by every comment."
-    "很难不被每一句抱怨压得喘不过气"
+    "很难不被每一句抱怨压得喘不过气。"
 
 # game/script day12.rpy:3100
 translate Chinese day12_arthur_ultimatum_91cdb46f:
 
     # "Even though nothing happened, you still caused all of their discomfort."
-    "尽管没出大事，但这一切不便都是你造成的"
+    "尽管没出大事，但这一切不便都是你造成的。"
 
 # game/script day12.rpy:3102
 translate Chinese day12_arthur_ultimatum_ab02325b:
 
     # "You forced them in a position where they had to put themselves in danger."
-    "你把他们都逼到了不得不涉险的境地"
+    "你把他们都逼到了不得不涉险的境地。"
 
 # game/script day12.rpy:3104
 translate Chinese day12_arthur_ultimatum_94362a30:
 
     # "All of them."
-    "所有人"
+    "所有人。"
 
 # game/script day12.rpy:3106
 translate Chinese day12_arthur_ultimatum_1b4a9c9f:
 
     # "Samuel is the first to make it down the stairs, followed by Wolf, Torres and Julian. Each of them going through the similar ritual of trying to dry themselves as best they can during a storm at sea."
-    "Samuel第一个走下楼梯，随后是Wolf、Torres和Julian。他们每个人都在进行着类似的举动，在海上的暴风雨中尽可能把自己弄干"
+    "Samuel第一个走下楼梯，随后是Wolf、Torres和Julian。他们每个人都在进行着类似的举动，在海上的暴风雨中尽可能把自己弄干。"
 
 # game/script day12.rpy:3110
 translate Chinese day12_arthur_ultimatum_66a177a0:
 
     # "You notice the white glint of Wolf's eyes flicking in your direction briefly."
-    "你注意到Wolf白色的眼珠朝你的方向短暂地闪了一下"
+    "你注意到Wolf白色的眼珠朝你的方向短暂地闪了一下。"
 
 # game/script day12.rpy:3112
 translate Chinese day12_arthur_ultimatum_9e045388:
@@ -5377,43 +5376,43 @@ translate Chinese day12_arthur_ultimatum_9e045388:
 translate Chinese day12_arthur_ultimatum_974a4491:
 
     # "but in the end moves to another part of the deck."
-    "但最终还是走向了甲板的另一头"
+    "但最终还是走向了甲板的另一头。"
 
 # game/script day12.rpy:3124
 translate Chinese day12_arthur_ultimatum_ffcd083d:
 
     # "Julian follows the direction Wolf is looking in and sees you as well. However, he makes his way over to you, each step leaving a wet print of his scaled feet where the planks aren't already soaked."
-    "Julian顺着Wolf的目光看过来，也看到了你。不过，他朝你走了过来，每走一步，在尚未被水浸湿的木板上就会留下一个带鳞脚掌的湿脚印"
+    "Julian顺着Wolf的目光看过来，也看到了你。不过，他朝你走了过来，每走一步，在尚未被水浸湿的木板上就会留下一个带鳞脚掌的湿脚印。"
 
 # game/script day12.rpy:3127
 translate Chinese day12_arthur_ultimatum_e45aaeb6:
 
     # "Julian spots you and makes his way over to you, each step leaving a wet print of his scaled feet where the planks aren't already soaked."
-    "Julian发现了你，便朝你走来，每一步都在尚未被水浸湿的木板上留下他带鳞脚掌的湿印"
+    "Julian发现了你，便朝你走来，每一步都在尚未被水浸湿的木板上留下他带鳞脚掌的湿印。"
 
 # game/script day12.rpy:3132
 translate Chinese day12_arthur_ultimatum_132d113b:
 
     # "As he closes the distance, he playfully flicks his hand in your direction, sending a few drops flying toward you."
-    "他走近时，顽皮地朝你的方向甩了甩手，溅出几滴水飞向你"
+    "他走近时，顽皮地朝你的方向甩了甩手，溅出几滴水飞向你。"
 
 # game/script day12.rpy:3134
 translate Chinese day12_arthur_ultimatum_a1700874:
 
     # "You don't make the effort to avoid them, but close your eyes with a brief grimace to show your disapproval."
-    "你没有费力去躲，只是皱了皱眉闭上眼睛，表示你的不悦"
+    "你没有费力去躲，只是皱了皱眉闭上眼睛，表示你的不悦。"
 
 # game/script day12.rpy:3136
 translate Chinese day12_arthur_ultimatum_8cfb03d2:
 
     # j "A proper mess out there."
-    j "外面可真是一团糟"
+    j "外面可真是一团糟。"
 
 # game/script day12.rpy:3138
 translate Chinese day12_arthur_ultimatum_29d26e37:
 
     # "You don't answer."
-    "你没有回应"
+    "你没有回应。"
 
 # game/script day12.rpy:3142
 translate Chinese day12_arthur_ultimatum_26a5857a:
@@ -5431,7 +5430,7 @@ translate Chinese day12_arthur_ultimatum_a0775258:
 translate Chinese day12_arthur_ultimatum_c979e99d:
 
     # j "Being a sailor is annoying enough as it is. I'd prefer to avoid having to go up there in a downpour."
-    j "当水手本来就够烦人的了。我可不想再在倾盆大雨中爬到上面去干活"
+    j "当水手本来就够烦人的了。我可不想再在倾盆大雨中爬到上面去干活。"
 
 # game/script day12.rpy:3148
 translate Chinese day12_arthur_ultimatum_a67d84f2:
@@ -5449,7 +5448,7 @@ translate Chinese day12_arthur_ultimatum_64c5844e:
 translate Chinese day12_arthur_ultimatum_fa21f72d:
 
     # p "I'm sorry Julian, I truly am, but I'm really not in a mood to chat right now."
-    p "对不起，Julian，我真的对不起，但我现在真的没心情聊天"
+    p "对不起，Julian，我真的对不起，但我现在真的没心情聊天。"
 
 # game/script day12.rpy:3158
 translate Chinese day12_arthur_ultimatum_cb43db29:
@@ -5461,13 +5460,13 @@ translate Chinese day12_arthur_ultimatum_cb43db29:
 translate Chinese day12_arthur_ultimatum_5cb75199:
 
     # j "I was just looking for a place to warm up."
-    j "我只是想找个地方暖和一下"
+    j "我只是想找个地方暖和一下。"
 
 # game/script day12.rpy:3162
 translate Chinese day12_arthur_ultimatum_9126a557:
 
     # j "You know, somewhere to put a lantern, dry up a bit and, well, I figured you might not want to sit alone."
-    j "你知道的，找个能放灯笼、能稍微烘干一下的地方，而且，我觉得你可能不想一个人坐着"
+    j "你知道的，找个能放灯笼、能稍微烘干一下的地方，而且，我觉得你可能不想一个人坐着。"
 
 # game/script day12.rpy:3164
 translate Chinese day12_arthur_ultimatum_984e517b:
@@ -5485,7 +5484,7 @@ translate Chinese day12_arthur_ultimatum_875ce35a:
 translate Chinese day12_arthur_ultimatum_ab59dd40:
 
     # "He stumbles into an awkward silence as you turn him away, rubbing the back of his head as he fishes for words."
-    "你拒绝了他，他陷入了尴尬的沉默，挠着后脑勺，寻找着措辞"
+    "你拒绝了他，他陷入了尴尬的沉默，挠着后脑勺，寻找着措辞。"
 
 # game/script day12.rpy:3170
 translate Chinese day12_arthur_ultimatum_88057329:
@@ -5497,7 +5496,7 @@ translate Chinese day12_arthur_ultimatum_88057329:
 translate Chinese day12_arthur_ultimatum_4d559303:
 
     # j "Uh, if you prefer to sit alone, you prefer to sit alone."
-    j "呃，如果你想一个人待着，那你就一个人待着吧"
+    j "呃，如果你想一个人待着，那你就一个人待着吧。"
 
 # game/script day12.rpy:3174
 translate Chinese day12_arthur_ultimatum_033b8b63:
@@ -5515,25 +5514,25 @@ translate Chinese day12_arthur_ultimatum_6d9b03ff:
 translate Chinese day12_arthur_ultimatum_bc1d8c7a:
 
     # "He tries to convince you with a flourish of his hands and takes a moment to read your reaction."
-    "他一边夸张地挥着手试图说服你，一边留意你的反应"
+    "他一边夸张地挥着手试图说服你，一边留意你的反应。"
 
 # game/script day12.rpy:3184
 translate Chinese day12_arthur_ultimatum_b00da6a8:
 
     # "You maintain your blank expression, assuming he'll get the hint, eventually."
-    "你面无表情，心想他最终总会明白你的意思"
+    "你面无表情，心想他最终总会明白你的意思。"
 
 # game/script day12.rpy:3186
 translate Chinese day12_arthur_ultimatum_6f9f6d36:
 
     # "He's a smart lizard."
-    "他是只聪明的蜥蜴"
+    "他是只聪明的蜥蜴。"
 
 # game/script day12.rpy:3188
 translate Chinese day12_arthur_ultimatum_3c0edb24:
 
     # "Sometimes."
-    "有时候是"
+    "有时候是。"
 
 # game/script day12.rpy:3190
 translate Chinese day12_arthur_ultimatum_4c3bcdd8:
@@ -5545,13 +5544,13 @@ translate Chinese day12_arthur_ultimatum_4c3bcdd8:
 translate Chinese day12_arthur_ultimatum_850f7ab2:
 
     # p "Sorry, I'd really prefer to be alone right now."
-    p "抱歉，我现在真的想一个人待着"
+    p "抱歉，我现在真的想一个人待着。"
 
 # game/script day12.rpy:3196
 translate Chinese day12_arthur_ultimatum_d1a2c96f:
 
     # j "All right, I tried."
-    j "好吧，我尽力了"
+    j "好吧，我尽力了。"
 
 # game/script day12.rpy:3201
 translate Chinese day12_arthur_ultimatum_8f149cef:
@@ -5569,13 +5568,13 @@ translate Chinese day12_arthur_ultimatum_8acdd781:
 translate Chinese day12_arthur_ultimatum_8e4a78da:
 
     # "He startles to attention as a thought appears to come to him. A step brings him between the benches and he leans over to speak with a hushed voice."
-    "他突然好像想到了什么，一下子来了精神。他迈步走到长椅中间，探过身来，压低声音说"
+    "他突然好像想到了什么，一下子来了精神。他迈步走到长椅中间，探过身来，压低声音说。"
 
 # game/script day12.rpy:3216
 translate Chinese day12_arthur_ultimatum_233ca700:
 
     # j "That passenger guy."
-    j "那个乘客"
+    j "那个乘客。"
 
 # game/script day12.rpy:3218
 translate Chinese day12_arthur_ultimatum_11bd6b3c:
@@ -5599,13 +5598,13 @@ translate Chinese day12_arthur_ultimatum_989e6b91:
 translate Chinese day12_arthur_ultimatum_55d71a98:
 
     # "He pulls back and raises his hands as if to preemptively defuse the situation."
-    "他往后退了退，举起双手，好像是想先发制人地缓和一下气氛"
+    "他往后退了退，举起双手，好像是想先发制人地缓和一下气氛。"
 
 # game/script day12.rpy:3230
 translate Chinese day12_arthur_ultimatum_d0bba535:
 
     # j "Just saying! It'd be a great way to warm myself up and forget about the hardships I've endured."
-    j "只是说说而已！这可是个取暖的好方法，还能让我忘掉刚刚经历的磨难"
+    j "只是说说而已！这可是个取暖的好方法，还能让我忘掉刚刚经历的磨难。"
 
 # game/script day12.rpy:3232
 translate Chinese day12_arthur_ultimatum_9d289e34:
@@ -5617,13 +5616,13 @@ translate Chinese day12_arthur_ultimatum_9d289e34:
 translate Chinese day12_arthur_ultimatum_45f91c83:
 
     # "Before he answers, Julian closes his eyes, tilting his head with a mischievous grin. He twirls his hand in a performative little wave to accentuate his face."
-    "在回答之前，Julian闭上眼睛，歪着头露出狡黠的笑容。他优雅地挥了挥手，更凸显出他脸上的表情"
+    "在回答之前，Julian闭上眼睛，歪着头露出狡黠的笑容。他优雅地挥了挥手，更凸显出他脸上的表情。"
 
 # game/script day12.rpy:3238
 translate Chinese day12_arthur_ultimatum_70885d5b:
 
     # j "Ah, you know. Youthful and vibrant lizard that I am, the thrill of hanging precariously 70 feet above almost certain death."
-    j "啊，你懂的。像我这样年轻有活力的蜥蜴，刚刚经历了在70英尺高空摇摇欲坠、差点送命的刺激"
+    j "啊，你懂的。像我这样年轻有活力的蜥蜴，刚刚经历了在70英尺高空摇摇欲坠、差点送命的刺激。"
 
 # game/script day12.rpy:3240
 translate Chinese day12_arthur_ultimatum_e094a629:
@@ -5635,7 +5634,7 @@ translate Chinese day12_arthur_ultimatum_e094a629:
 translate Chinese day12_arthur_ultimatum_48070713:
 
     # j "Not to even mention how well it'll warm me up."
-    j "更不用说这能让我暖和得多"
+    j "更不用说这能让我暖和得多。"
 
 # game/script day12.rpy:3244
 translate Chinese day12_arthur_ultimatum_44bdce49:
@@ -5647,49 +5646,49 @@ translate Chinese day12_arthur_ultimatum_44bdce49:
 translate Chinese day12_arthur_ultimatum_696ce9ff:
 
     # j "Here, just feel these."
-    j "来，摸摸看"
+    j "来，摸摸看。"
 
 # game/script day12.rpy:3251
 translate Chinese day12_arthur_ultimatum_e619bf13:
 
     # "Julian extends both hands to you, palms facing up. You accept his invitation with much less enthusiasm and place one of your hands in his."
-    "Julian伸出双手，掌心向上。你没什么热情地应了他，把一只手放在他手上"
+    "Julian伸出双手，掌心向上。你没什么热情地应了他，把一只手放在他手上。"
 
 # game/script day12.rpy:3253
 translate Chinese day12_arthur_ultimatum_779d879d:
 
     # "He is certainly telling the truth, and you feel his cold, soft scales against your fingertips."
-    "他说的倒是实话，你能感觉到他冰冷柔软的鳞片抵着你的指尖"
+    "他说的倒是实话，你能感觉到他冰冷柔软的鳞片抵着你的指尖。"
 
 # game/script day12.rpy:3268
 translate Chinese day12_arthur_ultimatum_58d6c3ab:
 
     # "You gently slap his hand away before answering."
-    "你在回答之前轻轻拍开了他的手"
+    "你在回答之前轻轻拍开了他的手。"
 
 # game/script day12.rpy:3272
 translate Chinese day12_arthur_ultimatum_05224883:
 
     # p "Sure."
-    p "当然"
+    p "当然。"
 
 # game/script day12.rpy:3274
 translate Chinese day12_arthur_ultimatum_fbbc70e6:
 
     # p "If it makes up for the trouble."
-    p "就当是补偿给你添的麻烦"
+    p "就当是补偿给你添的麻烦。"
 
 # game/script day12.rpy:3276
 translate Chinese day12_arthur_ultimatum_92cd9f9c:
 
     # "He lights up when he hears your answer."
-    "听到你的回答，他眼睛一亮"
+    "听到你的回答，他眼睛一亮。"
 
 # game/script day12.rpy:3280
 translate Chinese day12_arthur_ultimatum_b1d32140:
 
     # j "Oh, it most certainly will! Thank you, I shall pay him a visit."
-    j "哦，肯定能！谢谢你，我这就去拜访他"
+    j "哦，肯定能！谢谢你，我这就去拜访他。"
 
 # game/script day12.rpy:3282
 translate Chinese day12_arthur_ultimatum_fb5c0de5:
@@ -5701,7 +5700,7 @@ translate Chinese day12_arthur_ultimatum_fb5c0de5:
 translate Chinese day12_arthur_ultimatum_d3a5cecf:
 
     # j "I'll see when I get there, I suppose."
-    j "我想，到了那儿再看情况吧"
+    j "我想，到了那儿再看情况吧。"
 
 # game/script day12.rpy:3288
 translate Chinese day12_arthur_ultimatum_c82f2e04:
@@ -5713,127 +5712,127 @@ translate Chinese day12_arthur_ultimatum_c82f2e04:
 translate Chinese day12_arthur_ultimatum_3ba440c1:
 
     # p "Tell him you're there on my account."
-    p "告诉他是我让你去的"
+    p "告诉他是我让你去的。"
 
 # game/script day12.rpy:3292
 translate Chinese day12_arthur_ultimatum_bbdf5f8b:
 
     # p "He should be able to figure that out."
-    p "他应该能明白"
+    p "他应该能明白。"
 
 # game/script day12.rpy:3297
 translate Chinese day12_arthur_ultimatum_f39ef0fb:
 
     # "Julian nods again and turns away, as if about to leave, but then he catches himself. He turns back again with a cheeky grin."
-    "Julian又点了点头，转身好像要走，但又停住了。他带着的笑容转了回来"
+    "Julian又点了点头，转身好像要走，但又停住了。他带着的笑容转了回来。"
 
 # game/script day12.rpy:3299
 translate Chinese day12_arthur_ultimatum_8bbf88e0:
 
     # j "I'll make sure not to mention {i}this{/i} little detail before cupping a feel."
-    j "在动手感受之前，我保证不会提到{i}这个{/i}小细节"
+    j "在动手感受之前，我保证不会提到{i}这个{/i}小细节。"
 
 # game/script day12.rpy:3301
 translate Chinese day12_arthur_ultimatum_e160fc8b:
 
     # "And to make his suggestion clear he brings up one of his hands with a playful wave of his fingers."
-    "为了让他的意思更清楚，他举起一只手，手指俏皮地挥动着"
+    "为了让他的意思更清楚，他举起一只手，手指俏皮地挥动着。"
 
 # game/script day12.rpy:3303
 translate Chinese day12_arthur_ultimatum_c4b6bcd0:
 
     # p "I doubt he will like it."
-    p "我怀疑他不会喜欢这样"
+    p "我怀疑他不会喜欢这样。"
 
 # game/script day12.rpy:3305
 translate Chinese day12_arthur_ultimatum_a8fc5dbc:
 
     # j "He'll survive."
-    j "他会挺过去的"
+    j "他会挺过去的。"
 
 # game/script day12.rpy:3307
 translate Chinese day12_arthur_ultimatum_1ab1cab7:
 
     # j "My hands are small; I'll take all the help I can get to ensure he's a fitting size."
-    j "我的手比较小；为了确保他尺寸合适，我需要所有能得到的帮助"
+    j "我的手比较小；为了确保他尺寸合适，我需要所有能得到的帮助。"
 
 # game/script day12.rpy:3309
 translate Chinese day12_arthur_ultimatum_79220115:
 
     # "You glance at his hands, quickly estimating whether the painted dog's goods would fit in them or not."
-    "是否放得进去"
+    "是否放得进去。"
 
 # game/script day12.rpy:3311
 translate Chinese day12_arthur_ultimatum_c39bd0a5:
 
     # p "Your hands will do."
-    p "你的手没问题"
+    p "你的手没问题。"
 
 # game/script day12.rpy:3313
 translate Chinese day12_arthur_ultimatum_42784045:
 
     # "He raises his eyebrows, though you can't quite place his expression."
-    "他扬起眉毛，不过你不太能读懂他的表情"
+    "他扬起眉毛，不过你不太能读懂他的表情。"
 
 # game/script day12.rpy:3315
 translate Chinese day12_arthur_ultimatum_8910f100:
 
     # j "I guess I will see for myself. Thanks again, I'll see you later."
-    j "我想我得亲自验证一下。再次感谢，回头见"
+    j "我想我得亲自验证一下。再次感谢，回头见。"
 
 # game/script day12.rpy:3317
 translate Chinese day12_arthur_ultimatum_9d2089f2:
 
     # j "Hopefully with you feeling a little more chipper by then. Ta ta."
-    j "希望到时候你心情能好点。拜拜"
+    j "希望到时候你心情能好点。拜拜。"
 
 # game/script day12.rpy:3321
 translate Chinese day12_arthur_ultimatum_f046ad9b:
 
     # "With a gentle wave, Julian leaves, fighting the ship's rocking every step of the way as he heads toward the same door where you stood on your second day."
-    "Julian轻轻挥了挥手就离开了，他每走一步都要和摇晃的船身作斗争，朝着你第二天站过的那扇门走去"
+    "Julian轻轻挥了挥手就离开了，他每走一步都要和摇晃的船身作斗争，朝着你第二天站过的那扇门走去。"
 
 # game/script day12.rpy:3323
 translate Chinese day12_arthur_ultimatum_cbbaf969:
 
     # "You watch him for a while, seeing him enter the room, his long tail trailing behind him—the last thing to disappear behind the wooden walls."
-    "你注视了他一会儿，看着他走进房间，他的长尾巴拖在身后——最后消失在木墙后"
+    "你注视了他一会儿，看着他走进房间，他的长尾巴拖在身后——最后消失在木墙后。"
 
 # game/script day12.rpy:3325
 translate Chinese day12_arthur_ultimatum_468e1b46:
 
     # "At least Julian will have a decent start to his day."
-    "至少Julian今天能有个不错的开端"
+    "至少Julian今天能有个不错的开端。"
 
 # game/script day12.rpy:3335
 translate Chinese day12_arthur_ultimatum_0b084fed:
 
     # "You swat his hand away before you answer."
-    "在回答前你拍开了他的手"
+    "在回答前你拍开了他的手。"
 
 # game/script day12.rpy:3337
 translate Chinese day12_arthur_ultimatum_0ca3dcdf:
 
     # p "No, you won't."
-    p "不，你不能去"
+    p "不，你不能去。"
 
 # game/script day12.rpy:3341
 translate Chinese day12_arthur_ultimatum_b38f541a:
 
     # p "You can celebrate with your grog."
-    p "你可以用朗姆酒庆祝"
+    p "你可以用朗姆酒庆祝。"
 
 # game/script day12.rpy:3343
 translate Chinese day12_arthur_ultimatum_d4fdf548:
 
     # p "Maybe they'll give you an extra ration of it for a job well done, but he'll remain mine alone for now."
-    p "也许因为这次任务完成得好他们会多给你一份酒，但目前他只属于我"
+    p "也许因为这次任务完成得好他们会多给你一份酒，但目前他只属于我。"
 
 # game/script day12.rpy:3345
 translate Chinese day12_arthur_ultimatum_42edc14e:
 
     # "You watch his expression shape into a frown at your refusal of his request."
-    "你看到他因你的拒绝而皱起眉头"
+    "你看到他因你的拒绝而皱起眉头。"
 
 # game/script day12.rpy:3349
 translate Chinese day12_arthur_ultimatum_c238f0b2:
@@ -5845,13 +5844,13 @@ translate Chinese day12_arthur_ultimatum_c238f0b2:
 translate Chinese day12_arthur_ultimatum_477b4cf5:
 
     # j "It's the least you could do after making us scramble up there. Evening the score. It's like I'm making it worth your while, just like you said."
-    j "你让我们那么匆忙地跑上跑下，这是你至少能做的补偿。算是扯平了。就像你说的，我这是在让你觉得值回票价"
+    j "你让我们那么匆忙地跑上跑下，这是你至少能做的补偿。算是扯平了。就像你说的，我这是在让你觉得值回票价。"
 
 # game/script day12.rpy:3355
 translate Chinese day12_arthur_ultimatum_067703a9:
 
     # j "But, all right. If it's a no, it's a no."
-    j "不过，好吧。如果不行，那就算了"
+    j "不过，好吧。如果不行，那就算了。"
 
 # game/script day12.rpy:3357
 translate Chinese day12_arthur_ultimatum_e8df6f4d:
@@ -5863,7 +5862,7 @@ translate Chinese day12_arthur_ultimatum_e8df6f4d:
 translate Chinese day12_arthur_ultimatum_0192d40e:
 
     # "With a gentle wave, Julian departs, surveying the deck momentarily before joining some of the other sailors. Not an easy task as the ship's sway fights him with every step of the way."
-    "Julian轻轻挥了挥手就离开了，他先扫视了一下甲板，然后加入了其他水手的行列。在摇晃的船上让他每走一步都很艰难"
+    "Julian轻轻挥了挥手就离开了，他先扫视了一下甲板，然后加入了其他水手的行列。在摇晃的船上让他每走一步都很艰难。"
 
 # game/script day12.rpy:3369
 translate Chinese day12_arthur_ultimatum_18925f97:
@@ -5875,7 +5874,7 @@ translate Chinese day12_arthur_ultimatum_18925f97:
 translate Chinese day12_arthur_ultimatum_32219c2d:
 
     # "He brushes beaded drops of water that bunch up in the irregular texture of his scales and integuments, then sighs and sits down with you. He's freezing cold to the touch; even just your leg touching his leeches heat from you."
-    "他拂去聚集在他鳞片和皮肤纹理中的水珠，叹了口气在你旁边坐了下来。他摸起来冰冷刺骨；就连你的腿碰到他，热量都会被吸走"
+    "他拂去聚集在他鳞片和皮肤纹理中的水珠，叹了口气在你旁边坐了下来。他摸起来冰冷刺骨；就连你的腿碰到他，热量都会被吸走。"
 
 # game/script day12.rpy:3379
 translate Chinese day12_arthur_ultimatum_66efc290:
@@ -5887,37 +5886,37 @@ translate Chinese day12_arthur_ultimatum_66efc290:
 translate Chinese day12_arthur_ultimatum_beac8e11:
 
     # "He tries to ball up a bit more, resting his head on the table, but the sway of the ship sends it pushing into his chest, nearly knocking him down to the floor. You'd both be laughing at that normally, but you're both in lousy spirits."
-    "他试图蜷缩起来，把头靠在桌子上，但船的摇晃让桌子撞上他的胸口，差点把他掀到地上。平时你们俩都会为此发笑，但现在你们都情绪低落"
+    "他试图蜷缩起来，把头靠在桌子上，但船的摇晃让桌子撞上他的胸口，差点把他掀到地上。平时你们俩都会为此发笑，但现在你们都情绪低落。"
 
 # game/script day12.rpy:3383
 translate Chinese day12_arthur_ultimatum_11a10566:
 
     # p "Yeah, I can tell... Look, I'm sorry, Jules. I didn't want to fall asleep and put everyone in danger, it just... happened."
-    p "是啊，我看得出来……听着，对不起，Jules。我也不想因为睡着而把大家置于危险之中，只是……事情就这么发生了"
+    p "是啊，我看得出来……听着，对不起，Jules。我也不想因为睡着而把大家置于危险之中，只是……事情就这么发生了。"
 
 # game/script day12.rpy:3385
 translate Chinese day12_arthur_ultimatum_551f56e8:
 
     # j "Well, whatever... As long as I can warm up again."
-    j "唉，算了……只要我能重新暖和起来就行"
+    j "唉，算了……只要我能重新暖和起来就行。"
 
 # game/script day12.rpy:3391
 translate Chinese day12_arthur_ultimatum_36462f9f:
 
     # "He says that in a half-joking tone, then suddenly looks thoughtful. You are wary of whatever stupid idea just occurred to him."
-    "他用半开玩笑的语气说道，然后突然露出若有所思的表情。你对他可能冒出的任何蠢主意都保持着警惕"
+    "他用半开玩笑的语气说道，然后突然露出若有所思的表情。你对他可能冒出的任何蠢主意都保持着警惕。"
 
 # game/script day12.rpy:3395
 translate Chinese day12_arthur_ultimatum_0de4d29b:
 
     # j "You know... I have an idea for something that would warm me up really well, actually."
-    j "你知道吗……其实我想到了个能让我真正暖和起来的法子"
+    j "你知道吗……其实我想到了个能让我真正暖和起来的法子。"
 
 # game/script day12.rpy:3397
 translate Chinese day12_arthur_ultimatum_d10b4361:
 
     # p "Oh, really? Gonna start knocking over lanterns? Then maybe your track record will match mine."
-    p "哦，真的吗？打算去掀翻灯笼吗？那样说不定你的‘战绩’就能和我比肩了"
+    p "哦，真的吗？打算去掀翻灯笼吗？那样说不定你的‘战绩’就能和我比肩了。"
 
 # game/script day12.rpy:3401
 translate Chinese day12_arthur_ultimatum_4760fa36:
@@ -5929,7 +5928,7 @@ translate Chinese day12_arthur_ultimatum_4760fa36:
 translate Chinese day12_arthur_ultimatum_87f73324:
 
     # "You give the lizard a flat look, not following his sudden transformation from dour and grumpy to... whatever this is."
-    "你面无表情地看着这只蜥蜴，不明白他怎么突然从阴郁暴躁变成了……这副德行"
+    "你面无表情地看着这只蜥蜴，不明白他怎么突然从阴郁暴躁变成了……这副德行。"
 
 # game/script day12.rpy:3405
 translate Chinese day12_arthur_ultimatum_2bf9bf93:
@@ -5941,19 +5940,19 @@ translate Chinese day12_arthur_ultimatum_2bf9bf93:
 translate Chinese day12_arthur_ultimatum_0ef1a5c6:
 
     # j "You know... The passenger. The little offer you gave me."
-    j "你知道的……那位乘客。你给我的那个小提议"
+    j "你知道的……那位乘客。你给我的那个小提议。"
 
 # game/script day12.rpy:3411
 translate Chinese day12_arthur_ultimatum_3f5d4e3b:
 
     # "You stare for a moment. Then it comes back, memories piercing through your foul mood."
-    "你愣了一会儿。接着，这段记忆冲破了糟糕的情绪回到脑海"
+    "你愣了一会儿。接着，这段记忆冲破了糟糕的情绪回到脑海。"
 
 # game/script day12.rpy:3413
 translate Chinese day12_arthur_ultimatum_bc2b46ff:
 
     # "You think you remember what he's getting at; the conversation you had with him a good few days back about visiting the passenger returns to mind. You roll your eyes at his sudden horniness."
-    "你大概及其他在指什么了；几天前你和他聊过去拜访那位乘客的事，此刻又回想起来。你对他突然表现出的色心翻了个白眼"
+    "你大概及其他在指什么了；几天前你和他聊过去拜访那位乘客的事，此刻又回想起来。你对他突然表现出的色心翻了个白眼。"
 
 # game/script day12.rpy:3417
 translate Chinese day12_arthur_ultimatum_b0216e3b:
@@ -5965,19 +5964,19 @@ translate Chinese day12_arthur_ultimatum_b0216e3b:
 translate Chinese day12_arthur_ultimatum_4aa3571f:
 
     # "Julian ignores your jab."
-    "Julian无视了你的挖苦"
+    "Julian无视了你的挖苦。"
 
 # game/script day12.rpy:3423
 translate Chinese day12_arthur_ultimatum_e8be5ad9:
 
     # j "I'm just saying, it would be the perfect remedy for my very poor condition right now... Here, feel my hands, see how cold I am! Why, I'm feeling close to fainting. And you wouldn't want me to faint, would you?"
-    j "我只是说，这对我现在糟糕的状况来说是个绝佳的补救办法……来，摸摸我的手，看看有多冷！哎呀，我都快晕过去了。你可不想我晕过去，对吧"
+    j "我只是说，这对我现在糟糕的状况来说是个绝佳的补救办法……来，摸摸我的手，看看有多冷！哎呀，我都快晕过去了。你可不想我晕过去，对吧？"
 
 # game/script day12.rpy:3425
 translate Chinese day12_arthur_ultimatum_deff9c2c:
 
     # "He thrusts his hands into yours. The soft, flexible scales of his hands are, indeed, cold to the touch.{w} You sigh."
-    "他把双手塞进你手里。他手上柔软有弹性的鳞片摸起来确实很冷。{w}你叹了口气"
+    "他把双手塞进你手里。他手上柔软有弹性的鳞片摸起来确实很冷。{w}你叹了口气。"
 
 # game/script day12.rpy:3427
 translate Chinese day12_arthur_ultimatum_9d289e34_1:
@@ -5989,7 +5988,7 @@ translate Chinese day12_arthur_ultimatum_9d289e34_1:
 translate Chinese day12_arthur_ultimatum_154b832d:
 
     # "Freeing one of his hands from yours, Julian tips his head to the side with a mischievous grin. He twirls the free hand in a performative little wave to accentuate his face."
-    "Julian从你手中抽出一只手，歪着头露出狡黠的笑容。他用那只手夸张地转了个小圈挥了挥，以突出自己的脸"
+    "Julian从你手中抽出一只手，歪着头露出狡黠的笑容。他用那只手夸张地转了个小圈挥了挥，以突出自己的脸。"
 
 # game/script day12.rpy:3431
 translate Chinese day12_arthur_ultimatum_40e6cce7:
@@ -6001,7 +6000,7 @@ translate Chinese day12_arthur_ultimatum_40e6cce7:
 translate Chinese day12_arthur_ultimatum_6a128616:
 
     # j "Not to even mention how well it'll, you know... warm me up."
-    j "更不用说这能，你知道的……让我暖和得多"
+    j "更不用说这能，你知道的……让我暖和得多。"
 
 # game/script day12.rpy:3435
 translate Chinese day12_arthur_ultimatum_7078f0ca:
@@ -6013,7 +6012,7 @@ translate Chinese day12_arthur_ultimatum_7078f0ca:
 translate Chinese day12_arthur_ultimatum_9f0d5a15:
 
     # "You roll your eyes, then gently slap his other hand away before answering."
-    "你翻了个白眼，在回答前轻轻拍开他的另一只手"
+    "你翻了个白眼，在回答前轻轻拍开他的另一只手。"
 
 # game/script day12.rpy:3451
 translate Chinese day12_arthur_ultimatum_05224883_1:
@@ -6025,7 +6024,7 @@ translate Chinese day12_arthur_ultimatum_05224883_1:
 translate Chinese day12_arthur_ultimatum_aa063e00:
 
     # p "If it makes up for the trouble,{i} o conquering hero.{/i}"
-    p "如果这能补偿给你添的麻烦，{i}哦，凯旋的英雄{/i}"
+    p "如果这能补偿给你添的麻烦，{i}哦，凯旋的英雄。{/i}"
 
 # game/script day12.rpy:3455
 translate Chinese day12_arthur_ultimatum_0d724a51:
@@ -6049,13 +6048,13 @@ translate Chinese day12_arthur_ultimatum_15fea1ca:
 translate Chinese day12_arthur_ultimatum_d7755d5e:
 
     # "He puts his hands at his hips, looking smug. You're silent, just looking at him, not giving him anything."
-    "他双手叉腰，一脸得意。你沉默着，只是看着他，不置可否"
+    "他双手叉腰，一脸得意。你沉默着，只是看着他，不置可否。"
 
 # game/script day12.rpy:3467
 translate Chinese day12_arthur_ultimatum_e9257782:
 
     # "The lizard deflates a little, then glances around the two of you, making sure none of the milling sailors are closely eavesdropping."
-    "蜥蜴有点泄气，接着环顾了一下四周，确保那些来来往往的水手没有在一旁仔细偷听"
+    "蜥蜴有点泄气，接着环顾了一下四周，确保那些来来往往的水手没有在一旁仔细偷听。"
 
 # game/script day12.rpy:3469
 translate Chinese day12_arthur_ultimatum_26ce7750:
@@ -6067,7 +6066,7 @@ translate Chinese day12_arthur_ultimatum_26ce7750:
 translate Chinese day12_arthur_ultimatum_6f3cc9d6:
 
     # p "Just go into his cabin and say you're there because I sent you. Then, I don't know... put some hands on him. He'll figure it out pretty quickly."
-    p "你就直接去他的船舱，说我让你去的。然后，我也不知道……动手碰碰他。他很快就会明白的"
+    p "你就直接去他的船舱，说我让你去的。然后，我也不知道……动手碰碰他。他很快就会明白的。"
 
 # game/script day12.rpy:3475
 translate Chinese day12_arthur_ultimatum_8c05e4c2:
@@ -6079,37 +6078,37 @@ translate Chinese day12_arthur_ultimatum_8c05e4c2:
 translate Chinese day12_arthur_ultimatum_12fe57c8:
 
     # "You shrug."
-    "你耸耸肩"
+    "你耸耸肩。"
 
 # game/script day12.rpy:3481
 translate Chinese day12_arthur_ultimatum_c6bfacd5:
 
     # "The lizard then seems to regain his earlier confidence, trying to psyche himself up."
-    "蜥蜴似乎又恢复了之前的自信，试图给自己打气"
+    "蜥蜴似乎又恢复了之前的自信，试图给自己打气。"
 
 # game/script day12.rpy:3483
 translate Chinese day12_arthur_ultimatum_bf239931:
 
     # j "Of course it will be. If whatever you did worked, of course I'll be enough. Just apply a little Julian charm and he'll be all over me. Then I can see if you gave him enough of a warmup."
-    j "当然就这么简单。要是你都能成功，那我肯定更没问题。只要施展一点Julian的魅力，他就会对我神魂颠倒。然后我就能看看你有没有让他做好足够的准备"
+    j "当然就这么简单。要是你都能成功，那我肯定更没问题。只要施展一点Julian的魅力，他就会对我神魂颠倒。然后我就能看看你有没有让他做好足够的准备。"
 
 # game/script day12.rpy:3485
 translate Chinese day12_arthur_ultimatum_7dea2285:
 
     # "He points up with his thumb and pokes upwards a few times while giving you a little wink. You can't help but laugh at his stupid expression."
-    "他竖起大拇指朝上戳了几下，同时对你眨了眨眼。你忍不住被他那傻样逗笑了"
+    "他竖起大拇指朝上戳了几下，同时对你眨了眨眼。你忍不住被他那傻样逗笑了。"
 
 # game/script day12.rpy:3487
 translate Chinese day12_arthur_ultimatum_c8a0c723:
 
     # p "Oh, yes, you're such a charmer, that much is clear."
-    p "哦，是啊，你可真是个万人迷，这太显而易见了"
+    p "哦，是啊，你可真是个万人迷，这太显而易见了。"
 
 # game/script day12.rpy:3489
 translate Chinese day12_arthur_ultimatum_1a9e1f87:
 
     # p "Just, you know, make sure you warm up a little bit first. I doubt he'll like your ice cold hands touching him there."
-    p "只是，你知道的，先让自己热乎点。我怀疑他可不喜欢被你冰冷的爪子摸那里"
+    p "只是，你知道的，先让自己热乎点。我怀疑他可不喜欢被你冰冷的爪子摸那里。"
 
 # game/script day12.rpy:3493
 translate Chinese day12_arthur_ultimatum_a8fc5dbc_1:
@@ -6121,37 +6120,37 @@ translate Chinese day12_arthur_ultimatum_a8fc5dbc_1:
 translate Chinese day12_arthur_ultimatum_b8aa792f:
 
     # p "I guess."
-    p "我想也是"
+    p "我想也是。"
 
 # game/script day12.rpy:3497
 translate Chinese day12_arthur_ultimatum_fe70ee72:
 
     # p "And I guess you go have fun with him, because I don't think I'll be able to for much longer."
-    p "我想你该去找他快活了，因为我觉得我撑不了多久了"
+    p "我想你该去找他快活了，因为我觉得我撑不了多久了。"
 
 # game/script day12.rpy:3508
 translate Chinese day12_arthur_ultimatum_f4278880:
 
     # "You roll your eyes, slapping his other hand away before answering."
-    "你翻了个白眼，在回答之前拍开了他的另一只手"
+    "你翻了个白眼，在回答之前拍开了他的另一只手。"
 
 # game/script day12.rpy:3510
 translate Chinese day12_arthur_ultimatum_3eeb0e5b:
 
     # p "No.{w} He'll stay mine alone for now."
-    p "不。{w} 他现在还是我一个人的"
+    p "不。{w} 他现在还是我一个人的。"
 
 # game/script day12.rpy:3514
 translate Chinese day12_arthur_ultimatum_ab935eca:
 
     # p "You'll have your grog, maybe even a tot extra for what you did, but I'm just gonna get shit on further by the Mate. I'd like to keep one thing for myself."
-    p "你会得到你的朗姆酒，也许还能多得一份作为你帮忙的奖励，但我只会被大副整得更惨。我想给自己留点东西"
+    p "你会得到你的朗姆酒，也许还能多得一份作为你帮忙的奖励，但我只会被大副整得更惨。我想给自己留点东西。"
 
 # game/script day12.rpy:3518
 translate Chinese day12_arthur_ultimatum_906fec21:
 
     # "His expression sours a little."
-    "他的表情变得有点难看"
+    "他的表情变得有点难看。"
 
 # game/script day12.rpy:3520
 translate Chinese day12_arthur_ultimatum_58d16883:
@@ -6163,31 +6162,31 @@ translate Chinese day12_arthur_ultimatum_58d16883:
 translate Chinese day12_arthur_ultimatum_652e57ac:
 
     # "When you just look at him, giving him nothing, Julian sighs and rubs his eyes."
-    "当你只是看着他，不置可否时，Julian叹了口气，揉了揉眼睛"
+    "当你只是看着他，不置可否时，Julian叹了口气，揉了揉眼睛。"
 
 # game/script day12.rpy:3526
 translate Chinese day12_arthur_ultimatum_2d8a6948:
 
     # j "Fine, fine, fine. I guess you probably do feel like shit after today. But so do I, man."
-    j "好吧，好吧，好吧。我猜你今天过后可能确实感觉糟透了。但我也一样啊，老兄"
+    j "好吧，好吧，好吧。我猜你今天过后可能确实感觉糟透了。但我也一样啊，老兄。"
 
 # game/script day12.rpy:3528
 translate Chinese day12_arthur_ultimatum_1fe66261:
 
     # p "At least you won't have to worry about feeling like shit because of me screwing up again for long."
-    p "至少你不用再担心因为我搞砸事情而感觉糟透了"
+    p "至少你不用再担心因为我搞砸事情而感觉糟透了。"
 
 # game/script day12.rpy:3532
 translate Chinese day12_arthur_ultimatum_0ec24cb5:
 
     # p "At least you won't have to worry about a day like this happening, and me screwing up again for long."
-    p "至少你不用再担心像今天这样的日子还会发生，也不用再担心我又搞砸事情了"
+    p "至少你不用再担心像今天这样的日子还会发生，也不用再担心我又搞砸事情了。"
 
 # game/script day12.rpy:3536
 translate Chinese day12_arthur_ultimatum_2e0c79bd:
 
     # "Your words are sour and sharp enough to pull Julian away from bitching and trying to warm himself for the moment. He gives you a concerned look."
-    "你的话尖酸又刻薄，一时间让Julian停止了抱怨，也不再想着给自己取暖。他关切地看了你一眼"
+    "你的话尖酸又刻薄，一时间让Julian停止了抱怨，也不再想着给自己取暖。他关切地看了你一眼。"
 
 # game/script day12.rpy:3538
 translate Chinese day12_arthur_ultimatum_61bb6c3f:
@@ -6205,7 +6204,7 @@ translate Chinese day12_arthur_ultimatum_d415911a:
 translate Chinese day12_arthur_ultimatum_1a0a075b:
 
     # j "Right now? Sure, yeah, I'd love to, but he ain't running away, is he? So, spit out what you meant."
-    j "现在就去？当然，没错，我很想去，但他又不会跑掉，不是吗？现在就去？所以，给我把话说明白"
+    j "现在就去？当然，没错，我很想去，但他又不会跑掉，不是吗？现在就去？所以，给我把话说明白。"
 
 # game/script day12.rpy:3546
 translate Chinese day12_arthur_ultimatum_0946b15a:
@@ -6223,67 +6222,67 @@ translate Chinese day12_arthur_ultimatum_3aacac6c:
 translate Chinese day12_arthur_ultimatum_2c8458a6:
 
     # j "Not that I'm letting you off the hook until I warm up."
-    j "不过在我暖和起来之前，可不会放过你"
+    j "不过在我暖和起来之前，可不会放过你。"
 
 # game/script day12.rpy:3556
 translate Chinese day12_arthur_ultimatum_e830e9fc:
 
     # "You roll your eyes, not much in the mood for jokes. You take both of Julian's hands and press them tight between yours, rubbing them together to thaw the poor lizard enough so he can actually listen to you."
-    "你翻了个白眼，没心情开玩笑。你握住Julian的两只手，紧紧地夹在自己手里，搓动着给他取暖，好让这可怜的蜥蜴能真正听你说话"
+    "你翻了个白眼，没心情开玩笑。你握住Julian的两只手，紧紧地夹在自己手里，搓动着给他取暖，好让这可怜的蜥蜴能真正听你说话。"
 
 # game/script day12.rpy:3560
 translate Chinese day12_arthur_ultimatum_5b7ed7e9:
 
     # p "I know, but he doesn't care. He's wanted me gone from the start and he's finally getting what he wants."
-    p "我知道，但他不在乎。从一开始他就想让我滚蛋，现在他终于如愿以偿了"
+    p "我知道，但他不在乎。从一开始他就想让我滚蛋，现在他终于如愿以偿了。"
 
 # game/script day12.rpy:3562
 translate Chinese day12_arthur_ultimatum_42405981:
 
     # "Julian stares down at his and your hands, ruminating in silence for a moment... or maybe the warmth from your hands is finally reaching his head so that he can finally think."
-    "Julian低头看着你俩交握的手，沉默地思索了一会儿……又或许是你手上的温暖终于传到了他脑袋里，让他终于能思考了"
+    "Julian低头看着你俩交握的手，沉默地思索了一会儿……又或许是你手上的温暖终于传到了他脑袋里，让他终于能思考了。"
 
 # game/script day12.rpy:3566
 translate Chinese day12_arthur_ultimatum_aefee1da:
 
     # "Julian tilts his hands, bringing yours with them, to get a better look at the back of your hand and carefully brushes over the reddened spots. After the lizard gives you a questioning glance, you just shake your head at him."
-    "Julian转动着双手，连带着你的手，以便更好地查看你手背上的情况，然后小心翼翼地抚过那些发红的地方。这只蜥蜴疑惑地看了你一眼，你只是冲他摇了摇头"
+    "Julian转动着双手，连带着你的手，以便更好地查看你手背上的情况，然后小心翼翼地抚过那些发红的地方。这只蜥蜴疑惑地看了你一眼，你只是冲他摇了摇头。"
 
 # game/script day12.rpy:3568
 translate Chinese day12_arthur_ultimatum_b93208ae:
 
     # p "Punched the wall like an idiot."
-    p "像个白痴一样捶了墙"
+    p "像个白痴一样捶了墙。"
 
 # game/script day12.rpy:3570
 translate Chinese day12_arthur_ultimatum_f82a6e5b:
 
     # p "Out of frustration."
-    p "因为太沮丧了"
+    p "因为太沮丧了。"
 
 # game/script day12.rpy:3572
 translate Chinese day12_arthur_ultimatum_42cb5a03:
 
     # j "You really are an idiot."
-    j "你真是个白痴"
+    j "你真是个白痴。"
 
 # game/script day12.rpy:3575
 translate Chinese day12_arthur_ultimatum_ce4b9262:
 
     # j "If I didn't know any better I'd start questioning if you maybe are enjoying the pain."
-    j "要不是我了解你，我都要开始怀疑你是不是有点享受这种疼痛了"
+    j "要不是我了解你，我都要开始怀疑你是不是有点享受这种疼痛了。"
 
 # game/script day12.rpy:3577
 translate Chinese day12_arthur_ultimatum_b72a3a31:
 
     # "The tone in his voice is rather endearing."
-    "他话里的语气相当讨人喜欢"
+    "他话里的语气相当讨人喜欢。"
 
 # game/script day12.rpy:3579
 translate Chinese day12_arthur_ultimatum_04495e20:
 
     # "He then sighs."
-    "接着他叹了口气"
+    "接着他叹了口气。"
 
 # game/script day12.rpy:3581
 translate Chinese day12_arthur_ultimatum_6727ef8f:
@@ -6295,7 +6294,7 @@ translate Chinese day12_arthur_ultimatum_6727ef8f:
 translate Chinese day12_arthur_ultimatum_701588ee:
 
     # p "Don't fret it. I'm just not sure what to do. He's the first mate, and I can't exactly march up to the captain and appeal for another chance, so his word might as well be law."
-    p "别担心。我只是不知道该怎么办。他是大副，我又不能直接去找船长请求再给我一次机会，所以他的话几乎就等同于命令"
+    p "别担心。我只是不知道该怎么办。他是大副，我又不能直接去找船长请求再给我一次机会，所以他的话几乎就等同于命令。"
 
 # game/script day12.rpy:3587
 translate Chinese day12_arthur_ultimatum_0842739b:
@@ -6307,7 +6306,7 @@ translate Chinese day12_arthur_ultimatum_0842739b:
 translate Chinese day12_arthur_ultimatum_baa15222:
 
     # p "I honestly don't know, Jules.{w} I wanted this, but it's just been a fight from the very start and it's drained me almost entirely."
-    p "说实话，我也不知道，Jules。{w}我很想要这份工作，但从一开始就是一场苦战，几乎耗得我精疲力竭了"
+    p "说实话，我也不知道，Jules。{w}我很想要这份工作，但从一开始就是一场苦战，几乎耗得我精疲力竭了。"
 
 # game/script day12.rpy:3593
 translate Chinese day12_arthur_ultimatum_ec1af78c:
@@ -6325,7 +6324,7 @@ translate Chinese day12_arthur_ultimatum_ba364b10:
 translate Chinese day12_arthur_ultimatum_fbd070c3:
 
     # p "I'm not even sure if it's worth the effort or what I would gain by remaining here."
-    p "我甚至不确定继续留在这里付出努力是否值得，也不知道能得到什么"
+    p "我甚至不确定继续留在这里付出努力是否值得，也不知道能得到什么。"
 
 # game/script day12.rpy:3600
 translate Chinese day12_arthur_ultimatum_003b78cb:
@@ -6343,37 +6342,37 @@ translate Chinese day12_arthur_ultimatum_b7e8cb8b:
 translate Chinese day12_arthur_ultimatum_99555ba6:
 
     # j "Tell me about it."
-    j "可不是嘛"
+    j "可不是嘛。"
 
 # game/script day12.rpy:3608
 translate Chinese day12_arthur_ultimatum_ba3f456e:
 
     # "He looks away for a little as as you two think of a solution."
-    "当你们俩都在思考解决办法时，他把目光移开了一会儿"
+    "当你们俩都在思考解决办法时，他把目光移开了一会儿。"
 
 # game/script day12.rpy:3610
 translate Chinese day12_arthur_ultimatum_9647c4b5:
 
     # j "I'd miss you if you leave, but I understand why you would want to."
-    j "如果你离开我会想你的，但我理解你为什么想走"
+    j "如果你离开我会想你的，但我理解你为什么想走。"
 
 # game/script day12.rpy:3612
 translate Chinese day12_arthur_ultimatum_f229600a:
 
     # j "Even watching it from the outside has been difficult. I just... don't feel like I'm in a position to intervene, you know."
-    j "即使只是从旁观者的角度看，这一切也很艰难。我只是……觉得自己没立场插手，你懂的"
+    j "即使只是从旁观者的角度看，这一切也很艰难。我只是……觉得自己没立场插手，你懂的。"
 
 # game/script day12.rpy:3614
 translate Chinese day12_arthur_ultimatum_9fdf1889:
 
     # j "I'm just a stupid lowest ranked sailor same as you."
-    j "我和你一样，只是个最底层的小水手"
+    j "我和你一样，只是个最底层的小水手。"
 
 # game/script day12.rpy:3616
 translate Chinese day12_arthur_ultimatum_2479b553:
 
     # p "I know, I don't hold it against you."
-    p "我知道，我不怪你"
+    p "我知道，我不怪你。"
 
 # game/script day12.rpy:3618
 translate Chinese day12_arthur_ultimatum_3e0f524a:
@@ -6391,7 +6390,7 @@ translate Chinese day12_arthur_ultimatum_528f7e91:
 translate Chinese day12_arthur_ultimatum_5cba1d85:
 
     # j "Well... I'm not sure. I mean, father would be livid to hear I've tarnished the Preble family name by not even being able to stay aboard a merchant ship."
-    j "嗯……我不确定。我的意思是，如果父亲听说我连在商船上待着都做不到，从而玷污了Preble家族的名声，他会大发雷霆的"
+    j "嗯……我不确定。我的意思是，如果父亲听说我连在商船上待着都做不到，从而玷污了Preble家族的名声，他会大发雷霆的。"
 
 # game/script day12.rpy:3624
 translate Chinese day12_arthur_ultimatum_7b643ca2:
@@ -6409,37 +6408,37 @@ translate Chinese day12_arthur_ultimatum_da6e2119:
 translate Chinese day12_arthur_ultimatum_53086e4d:
 
     # "His expression warms into a smile when you laugh at that. Hands sufficiently warm now, he shifts to sitting by your side, trying to heat his leg next."
-    "当你为此发笑时，他的表情缓和下来，露出了笑容。现在手已经足够暖和了，他挪到你身边坐下，接着想暖和一下他的腿"
+    "当你为此发笑时，他的表情缓和下来，露出了笑容。现在手已经足够暖和了，他挪到你身边坐下，接着想暖和一下他的腿。"
 
 # game/script day12.rpy:3636
 translate Chinese day12_arthur_ultimatum_ee422bf1:
 
     # p "You just don't want to lose your warmblood. I'm wise to your tricks."
-    p "你只是不想失去你的“暖炉”。我可看穿你的小把戏了"
+    p "你只是不想失去你的“暖炉”。我可看穿你的小把戏了。"
 
 # game/script day12.rpy:3638
 translate Chinese day12_arthur_ultimatum_9024f667:
 
     # j "Blast. And here I thought I had a good grift going, that you'd never find out."
-    j "该死。我还以为我这骗局天衣无缝，你永远发现不了呢"
+    j "该死。我还以为我这骗局天衣无缝，你永远发现不了呢。"
 
 # game/script day12.rpy:3642
 translate Chinese day12_arthur_ultimatum_3df3c2cb:
 
     # "You lightly punch his shoulder and try to push him away, but he sticks to your side, keeping his icy cold leg against yours. After a few moments of this, you both laugh."
-    "你轻轻捶了一下他的肩膀，想把他推开，但他紧紧贴在你身边，把他冰冷的腿贴在你的腿上。这样过了一会儿，你们俩都笑了"
+    "你轻轻捶了一下他的肩膀，想把他推开，但他紧紧贴在你身边，把他冰冷的腿贴在你的腿上。这样过了一会儿，你们俩都笑了。"
 
 # game/script day12.rpy:3644
 translate Chinese day12_arthur_ultimatum_fa8e401e:
 
     # j "But, in the end, it's your decision to make I guess."
-    j "但最后，我想还是得由你自己做决定"
+    j "但最后，我想还是得由你自己做决定。"
 
 # game/script day12.rpy:3648
 translate Chinese day12_arthur_ultimatum_50aed509:
 
     # p "I don't know, Julian."
-    p "我不知道，Julian"
+    p "我不知道，Julian。"
 
 # game/script day12.rpy:3650
 translate Chinese day12_arthur_ultimatum_7388288f:
@@ -6451,13 +6450,13 @@ translate Chinese day12_arthur_ultimatum_7388288f:
 translate Chinese day12_arthur_ultimatum_07bcdb0c:
 
     # "You watch as his expression turns from a laugh to sadness as he realizes that this really might become the last two days that he'd see you."
-    "你看着他的表情从笑容变成了悲伤，因为他意识到这真的可能是他见你的最后两天了"
+    "你看着他的表情从笑容变成了悲伤，因为他意识到这真的可能是他见你的最后两天了。"
 
 # game/script day12.rpy:3656
 translate Chinese day12_arthur_ultimatum_379da530:
 
     # p "There might not be any other option but to leave for me."
-    p "对我来说，可能除了离开别无选择"
+    p "对我来说，可能除了离开别无选择。"
 
 # game/script day12.rpy:3658
 translate Chinese day12_arthur_ultimatum_c75140a7:
@@ -6469,37 +6468,37 @@ translate Chinese day12_arthur_ultimatum_c75140a7:
 translate Chinese day12_arthur_ultimatum_da7d8d45:
 
     # p "...Without {i}him{/i}."
-    p "……没有{i}他{/i}的船"
+    p "……没有{i}他{/i}的船。"
 
 # game/script day12.rpy:3662
 translate Chinese day12_arthur_ultimatum_e5821463:
 
     # j "I fully understand. Maybe I would, too, in your position."
-    j "我完全理解。换作是我处在你的位置，可能也会这么做"
+    j "我完全理解。换作是我处在你的位置，可能也会这么做。"
 
 # game/script day12.rpy:3664
 translate Chinese day12_arthur_ultimatum_91609872:
 
     # j "It won't be the same without you, though."
-    j "不过，没有你，一切都会不一样的"
+    j "不过，没有你，一切都会不一样的。"
 
 # game/script day12.rpy:3666
 translate Chinese day12_arthur_ultimatum_6d129408:
 
     # j "I'll miss you.{w} I really will."
-    j "我会想你的。{w} 真的"
+    j "我会想你的。{w} 真的。"
 
 # game/script day12.rpy:3679
 translate Chinese day12_arthur_ultimatum_67b550ba:
 
     # j "You've got more willpower than I ever would in your situation."
-    j "在你这种情况下，你的意志力可比我强多了"
+    j "在你这种情况下，你的意志力可比我强多了。"
 
 # game/script day12.rpy:3681
 translate Chinese day12_arthur_ultimatum_068ad940:
 
     # p "Not sure I would call it willpower. Maybe stubbornness is a better word for it."
-    p "我可不觉得这能叫意志力。也许用“固执”这个词形容更合适"
+    p "我可不觉得这能叫意志力。也许用“固执”这个词形容更合适。"
 
 # game/script day12.rpy:3683
 translate Chinese day12_arthur_ultimatum_0817ad0d:
@@ -6517,25 +6516,25 @@ translate Chinese day12_arthur_ultimatum_e5821463_1:
 translate Chinese day12_arthur_ultimatum_8baa7722:
 
     # j "Won't quite be the same without you, though."
-    j "不过，没有你，一切都会不一样的"
+    j "不过，没有你，一切都会不一样的。"
 
 # game/script day12.rpy:3696
 translate Chinese day12_arthur_ultimatum_09a502f2:
 
     # p "Don't you get all gloomy on me. I'm still here right now."
-    p "别这么愁眉苦脸的。我现在不还在这儿嘛"
+    p "别这么愁眉苦脸的。我现在不还在这儿嘛。"
 
 # game/script day12.rpy:3707
 translate Chinese day12_arthur_ultimatum_5f16f29e:
 
     # "Eventually Samuel spots you and, after giving both Torres and Wolf what appears to be some encouragement for a job well done, makes [his] way over to you."
-    "最终Samuel发现了你们，在对Torres和Wolf似乎说了些鼓励他们干得好的话之后，朝你们走了过来"
+    "最终Samuel发现了你们，在对Torres和Wolf似乎说了些鼓励他们干得好的话之后，朝你们走了过来。"
 
 # game/script day12.rpy:3710
 translate Chinese day12_arthur_ultimatum_572cfa1e:
 
     # "Eventually [he] spots you and, after giving both Torres and Wolf what appears to be some encouragement for a job well done, makes [his] way over to you."
-    "最终[he]发现了你们，在对Torres和Wolf似乎说了些鼓励他们干得好的话之后，朝你们走了过来"
+    "最终[he]发现了你们，在对Torres和Wolf似乎说了些鼓励他们干得好的话之后，朝你们走了过来。"
 
 # game/script day12.rpy:3717
 translate Chinese day12_arthur_ultimatum_c2512148:
@@ -6547,7 +6546,7 @@ translate Chinese day12_arthur_ultimatum_c2512148:
 translate Chinese day12_arthur_ultimatum_00492671:
 
     # "[He] grabs the rope that holds the table to the planks above and brushes the wet fur from [his] face."
-    "[He]抓住将桌子固定在上方木板上的绳子，拂去[his]脸上的湿毛"
+    "[He]抓住将桌子固定在上方木板上的绳子，拂去[his]脸上的湿毛。"
 
 # game/script day12.rpy:3723
 translate Chinese day12_arthur_ultimatum_58f6ff9a:
@@ -6566,13 +6565,13 @@ translate Chinese day12_arthur_ultimatum_08666448:
 translate Chinese day12_arthur_ultimatum_eec5afbd:
 
     # s "{i}I{/i} don't want you to do anything. I'm just trying to save your ass from Arthur riding it—not only for not calling in the weather change, but for not seeing through your watch on top of it, man."
-    s "{i}我{/i}可没指望你做什么。我只是想帮你摆脱Authur的刁难——你不仅没汇报天气变化，值班的时候还玩忽职守，老兄"
+    s "{i}我{/i}可没指望你做什么。我只是想帮你摆脱Arthur的刁难——你不仅没汇报天气变化，值班的时候还玩忽职守，老兄。"
 
 # game/script day12.rpy:3731
 translate Chinese day12_arthur_ultimatum_b264347f:
 
     # "A steady drip of water lands on your table as it falls from [his] body onto it, leaving a darker wet stain on the edge."
-    "水滴从[his]身上滴落到你的桌子上，在桌沿留下一个颜色更深的湿痕"
+    "水滴从[his]身上滴落到你的桌子上，在桌沿留下一个颜色更深的湿痕。"
 
 # game/script day12.rpy:3733
 translate Chinese day12_arthur_ultimatum_7b5d073d:
@@ -6584,13 +6583,13 @@ translate Chinese day12_arthur_ultimatum_7b5d073d:
 translate Chinese day12_arthur_ultimatum_e2b0ad2a:
 
     # p "He wants me gone anyway."
-    p "反正他想让我滚蛋"
+    p "反正他想让我滚蛋。"
 
 # game/script day12.rpy:3739
 translate Chinese day12_arthur_ultimatum_92f6bdfe:
 
     # "The words noticeably take [him] by surprise."
-    "这句话显然让[him]吃了一惊"
+    "这句话显然让[him]吃了一惊。"
 
 # game/script day12.rpy:3741
 translate Chinese day12_arthur_ultimatum_7e01f19e:
@@ -6602,19 +6601,19 @@ translate Chinese day12_arthur_ultimatum_7e01f19e:
 translate Chinese day12_arthur_ultimatum_9c4a6ba0:
 
     # p "In Morocco, yes."
-    p "在摩洛哥，是的"
+    p "在摩洛哥，是的。"
 
 # game/script day12.rpy:3745
 translate Chinese day12_arthur_ultimatum_dd89fd51:
 
     # p "That's what he said."
-    p "他是这么说的"
+    p "他是这么说的。"
 
 # game/script day12.rpy:3747
 translate Chinese day12_arthur_ultimatum_242304b9:
 
     # p "After you went up."
-    p "在你上去之后"
+    p "在你上去之后。"
 
 # game/script day12.rpy:3749
 translate Chinese day12_arthur_ultimatum_e0f86ea3:
@@ -6626,7 +6625,7 @@ translate Chinese day12_arthur_ultimatum_e0f86ea3:
 translate Chinese day12_arthur_ultimatum_05cc4383:
 
     # "You rub the back of your injured hand and it's enough movement to draw the attention of Samuel to it."
-    "你揉了揉受伤的手背，这个动作足以引起Samuel的注意"
+    "你揉了揉受伤的手背，这个动作足以引起Samuel的注意。"
 
 # game/script day12.rpy:3755
 translate Chinese day12_arthur_ultimatum_a9a73b03:
@@ -6650,7 +6649,7 @@ translate Chinese day12_arthur_ultimatum_f82a6e5b_1:
 translate Chinese day12_arthur_ultimatum_2f713559:
 
     # "[He] tilts [his] head to the side."
-    "[He]把头歪向一边"
+    "[He]把头歪向一边。"
 
 # game/script day12.rpy:3763
 translate Chinese day12_arthur_ultimatum_ef8729c1:
@@ -6662,7 +6661,7 @@ translate Chinese day12_arthur_ultimatum_ef8729c1:
 translate Chinese day12_arthur_ultimatum_594458b9:
 
     # p "He plans to let me go in Morocco."
-    p "他计划在摩洛哥让我走人"
+    p "他计划在摩洛哥让我走人。"
 
 # game/script day12.rpy:3769
 translate Chinese day12_arthur_ultimatum_ba34a018:
@@ -6686,7 +6685,7 @@ translate Chinese day12_arthur_ultimatum_296458b7:
 translate Chinese day12_arthur_ultimatum_55ecc6f7:
 
     # "[His] curse is quiet, barely even reaching your ears. Samuel retreats into [his] own thoughts, gazing toward the dark front of the deck before turning back."
-    "[His]低声咒骂着，声音小得几乎传不到你耳中。Samuel陷入了沉思，凝视着昏暗的甲板前端，随后转过头来"
+    "[His]低声咒骂着，声音小得几乎传不到你耳中。Samuel陷入了沉思，凝视着昏暗的甲板前端，随后转过头来。"
 
 # game/script day12.rpy:3783
 translate Chinese day12_arthur_ultimatum_3646999c:
@@ -6698,7 +6697,7 @@ translate Chinese day12_arthur_ultimatum_3646999c:
 translate Chinese day12_arthur_ultimatum_02e76c79:
 
     # p "Now I'm sitting here."
-    p "现在我就坐在这儿"
+    p "现在我就坐在这儿。"
 
 # game/script day12.rpy:3787
 translate Chinese day12_arthur_ultimatum_7e2343b4:
@@ -6716,7 +6715,7 @@ translate Chinese day12_arthur_ultimatum_b7981d2c:
 translate Chinese day12_arthur_ultimatum_c4df0d28:
 
     # "[He] leans back a bit and looks at you quizzically."
-    "[He]微微向后靠，疑惑地看着你"
+    "[He]微微向后靠，疑惑地看着你。"
 
 # game/script day12.rpy:3793
 translate Chinese day12_arthur_ultimatum_93f8ec4b:
@@ -6740,7 +6739,7 @@ translate Chinese day12_arthur_ultimatum_ddb23834:
 translate Chinese day12_arthur_ultimatum_a24e8411:
 
     # p "I feel like absolute shit."
-    p "我感觉糟透了"
+    p "我感觉糟透了。"
 
 # game/script day12.rpy:3803
 translate Chinese day12_arthur_ultimatum_c91d9c3b:
@@ -6752,25 +6751,25 @@ translate Chinese day12_arthur_ultimatum_c91d9c3b:
 translate Chinese day12_arthur_ultimatum_24c42b96:
 
     # p "But he is the first mate, so what am I going to do? If he wants me gone, he wants me gone."
-    p "但他是大副，我能怎么办？如果他想让我走人，那我就得走人"
+    p "但他是大副，我能怎么办？如果他想让我走人，那我就得走人。"
 
 # game/script day12.rpy:3809
 translate Chinese day12_arthur_ultimatum_f7e1dab8:
 
     # s "I don't know. I just didn't expect this from you."
-    s "我不知道。我真没想到你会这样"
+    s "我不知道。我真没想到你会这样。"
 
 # game/script day12.rpy:3811
 translate Chinese day12_arthur_ultimatum_c5b2b93a:
 
     # s "You of all people."
-    s "尤其是你"
+    s "尤其是你。"
 
 # game/script day12.rpy:3817
 translate Chinese day12_arthur_ultimatum_6a9541d6:
 
     # s "The one who was smiling from ear to ear that first morning on deck."
-    s "第一天早上在甲板上还笑得合不拢嘴的那个人"
+    s "第一天早上在甲板上还笑得合不拢嘴的那个人。"
 
 # game/script day12.rpy:3819
 translate Chinese day12_arthur_ultimatum_a5c922a9:
@@ -6782,19 +6781,19 @@ translate Chinese day12_arthur_ultimatum_a5c922a9:
 translate Chinese day12_arthur_ultimatum_fae3dc82:
 
     # s "Hear Konrad's stories for the thousandth time?"
-    s "再听Konard讲一千遍他的故事吗？"
+    s "再听Konrad讲一千遍他的故事吗？"
 
 # game/script day12.rpy:3823
 translate Chinese day12_arthur_ultimatum_47689fb8:
 
     # s "Let me tell you, the story about the time he saw a giant kraken swim underneath his ship might be good once, twice, hell, even three times."
-    s "我告诉你，关于他看见一只巨型北海巨妖从他船下游过的故事，听一遍、两遍，甚至三遍可能还行"
+    s "我告诉你，关于他看见一只巨型北海巨妖从他船下游过的故事，听一遍、两遍，甚至三遍可能还行。"
 
 # game/script day12.rpy:3825
 translate Chinese day12_arthur_ultimatum_2f0cb2db:
 
     # s "But if he takes twenty minutes to describe the sticky bits they have on their tentacles one more time, I {i}will{/i} smash my head against the hull."
-    s "但如果他再花二十分钟描述那些触手上的粘液部分，我{i}绝对{/i}会把头撞在船壳上"
+    s "但如果他再花二十分钟描述那些触手上的粘液部分，我{i}绝对{/i}会把头撞在船壳上。"
 
 # game/script day12.rpy:3827
 translate Chinese day12_arthur_ultimatum_557b9c7c:
@@ -6812,7 +6811,7 @@ translate Chinese day12_arthur_ultimatum_58228595:
 translate Chinese day12_arthur_ultimatum_2cdcafe6:
 
     # s "The one who was smiling from ear to ear when you got your first instructions on your first day."
-    s "那个在你第一天得到第一个指令时笑得合不拢嘴的人"
+    s "那个在你第一天得到第一个指令时笑得合不拢嘴的人。"
 
 # game/script day12.rpy:3846
 translate Chinese day12_arthur_ultimatum_60d4ac9a:
@@ -6830,55 +6829,55 @@ translate Chinese day12_arthur_ultimatum_f222774f:
 translate Chinese day12_arthur_ultimatum_4c6cb86b:
 
     # p "It's nice that being chipper comes so easily to you while I'm faced with the prospect of just being dumped from this fucking thing."
-    p "你倒是能轻易地保持乐观，而我却要面临被从这该死的船上赶下去的命运"
+    p "你倒是能轻易地保持乐观，而我却要面临被从这该死的船上赶下去的命运。"
 
 # game/script day12.rpy:3854
 translate Chinese day12_arthur_ultimatum_a43ab973:
 
     # "You gesture to the ship around you with a quick swipe of your paw."
-    "你用爪子快速地朝周围的船比划了一下"
+    "你用爪子快速地朝周围的船比划了一下。"
 
 # game/script day12.rpy:3856
 translate Chinese day12_arthur_ultimatum_8608334d:
 
     # p "I think I'm perfectly allowed to not feel like a ray of sunshine right now, Sam."
-    p "我觉得我现在没心情当什么开心果，这完全情有可原，Sam"
+    p "我觉得我现在没心情当什么开心果，这完全情有可原，Sam。"
 
 # game/script day12.rpy:3860
 translate Chinese day12_arthur_ultimatum_6e4e2788:
 
     # "Each sentence you speak seems to tug [his] ears down a fraction more."
-    "你说的每句话似乎都让[his]的耳朵又耷拉下去一点"
+    "你说的每句话似乎都让[his]的耳朵又耷拉下去一点。"
 
 # game/script day12.rpy:3864
 translate Chinese day12_arthur_ultimatum_4b0c889d:
 
     # "[He] reaches for one of the mugs on the table, keeping [his] hands busy by balancing it on its edge."
-    "[He]伸手去拿桌上的一个杯子，让[his]的手忙着把杯子在桌边保持平衡"
+    "[He]伸手去拿桌上的一个杯子，让[his]的手忙着把杯子在桌边保持平衡。"
 
 # game/script day12.rpy:3866
 translate Chinese day12_arthur_ultimatum_11efa818:
 
     # s "I know, I'm sorry. I was just trying to help."
-    s "我知道，我很抱歉。我只是想帮你"
+    s "我知道，我很抱歉。我只是想帮你。"
 
 # game/script day12.rpy:3868
 translate Chinese day12_arthur_ultimatum_10168844:
 
     # p "Well, then go and talk with Arthur or something. He's the one who's lost his mind in all of this."
-    p "好吧，那你去和Authur谈谈什么的。他才是那个在这件事上犯糊涂的人"
+    p "好吧，那你去和Arthur谈谈什么的。他才是那个在这件事上犯糊涂的人。"
 
 # game/script day12.rpy:3870
 translate Chinese day12_arthur_ultimatum_628e81d4:
 
     # p "You say you get along well with him?{w} Then tell him to stop this horseshit."
-    p "你说你和他关系不错？{w}那就让他别干这种蠢事了"
+    p "你说你和他关系不错？{w}那就让他别干这种蠢事了。"
 
 # game/script day12.rpy:3874
 translate Chinese day12_arthur_ultimatum_6ccb6574:
 
     # p "You know, {i}actually{/i} helping, rather than just cheering me on before waving goodbye come Morocco."
-    p "你知道的，{i}真正地{/i}帮忙，而不是在摩洛哥挥手告别之前只是给我加油打气"
+    p "你知道的，{i}真正地{/i}帮忙，而不是在摩洛哥挥手告别之前只是给我加油打气。"
 
 # game/script day12.rpy:3876
 translate Chinese day12_arthur_ultimatum_d03df45a:
@@ -6890,19 +6889,19 @@ translate Chinese day12_arthur_ultimatum_d03df45a:
 translate Chinese day12_arthur_ultimatum_721abefd:
 
     # s "Just because he views me as a competent crew member doesn't mean he's going to follow my words."
-    s "仅仅因为他觉得我是个能干的船员，并不意味着他就会听我的话"
+    s "仅仅因为他觉得我是个能干的船员，并不意味着他就会听我的话。"
 
 # game/script day12.rpy:3880
 translate Chinese day12_arthur_ultimatum_8c283a14:
 
     # s "He's still the First Mate."
-    s "他毕竟是大副"
+    s "他毕竟是大副。"
 
 # game/script day12.rpy:3882
 translate Chinese day12_arthur_ultimatum_31930dd7:
 
     # s "There's no reason to bark up my wall, man. I {i}am{/i} trying, and I don't want you to leave this ship."
-    s "没理由冲我这堵墙嚷嚷，伙计。我{i}正在{/i}努力，而且我不想你离开这艘船"
+    s "没理由冲我这堵墙嚷嚷，伙计。我{i}正在{/i}努力，而且我不想你离开这艘船。"
 
 # game/script day12.rpy:3886
 translate Chinese day12_arthur_ultimatum_98058e99:
@@ -6914,13 +6913,13 @@ translate Chinese day12_arthur_ultimatum_98058e99:
 translate Chinese day12_arthur_ultimatum_f2d23ffa:
 
     # "[He] releases the mug and you watch as it clatters noisily on the table before settling back on its base."
-    "[He]松开杯子，你看着它在桌上咔嗒作响，最后稳稳地立在底部"
+    "[He]松开杯子，你看着它在桌上咔嗒作响，最后稳稳地立在底部。"
 
 # game/script day12.rpy:3892
 translate Chinese day12_arthur_ultimatum_9dbd4250:
 
     # s "As long as you continue to give your best for these next two days, I'll try and see what I can do."
-    s "只要在接下来的两天里你继续全力以赴，我会看看我能做些什么"
+    s "只要在接下来的两天里你继续全力以赴，我会看看我能做些什么。"
 
 # game/script day12.rpy:3903
 translate Chinese day12_arthur_ultimatum_33a8a85e:
@@ -6932,7 +6931,7 @@ translate Chinese day12_arthur_ultimatum_33a8a85e:
 translate Chinese day12_arthur_ultimatum_0faa9e7e:
 
     # s "I'll make sure to catch him for a word one of these days. It just doesn't feel like him to be giving you so much trouble."
-    s "这几天我会找个机会和他谈谈。他这么为难你，可不像他平时的作风"
+    s "这几天我会找个机会和他谈谈。他这么为难你，可不像他平时的作风。"
 
 # game/script day12.rpy:3915
 translate Chinese day12_arthur_ultimatum_550c274a:
@@ -6950,13 +6949,13 @@ translate Chinese day12_arthur_ultimatum_ca6030e2:
 translate Chinese day12_arthur_ultimatum_a42fb74d:
 
     # s "Perhaps I shouldn't have been so pushy about it if you feel this strongly about it."
-    s "或许如果你这么坚持的话，我就不该这么强求了"
+    s "或许如果你这么坚持的话，我就不该这么强求了。"
 
 # game/script day12.rpy:3926
 translate Chinese day12_arthur_ultimatum_734276c2:
 
     # p "Why? Clearly Arthur doesn't share your enthusiasm."
-    p "为什么？显然Authur可不像你这么热心"
+    p "为什么？显然Arthur可不像你这么热心。"
 
 # game/script day12.rpy:3930
 translate Chinese day12_arthur_ultimatum_f0c7bfa6:
@@ -6974,31 +6973,31 @@ translate Chinese day12_arthur_ultimatum_2ae1ac19:
 translate Chinese day12_arthur_ultimatum_5ce4cb0e:
 
     # s "Oh God, he's like Konrad's weird furless son... brother... cousin."
-    s "哦天哪，他就像Konrad那个没毛的怪儿子……兄弟……表亲"
+    s "哦天哪，他就像Konrad那个没毛的怪儿子……兄弟……表亲。"
 
 # game/script day12.rpy:3938
 translate Chinese day12_arthur_ultimatum_ff60a4a4:
 
     # s "Not sure I really want to think too much about what would have needed to happen behind closed doors to make it work."
-    s "我可不想细想关起门来需要发生什么才能促成这种事"
+    s "我可不想细想关起门来需要发生什么才能促成这种事。"
 
 # game/script day12.rpy:3940
 translate Chinese day12_arthur_ultimatum_cee9ce28:
 
     # s "It's been less than two weeks, but I, and presumably everyone else on this ship, have heard about that food storage raid at least five times."
-    s "还不到两周，但我，想必船上的其他人也是，已经至少听说了五次关于那次食物储藏室突袭的事"
+    s "还不到两周，但我，想必船上的其他人也是，已经至少听说了五次关于那次食物储藏室突袭的事。"
 
 # game/script day12.rpy:3942
 translate Chinese day12_arthur_ultimatum_83fa4a83:
 
     # "You know exactly what [he] means, and despite your current mood, it tickles a brief chuckle out of you."
-    "你完全明白[he]的意思，尽管你现在心情不佳，但还是忍不住轻笑了一声"
+    "你完全明白[he]的意思，尽管你现在心情不佳，但还是忍不住轻笑了一声。"
 
 # game/script day12.rpy:3944
 translate Chinese day12_arthur_ultimatum_d7599ad7:
 
     # "Samuel catches it, a half-smile tugging at the corner of [his] lips."
-    "Samuel捕捉到了你的笑声，嘴角微微上扬，露出一抹笑意"
+    "Samuel捕捉到了你的笑声，嘴角微微上扬，露出一抹笑意。"
 
 # game/script day12.rpy:3948
 translate Chinese day12_arthur_ultimatum_70d39da8:
@@ -7016,7 +7015,7 @@ translate Chinese day12_arthur_ultimatum_33a8a85e_1:
 translate Chinese day12_arthur_ultimatum_b3971f3b:
 
     # s "I'll make sure to catch him for a word these days. It just doesn't feel like him to be giving you so much trouble."
-    s "这几天我会找个机会和他谈谈。他这么为难你，可不像他平时的作风"
+    s "这几天我会找个机会和他谈谈。他这么为难你，可不像他平时的作风。"
 
 # game/script day12.rpy:3971
 translate Chinese day12_arthur_ultimatum_550c274a_1:
@@ -7046,7 +7045,7 @@ translate Chinese day12_arthur_ultimatum_a7c2bd7c:
 translate Chinese day12_arthur_ultimatum_22a997b3:
 
     # "You receive an empathetic smile in return."
-    "作为回应，你得到了一个充满理解的微笑"
+    "作为回应，你得到了一个充满理解的微笑。"
 
 # game/script day12.rpy:3987
 translate Chinese day12_arthur_ultimatum_8a862450:
@@ -7058,13 +7057,13 @@ translate Chinese day12_arthur_ultimatum_8a862450:
 translate Chinese day12_arthur_ultimatum_ce5fbc6a:
 
     # s "But I'd prefer if you did, because I genuinely enjoy your company."
-    s "但我希望你能开心起来，因为我真的很喜欢和你作伴"
+    s "但我希望你能开心起来，因为我真的很喜欢和你作伴。"
 
 # game/script day12.rpy:3993
 translate Chinese day12_arthur_ultimatum_c6ac279e:
 
     # s "And I'd like to continue having you around."
-    s "而且我希望你能继续留在我身边"
+    s "而且我希望你能继续留在我身边。"
 
 # game/script day12.rpy:3995
 translate Chinese day12_arthur_ultimatum_b044f770:
@@ -7100,25 +7099,25 @@ translate Chinese day12_arthur_ultimatum_cee9ce28_1:
 translate Chinese day12_arthur_ultimatum_9887c207:
 
     # p "Can't you do something to sway him? Surely he'd listen to you, since he appears to hold you in high regard."
-    p "你就不能想办法说服他吗？他似乎很看重你，肯定会听你的"
+    p "你就不能想办法说服他吗？他似乎很看重你，肯定会听你的。"
 
 # game/script day12.rpy:4011
 translate Chinese day12_arthur_ultimatum_05df227c:
 
     # s "I tried."
-    s "我试过了"
+    s "我试过了。"
 
 # game/script day12.rpy:4013
 translate Chinese day12_arthur_ultimatum_9fc47dac:
 
     # s "Of course I spoke to him about it, but he's convinced he's right to be suspicious of you."
-    s "我当然跟他提过这件事，但他坚信怀疑你是对的"
+    s "我当然跟他提过这件事，但他坚信怀疑你是对的。"
 
 # game/script day12.rpy:4015
 translate Chinese day12_arthur_ultimatum_74fbb931:
 
     # s "I thought it would blow over, but...{w} clearly, I was mistaken."
-    s "我以为事情会过去的，但是……{w}显然，我错了"
+    s "我以为事情会过去的，但是……{w}显然，我错了。"
 
 # game/script day12.rpy:4017
 translate Chinese day12_arthur_ultimatum_6cfa057c:
@@ -7166,19 +7165,19 @@ translate Chinese day12_arthur_ultimatum_a42fb74d_2:
 translate Chinese day12_arthur_ultimatum_e00dfd95:
 
     # "As time progresses, the crowd gradually disperses. Each individual turns their attention back to their tasks, or takes a moment to recover from the exhausting ordeal of hastily reefing the sails."
-    "随着时间的推移，人群逐渐散去。每个人都重新将注意力放回自己的工作上，或者趁着这个间隙从匆忙收帆的疲惫中缓口气"
+    "随着时间的推移，人群逐渐散去。每个人都重新将注意力放回自己的工作上，或者趁着这个间隙从匆忙收帆的疲惫中缓口气。"
 
 # game/script day12.rpy:4054
 translate Chinese day12_arthur_ultimatum_23c7a5e0:
 
     # "What was once the loud and noisy tumble of the sudden call for all hands on deck returns to a more familiar jumble of noises."
-    "刚才那阵因突然呼叫全员上甲板而产生的嘈杂喧闹，又变回了更为熟悉的各种声音混杂的状态"
+    "刚才那阵因突然呼叫全员上甲板而产生的嘈杂喧闹，又变回了更为熟悉的各种声音混杂的状态。"
 
 # game/script day12.rpy:4056
 translate Chinese day12_arthur_ultimatum_3c1b5288:
 
     # "The patter of rain and footsteps resonate through the planks above. Heavy waves crash against the hull, providing a droning soundscape to allow you time to sink into your thoughts."
-    "雨声和脚步声在上方的木板间回响。沉重的海浪拍打着船壳发出单调的嗡鸣，让你有时间沉浸在自己的思绪中"
+    "雨声和脚步声在上方的木板间回响。沉重的海浪拍打着船壳发出单调的嗡鸣，让你有时间沉浸在自己的思绪中。"
 
 # game/script day12.rpy:4058
 translate Chinese day12_arthur_ultimatum_4c064054:
@@ -7190,7 +7189,7 @@ translate Chinese day12_arthur_ultimatum_4c064054:
 translate Chinese day12_arthur_ultimatum_f47a044b:
 
     # pb "Here you are."
-    pb "你在这儿啊"
+    pb "你在这儿啊。"
 
 # game/script day12.rpy:4065
 translate Chinese day12_arthur_ultimatum_8e926d2d:
@@ -7202,7 +7201,7 @@ translate Chinese day12_arthur_ultimatum_8e926d2d:
 translate Chinese day12_arthur_ultimatum_a5de4d16:
 
     # pb "I wanted to tell you that you did alright out there."
-    pb "我想告诉你，你在外面表现得还不错"
+    pb "我想告诉你，你在外面表现得还不错。"
 
 # game/script day12.rpy:4069
 translate Chinese day12_arthur_ultimatum_b6cab175:
@@ -7220,37 +7219,37 @@ translate Chinese day12_arthur_ultimatum_31dcf43a:
 translate Chinese day12_arthur_ultimatum_7988522c:
 
     # "You lean forward onto the table and respond with a silent nod."
-    "你身体前倾靠在桌子上，用沉默的点头作为回应"
+    "你身体前倾靠在桌子上，用沉默的点头作为回应。"
 
 # game/script day12.rpy:4081
 translate Chinese day12_arthur_ultimatum_61517e4f:
 
     # "You let your weight rest against the ship's hull and respond with a silent nod."
-    "你把身体的重量靠在船壳，用沉默的点头作为回应"
+    "你把身体的重量靠在船壳，用沉默的点头作为回应。"
 
 # game/script day12.rpy:4085
 translate Chinese day12_arthur_ultimatum_3fbefb2a:
 
     # pb "Probably for the best. Things got quite rough towards the end, and Arthur probably wouldn't have appreciated seeing you up there if you weren't feeling up to it."
-    pb "或许这样最好。最后那段时间情况变得相当糟糕，要是你状态不好还爬到上面去，Authur可能也不乐意看到你在上面"
+    pb "或许这样最好。最后那段时间情况变得相当糟糕，要是你状态不好还爬到上面去，Arthur可能也不乐意看到你在上面。"
 
 # game/script day12.rpy:4087
 translate Chinese day12_arthur_ultimatum_eaaa82a8:
 
     # p "I doubt he actually cares."
-    p "我怀疑他其实根本不在乎"
+    p "我怀疑他其实根本不在乎。"
 
 # game/script day12.rpy:4089
 translate Chinese day12_arthur_ultimatum_35ae0efc:
 
     # pb "He's a stickler for safety."
-    pb "他可是个非常注重安全的人"
+    pb "他可是个非常注重安全的人。"
 
 # game/script day12.rpy:4093
 translate Chinese day12_arthur_ultimatum_b12d879c:
 
     # pb "You were there while we were bedridden and I had to endure his lectures. So yes, he would absolutely care if you did that."
-    pb "我们卧床养病的时候你也在，我不得不忍受他的说教。所以，没错，如果真发生那种事，他绝对会在意的"
+    pb "我们卧床养病的时候你也在，我不得不忍受他的说教。所以，没错，如果真发生那种事，他绝对会在意的。"
 
 # game/script day12.rpy:4097
 translate Chinese day12_arthur_ultimatum_8a9742c8:
@@ -7262,37 +7261,37 @@ translate Chinese day12_arthur_ultimatum_8a9742c8:
 translate Chinese day12_arthur_ultimatum_13563791:
 
     # p "He told me the same. But as I told you, he doesn't view me kindly."
-    p "他也这么跟我说过。但正如我告诉你的，他对我不友善"
+    p "他也这么跟我说过。但正如我告诉你的，他对我不友善。"
 
 # game/script day12.rpy:4101
 translate Chinese day12_arthur_ultimatum_63bb08c8:
 
     # p "So, I doubt he was being truthful."
-    p "所以，我怀疑他没说实话"
+    p "所以，我怀疑他没说实话。"
 
 # game/script day12.rpy:4104
 translate Chinese day12_arthur_ultimatum_5428dc70:
 
     # p "Probably only cares for a clean sheet for his and the ship's record, just like Wolf said."
-    p "可能就像Wolf说的，他只在乎他自己和这艘船有个清白的记录而已"
+    p "可能就像Wolf说的，他只在乎他自己和这艘船有个清白的记录而已。"
 
 # game/script day12.rpy:4108
 translate Chinese day12_arthur_ultimatum_8f096b63:
 
     # p "Probably only cares for a clean sheet for his and the ship's record."
-    p "可能他只在乎他自己和这艘船有个清白的记录而已"
+    p "可能他只在乎他自己和这艘船有个清白的记录而已。"
 
 # game/script day12.rpy:4112
 translate Chinese day12_arthur_ultimatum_a47f2cd9:
 
     # "Perce shrugs and takes a seat on the bench opposite you, checking the mug left on the table for any remaining drink."
-    "Perce耸耸肩并在你对面的长凳上坐下，检查了一下桌上留下的杯子，看是否还有些喝的"
+    "Perce耸耸肩并在你对面的长凳上坐下，检查了一下桌上留下的杯子，看是否还有些喝的。"
 
 # game/script day12.rpy:4116
 translate Chinese day12_arthur_ultimatum_4cdd9b10:
 
     # "Finding none, he simply rests his arms on the table."
-    "发现没有后，他就只是把胳膊搭在桌上"
+    "发现没有后，他就只是把胳膊搭在桌上。"
 
 # game/script day12.rpy:4120
 translate Chinese day12_arthur_ultimatum_bf6f1a9f:
@@ -7304,13 +7303,13 @@ translate Chinese day12_arthur_ultimatum_bf6f1a9f:
 translate Chinese day12_arthur_ultimatum_10539ddf:
 
     # pb "But I wasn't joking when I mentioned you might try to sway him with a little liquid encouragement."
-    pb "但我之前说你或许可以用点酒去劝劝他，这可不是开玩笑"
+    pb "但我之前说你或许可以用点酒去劝劝他，这可不是开玩笑。"
 
 # game/script day12.rpy:4124
 translate Chinese day12_arthur_ultimatum_17cd38b6:
 
     # pb "You wouldn't be the first, won't be the last."
-    pb "你不是第一个这么干的，也不会是最后一个"
+    pb "你不是第一个这么干的，也不会是最后一个。"
 
 # game/script day12.rpy:4128
 translate Chinese day12_arthur_ultimatum_eb85cee6:
@@ -7346,67 +7345,67 @@ translate Chinese day12_arthur_ultimatum_7eb5e664:
 translate Chinese day12_arthur_ultimatum_028a1596:
 
     # pb "Sure do, but remember, nothing in life comes free."
-    pb "当然有，但要记住，天下没有免费的午餐"
+    pb "当然有，但要记住，天下没有免费的午餐。"
 
 # game/script day12.rpy:4140
 translate Chinese day12_arthur_ultimatum_f611c67b:
 
     # p "So, I'd be right back where I started. Instead of lacking a bottle of rum, I'd be lacking the means to pay you."
-    p "所以我兜兜转转又回到了原点。只不过从缺一瓶朗姆酒，变成了没钱付给你"
+    p "所以我兜兜转转又回到了原点。只不过从缺一瓶朗姆酒，变成了没钱付给你。"
 
 # game/script day12.rpy:4142
 translate Chinese day12_arthur_ultimatum_53e2968f:
 
     # p "Unless you fancy the promise of bags of potatoes and wheat once my hometown is our next port of call once again."
-    p "除非你愿意接受等我们再次停靠我的家乡时，用几袋土豆和小麦来抵账的承诺"
+    p "除非你愿意接受等我们再次停靠我的家乡时，用几袋土豆和小麦来抵账的承诺。"
 
 # game/script day12.rpy:4144
 translate Chinese day12_arthur_ultimatum_b1a6b7d5:
 
     # p "That, I can provide."
-    p "这个，我可以提供"
+    p "这个，我可以提供。"
 
 # game/script day12.rpy:4146
 translate Chinese day12_arthur_ultimatum_310b3bbb:
 
     # "The corners of his mouth twitch down in a frown."
-    "他的嘴角向下撇了撇，露出不悦的表情"
+    "他的嘴角向下撇了撇，露出不悦的表情。"
 
 # game/script day12.rpy:4148
 translate Chinese day12_arthur_ultimatum_9e317b22:
 
     # pb "Nah, I get enough of that here."
-    pb "不了，我在这儿已经受够这些了"
+    pb "不了，我在这儿已经受够这些了。"
 
 # game/script day12.rpy:4150
 translate Chinese day12_arthur_ultimatum_18197984:
 
     # pb "I'd gladly accept your pay to cover it. Perhaps some good clothes, jewelry, musical instruments, anything that can be turned into coin at the next harbor."
-    pb "我很乐意接受你用实物来支付。也许是一些好衣服、珠宝、乐器，任何能在下个港口换成钱的东西都行"
+    pb "我很乐意接受你用实物来支付。也许是一些好衣服、珠宝、乐器，任何能在下个港口换成钱的东西都行。"
 
 # game/script day12.rpy:4152
 translate Chinese day12_arthur_ultimatum_cf0b0ab0:
 
     # pb "Based on your attire, you seem well-off enough to own something worth trading."
-    pb "从你的穿着来看，你似乎家境不错，应该有值得交易的东西"
+    pb "从你的穿着来看，你似乎家境不错，应该有值得交易的东西。"
 
 # game/script day12.rpy:4154
 translate Chinese day12_arthur_ultimatum_2465e46f:
 
     # p "Hardly.{w} My family are farmers."
-    p "才没有。{w} 我家是务农的"
+    p "才没有。{w} 我家是务农的。"
 
 # game/script day12.rpy:4158
 translate Chinese day12_arthur_ultimatum_95ff54fc:
 
     # pb "Farmers? Don't look like the clothes of a farmer's boy."
-    pb "务农的？这可不像农家子弟穿的衣服"
+    pb "务农的？这可不像农家子弟穿的衣服。"
 
 # game/script day12.rpy:4160
 translate Chinese day12_arthur_ultimatum_5bdb6611:
 
     # p "Sunday's best, Perce."
-    p "礼拜日才穿的好衣服，Perce"
+    p "礼拜日才穿的好衣服，Perce。"
 
 # game/script day12.rpy:4162
 translate Chinese day12_arthur_ultimatum_d679bfd6:
@@ -7418,7 +7417,7 @@ translate Chinese day12_arthur_ultimatum_d679bfd6:
 translate Chinese day12_arthur_ultimatum_d449fbc6:
 
     # p "I wanted to make a good first impression."
-    p "我想留下个好印象"
+    p "我想留下个好印象。"
 
 # game/script day12.rpy:4166
 translate Chinese day12_arthur_ultimatum_7da207ac:
@@ -7430,7 +7429,7 @@ translate Chinese day12_arthur_ultimatum_7da207ac:
 translate Chinese day12_arthur_ultimatum_f4b063d2:
 
     # "He stares at you, dumbfounded, and you respond with a nonchalant shrug."
-    "他目瞪口呆地看着你，你则满不在乎地耸了耸肩"
+    "他目瞪口呆地看着你，你则满不在乎地耸了耸肩。"
 
 # game/script day12.rpy:4170
 translate Chinese day12_arthur_ultimatum_bacddb12:
@@ -7442,13 +7441,13 @@ translate Chinese day12_arthur_ultimatum_bacddb12:
 translate Chinese day12_arthur_ultimatum_144f7a65:
 
     # pb "Ah, well, if you want to make use of these before they inevitably get ruined, I'll happily take them off your hands."
-    pb "哎呀……好吧，如果你想在这些衣服不可避免地被弄坏之前处理掉，我很乐意接手"
+    pb "哎呀……好吧，如果你想在这些衣服不可避免地被弄坏之前处理掉，我很乐意接手。"
 
 # game/script day12.rpy:4176
 translate Chinese day12_arthur_ultimatum_39c27ebe:
 
     # "Now it's your turn to look at him, similarly surprised, and lift up the collar of your white shirt."
-    "现在轮到你看着他了，同样感到惊讶，你提了提白衬衫的领子"
+    "现在轮到你看着他了，同样感到惊讶，你提了提白衬衫的领子。"
 
 # game/script day12.rpy:4178
 translate Chinese day12_arthur_ultimatum_01b0191d:
@@ -7466,19 +7465,19 @@ translate Chinese day12_arthur_ultimatum_adc3e2cf:
 translate Chinese day12_arthur_ultimatum_e8afc5b3:
 
     # p "I didn't bring much with me, to be honest. I don't know if I can spare these."
-    p "老实说，我没带多少东西。我不知道我能不能把这些让出来"
+    p "老实说，我没带多少东西。我不知道我能不能把这些让出来。"
 
 # game/script day12.rpy:4184
 translate Chinese day12_arthur_ultimatum_affe8900:
 
     # "The frown returns to his face as the negotiations between you two drag on."
-    "随着你们俩的协商陷入僵局，他的脸上又浮现出了不悦的神情"
+    "随着你们俩的协商陷入僵局，他的脸上又浮现出了不悦的神情。"
 
 # game/script day12.rpy:4188
 translate Chinese day12_arthur_ultimatum_c536ef4d:
 
     # p "Although, I can {i}fix{/i} clothes."
-    p "不过，我可以{i}修补{/i}衣服"
+    p "不过，我可以{i}修补{/i}衣服。"
 
 # game/script day12.rpy:4190
 translate Chinese day12_arthur_ultimatum_cfcfde6a:
@@ -7490,7 +7489,7 @@ translate Chinese day12_arthur_ultimatum_cfcfde6a:
 translate Chinese day12_arthur_ultimatum_cc7f95ac:
 
     # "He taps the table with his knuckles as he evaluates your offer."
-    "他一边用指关节轻敲桌子，一边评估你的提议"
+    "他一边用指关节轻敲桌子，一边评估你的提议。"
 
 # game/script day12.rpy:4196
 translate Chinese day12_arthur_ultimatum_0e117327:
@@ -7502,37 +7501,37 @@ translate Chinese day12_arthur_ultimatum_0e117327:
 translate Chinese day12_arthur_ultimatum_bd9158b7:
 
     # pb "But hardly enough to part with a bottle."
-    pb "但这远远不够换一瓶酒"
+    pb "但这远远不够换一瓶酒。"
 
 # game/script day12.rpy:4200
 translate Chinese day12_arthur_ultimatum_66832cb7:
 
     # pb "Either way, you have time to think of something.{w} Just let me know if you come across anything that might be worth it."
-    pb "不管怎样，你还有时间想想别的办法。{w} 要是你找到什么值得交换的东西，告诉我一声就行"
+    pb "不管怎样，你还有时间想想别的办法。{w} 要是你找到什么值得交换的东西，告诉我一声就行。"
 
 # game/script day12.rpy:4204
 translate Chinese day12_arthur_ultimatum_f17855db:
 
     # pb "It's a good start, though."
-    pb "不过，这也算个不错的开始"
+    pb "不过，这也算个不错的开始。"
 
 # game/script day12.rpy:4208
 translate Chinese day12_arthur_ultimatum_7542ad42:
 
     # "He rises from the bench and makes his way to the other side of the deck."
-    "他从长凳上站起来，走向甲板的另一侧"
+    "他从长凳上站起来，走向甲板的另一侧。"
 
 # game/script day12.rpy:4210
 translate Chinese day12_arthur_ultimatum_7f288134:
 
     # "You're left with your own thoughts once again, and the decision on how to proceed."
-    "你又独自陷入沉思，思考着下一步该如何行动"
+    "你又独自陷入沉思，思考着下一步该如何行动。"
 
 # game/script day12.rpy:4212
 translate Chinese day12_arthur_ultimatum_7e00404b:
 
     # "Arthur wants you off the ship in Morocco. Is it really worth the effort to try and convince him otherwise?"
-    "Authur想在摩洛哥把你赶下船。真的值得费那么大劲去说服他改变主意吗？"
+    "Arthur想在摩洛哥把你赶下船。真的值得费那么大劲去说服他改变主意吗？"
 
 # game/script day12.rpy:4216
 translate Chinese day12_arthur_ultimatum_d027ba38:
@@ -7550,13 +7549,13 @@ translate Chinese day12_arthur_ultimatum_3e9e0caa:
 translate Chinese day12_arthur_ultimatum_ff72d3f5:
 
     # "No, perhaps it's better if you'd leave this ship behind if he wants you gone this badly."
-    "不，如果他这么想让你走，也许你最好还是离开这艘船"
+    "不，如果他这么想让你走，也许你最好还是离开这艘船。"
 
 # game/script day12.rpy:4276
 translate Chinese day12_decideleave_ac8c27fa:
 
     # "You made your choice."
-    "你做出了选择"
+    "你做出了选择。"
 
 # game/script day12.rpy:4284
 translate Chinese day12_decideleave_e0ca752c:
@@ -7568,31 +7567,31 @@ translate Chinese day12_decideleave_e0ca752c:
 translate Chinese day12_decideleave_23c0e1be:
 
     # "You knock on the door to Nomax's cabin.{p}Without being quite sure why.{p}Maybe to escape all the talk of sailing-this, working-that."
-    "你敲了敲Nomax舱房的门。{p}也不太清楚自己为什么要这么做。{p}也许是为了逃避所有关于航行这个、工作那个的谈话"
+    "你敲了敲Nomax舱房的门。{p}也不太清楚自己为什么要这么做。{p}也许是为了逃避所有关于航行这个、工作那个的谈话。"
 
 # game/script day12.rpy:4294
 translate Chinese day12_decideleave_e36d8aeb:
 
     # "To seek someone who will just nod along, and tell you that they would feel the same way in your situation.{p}Someone who will commiserate with you and offer some solace on this godforsaken thing."
-    "想找个会点头附和你，告诉你换做是他们也会有同样感受的人。{p}找个能同情你，在这该死的船上给你一些慰藉的人"
+    "想找个会点头附和你，告诉你换做是他们也会有同样感受的人。{p}找个能同情你，在这该死的船上给你一些慰藉的人。"
 
 # game/script day12.rpy:4296
 translate Chinese day12_decideleave_f9c4a273:
 
     # "Nomax might just be that person."
-    "Nomax或许就是这样的人"
+    "Nomax或许就是这样的人。"
 
 # game/script day12.rpy:4300
 translate Chinese day12_decideleave_1e938a54:
 
     # "But, to your surprise, what you hear behind the door is not just one set of footsteps, but clearly a pair of them."
-    "但让你惊讶的是，你听到门后传来的不只是一组脚步声，显然是两个人的"
+    "但让你惊讶的是，你听到门后传来的不只是一组脚步声，显然是两个人的。"
 
 # game/script day12.rpy:4302
 translate Chinese day12_decideleave_856e7448:
 
     # "The painted dog appears to be busy on this journey."
-    "这只非洲野犬在旅途中似乎很忙"
+    "这只非洲野犬在旅途中似乎很忙。"
 
 # game/script day12.rpy:4304
 translate Chinese day12_decideleave_fdbf9e38:
@@ -7604,13 +7603,13 @@ translate Chinese day12_decideleave_fdbf9e38:
 translate Chinese day12_decideleave_ffd6d0ae:
 
     # p "It's me."
-    p "是我"
+    p "是我。"
 
 # game/script day12.rpy:4308
 translate Chinese day12_decideleave_742eaf62:
 
     # "You answer flatly, without elaborating."
-    "你平淡地回应，没有多做解释"
+    "你平淡地回应，没有多做解释。"
 
 # game/script day12.rpy:4310
 translate Chinese day12_decideleave_381c0cb9:
@@ -7622,37 +7621,37 @@ translate Chinese day12_decideleave_381c0cb9:
 translate Chinese day12_decideleave_7e02f198:
 
     # p "It's me, [name]. I'm just looking for a place to escape and talk for a moment, if it's alright."
-    p "是我，[name]。我只是想找个地方躲一躲，聊一会儿，如果可以的话"
+    p "是我，[name]。我只是想找个地方躲一躲，聊一会儿，如果可以的话。"
 
 # game/script day12.rpy:4316
 translate Chinese day12_decideleave_dfc67c0c:
 
     # "It takes a few seconds for the answer to arrive."
-    "过了几秒钟才得到回应"
+    "过了几秒钟才得到回应。"
 
 # game/script day12.rpy:4318
 translate Chinese day12_decideleave_f66f7eb5:
 
     # n "Um, right now? I am not sure if it is a good time."
-    n "呃，现在吗？我不确定是不是时候"
+    n "呃，现在吗？我不确定是不是时候。"
 
 # game/script day12.rpy:4320
 translate Chinese day12_decideleave_e1a8bce3:
 
     # n "It has been somewhat of a busy morning for me, you see."
-    n "你知道，我今天上午挺忙的"
+    n "你知道，我今天上午挺忙的。"
 
 # game/script day12.rpy:4322
 translate Chinese day12_decideleave_f457ad41:
 
     # j "{size=-15}{alpha=0.4}Just let him in, it's fine. We know each other well enough.{/alpha}{/size}"
-    j "{size=-15}{alpha=0.4}就让他进来吧，没事的。我们彼此够熟了{/alpha}{/size}"
+    j "{size=-15}{alpha=0.4}就让他进来吧，没事的。我们彼此够熟了{/alpha}。{/size}"
 
 # game/script day12.rpy:4324
 translate Chinese day12_decideleave_23576054:
 
     # "Julian's words are muffled behind the door, but at this point it's easy for you to place his voice."
-    "Julian的声音在门后有些模糊，但此刻你很容易就听出是他"
+    "Julian的声音在门后有些模糊，但此刻你很容易就听出是他。"
 
 # game/script day12.rpy:4326
 translate Chinese day12_decideleave_5c77b680:
@@ -7664,19 +7663,19 @@ translate Chinese day12_decideleave_5c77b680:
 translate Chinese day12_decideleave_d457e56a:
 
     # "Before you receive an answer, the door carefully opens a crack, then swings fully open to reveal Nomax standing before you, with Julian seated on the passenger's unmade bed."
-    "没等你得到回答，门先小心翼翼地开了条缝，接着完全敞开，只见Nomax站在你面前，Julian坐在没整理的客床上"
+    "没等你得到回答，门先小心翼翼地开了条缝，接着完全敞开，只见Nomax站在你面前，Julian坐在没整理的客床上。"
 
 # game/script day12.rpy:4339
 translate Chinese day12_decideleave_2f4af943:
 
     # "Both appear slightly disheveled, and an odd odor lingers in the air as you lean through the doorway."
-    "两人看起来都有些凌乱，当你探身进门时，空气中弥漫着一股奇怪的气味"
+    "两人看起来都有些凌乱，当你探身进门时，空气中弥漫着一股奇怪的气味。"
 
 # game/script day12.rpy:4341
 translate Chinese day12_decideleave_8dd91c6e:
 
     # "A similar scent to the one you left in this cabin a week ago, though not nearly as potent—just the faintest trace of it."
-    "这股气味和你一周前在这个船舱里留下的有点类似，不过没那么浓烈——只是最微弱的一丝痕迹"
+    "这股气味和你一周前在这个船舱里留下的有点类似，不过没那么浓烈——只是最微弱的一丝痕迹。"
 
 # game/script day12.rpy:4346
 translate Chinese day12_decideleave_70c10e01:
@@ -7706,19 +7705,19 @@ translate Chinese day12_decideleave_87c236c7:
 translate Chinese day12_decideleave_6f8284b4:
 
     # "His response comes a bit too promptly and anxiously to feel natural."
-    "他的回应来得有点太快太急切，显得不太自然"
+    "他的回应来得有点太快太急切，显得不太自然。"
 
 # game/script day12.rpy:4363
 translate Chinese day12_decideleave_bd81cb04:
 
     # j "Not yet."
-    j "没呢"
+    j "没呢。"
 
 # game/script day12.rpy:4365
 translate Chinese day12_decideleave_cad43cd6:
 
     # "The answers are as immediate as they are obvious, and of course Julian can't resist a mischievous grin."
-    "回答来得既迅速又明显，当然，Julian忍不住露出调皮的笑容"
+    "回答来得既迅速又明显，当然，Julian忍不住露出调皮的笑容。"
 
 # game/script day12.rpy:4367
 translate Chinese day12_decideleave_da0daaa3:
@@ -7736,7 +7735,7 @@ translate Chinese day12_decideleave_1e97accc:
 translate Chinese day12_decideleave_ec0367dc:
 
     # j "Hey, you've no right to complain. You're the one who got us into this mess."
-    j "嘿，你没权利抱怨。是你把我们卷进这堆麻烦里的"
+    j "嘿，你没权利抱怨。是你把我们卷进这堆麻烦里的。"
 
 # game/script day12.rpy:4377
 translate Chinese day12_decideleave_ba073155:
@@ -7748,7 +7747,7 @@ translate Chinese day12_decideleave_ba073155:
 translate Chinese day12_decideleave_cb9a8245:
 
     # j "You more than anyone else should understand, after everything you've been through."
-    j "经历了这么多，你比任何人都更应该明白"
+    j "经历了这么多，你比任何人都更应该明白。"
 
 # game/script day12.rpy:4385
 translate Chinese day12_decideleave_2459b937:
@@ -7766,19 +7765,19 @@ translate Chinese day12_decideleave_cb9a8245_1:
 translate Chinese day12_decideleave_f8c1b852:
 
     # j "And he says some company will do him good during his first storm at sea.{w} His words, not mine."
-    j "而且他说在他第一次经历海上风暴的时候，有人作伴对他有好处。{w} 这是他的原话，不是我说的"
+    j "而且他说在他第一次经历海上风暴的时候，有人作伴对他有好处。{w} 这是他的原话，不是我说的。"
 
 # game/script day12.rpy:4398
 translate Chinese day12_decideleave_fc16fd90:
 
     # n "I assure you, I didn't mean it in that way, and I said it before he mentioned—well... Um, Julian has been quite the character, making the journey less miserable this past week."
-    n "我向你保证，我不是那个意思，而且我是在他提到——嗯……之前说的。Julian这人挺有趣的，在过去的一周里让旅途没那么难熬"
+    n "我向你保证，我不是那个意思，而且我是在他提到——嗯……之前说的。Julian这人挺有趣的，在过去的一周里让旅途没那么难熬。"
 
 # game/script day12.rpy:4400
 translate Chinese day12_decideleave_133c37fb:
 
     # n "He is quite inquisitive when it comes to music. In the last few days, I have had to recall nearly every opera I have had the pleasure of attending."
-    n "他对音乐相当好奇。过去几天，我几乎得回忆起我有幸看过的每一场歌剧"
+    n "他对音乐相当好奇。过去几天，我几乎得回忆起我有幸看过的每一场歌剧。"
 
 # game/script day12.rpy:4404
 translate Chinese day12_decideleave_9a385daf:
@@ -7808,19 +7807,19 @@ translate Chinese day12_decideleave_1d92e5b4:
 translate Chinese day12_decideleave_230506c1:
 
     # p "The scent."
-    p "气味"
+    p "气味。"
 
 # game/script day12.rpy:4421
 translate Chinese day12_decideleave_a98107b5:
 
     # j "Your feline senses are just not fair, man."
-    j "你的猫科动物嗅觉太厉害了，真不公平"
+    j "你的猫科动物嗅觉太厉害了，真不公平。"
 
 # game/script day12.rpy:4425
 translate Chinese day12_decideleave_bc70ac16:
 
     # j "Get in here, I can feel the mist of the waves coming in through the door."
-    j "快进来吧，我都能感觉到海浪的雾气从门里进来了"
+    j "快进来吧，我都能感觉到海浪的雾气从门里进来了。"
 
 # game/script day12.rpy:4427
 translate Chinese day12_decideleave_0697fd93:
@@ -7832,43 +7831,43 @@ translate Chinese day12_decideleave_0697fd93:
 translate Chinese day12_decideleave_9782ae09:
 
     # j "No, now get your ass in here and close the door."
-    j "不，现在赶紧进来，把门关上"
+    j "不，现在赶紧进来，把门关上。"
 
 # game/script day12.rpy:4439
 translate Chinese day12_decideleave_0e94a295:
 
     # "A little reluctantly, you follow the invitation and enter the cabin. Though, you're not sure where to sit before Nomax offers you a place on the bed."
-    "你有点不情愿地接受邀请进了船舱。不过，在Nomax给你让出床边的位置之前，你都不知道该坐哪儿"
+    "你有点不情愿地接受邀请进了船舱。不过，在Nomax给你让出床边的位置之前，你都不知道该坐哪儿。"
 
 # game/script day12.rpy:4452
 translate Chinese day12_decideleave_85697065:
 
     # "The door carefully opens a sliver, then swings fully open to reveal Nomax standing in front of you."
-    "门小心翼翼地开了条缝，然后完全敞开，露出站在你面前的Nomax"
+    "门小心翼翼地开了条缝，然后完全敞开，露出站在你面前的Nomax。"
 
 # game/script day12.rpy:4456
 translate Chinese day12_decideleave_8de0ca2e:
 
     # "He is not naked. Something of a step in the right direction for the canine."
-    "他并没有光着身子。对这只犬科动物来说，算是往正确的方向迈进了一步"
+    "他并没有光着身子。对这只犬科动物来说，算是往正确的方向迈进了一步。"
 
 # game/script day12.rpy:4458
 translate Chinese day12_decideleave_55fc9b8a:
 
     # "Instead, he looks as tidy as he always does on deck."
-    "相反，他看起来和在甲板上时一样整洁"
+    "相反，他看起来和在甲板上时一样整洁。"
 
 # game/script day12.rpy:4460
 translate Chinese day12_decideleave_b5a66570:
 
     # "An early riser."
-    "他是个早起的人"
+    "他是个早起的人。"
 
 # game/script day12.rpy:4464
 translate Chinese day12_decideleave_2db961a5:
 
     # "He looks well-kept, and must have been awake for a little while already, judging by that."
-    "他看起来衣冠楚楚，而且根据这一点判断，他肯定已经醒来有一会儿了"
+    "他看起来衣冠楚楚，而且根据这一点判断，他肯定已经醒来有一会儿了。"
 
 # game/script day12.rpy:4466
 translate Chinese day12_decideleave_b5a66570_1:
@@ -7880,43 +7879,43 @@ translate Chinese day12_decideleave_b5a66570_1:
 translate Chinese day12_decideleave_e6116ec7:
 
     # "Or simply woken up by the storm."
-    "或者只是被暴风雨吵醒了"
+    "或者只是被暴风雨吵醒了。"
 
 # game/script day12.rpy:4470
 translate Chinese day12_decideleave_3ba13fc5:
 
     # "Behind him, Julian looks back at you from where he sits on the neatly made bed."
-    "在他身后，Julian从整理得整整齐齐的床上回头看着你"
+    "在他身后，Julian从整理得整整齐齐的床上回头看着你。"
 
 # game/script day12.rpy:4472
 translate Chinese day12_decideleave_78a0df60:
 
     # p "Oh, I didn't expect you to be here."
-    p "哦，没想到你会来这儿"
+    p "哦，没想到你会来这儿。"
 
 # game/script day12.rpy:4474
 translate Chinese day12_decideleave_7d1299be:
 
     # j "Why not?{w} He's pretty good company. Been talking music with him for a little while."
-    j "为什么不呢？{w} 他是个很好的伙伴。我跟他聊了一会儿音乐"
+    j "为什么不呢？{w} 他是个很好的伙伴。我跟他聊了一会儿音乐。"
 
 # game/script day12.rpy:4478
 translate Chinese day12_decideleave_230b23f2:
 
     # j "You know what an amazing storyteller I am."
-    j "你很清楚的，我向来很会讲故事"
+    j "你很清楚的，我向来很会讲故事。"
 
 # game/script day12.rpy:4480
 translate Chinese day12_decideleave_0d16cf5b:
 
     # p "Yeah... and I feel like I've heard the story you first told back at dinner when we boarded like at least two dozen times."
-    p "是啊……我感觉你在我们登船当晚的晚餐上第一次讲的那个故事，现在我至少已经听过二十多遍了"
+    p "是啊……我感觉你在我们登船当晚的晚餐上第一次讲的那个故事，现在我至少已经听过二十多遍了。"
 
 # game/script day12.rpy:4482
 translate Chinese day12_decideleave_7c63580d:
 
     # j "Can't help it. A good story wants to be told."
-    j "没办法，有好的故事就是忍不住想讲"
+    j "没办法，有好的故事就是忍不住想讲。"
 
 # game/script day12.rpy:4484
 translate Chinese day12_decideleave_15c40e71:
@@ -7934,13 +7933,13 @@ translate Chinese day12_decideleave_8ee93b1a:
 translate Chinese day12_decideleave_35446cf9:
 
     # n "No, no, not in the slightest."
-    n "不，不，一点也没有"
+    n "不，不，一点也没有。"
 
 # game/script day12.rpy:4496
 translate Chinese day12_decideleave_22f3d6bf:
 
     # n "I do not think that I have heard the story you mentioned."
-    n "我并没听过你说的那个故事"
+    n "我并没听过你说的那个故事。"
 
 # game/script day12.rpy:4498
 translate Chinese day12_decideleave_2f2836e4:
@@ -7952,13 +7951,13 @@ translate Chinese day12_decideleave_2f2836e4:
 translate Chinese day12_decideleave_c66e762e:
 
     # p "Please don't get him started on it."
-    p "千万别勾起他的话头，别让他开始讲这事了"
+    p "千万别勾起他的话头，别让他开始讲这事了。"
 
 # game/script day12.rpy:4503
 translate Chinese day12_decideleave_b7c35732:
 
     # j "Hey! Careful or I'll slap you on the back! It's a great story, I don't know what you have against hearing it again."
-    j "喂！注意点，不然我可要拍你后背了！这故事多精彩啊，真搞不懂你怎么就不爱再听一遍"
+    j "喂！注意点，不然我可要拍你后背了！这故事多精彩啊，真搞不懂你怎么就不爱再听一遍。"
 
 # game/script day12.rpy:4506
 translate Chinese day12_decideleave_0e40a674:
@@ -7970,25 +7969,25 @@ translate Chinese day12_decideleave_0e40a674:
 translate Chinese day12_decideleave_038e4f99:
 
     # p "You can tell him when I'm not around."
-    p "你大可以等我不在场的时候再跟他讲"
+    p "你大可以等我不在场的时候再跟他讲。"
 
 # game/script day12.rpy:4510
 translate Chinese day12_decideleave_83d6adfd:
 
     # p "And Nomax, I do have to say that you look surprisingly well."
-    p "说实话，Nomax你现在状态看起来出奇的好"
+    p "说实话，Nomax你现在状态看起来出奇的好。"
 
 # game/script day12.rpy:4512
 translate Chinese day12_decideleave_1633cf85:
 
     # p "Given these conditions I would have expected you to be in worse shape."
-    p "考虑到在这样的处境下，我原以为你的状态会更差"
+    p "考虑到在这样的处境下，我原以为你的状态会更差。"
 
 # game/script day12.rpy:4516
 translate Chinese day12_decideleave_61507df4:
 
     # p "You look surprisingly well, given the conditions outside."
-    p "考虑到外面的恶劣天气，我原以为你的状态会更差"
+    p "考虑到外面的恶劣天气，我原以为你的状态会更差。"
 
 # game/script day12.rpy:4520
 translate Chinese day12_decideleave_921bb99d:
@@ -8000,25 +7999,25 @@ translate Chinese day12_decideleave_921bb99d:
 translate Chinese day12_decideleave_6349b871:
 
     # "His ears fold down just a notch."
-    "他的耳朵微微地耷拉下来一点"
+    "他的耳朵微微地耷拉下来一点。"
 
 # game/script day12.rpy:4524
 translate Chinese day12_decideleave_d238c098:
 
     # n "I would have hoped for a little less of a reputation... Or at least a reputation that does not paint me in quite such an embarrassing light."
-    n "我真不想有这种名声……就算要被人议论，好歹也别是这么让人难为情的形象啊"
+    n "我真不想有这种名声……就算要被人议论，好歹也别是这么让人难为情的形象啊。"
 
 # game/script day12.rpy:4526
 translate Chinese day12_decideleave_5103001e:
 
     # n "Though, I am not a gambling man, and I guess even I would not have bet on feeling fine during my first storm."
-    n "我向来不爱打赌，说实话，连我自己都难以置信，第一次遭遇风暴还能这般安然无事"
+    n "我向来不爱打赌，说实话，连我自己都难以置信，第一次遭遇风暴还能这般安然无事。"
 
 # game/script day12.rpy:4528
 translate Chinese day12_decideleave_7f87df59:
 
     # n "I have to admit that it is a rather frightening experience, though. I know that ships are built to withstand such conditions, but the groaning of the timber and the waves crashing against the hull is not easy on the heart."
-    n "但我不得不承认这过程确实吓人，尽管早就知道Conway号本就扛得住这种恶劣天气，但船木吱呀作响，巨浪不停撞着船身，种种这般实在让人心里发慌"
+    n "但我不得不承认这过程确实吓人，尽管早就知道Conway号本就扛得住这种恶劣天气，但船木吱呀作响，巨浪不停撞着船身，种种这般实在让人心里发慌。"
 
 # game/script day12.rpy:4530
 translate Chinese day12_decideleave_f5ca8e72:
@@ -8036,31 +8035,31 @@ translate Chinese day12_decideleave_224e3231:
 translate Chinese day12_decideleave_511be3c8:
 
     # n "Please, come in."
-    n "请进"
+    n "请进。"
 
 # game/script day12.rpy:4548
 translate Chinese day12_decideleave_75914f3a:
 
     # "You follow the invitation and step into the cabin, standing there, a bit unsure of where to sit before Nomax offers you a seat on the bed."
-    "你顺着他的招呼走进舱室，有些不确定该坐在哪里，。这时Nomax主动示意你坐到床铺上"
+    "你顺着他的招呼走进舱室，有些不确定该坐在哪里，。这时Nomax主动示意你坐到床铺上。"
 
 # game/script day12.rpy:4558
 translate Chinese day12_decideleave_061dd076:
 
     # "The wooden bed creaks as you settle into it, your weight sinking through the sparse layer of bedding until you feel the solid wood beneath."
-    "你刚坐上去，木床便吱呀作响，薄薄一层床褥被身形压得下陷，直接能摸到底下硬实的木板"
+    "你刚坐上去，木床便吱呀作响，薄薄一层床褥被身形压得下陷，直接能摸到底下硬实的木板。"
 
 # game/script day12.rpy:4569
 translate Chinese day12_decideleave_247eb25b:
 
     # "He joins you and sits on the chair at his small desk, carefully tucking his tail out of the way as he sits down."
-    "他走到你身边，坐在小书桌前的椅子上，坐下时小心翼翼地将尾巴收放到一旁"
+    "他走到你身边，坐在小书桌前的椅子上，坐下时小心翼翼地将尾巴收放到一旁。"
 
 # game/script day12.rpy:4571
 translate Chinese day12_decideleave_cc886951:
 
     # p "I'm really not interrupting you two? I feel like I just barged into your conversation."
-    p "真的没有打扰到你们两位吗？感觉我自己贸然闯入了你们的谈话"
+    p "真的没有打扰到你们两位吗？感觉我自己贸然闯入了你们的谈话。"
 
 # game/script day12.rpy:4583
 translate Chinese day12_decideleave_4c7fd469:
@@ -8072,7 +8071,7 @@ translate Chinese day12_decideleave_4c7fd469:
 translate Chinese day12_decideleave_f27203e8:
 
     # p "Well, normally, no.{w} But I feel like I didn't walk in on a normal conversation."
-    p "平常倒也不至于，{w}但我总觉得自己撞见的可不是普通闲聊"
+    p "平常倒也不至于，{w}但我总觉得自己撞见的可不是普通闲聊。"
 
 # game/script day12.rpy:4589
 translate Chinese day12_decideleave_fb67e1ea:
@@ -8144,7 +8143,7 @@ translate Chinese day12_decideleave_92cd0883:
 translate Chinese day12_decideleave_6c82fe71:
 
     # "Nomax's sudden enthusiasm catches you by surprise."
-    "Nomax突如其来的热情让你有些惊讶"
+    "Nomax突如其来的热情让你有些惊讶。"
 
 # game/script day12.rpy:4636
 translate Chinese day12_decideleave_2849a93d:
@@ -8180,7 +8179,7 @@ translate Chinese day12_decideleave_027aeee3:
 translate Chinese day12_decideleave_ef176c50:
 
     # "You shake your head, a wry smile tugging at your lips."
-    "你摇摇头，嘴角浮现出一丝苦笑"
+    "你摇摇头，嘴角浮现出一丝苦笑。"
 
 # game/script day12.rpy:4665
 translate Chinese day12_decideleave_b9699814:
@@ -8312,7 +8311,7 @@ translate Chinese day12_decideleave_8cbc6ca0:
 translate Chinese day12_decideleave_135eff1a:
 
     # p "Well, look,{w} I'm sorry, it just... spilled out in the moment."
-    p "那个，抱歉，{w}我只是……一时冲动不小心把话说漏嘴了"
+    p "那个，抱歉，{w}我只是……一时冲动不小心把话说漏嘴了。"
 
 # game/script day12.rpy:4740
 translate Chinese day12_decideleave_4816421d:
@@ -8354,7 +8353,7 @@ translate Chinese day12_decideleave_6547877f:
 translate Chinese day12_decideleave_234c98ad:
 
     # n "It is not {i}just{/i} about the contents, it's that he told you in the first place."
-    n "这不{i}只是{/i}内容的问题，关键是他压根就不该一开始就把这事跟你说"
+    n "这不{i}只是{/i}内容的问题，关键是他压根就不该一开始就把这事跟你说。"
 
 # game/script day12.rpy:4770
 translate Chinese day12_decideleave_02e57538:
@@ -8486,25 +8485,25 @@ translate Chinese day12_decideleave_e77bcdd1:
 translate Chinese day12_decideleave_407140f0:
 
     # n "You told him."
-    n "你告诉他了"
+    n "你告诉他了。"
 
 # game/script day12.rpy:4825
 translate Chinese day12_decideleave_a341c2fc:
 
     # n "Fine."
-    n "好吧"
+    n "好吧。"
 
 # game/script day12.rpy:4827
 translate Chinese day12_decideleave_78c22b6a:
 
     # n "Just, {i}please{/i} make sure that he remains the only one."
-    n "只是{i}请{/i}务必确保他是唯一的知情人"
+    n "只是{i}请{/i}务必确保他是唯一的知情人。"
 
 # game/script day12.rpy:4829
 translate Chinese day12_decideleave_adc27dc7:
 
     # p "I'd be happy to. It's been a bad enough day already."
-    p "我当然会的，今天已经够糟的了"
+    p "我当然会的，今天已经够糟的了。"
 
 # game/script day12.rpy:4831
 translate Chinese day12_decideleave_b852c158:
@@ -8558,7 +8557,7 @@ translate Chinese day12_decideleave_b88c7a1d:
 translate Chinese day12_decideleave_bb66a872:
 
     # p "Julian knows.{w} I screwed up badly and fell asleep while being assigned the weather watch. Because of that, we almost didn't have time to prepare the ship."
-    p "Julian是知情的，我这回实在太失职了，轮到我值班气象瞭望时居然睡着了，就因为这事，我们差点没时间整备船只"
+    p "Julian是知情的。{w}我这回实在太失职了，轮到我值班气象瞭望时居然睡着了，就因为这事，我们差点没时间整备船只。"
 
 # game/script day12.rpy:4863
 translate Chinese day12_decideleave_87af6cd3:
@@ -8570,61 +8569,61 @@ translate Chinese day12_decideleave_87af6cd3:
 translate Chinese day12_decideleave_d09ded37:
 
     # p "A little longer and who knows what might have happened."
-    p "谁知道在晚宴提点会发生什么"
+    p "谁知道在晚宴提点会发生什么。"
 
 # game/script day12.rpy:4867
 translate Chinese day12_decideleave_fd68a928:
 
     # "Nomax cocks his head, trying to decipher what exactly you mean."
-    "Nomax歪了歪头，琢磨着你这话到底是什么意思"
+    "Nomax歪了歪头，琢磨着你这话到底是什么意思。"
 
 # game/script day12.rpy:4869
 translate Chinese day12_decideleave_46f7f2b5:
 
     # n "But we are sailing fine, are we not? The crew does not seem to be in disarray, and you two even have the time to slip away from the rest."
-    n "可眼下航程不是一路安稳吗？船上水手井然如常，不见半点慌乱纷乱，你们竟还有闲暇抽身独处"
+    n "可眼下航程不是一路安稳吗？船上水手井然如常，不见半点慌乱纷乱，你们竟还有闲暇抽身独处。"
 
 # game/script day12.rpy:4871
 translate Chinese day12_decideleave_fea426ae:
 
     # n "Surely we would be in a different situation if your gaff was as bad as you make it appear to be."
-    n "如果你的失误真如你想表现出来的那么严重，那我们现在肯定不会是这样的局面"
+    n "如果你的失误真如你想表现出来的那么严重，那我们现在肯定不会是这样的局面。"
 
 # game/script day12.rpy:4881
 translate Chinese day12_decideleave_128a924a:
 
     # p "The ship might be doing alright, but it sounds like this will be the end of my time here."
-    p "船可能没事，但听起来我在这里的日子要到头了"
+    p "船可能没事，但听起来我在这里的日子要到头了。"
 
 # game/script day12.rpy:4883
 translate Chinese day12_decideleave_2ba84444:
 
     # p "The first mate plans to send me packing once we reach the harbor.{w} Perhaps for the best."
-    p "等船一靠岸，大副就打算把我打发走了，{w}或许这样反倒也好"
+    p "等船一靠岸，大副就打算把我打发走了，{w}或许这样反倒也好。"
 
 # game/script day12.rpy:4885
 translate Chinese day12_decideleave_167a24df:
 
     # p "I'll take that over having to go through another lashing."
-    p "我宁愿这样，也不想再挨一顿鞭子"
+    p "我宁愿这样，也不想再挨一顿鞭子。"
 
 # game/script day12.rpy:4890
 translate Chinese day12_decideleave_be4d1364:
 
     # j "It's more than that, Max. Apparently he's been told that they're going to dismiss him once we reach Morocco."
-    j "事情没那么简单，Max，看样子他已经收到通知，船一到摩洛哥就要被辞退打发走了"
+    j "事情没那么简单，Max，看样子他已经收到通知，船一到摩洛哥就要被辞退打发走了。"
 
 # game/script day12.rpy:4892
 translate Chinese day12_decideleave_34a5e53d:
 
     # j "They plan to just dump him right then and there in the harbor."
-    j "他们打算一到港口就把他扔在那儿"
+    j "他们打算一到港口就把他扔在那儿。"
 
 # game/script day12.rpy:4896
 translate Chinese day12_decideleave_dc2059c0:
 
     # j "A lot of things {i}could{/i} have happened, but they didn't."
-    j "好多糟心事{i}本来都有可能{/i}发生，但好在最后全都平安躲过了"
+    j "好多糟心事{i}本来都有可能{/i}发生，但好在最后全都平安躲过了。"
 
 # game/script day12.rpy:4898
 translate Chinese day12_decideleave_42a74eec:
@@ -8642,7 +8641,7 @@ translate Chinese day12_decideleave_07382e86:
 translate Chinese day12_decideleave_0431826b:
 
     # p "It's not."
-    p "不是玩笑"
+    p "不是玩笑。"
 
 # game/script day12.rpy:4910
 translate Chinese day12_decideleave_f061455d:
@@ -8654,49 +8653,49 @@ translate Chinese day12_decideleave_f061455d:
 translate Chinese day12_decideleave_ea9ac705:
 
     # "You shrug as the painted dog begins to pour some tea into the cup."
-    "Noamx开始往杯子里倒茶，你耸了耸肩"
+    "Nomax开始往杯子里倒茶，你耸了耸肩。"
 
 # game/script day12.rpy:4916
 translate Chinese day12_decideleave_14249272:
 
     # "A clean stream emerges from the lovingly crafted and colorfully painted ceramic can. White with an intricate painting of the countryside."
-    "一股清冽的水流，从做工精巧并绘满彩饰的白瓷壶中缓缓流出，壶身素白，细细勾勒着繁复的田园山水景致"
+    "一股清冽的水流，从做工精巧并绘满彩饰的白瓷壶中缓缓流出，壶身素白，细细勾勒着繁复的田园山水景致。"
 
 # game/script day12.rpy:4921
 translate Chinese day12_decideleave_97e61d75:
 
     # "It must be a set, because the cup you are handed is painted with a similar motif."
-    "这肯定是一套的，因为你拿到的杯子也绘有类似的图案"
+    "这肯定是一套的，因为你拿到的杯子也绘有类似的图案。"
 
 # game/script day12.rpy:4926
 translate Chinese day12_decideleave_1b9737fe:
 
     # n "I am sorry. This does not sound like a pleasant conclusion to your journey."
-    n "实在惋惜，听起来你的这段旅程并不会有愉快的结局"
+    n "实在惋惜，听起来你的这段旅程并不会有愉快的结局。"
 
 # game/script day12.rpy:4928
 translate Chinese day12_decideleave_0159551f:
 
     # p "It's not a journey. At least it wasn't planned as one.{w} I wanted to keep working on this ship. {i}This{/i} was my goal."
-    p "这根本算不上什么旅程，至少我一开始从没这么打算过，{w}我只想一直在这艘船上做事谋生，{i}这{/i}才是我最初的目标"
+    p "这根本算不上什么旅程，至少我一开始从没这么打算过，{w}我只想一直在这艘船上做事谋生，{i}这{/i}才是我最初的目标。"
 
 # game/script day12.rpy:4930
 translate Chinese day12_decideleave_a6c7cb9b:
 
     # p "Was... I guess."
-    p "我想……至少曾经是"
+    p "我想……至少曾经是。"
 
 # game/script day12.rpy:4934
 translate Chinese day12_decideleave_60d3e292:
 
     # p "It has been nothing short of a nightmare."
-    p "这简直是一场噩梦"
+    p "这简直是一场噩梦。"
 
 # game/script day12.rpy:4938
 translate Chinese day12_decideleave_dfd31263:
 
     # "Your shoulders slump as you wrap your paw around the cold ceramic mug. The warmth of the tea slowly seeps through the material to reach the palm of your hand."
-    "你垂落双肩，伸出爪子握住冰凉的瓷杯，茶水的暖意慢慢透过杯壁，渗进掌心"
+    "你垂落双肩，伸出爪子握住冰凉的瓷杯，茶水的暖意慢慢透过杯壁，渗进掌心。"
 
 # game/script day12.rpy:4942
 translate Chinese day12_decideleave_cc15293e:
@@ -8708,13 +8707,13 @@ translate Chinese day12_decideleave_cc15293e:
 translate Chinese day12_decideleave_791b33f9:
 
     # "Even after having made the decision to leave, it's not an easy one to come to terms with it."
-    "即使已经决定离开，要接受这个决定也并不容易"
+    "即使已经决定离开，要接受这个决定也并不容易。"
 
 # game/script day12.rpy:4950
 translate Chinese day12_decideleave_62cb59c9:
 
     # "They grant you a moment of quiet sympathy, interrupted only by the creaking of the chair as the painted dog settles back into it. He raises one of his claws to his lips, lost in thought."
-    "气氛一时安静下来，只剩无声的体谅，Nomax向后靠坐，椅子发出几声吱呀轻响，他抬起一根爪尖抵在唇边，怔怔出神思索"
+    "气氛一时安静下来，只剩无声的体谅，Nomax向后靠坐，椅子发出几声吱呀轻响，他抬起一根爪尖抵在唇边，怔怔出神思索。"
 
 # game/script day12.rpy:4954
 translate Chinese day12_decideleave_3e2ed863:
@@ -8727,37 +8726,37 @@ translate Chinese day12_decideleave_3e2ed863:
 translate Chinese day12_decideleave_0caa1d9b:
 
     # n "Perhaps this will simply open other doors for you to pass through."
-    n "也许这只会为你打开其他需要穿过的门"
+    n "也许这只会为你打开其他需要穿过的门。"
 
 # game/script day12.rpy:4960
 translate Chinese day12_decideleave_20abd9f4:
 
     # n "Some new opportunities that will, as sailors say, help you navigate these uncharted waters."
-    n "前路自由崭新机缘，就像水手常说的，帮你稳稳驶过这片前途未卜的风浪"
+    n "前路自由崭新机缘，就像水手常说的，帮你稳稳驶过这片前途未卜的风浪。"
 
 # game/script day12.rpy:4968
 translate Chinese day12_decideleave_33d7faa3:
 
     # j "Nomax...{p}I'm not sure if he needs a philosophy lesson right now."
-    j "Nomax……{p}我不确定他现在是否需要一堂哲学课"
+    j "Nomax……{p}我不确定他现在是否需要一堂哲学课。"
 
 # game/script day12.rpy:4972
 translate Chinese day12_decideleave_32af1c51:
 
     # "He folds his ears down as he catches Julian's gaze."
-    "他察觉到Julian的目光，耳朵耷拉下来"
+    "他察觉到Julian的目光，耳朵耷拉下来。"
 
 # game/script day12.rpy:4980
 translate Chinese day12_decideleave_5d551131:
 
     # n "Sorry, I was just trying to help."
-    n "抱歉，我只是想帮忙"
+    n "抱歉，我只是想帮忙。"
 
 # game/script day12.rpy:4982
 translate Chinese day12_decideleave_177325b7:
 
     # p "It's alright."
-    p "没关系"
+    p "没关系。"
 
 # game/script day12.rpy:4988
 translate Chinese day12_decideleave_cd974dd1:
@@ -8775,7 +8774,7 @@ translate Chinese day12_decideleave_e098c55d:
 translate Chinese day12_decideleave_989cd2f2:
 
     # "With your lips pressed to the rim of the cup, you take a sip of the lukewarm tea."
-    "你将嘴唇贴在杯沿，啜饮了一口温热的茶"
+    "你将嘴唇贴在杯沿，啜饮了一口温热的茶。"
 
 # game/script day12.rpy:4994
 translate Chinese day12_decideleave_7a9e6605:
@@ -8787,19 +8786,19 @@ translate Chinese day12_decideleave_7a9e6605:
 translate Chinese day12_decideleave_00d72c05:
 
     # n "As you may have noticed, I am not the type of gentleman who would advocate such an adventure. No, quite the opposite, in fact."
-    n "想必你也看得出来，我本就不是会怂恿人去冒险的性子，恰恰相反，我向来对此并不赞同"
+    n "想必你也看得出来，我本就不是会怂恿人去冒险的性子，恰恰相反，我向来对此并不赞同。"
 
 # game/script day12.rpy:4998
 translate Chinese day12_decideleave_fefe9adc:
 
     # n "I prefer to enjoy the tranquility of my home. My patroness affords me the luxury of staying away from the bustling city in which she resides, so that I can study my subject in peace in the countryside."
-    n "我向来偏爱家中的清静安逸，有我的女赞助人成全，我不必待在她身处的喧闹都城，反倒能隐居乡间，安安稳稳潜心做自己的学问"
+    n "我向来偏爱家中的清静安逸，有我的女赞助人成全，我不必待在她身处的喧闹都城，反倒能隐居乡间，安安稳稳潜心做自己的学问。"
 
 # game/script day12.rpy:5000
 translate Chinese day12_decideleave_bc6002c9:
 
     # n "She informs me of important colleagues in my field who might be visiting, so I can pay them a visit when they are in town."
-    n "但凡业内有分量的学者要来此地，她都会提前知会我，方便我趁他们逗留城中时登门拜访"
+    n "但凡业内有分量的学者要来此地，她都会提前知会我，方便我趁他们逗留城中时登门拜访。"
 
 # game/script day12.rpy:5004
 translate Chinese day12_decideleave_cd551e43:
@@ -8811,19 +8810,19 @@ translate Chinese day12_decideleave_cd551e43:
 translate Chinese day12_decideleave_91b3a048:
 
     # j "The point, Nomax."
-    j "Nomax，说重点"
+    j "Nomax，说重点。"
 
 # game/script day12.rpy:5020
 translate Chinese day12_decideleave_6f7ec071:
 
     # n "Uh, yes,{w} anyway, she and her business fell on hard times, and she had to sell the house I was residing in."
-    n "呃，是啊，{w}后来她的生意一落千丈，境况窘迫，不得已只能把我一直住着的房子卖掉了"
+    n "呃，是啊，{w}后来她的生意一落千丈，境况窘迫，不得已只能把我一直住着的房子卖掉了。"
 
 # game/script day12.rpy:5024
 translate Chinese day12_decideleave_670dfc58:
 
     # n "So, in a way, I guess this is less of a work trip for me and more of a relocation."
-    n "这般说来，我这趟出来算不上出差办事，其实更像是彻底搬家"
+    n "这般说来，我这趟出来算不上出差办事，其实更像是彻底搬家。"
 
 # game/script day12.rpy:5032
 translate Chinese day12_decideleave_b230e367:
@@ -8835,7 +8834,7 @@ translate Chinese day12_decideleave_b230e367:
 translate Chinese day12_decideleave_efe9a348:
 
     # "Nomax reaches up to scratch the back of his head as he answers."
-    "Nomax一边回答，一边伸手挠了挠后脑勺"
+    "Nomax一边回答，一边伸手挠了挠后脑勺。"
 
 # game/script day12.rpy:5038
 translate Chinese day12_decideleave_ba5eb198:
@@ -8847,37 +8846,37 @@ translate Chinese day12_decideleave_ba5eb198:
 translate Chinese day12_decideleave_a561ce9e:
 
     # n "Well... I owe her for what she provided me with, I guess."
-    n "嗯……我想这是我欠她的，因为她为我提供了那些"
+    n "嗯……我想这是我欠她的，因为她为我提供了那些。"
 
 # game/script day12.rpy:5052
 translate Chinese day12_decideleave_28ec491c:
 
     # n "She is a bit of an odd lady, but I guess she views this as an opportunity for the business."
-    n "她这人本就有点特立独行，不过在她眼里，这倒是一桩能为生意谋利的机会"
+    n "她这人本就有点特立独行，不过在她眼里，这倒是一桩能为生意谋利的机会。"
 
 # game/script day12.rpy:5054
 translate Chinese day12_decideleave_8bc7f43a:
 
     # n "A chance for me to find something... {i}anything{/i} that is not widely known in Europe.{w} Some sort of mystical, exotic plant, I suppose."
-    n "正好给了我机会……去寻找{i}任何{/i}在欧洲鲜为人知的东西，{w}我想大概是某种神秘又充满异域风情的珍稀植物吧"
+    n "正好给了我机会……去寻找{i}任何{/i}在欧洲鲜为人知的东西，{w}我想大概是某种神秘又充满异域风情的珍稀植物吧。"
 
 # game/script day12.rpy:5056
 translate Chinese day12_decideleave_bf48138a:
 
     # n "She always talks about how people there practice and draw from their oneness with nature. I guess it is just an enticing thought for someone in the business of making and selling medicine."
-    n "她常说那边的人向来顺应自然，与天地共生，从中汲取智慧与疗愈之力，对做制药与卖药生意的人来说，这想法的确格外有吸引力"
+    n "她常说那边的人向来顺应自然，与天地共生，从中汲取智慧与疗愈之力，对做制药与卖药生意的人来说，这想法的确格外有吸引力。"
 
 # game/script day12.rpy:5058
 translate Chinese day12_decideleave_083e99b1:
 
     # n "Something that cures every ailment known to the world, which, {i}naturally{/i}, could only be found on the other side of the globe."
-    n "如果世界上能存在某种能治愈已知一切疾病的灵药，那应该{i}理所当然的{/i}只能在地球的另一端找到"
+    n "如果世界上能存在某种能治愈已知一切疾病的灵药，那应该{i}理所当然的{/i}只能在地球的另一端找到。"
 
 # game/script day12.rpy:5060
 translate Chinese day12_decideleave_a75eb817:
 
     # n "And, well, I have been given the simple task of finding it."
-    n "然后，嗯，我就被赋予了找到它的简单任务"
+    n "然后，嗯，我就被赋予了找到它的简单任务。"
 
 # game/script day12.rpy:5062
 translate Chinese day12_decideleave_2085718e:
@@ -8889,7 +8888,7 @@ translate Chinese day12_decideleave_2085718e:
 translate Chinese day12_decideleave_854fa4e6:
 
     # j "Please smack me if I ever mention that I want to become a botanist. Or if I do, remind me to choose my patrons to be less like her."
-    j "如果我以后再提起想当植物学家，尽管提醒我，若是我真的当了，记得劝我选一个不像她这样的赞助人"
+    j "如果我以后再提起想当植物学家，尽管提醒我，若是我真的当了，记得劝我选一个不像她这样的赞助人。"
 
 # game/script day12.rpy:5066
 translate Chinese day12_decideleave_f98ed48e:
@@ -8901,49 +8900,49 @@ translate Chinese day12_decideleave_f98ed48e:
 translate Chinese day12_decideleave_142f2a95:
 
     # n "I did not know it at the time, but that is what it turned into, and similarly you might not know what your situation might shape into either."
-    n "我当初根本想不到会变成如今这般局面，同样的，你也无从预料眼下的处境日后会将你带往何方"
+    n "我当初根本想不到会变成如今这般局面，同样的，你也无从预料眼下的处境日后会将你带往何方。"
 
 # game/script day12.rpy:5072
 translate Chinese day12_decideleave_2f852ec9:
 
     # n "Sorry, I have been yapping on a lot, how is the tea? Not too cold, I hope?"
-    n "抱歉，我光顾着喋喋不休说个没完，茶喝着还合口吧？应该没凉透才对"
+    n "抱歉，我光顾着喋喋不休说个没完，茶喝着还合口吧？应该没凉透才对？"
 
 # game/script day12.rpy:5074
 translate Chinese day12_decideleave_e9c64c39:
 
     # "In a way, you're grateful for the distracting question, giving you some time to think."
-    "某种程度上你很庆幸这个岔开话题的提问，给了你一些思考的时间"
+    "某种程度上你很庆幸这个岔开话题的提问，给了你一些思考的时间。"
 
 # game/script day12.rpy:5076
 translate Chinese day12_decideleave_24768fd9:
 
     # "You look down into the teacup and rotate it slightly in your paw. The gentle smell of it rising to meet your nostrils."
-    "你低头凝望着茶杯，抬手用爪子轻轻捻转，一缕温润茶香悠悠飘来钻进鼻间"
+    "你低头凝望着茶杯，抬手用爪子轻轻捻转，一缕温润茶香悠悠飘来钻进鼻间。"
 
 # game/script day12.rpy:5080
 translate Chinese day12_decideleave_ab6034ec:
 
     # p "It's very good, Nomax. Thank you."
-    p "很好，Nomax，谢谢"
+    p "很好，Nomax，谢谢。"
 
 # game/script day12.rpy:5082
 translate Chinese day12_decideleave_25be8510:
 
     # p "And I appreciate you telling me how you got to be here. Maybe something {i}will{/i} come of it.{w} Who knows."
-    p "很感谢你告诉我你来到这里的经历，这件事或许会带来一些机缘，未来的事谁也无法预料"
+    p "很感谢你告诉我你来到这里的经历，这件事或许会带来一些机缘。{w}未来的事谁也无法预料。"
 
 # game/script day12.rpy:5091
 translate Chinese day12_decideleave_1142f062:
 
     # p "Speaking of the tea, I didn't take you for a tea drinker, Julian."
-    p "说到茶水，我倒是没想到Julian你居然也有喝茶的习惯"
+    p "说到茶水，我倒是没想到Julian你居然也有喝茶的习惯。"
 
 # game/script day12.rpy:5095
 translate Chinese day12_decideleave_96114ea2:
 
     # "He laughs."
-    "他笑了"
+    "他笑了。"
 
 # game/script day12.rpy:5097
 translate Chinese day12_decideleave_5037a522:
@@ -8955,7 +8954,7 @@ translate Chinese day12_decideleave_5037a522:
 translate Chinese day12_decideleave_77e75114:
 
     # j "Oh, you wouldn't believe how many fancy dinners I had to sit through to develop a taste for it."
-    j "其实你都想象不到，我硬着头皮参加过多少场高端晚宴才慢慢养成了对茶的品味"
+    j "其实你都想象不到，我硬着头皮参加过多少场高端晚宴才慢慢养成了对茶的品味。"
 
 # game/script day12.rpy:5103
 translate Chinese day12_decideleave_071f80f9:
@@ -8967,49 +8966,49 @@ translate Chinese day12_decideleave_071f80f9:
 translate Chinese day12_decideleave_a67fa011:
 
     # j "Besides, he is pretty good at making a cup."
-    j "况且，Nomax很擅长泡茶"
+    j "况且，Nomax很擅长泡茶。"
 
 # game/script day12.rpy:5109
 translate Chinese day12_decideleave_b2a45053:
 
     # n "Ah, too much of the honor, Julian. It's but a regular old mix. I wish we had some milk on board, but I have my doubts that it would do us any good at this point anyway."
-    n "不敢当，这只是很普通的调配茶饮而已，Julian，我希望船上能有牛奶，但眼下我觉得有没有牛奶都没什么用处了"
+    n "不敢当，这只是很普通的调配茶饮而已，Julian，我希望船上能有牛奶，但眼下我觉得有没有牛奶都没什么用处了。"
 
 # game/script day12.rpy:5113
 translate Chinese day12_decideleave_95da2a10:
 
     # j "Unless you really like your tea mixed with cheese."
-    j "除非你真的很喜欢把奶酪混在茶里喝"
+    j "除非你真的很喜欢把奶酪混在茶里喝。"
 
 # game/script day12.rpy:5117
 translate Chinese day12_decideleave_41124a6d:
 
     # "Nomax laughs first, and a few moments later, you can't help but join in at the mental picture of it and at just how nonchalantly Julian slipped it into the conversation."
-    "Nomax率先笑了起来，过了一会儿，想到那脑补的画面，再加上Julian若无其事地把话题随口带进来，你也忍不住跟着笑了"
+    "Nomax率先笑了起来，过了一会儿，想到那脑补的画面，再加上Julian若无其事地把话题随口带进来，你也忍不住跟着笑了。"
 
 # game/script day12.rpy:5121
 translate Chinese day12_decideleave_b99544b8:
 
     # n "No, I think I am quite content without cheese in my tea."
-    n "大可不必，我还是更习惯茶里不加奶酪，现在这样就挺好"
+    n "大可不必，我还是更习惯茶里不加奶酪，现在这样就挺好。"
 
 # game/script day12.rpy:5123
 translate Chinese day12_decideleave_c01bf749:
 
     # j "But just imagine what you're missing out on. You look at your cup of perfectly brewed tea with relaxed anticipation. The steam rising, the aroma already priming your senses."
-    j "你不妨想象一下自己错过了什么，你带着闲适的期待，看着这杯冲泡完美的茶，水汽缓缓升起，茶香已经开始调动你的感官"
+    j "你不妨想象一下自己错过了什么，你带着闲适的期待，看着这杯冲泡完美的茶，水汽缓缓升起，茶香已经开始调动你的感官。"
 
 # game/script day12.rpy:5125
 translate Chinese day12_decideleave_a837f63c:
 
     # j "That wonderfully brilliant red liquid just waiting for you."
-    j "那美妙绝伦的红色液体正等着你"
+    j "那美妙绝伦的红色液体正等着你。"
 
 # game/script day12.rpy:5127
 translate Chinese day12_decideleave_991a01ec:
 
     # j "You reach for the milk and pour it, only to have a chunk of cheese fall out of the can instead."
-    j "你伸手拿起牛奶罐加奶，不料却从罐中掉出了一块奶酪"
+    j "你伸手拿起牛奶罐加奶，不料却从罐中掉出了一块奶酪。"
 
 # game/script day12.rpy:5129
 translate Chinese day12_decideleave_935b5626:
@@ -9021,13 +9020,13 @@ translate Chinese day12_decideleave_935b5626:
 translate Chinese day12_decideleave_e8b4de4c:
 
     # "The sound effect Julian adds at the end just pushes you over the edge. You have to be careful not to spill the tea as a painful sting runs through your body originating from your back."
-    "Julian最后发出的音效让你忍俊不禁，你小心端着茶杯防止茶水洒出，一股刺痛从你的后背开始蔓延至全身"
+    "Julian最后发出的音效让你忍俊不禁，你小心端着茶杯防止茶水洒出，一股刺痛从你的后背开始蔓延至全身。"
 
 # game/script day12.rpy:5137
 translate Chinese day12_decideleave_6d0854d3:
 
     # "The sound effect Julian adds at the end just pushes you over the edge. You have to be careful not to spill the tea while laughing, and try to keep the cup away from the bed just in case."
-    "Julian最后发出的音效让你忍俊不禁，你一边笑着一边小心地端着茶杯防止茶水洒出，并赶紧把杯子挪远床边，免得万一泼湿被褥"
+    "Julian最后发出的音效让你忍俊不禁，你一边笑着一边小心地端着茶杯防止茶水洒出，并赶紧把杯子挪远床边，免得万一泼湿被褥。"
 
 # game/script day12.rpy:5141
 translate Chinese day12_decideleave_baf393da:
@@ -9039,25 +9038,25 @@ translate Chinese day12_decideleave_baf393da:
 translate Chinese day12_decideleave_51eb0498:
 
     # "The lizard puts on the most sophisticated expression he can muster—eyes closed, back straight, with a hand gesture that accompanies each word ever so gently."
-    "Julian刻意装出一副极为高深的模样，双眼微闭，腰背挺直，一字一句间都伴着轻柔优雅的手势"
+    "Julian刻意装出一副极为高深的模样，双眼微闭，腰背挺直，一字一句间都伴着轻柔优雅的手势。"
 
 # game/script day12.rpy:5147
 translate Chinese day12_decideleave_2a47ef97:
 
     # "You don't understand a word, but the tone of his voice sends you into another painful fit of laughter."
-    "尽管你一句也听不懂，但他那装模作样的语调又把你逗笑得浑身一阵酸痛"
+    "尽管你一句也听不懂，但他那装模作样的语调又把你逗笑得浑身一阵酸痛。"
 
 # game/script day12.rpy:5151
 translate Chinese day12_decideleave_039cd565:
 
     # "You don't understand a word, but the tone of his voice sends you into another fit of laughter."
-    "尽管你一句也听不懂，但他那装模作样的语调又把你逗得开怀大笑"
+    "尽管你一句也听不懂，但他那装模作样的语调又把你逗得开怀大笑。"
 
 # game/script day12.rpy:5159
 translate Chinese day12_decideleave_9c0a69cf:
 
     # n "Stop, Julian, or he will spill his tea."
-    n "别闹了Julian，再这样下去他可要把茶弄洒了"
+    n "别闹了Julian，再这样下去他可要把茶弄洒了。"
 
 # game/script day12.rpy:5161
 translate Chinese day12_decideleave_82b0b7a2:
@@ -9075,25 +9074,25 @@ translate Chinese day12_decideleave_88ca195f:
 translate Chinese day12_decideleave_145f0699:
 
     # "On his chair Nomax fights for his breath between laughs."
-    "Nomax倚坐在椅上，笑得前仰后合，几度笑得喘不过气来"
+    "Nomax倚坐在椅上，笑得前仰后合，几度笑得喘不过气来。"
 
 # game/script day12.rpy:5171
 translate Chinese day12_decideleave_6e8a4cf7:
 
     # p "It hurts."
-    p "好痛"
+    p "好痛。"
 
 # game/script day12.rpy:5175
 translate Chinese day12_decideleave_16dca7a0:
 
     # n "Julian, stop, I can't."
-    n "Julian，别闹了，我不行了"
+    n "Julian，别闹了，我不行了。"
 
 # game/script day12.rpy:5177
 translate Chinese day12_decideleave_c5772077:
 
     # "He fights for his breath between laughs as he tries to speak."
-    "他在阵阵笑声中艰难喘着气，同时试着开口说话"
+    "他在阵阵笑声中艰难喘着气，同时试着开口说话。"
 
 # game/script day12.rpy:5179
 translate Chinese day12_decideleave_e0289c9e:
@@ -9105,7 +9104,7 @@ translate Chinese day12_decideleave_e0289c9e:
 translate Chinese day12_decideleave_3f4ad966:
 
     # n "That poor tea."
-    n "可怜的茶"
+    n "可怜的茶。"
 
 # game/script day12.rpy:5191
 translate Chinese day12_decideleave_605a377e:
@@ -9117,55 +9116,55 @@ translate Chinese day12_decideleave_605a377e:
 translate Chinese day12_decideleave_6711d5b2:
 
     # j "He can barely sit straight, and you've all but forgotten about the horseshit of today."
-    j "他笑得压根坐不稳身子，你也早已把今天一堆糟心破事抛到了脑后"
+    j "他笑得压根坐不稳身子，你也早已把今天一堆糟心破事抛到了脑后。"
 
 # game/script day12.rpy:5197
 translate Chinese day12_decideleave_a615ad84:
 
     # j "Because, just look at you two."
-    j "你看看你们两个人就明白了"
+    j "你看看你们两个人就明白了。"
 
 # game/script day12.rpy:5199
 translate Chinese day12_decideleave_adcbfae8:
 
     # j "You can barely sit straight, and he's all but forgotten about the horseshit of today."
-    j "你笑得压根坐不稳身子，他也早已把今天一堆糟心破事抛到了脑后"
+    j "你笑得压根坐不稳身子，他也早已把今天一堆糟心破事抛到了脑后。"
 
 # game/script day12.rpy:5203
 translate Chinese day12_decideleave_1e29c768:
 
     # "It takes a few seconds for you all to collect yourselves, and Nomax ends up bursting into another chuckle just as you almost make it back to normal."
-    "你们几人花了好几秒才平复下来，就在你快要恢复正常神态时，Nomax又忽然轻笑起来"
+    "你们几人花了好几秒才平复下来，就在你快要恢复正常神态时，Nomax又忽然轻笑起来。"
 
 # game/script day12.rpy:5207
 translate Chinese day12_decideleave_975ff7a2:
 
     # p "No Jules, it hurts. Like, really, it does. My body hurts when I laugh."
-    p "行了，Jules，我真的受不了，是真的疼，我一笑身子就发疼"
+    p "行了，Jules，我真的受不了，是真的疼，我一笑身子就发疼。"
 
 # game/script day12.rpy:5209
 translate Chinese day12_decideleave_16f80768:
 
     # p "It's still not healed fully."
-    p "伤还没完全好"
+    p "伤还没完全好。"
 
 # game/script day12.rpy:5211
 translate Chinese day12_decideleave_a8eb9140:
 
     # j "It still does?{w} I'm sorry."
-    j "还疼吗？{w}对不起"
+    j "还疼吗？{w}对不起。"
 
 # game/script day12.rpy:5213
 translate Chinese day12_decideleave_8cee52fa:
 
     # p "But even if it wouldn't, just because I'm laughing doesn't mean that I feel any better about the situation I'm in."
-    p "纵然身上不疼，我虽然在笑，但不代表这一切就让我心里好受一点"
+    p "纵然身上不疼，我虽然在笑，但不代表这一切就让我心里好受一点。"
 
 # game/script day12.rpy:5217
 translate Chinese day12_decideleave_3ef76771:
 
     # p "Just because I'm laughing doesn't mean that it makes me feel better about all of it."
-    p "我虽然在笑，但不代表这一切就让我心里好受一点"
+    p "我虽然在笑，但不代表这一切就让我心里好受一点。"
 
 # game/script day12.rpy:5221
 translate Chinese day12_decideleave_b75cb9b0:
@@ -9177,25 +9176,25 @@ translate Chinese day12_decideleave_b75cb9b0:
 translate Chinese day12_decideleave_35f02e93:
 
     # p "Yes, it is, Jules.{w} It fucking sucks. That shouldn't be so hard to understand."
-    p "是的，确实如此，Jules，{w}情况实在太糟糕了，这本不该难以理解"
+    p "是的，确实如此，Jules，{w}情况实在太糟糕了，这本不该难以理解。"
 
 # game/script day12.rpy:5225
 translate Chinese day12_decideleave_29d9401f:
 
     # p "You know that working on this ship is what I wanted to do, and it's being taken from me from some limp-dicked higher-up."
-    p "你明知道能在这艘船上做事一直是我的心愿，结果就因为某个窝囊无能的高层，硬生生把这份念想从我身边夺走了"
+    p "你明知道能在这艘船上做事一直是我的心愿，结果就因为某个窝囊无能的高层，硬生生把这份念想从我身边夺走了。"
 
 # game/script day12.rpy:5229
 translate Chinese day12_decideleave_da6c850e:
 
     # p "And then having to carry those scars for years to come, if they ever heal entirely in the first place."
-    p "往后许多年我都得带着这些伤疤过活，甚至能不能彻底愈合都还不清楚"
+    p "往后许多年我都得带着这些伤疤过活，甚至能不能彻底愈合都还不清楚。"
 
 # game/script day12.rpy:5237
 translate Chinese day12_decideleave_114d9d2d:
 
     # "Another chuckle from the African wild dog interrupts you, and he hastily apologizes for not being able to keep it together."
-    "Nomax又是一声轻笑，打断了你，他连忙开口道歉，说自己实在忍不住笑场了"
+    "Nomax又是一声轻笑，打断了你，他连忙开口道歉，说自己实在忍不住笑场了。"
 
 # game/script day12.rpy:5247
 translate Chinese day12_decideleave_d0795444:
@@ -9225,31 +9224,31 @@ translate Chinese day12_decideleave_3b4d1ecb:
 translate Chinese day12_decideleave_1221fade:
 
     # j "At least you {i}can{/i} leave.{w} Some of us don't even have that luxury."
-    j "至少你还{i}能{/i}抽身离开，{w}而我们有些人连这点选择权都奢望不起"
+    j "至少你还{i}能{/i}抽身离开，{w}而我们有些人连这点选择权都奢望不起。"
 
 # game/script day12.rpy:5261
 translate Chinese day12_decideleave_0bb309e0:
 
     # j "I'm stuck here under the threat of my father."
-    j "我被父亲的威胁牢牢困住，根本没法离开这里"
+    j "我被父亲的威胁牢牢困住，根本没法离开这里。"
 
 # game/script day12.rpy:5282
 translate Chinese day12_julian_noseedmorocco_a74db376:
 
     # p "Nor is it a reason to be an ass."
-    p "可这也不能成为你耍脾气的理由"
+    p "可这也不能成为你耍脾气的理由。"
 
 # game/script day12.rpy:5284
 translate Chinese day12_julian_noseedmorocco_4a7c0e0c:
 
     # j "Yeah, you wanted to work on {i}a{/i} ship, not necessarily {i}this{/i} ship."
-    j "是啊，你只是想在{i}一艘{/i}船上谋生做事，又不是非得待在{i}这艘{/i}船上不可"
+    j "是啊，你只是想在{i}一艘{/i}船上谋生做事，又不是非得待在{i}这艘{/i}船上不可。"
 
 # game/script day12.rpy:5288
 translate Chinese day12_julian_noseedmorocco_32cf4d68:
 
     # j "There will be a dozen lining up in the harbor who'd be happy to take a cheap pair of hands."
-    j "港口里有的是人排着队，巴不得找艘船收留，甘愿当个普通雇工任劳任怨"
+    j "港口里有的是人排着队，巴不得找艘船收留，甘愿当个普通雇工任劳任怨。"
 
 # game/script day12.rpy:5292
 translate Chinese day12_julian_noseedmorocco_2ca2f410:
@@ -9267,13 +9266,13 @@ translate Chinese day12_julian_noseedmorocco_c824b42a:
 translate Chinese day12_julian_noseedmorocco_8a2aaba1:
 
     # j "If, for some reason, you still want to be a sailor then just walk off this thing and board the next one."
-    j "如果你打心底还是想当水手，那就干脆离开这艘船，去搭上另一艘就好了"
+    j "如果你打心底还是想当水手，那就干脆离开这艘船，去搭上另一艘就好了。"
 
 # game/script day12.rpy:5301
 translate Chinese day12_julian_noseedmorocco_d6f089c5:
 
     # j "You want to be a sailor? Just walk off this thing and board the next one."
-    j "你还想当水手？那就干脆离开这艘船，去搭上另一艘就好了"
+    j "你还想当水手？那就干脆离开这艘船，去搭上另一艘就好了。"
 
 # game/script day12.rpy:5303
 translate Chinese day12_julian_noseedmorocco_fe6b6253:
@@ -9285,31 +9284,31 @@ translate Chinese day12_julian_noseedmorocco_fe6b6253:
 translate Chinese day12_julian_noseedmorocco_fa02b293:
 
     # "You take another sip of the tea."
-    "你又抿了一口茶"
+    "你又抿了一口茶。"
 
 # game/script day12.rpy:5309
 translate Chinese day12_julian_noseedmorocco_148db1ab:
 
     # p "Have you ever thought that maybe it's not the ship itself, but the people on it that I like and am afraid of losing?"
-    p "你有没有想过，我在意的根本不是这艘船，而是船上的这些人，我喜欢他们，也害怕失去他们"
+    p "你有没有想过，我在意的根本不是这艘船，而是船上的这些人，我喜欢他们，也害怕失去他们？"
 
 # game/script day12.rpy:5311
 translate Chinese day12_julian_noseedmorocco_15c17ab9:
 
     # p "I like the Conway."
-    p "我喜欢Conway号"
+    p "我喜欢Conway号。"
 
 # game/script day12.rpy:5313
 translate Chinese day12_julian_noseedmorocco_19de8fe6:
 
     # p "Perhaps unreasonably, since she's the first ship I've ever stepped on as a sailor."
-    p "或许是我太过偏执不讲道理，毕竟这是我当上水手后踏上的第一艘船"
+    p "或许是我太过偏执不讲道理，毕竟这是我当上水手后踏上的第一艘船。"
 
 # game/script day12.rpy:5315
 translate Chinese day12_julian_noseedmorocco_be22bcd8:
 
     # p "But it's not really the ship that is special to me."
-    p "但对我而言，真正特别的并不是这艘船"
+    p "但对我而言，真正特别的并不是这艘船。"
 
 # game/script day12.rpy:5319
 translate Chinese day12_julian_noseedmorocco_4af4cbff:
@@ -9351,13 +9350,13 @@ translate Chinese day12_julian_noseedmorocco_a391f0d1:
 translate Chinese day12_julian_noseedmorocco_ff4f36d2:
 
     # n "I am sure what Julian was trying to say is that it is not an insurmountable problem at hand, and that you should not forget the good things you {i}do{/i} have going for you."
-    n "我确信Julian想说的是眼下这并不是无法解决的难题，你不应该忘记自己确实拥有的那些有利条件"
+    n "我确信Julian想说的是眼下这并不是无法解决的难题，你不应该忘记自己确实拥有的那些有利条件。"
 
 # game/script day12.rpy:5344
 translate Chinese day12_julian_noseedmorocco_6652a0d1:
 
     # "The painted dog draws your attention as he probes back into the conversation."
-    "Nomax适时吸引了你的注意，顺势重新接过话题，加入了交谈"
+    "Nomax适时吸引了你的注意，顺势重新接过话题，加入了交谈。"
 
 # game/script day12.rpy:5346
 translate Chinese day12_julian_noseedmorocco_028e908e:
@@ -9369,67 +9368,67 @@ translate Chinese day12_julian_noseedmorocco_028e908e:
 translate Chinese day12_julian_noseedmorocco_26443baf:
 
     # n "{i}Yes{/i}, I am quite certain."
-    n "{i}是的{/i}，我相当肯定"
+    n "{i}是的{/i}，我相当肯定。"
 
 # game/script day12.rpy:5354
 translate Chinese day12_julian_noseedmorocco_644fca0a:
 
     # "He interrupts Julian with a glare. One that Julian probably won't even notice with his legs in the way."
-    "他冷眼一瞥，打断了Julian的话，偏偏他可能因双腿挡在前方，多半压根就没留意到他的眼神"
+    "他冷眼一瞥，打断了Julian的话，偏偏他可能因双腿挡在前方，多半压根就没留意到他的眼神。"
 
 # game/script day12.rpy:5356
 translate Chinese day12_julian_noseedmorocco_1074dbdc:
 
     # n "I did not invite you two in here to be at each other's throats, so I kindly ask you both to cease it."
-    n "我请你们俩进来不是让你们针锋相对的，麻烦你们都适可而止，别再吵了"
+    n "我请你们俩进来不是让你们针锋相对的，麻烦你们都适可而止，别再吵了。"
 
 # game/script day12.rpy:5363
 translate Chinese day12_julian_noseedmorocco_75442bca:
 
     # "Julian sighs and rolls off the bed again, rising to his feet in one bound."
-    "Julian叹了口气，再次翻身从床上滚下来，顺势一跃站起身"
+    "Julian叹了口气，再次翻身从床上滚下来，顺势一跃站起身。"
 
 # game/script day12.rpy:5365
 translate Chinese day12_julian_noseedmorocco_901622ea:
 
     # "He brushes along his arms and tugs the hem of his jacket into place before making his way past you to the door."
-    "他拂了拂手臂，拉平夹克的下摆，随后从你身旁走过，走向门口"
+    "他拂了拂手臂，拉平夹克的下摆，随后从你身旁走过，走向门口。"
 
 # game/script day12.rpy:5369
 translate Chinese day12_julian_noseedmorocco_619b5ff0:
 
     # j "In that case, it's probably best if I change the scenery."
-    j "那样的话，我最好换个环境"
+    j "那样的话，我最好换个环境。"
 
 # game/script day12.rpy:5371
 translate Chinese day12_julian_noseedmorocco_f2787c00:
 
     # j "Appreciate the tea."
-    j "茶不错"
+    j "茶不错。"
 
 # game/script day12.rpy:5375
 translate Chinese day12_julian_noseedmorocco_5dcc30e0:
 
     # n "I did not ask you to leave, Julian."
-    n "我没让你走，Julian"
+    n "我没让你走，Julian。"
 
 # game/script day12.rpy:5377
 translate Chinese day12_julian_noseedmorocco_b737a6ba:
 
     # j "I feel that I've overstayed my welcome."
-    j "我觉得我待得太久，开始有点不受欢迎了"
+    j "我觉得我待得太久，开始有点不受欢迎了。"
 
 # game/script day12.rpy:5383
 translate Chinese day12_julian_noseedmorocco_ace76e15:
 
     # "The squeal of the hinge rings in air as he pulls the door open and steps through."
-    "门轴发出刺耳的吱呀声，他拉开门，抬脚走了出去"
+    "门轴发出刺耳的吱呀声，他拉开门，抬脚走了出去。"
 
 # game/script day12.rpy:5387
 translate Chinese day12_julian_noseedmorocco_2ace988f:
 
     # "He waits until his tail has followed him through before pulling it closed behind him, leaving your view to linger on the still door sitting in its frame."
-    "他等倒尾巴也跟着顺势甩出门外才随手关上身后的门，你的视线不由得定格在那扇静静嵌在门框里的门上"
+    "他等倒尾巴也跟着顺势甩出门外才随手关上身后的门，你的视线不由得定格在那扇静静嵌在门框里的门上。"
 
 # game/script day12.rpy:5389
 translate Chinese day12_julian_noseedmorocco_34b4c217:
@@ -9441,7 +9440,7 @@ translate Chinese day12_julian_noseedmorocco_34b4c217:
 translate Chinese day12_julian_noseedmorocco_53976138:
 
     # "You shake your head."
-    "你摇摇头"
+    "你摇摇头。"
 
 # game/script day12.rpy:5395
 translate Chinese day12_julian_noseedmorocco_6d89a163:
@@ -9453,7 +9452,7 @@ translate Chinese day12_julian_noseedmorocco_6d89a163:
 translate Chinese day12_julian_noseedmorocco_c5c326d1:
 
     # p "He'll be fine.{w} It's Julian."
-    p "会没事的，{w} 他可是Julian"
+    p "会没事的，{w} 他可是Julian。"
 
 # game/script day12.rpy:5399
 translate Chinese day12_julian_noseedmorocco_a001533c:
@@ -9465,43 +9464,43 @@ translate Chinese day12_julian_noseedmorocco_a001533c:
 translate Chinese day12_julian_noseedmorocco_747d7dfa:
 
     # "He does not look convinced by your answer, his expression wrought with concern."
-    "他并不相信你的回答，脸上透着一抹显而易见的淡淡担忧"
+    "他并不相信你的回答，脸上透着一抹显而易见的淡淡担忧。"
 
 # game/script day12.rpy:5403
 translate Chinese day12_julian_noseedmorocco_8d7a8e15:
 
     # n "The last thing I want to do is cause animosity with or amongst the crew."
-    n "我最不想做的就是和船员结下矛盾，更不愿让大伙之间彼此生出嫌隙"
+    n "我最不想做的就是和船员结下矛盾，更不愿让大伙之间彼此生出嫌隙。"
 
 # game/script day12.rpy:5405
 translate Chinese day12_julian_noseedmorocco_14a4fe8f:
 
     # n "I already feel like enough of an outsider, having my own cabin, getting to eat the same rations as the gentlemen, while you all get whatever you get."
-    n "我早就觉得自己像个局外人了，住着单独的船舱，吃着和权力阶层一样的配给，而你们却只能将就吃着普通份例"
+    n "我早就觉得自己像个局外人了，住着单独的船舱，吃着和权力阶层一样的配给，而你们却只能将就吃着普通份例。"
 
 # game/script day12.rpy:5407
 translate Chinese day12_julian_noseedmorocco_2b96b97a:
 
     # p "That is why you paid for it and the lot of us get to come for free."
-    p "这就是为什么你付了钱，而我们大伙儿可以免费来"
+    p "这就是为什么你付了钱，而我们大伙儿可以免费来。"
 
 # game/script day12.rpy:5409
 translate Chinese day12_julian_noseedmorocco_ffa1d9ab:
 
     # p "And even get paid."
-    p "甚至还能拿报酬"
+    p "甚至还能拿报酬。"
 
 # game/script day12.rpy:5411
 translate Chinese day12_julian_noseedmorocco_a1e01dda:
 
     # p "Don't worry about him. I know him well enough, he won't be mad for long."
-    p "别担心，我够了解他，他气不了多久的"
+    p "别担心，我够了解他，他气不了多久的。"
 
 # game/script day12.rpy:5413
 translate Chinese day12_julian_noseedmorocco_4486679f:
 
     # p "I'll give him a little smack on the shoulder later, think of some good joke, and everyone will be friends again."
-    p "等下我拍一拍他肩膀，讲个好玩的笑话，大家很快就能和好如初"
+    p "等下我拍一拍他肩膀，讲个好玩的笑话，大家很快就能和好如初。"
 
 # game/script day12.rpy:5417
 translate Chinese day12_julian_noseedmorocco_12fe57c8:
@@ -9513,13 +9512,13 @@ translate Chinese day12_julian_noseedmorocco_12fe57c8:
 translate Chinese day12_julian_noseedmorocco_c2526d2e:
 
     # p "Your room, your rules."
-    p "你的地盘你说了算"
+    p "你的地盘你说了算。"
 
 # game/script day12.rpy:5423
 translate Chinese day12_julian_noseedmorocco_370709b9:
 
     # p "He was getting on my nerves as well, just not understanding it."
-    p "我也早就被他弄得心烦了，只是一时说不清这种感觉"
+    p "我也早就被他弄得心烦了，只是一时说不清这种感觉。"
 
 # game/script day12.rpy:5425
 translate Chinese day12_julian_noseedmorocco_66ca5b92:
@@ -9531,19 +9530,19 @@ translate Chinese day12_julian_noseedmorocco_66ca5b92:
 translate Chinese day12_julian_noseedmorocco_0a7112d0:
 
     # n "No, I think you made yourself quite clear."
-    n "不，我觉得你说得很清楚了"
+    n "不，我觉得你说得很清楚了。"
 
 # game/script day12.rpy:5429
 translate Chinese day12_julian_noseedmorocco_69bc0024:
 
     # n "However, he wasn't getting on my nerves. I just did not want you two to fight."
-    n "不过我倒没觉得他惹人烦，只是单纯不想看你们俩吵起来"
+    n "不过我倒没觉得他惹人烦，只是单纯不想看你们俩吵起来。"
 
 # game/script day12.rpy:5431
 translate Chinese day12_julian_noseedmorocco_ffae0278:
 
     # n "He is a young lad, and perhaps needs to learn more about the world yet, so I can understand why he might be grumpy."
-    n "说到底他还只是个毛头小子，世面见得还不够多，还有很多世事要慢慢学，所以我也能理解，他为什么容易闹脾气"
+    n "说到底他还只是个毛头小子，世面见得还不够多，还有很多世事要慢慢学，所以我也能理解，他为什么容易闹脾气。"
 
 # game/script day12.rpy:5433
 translate Chinese day12_julian_noseedmorocco_7f22246e:
@@ -9555,19 +9554,19 @@ translate Chinese day12_julian_noseedmorocco_7f22246e:
 translate Chinese day12_julian_noseedmorocco_53c428c0:
 
     # "Nomax's lips twitch into a defusing chuckle."
-    "诺麦斯的嘴角微微抽动，露出了用来缓和气氛的轻笑"
+    "诺麦斯的嘴角微微抽动，露出了用来缓和气氛的轻笑。"
 
 # game/script day12.rpy:5437
 translate Chinese day12_julian_noseedmorocco_a7981f13:
 
     # n "Just means that you have plenty yet to learn yourself."
-    n "这只意味着你自己也还有很多东西需要学习"
+    n "这只意味着你自己也还有很多东西需要学习。"
 
 # game/script day12.rpy:5441
 translate Chinese day12_julian_noseedmorocco_ac2d8ff9:
 
     # p "He'll be fine, I'm sure."
-    p "我肯定他肯定会没事的"
+    p "我肯定他肯定会没事的。"
 
 # game/script day12.rpy:5443
 translate Chinese day12_julian_noseedmorocco_c7ae129c:
@@ -9579,25 +9578,25 @@ translate Chinese day12_julian_noseedmorocco_c7ae129c:
 translate Chinese day12_julian_noseedmorocco_a4682259:
 
     # n "I don't want to cause any animosity among the crew, or towards myself, for that matter."
-    n "我最不想做的就是和船员结下矛盾，或者是针对我的敌意"
+    n "我最不想做的就是和船员结下矛盾，或者是针对我的敌意。"
 
 # game/script day12.rpy:5447
 translate Chinese day12_julian_noseedmorocco_b47dee09:
 
     # p "I've been cramped up with him for almost two weeks on this thing and have seen him be a grump a few times; he'll be fine."
-    p "我跟他在这船上挤在一起快两周了，早就见他闹过好几次别扭，没事的，他很快就会好"
+    p "我跟他在这船上挤在一起快两周了，早就见他闹过好几次别扭，没事的，他很快就会好。"
 
 # game/script day12.rpy:5449
 translate Chinese day12_julian_noseedmorocco_708a146f:
 
     # p "He's just annoyed by the terrible weather and the fact that he has to work in it."
-    p "我猜他只是被这糟糕的天气甚至还得在这种天气下工作惹恼了"
+    p "我猜他只是被这糟糕的天气甚至还得在这种天气下工作惹恼了。"
 
 # game/script day12.rpy:5451
 translate Chinese day12_julian_noseedmorocco_01d0fb16:
 
     # "Nomax's expression remains unconvinced, tinged with a soft, apparent worry."
-    "Nomax神情依旧不肯信服，脸上透着一抹显而易见的淡淡担忧"
+    "Nomax神情依旧不肯信服，脸上透着一抹显而易见的淡淡担忧。"
 
 # game/script day12.rpy:5453
 translate Chinese day12_julian_noseedmorocco_40edaac1:
@@ -9609,13 +9608,13 @@ translate Chinese day12_julian_noseedmorocco_40edaac1:
 translate Chinese day12_julian_noseedmorocco_3e089d8e:
 
     # "A knock on the door grabs your attention, and you toss Nomax a questioning look."
-    "一阵敲门声陡然吸引了你的注意，你看向Nomax，眼中满是疑惑与探问"
+    "一阵敲门声陡然吸引了你的注意，你看向Nomax，眼中满是疑惑与探问。"
 
 # game/script day12.rpy:5461
 translate Chinese day12_julian_noseedmorocco_b2d598ce:
 
     # "The painted dog appears just as bewildered as you are and doesn't appear to be expecting any other guests."
-    "Nomax和你一样满脸困惑，显然也没料到会有其他人前来造访"
+    "Nomax和你一样满脸困惑，显然也没料到会有其他人前来造访。"
 
 # game/script day12.rpy:5468
 translate Chinese day12_julian_noseedmorocco_6d6babf2:
@@ -9627,7 +9626,7 @@ translate Chinese day12_julian_noseedmorocco_6d6babf2:
 translate Chinese day12_julian_noseedmorocco_e0ec47e4:
 
     # s "No, Samuel here."
-    s "呃，我是Samuel"
+    s "呃，我是Samuel。"
 
 # game/script day12.rpy:5474
 translate Chinese day12_julian_noseedmorocco_39d21011:
@@ -9639,7 +9638,7 @@ translate Chinese day12_julian_noseedmorocco_39d21011:
 translate Chinese day12_julian_noseedmorocco_a181e0c7:
 
     # p "He just left two minutes ago."
-    p "他两分钟前刚走"
+    p "他两分钟前刚走。"
 
 # game/script day12.rpy:5478
 translate Chinese day12_julian_noseedmorocco_a6f94b84:
@@ -9657,31 +9656,31 @@ translate Chinese day12_julian_seedmorocco_45129573:
 translate Chinese day12_julian_seedmorocco_d7460324:
 
     # p "I don't."
-    p "没"
+    p "没。"
 
 # game/script day12.rpy:5492
 translate Chinese day12_julian_seedmorocco_f38df414:
 
     # j "Well, no, but that's easy for you to say."
-    j "话虽不是这么说，但你当然站着说话不腰疼"
+    j "话虽不是这么说，但你当然站着说话不腰疼。"
 
 # game/script day12.rpy:5496
 translate Chinese day12_julian_seedmorocco_60f1ceef:
 
     # n "It sounds like it's not easy for either of you."
-    n "听起来这对你们俩都不容易"
+    n "听起来这对你们俩都不容易。"
 
 # game/script day12.rpy:5498
 translate Chinese day12_julian_seedmorocco_e5de7976:
 
     # "You take another sip of your tea. Julian looks at you, and for a moment the room is silent, except for the sounds of the storm."
-    "你又抿了一口茶，Julian看向你，房间瞬间陷入沉默，只剩舱外风雨大作的声响"
+    "你又抿了一口茶，Julian看向你，房间瞬间陷入沉默，只剩舱外风雨大作的声响。"
 
 # game/script day12.rpy:5502
 translate Chinese day12_julian_seedmorocco_22622bf1:
 
     # "Until the corners of his lips twitch back in a brief chuckle."
-    "直到他的嘴角抽动了一下，发出一声短暂的轻笑"
+    "直到他的嘴角抽动了一下，发出一声短暂的轻笑。"
 
 # game/script day12.rpy:5506
 translate Chinese day12_julian_seedmorocco_dddad761:
@@ -9693,37 +9692,37 @@ translate Chinese day12_julian_seedmorocco_dddad761:
 translate Chinese day12_julian_seedmorocco_1b5cfb29:
 
     # "He clicks his tongue against his palate."
-    "他用舌头抵住上颚发出咔嗒声"
+    "他用舌头抵住上颚发出咔嗒声。"
 
 # game/script day12.rpy:5510
 translate Chinese day12_julian_seedmorocco_a2989bca:
 
     # j "Of course it's easy."
-    j "当然容易"
+    j "当然容易。"
 
 # game/script day12.rpy:5512
 translate Chinese day12_julian_seedmorocco_d38c5bf6:
 
     # j "Ol' Julian could just waltz right after you, sure."
-    j "说白了，老Julian完全可以轻轻松松就跟在你后头"
+    j "说白了，老Julian完全可以轻轻松松就跟在你后头。"
 
 # game/script day12.rpy:5514
 translate Chinese day12_julian_seedmorocco_684a23c5:
 
     # j "Start a new life in Morocco as Julian the desert nomad. Never again will I have to feel the discomfort of feeling cold, with the scorching desert sun coddling my warmth-craving scales!"
-    j "干脆去摩洛哥重头来过，做个流浪沙漠的游民Julian，从此再也不用受阴冷煎熬，任由大漠烈日烘暖我天生畏寒的鳞甲"
+    j "干脆去摩洛哥重头来过，做个流浪沙漠的游民Julian，从此再也不用受阴冷煎熬，任由大漠烈日烘暖我天生畏寒的鳞甲！"
 
 # game/script day12.rpy:5516
 translate Chinese day12_julian_seedmorocco_ef899e20:
 
     # j "I will be invited by their king, a feast prepared for this sleek-looking exotic lizard who has just stepped off this dinky ship."
-    j "当地国王一定会宴请我，专门为我这只来自异乡的俊朗蜥蜴大摆宴席，谁让我刚从这艘小破船上登岸呢"
+    j "当地国王一定会宴请我，专门为我这只来自异乡的俊朗蜥蜴大摆宴席，谁让我刚从这艘小破船上登岸呢。"
 
 # game/script day12.rpy:5518
 translate Chinese day12_julian_seedmorocco_b02f1764:
 
     # "He adds a dismissive hand gesture to his tale."
-    "他在讲述中加了一个不屑一顾的手势"
+    "他在讲述中加了一个不屑一顾的手势。"
 
 # game/script day12.rpy:5520
 translate Chinese day12_julian_seedmorocco_c04dbc55:
@@ -9735,7 +9734,7 @@ translate Chinese day12_julian_seedmorocco_c04dbc55:
 translate Chinese day12_julian_seedmorocco_c9c0eac9:
 
     # j "Soon I'll be spending my days in my own mansion, a wonderfully sumptuous plush couch, surrounded by beautiful topless women feeding me grapes plucked fresh from the vine."
-    j "用不了多久，我就能住进专属豪宅，躺在奢华柔软的大沙发上，一众美人相伴左右，裸着上身，亲手喂我吃刚从藤蔓上摘下的新鲜葡萄"
+    j "用不了多久，我就能住进专属豪宅，躺在奢华柔软的大沙发上，一众美人相伴左右，裸着上身，亲手喂我吃刚从藤蔓上摘下的新鲜葡萄。"
 
 # game/script day12.rpy:5525
 translate Chinese day12_julian_seedmorocco_be76799d:
@@ -9747,13 +9746,13 @@ translate Chinese day12_julian_seedmorocco_be76799d:
 translate Chinese day12_julian_seedmorocco_dfdecc76:
 
     # j "What?{w} Guys?{w} Gross."
-    j "什么？{w} 男的？{w} 真恶心"
+    j "什么？{w} 男的？{w} 真恶心。"
 
 # game/script day12.rpy:5533
 translate Chinese day12_julian_seedmorocco_7ebe6003:
 
     # "He answers without missing a beat, shaking his head in disgust."
-    "他毫不犹豫地回答，厌恶地摇摇头"
+    "他毫不犹豫地回答，厌恶地摇摇头。"
 
 # game/script day12.rpy:5535
 translate Chinese day12_julian_seedmorocco_55856747:
@@ -9765,7 +9764,7 @@ translate Chinese day12_julian_seedmorocco_55856747:
 translate Chinese day12_julian_seedmorocco_9838ebdd:
 
     # j "I'm kidding, they'll be waiting in my bedroom, you know.{w} Just like the ladies will be when they're done with the grapes."
-    j "开玩笑的啦，他们会在我卧室等着的，你知道的，{w}等姑娘们喂完葡萄自然也会过来陪我"
+    j "开玩笑的啦，他们会在我卧室等着的，你知道的，{w}等姑娘们喂完葡萄自然也会过来陪我。"
 
 # game/script day12.rpy:5541
 translate Chinese day12_julian_seedmorocco_be76799d_1:
@@ -9777,19 +9776,19 @@ translate Chinese day12_julian_seedmorocco_be76799d_1:
 translate Chinese day12_julian_seedmorocco_3ba68053:
 
     # j "They'll be waiting for me in my bedroom."
-    j "他们会在我卧室里等我"
+    j "他们会在我卧室里等我。"
 
 # game/script day12.rpy:5545
 translate Chinese day12_julian_seedmorocco_18805dee:
 
     # "He answers without skipping a beat."
-    "他毫不犹豫地答道"
+    "他毫不犹豫地答道。"
 
 # game/script day12.rpy:5547
 translate Chinese day12_julian_seedmorocco_ba8cec1b:
 
     # p "Of course, where else would they be."
-    p "当然，不然还能在哪儿"
+    p "当然，不然还能在哪儿。"
 
 # game/script day12.rpy:5551
 translate Chinese day12_julian_seedmorocco_e4be4986:
@@ -9807,7 +9806,7 @@ translate Chinese day12_julian_seedmorocco_00e4b1fa:
 translate Chinese day12_julian_seedmorocco_bbc908d8:
 
     # j "Easy."
-    j "小菜一碟"
+    j "小菜一碟。"
 
 # game/script day12.rpy:5561
 translate Chinese day12_julian_seedmorocco_315f219e:
@@ -9825,13 +9824,13 @@ translate Chinese day12_julian_seedmorocco_4bda238a:
 translate Chinese day12_julian_seedmorocco_55d46a9a:
 
     # j "Died with honor, just as the old man wanted, terrified and struggling for purchase as I plummet into the icy waves from some fucking merchant ship."
-    j "壮烈赴死，遂了那老生前的心愿，从一艘破商船坠入刺骨寒涛，满心惶恐，拼命抓着周遭想要稳住身形，却无力回天"
+    j "壮烈赴死，遂了那老生前的心愿，从一艘破商船坠入刺骨寒涛，满心惶恐，拼命抓着周遭想要稳住身形，却无力回天。"
 
 # game/script day12.rpy:5569
 translate Chinese day12_julian_seedmorocco_db7982aa:
 
     # j "At least the rest of the crew will get their kicks when I come haunting their asses."
-    j "至少，等我成了鬼缠上他们，这帮船员也能乐呵乐呵"
+    j "至少，等我成了鬼缠上他们，这帮船员也能乐呵乐呵。"
 
 # game/script day12.rpy:5573
 translate Chinese day12_julian_seedmorocco_9bd4a781:
@@ -9843,7 +9842,7 @@ translate Chinese day12_julian_seedmorocco_9bd4a781:
 translate Chinese day12_julian_seedmorocco_1d8aacfb:
 
     # "Julian begins, imitating what he thinks a ghostly voice should sound like."
-    "Julian开口，学着他脑补的鬼声怪气的调子"
+    "Julian开口，学着他脑补的鬼声怪气的调子。"
 
 # game/script day12.rpy:5577
 translate Chinese day12_julian_seedmorocco_93e7a443:
@@ -9861,13 +9860,13 @@ translate Chinese day12_julian_seedmorocco_9348ac57:
 translate Chinese day12_julian_seedmorocco_05f44d45:
 
     # "You roll your eyes."
-    "你翻了个白眼"
+    "你翻了个白眼。"
 
 # game/script day12.rpy:5583
 translate Chinese day12_julian_seedmorocco_05fbdf92:
 
     # p "Funny.{w} Very funny."
-    p "有意思，{w}真有意思"
+    p "有意思，{w}真有意思。"
 
 # game/script day12.rpy:5585
 translate Chinese day12_julian_seedmorocco_5a53db19:
@@ -9879,7 +9878,7 @@ translate Chinese day12_julian_seedmorocco_5a53db19:
 translate Chinese day12_julian_seedmorocco_408eed96:
 
     # n "Just make sure that you do not come haunting me. I'm an innocent passenger, and will happily take this journey without any ghostly interference."
-    n "你可别回头跑来缠着我，我就是个安分的乘客，只想安安稳稳走完这趟海路，可不想被什么鬼魂打扰"
+    n "你可别回头跑来缠着我，我就是个安分的乘客，只想安安稳稳走完这趟海路，可不想被什么鬼魂打扰。"
 
 # game/script day12.rpy:5591
 translate Chinese day12_julian_seedmorocco_7a311ece:
@@ -9891,7 +9890,7 @@ translate Chinese day12_julian_seedmorocco_7a311ece:
 translate Chinese day12_julian_seedmorocco_3bf4833a:
 
     # j "Lean down."
-    j "弯下身"
+    j "弯下身。"
 
 # game/script day12.rpy:5595
 translate Chinese day12_julian_seedmorocco_7d8cdb0f:
@@ -9909,13 +9908,13 @@ translate Chinese day12_julian_seedmorocco_ddea1773:
 translate Chinese day12_julian_seedmorocco_7214f622:
 
     # j "Don't ask so many questions."
-    j "别问那么多问题"
+    j "别问那么多问题。"
 
 # game/script day12.rpy:5611
 translate Chinese day12_julian_seedmorocco_aa19036a:
 
     # "You comply and lean down until your head is close to his."
-    "你照做了，弯身下去直到你靠近他的头"
+    "你照做了，弯身下去直到你靠近他的头。"
 
 # game/script day12.rpy:5613
 translate Chinese day12_julian_seedmorocco_7913eab0:
@@ -9927,7 +9926,7 @@ translate Chinese day12_julian_seedmorocco_7913eab0:
 translate Chinese day12_julian_seedmorocco_3fa7719a:
 
     # "Julian's snout brushes against your ear as he whispers into it."
-    "Julian的吻部蹭了蹭你的耳朵，贴着耳畔低声私语"
+    "Julian的吻部蹭了蹭你的耳朵，贴着耳畔低声私语。"
 
 # game/script day12.rpy:5617
 translate Chinese day12_julian_seedmorocco_b377bc72:
@@ -9939,13 +9938,13 @@ translate Chinese day12_julian_seedmorocco_b377bc72:
 translate Chinese day12_julian_seedmorocco_68e18185:
 
     # j "I'm still feeling worked up...{w} He agreed to go down on me before you came in."
-    j "我仍然感到很兴奋……{w}在你进来之前，他答应给我口"
+    j "我仍然感到很兴奋……{w}在你进来之前，他答应给我口。"
 
 # game/script day12.rpy:5621
 translate Chinese day12_julian_seedmorocco_f5f63637:
 
     # "Without him having to say anything more you feel the rush of excitement flashing through your body."
-    "不必再等多说些什么，一阵强烈的悸动瞬间窜遍你的全身"
+    "不必再等多说些什么，一阵强烈的悸动瞬间窜遍你的全身。"
 
 # game/script day12.rpy:5625
 translate Chinese day12_julian_seedmorocco_b7c2cabe:
@@ -9957,13 +9956,13 @@ translate Chinese day12_julian_seedmorocco_b7c2cabe:
 translate Chinese day12_julian_seedmorocco_8ca7b727:
 
     # j "Who knows, maybe you'll even forget about all the horseshit that happened?"
-    j "谁知道呢，或许你甚至会忘掉所有那些糟心的过往"
+    j "谁知道呢，或许你甚至会忘掉所有那些糟心的过往？"
 
 # game/script day12.rpy:5631
 translate Chinese day12_julian_seedmorocco_7385ec42:
 
     # j "See? Not a joke."
-    j "你瞧？我可没跟你开玩笑"
+    j "你瞧？我可没跟你开玩笑。"
 
 # game/script day12.rpy:5633
 translate Chinese day12_julian_seedmorocco_1c0c6bb0:
@@ -9981,25 +9980,25 @@ translate Chinese day12_julian_seedmorocco_13ac9999:
 translate Chinese day12_julian_seedmorocco_7703a1c1:
 
     # "You peer over at an inquisitive, but seemingly unsuspecting Nomax, and answer with a wordless nod."
-    "你看向满心好奇却毫无戒备的Nomax，默然点了点头以示回应"
+    "你看向满心好奇却毫无戒备的Nomax，默然点了点头以示回应。"
 
 # game/script day12.rpy:5661
 translate Chinese day12_julian_seedmorocco_18a72de0:
 
     # "You see Julian's smile in your periphery as he pushes past you, propping himself up on his elbows."
-    "你眼角余光捕捉到Julian的笑意，他从你身旁挪开，用手肘支起上身"
+    "你眼角余光捕捉到Julian的笑意，他从你身旁挪开，用手肘支起上身。"
 
 # game/script day12.rpy:5670
 translate Chinese day12_julian_seedmorocco_9922ce8c:
 
     # j "Secrets?{w} No secrets, you can know everything about this."
-    j "秘密？？{w}没什么秘密，这事的来龙去脉你全都可以知道"
+    j "秘密？？{w}没什么秘密，这事的来龙去脉你全都可以知道。"
 
 # game/script day12.rpy:5672
 translate Chinese day12_julian_seedmorocco_329d8463:
 
     # j "So, about our plan from earlier, Max."
-    j "话说回来，聊聊我们之前敲定的计划吧，Max"
+    j "话说回来，聊聊我们之前敲定的计划吧，Max。"
 
 # game/script day12.rpy:5674
 translate Chinese day12_julian_seedmorocco_7d07f38b:
@@ -10011,19 +10010,19 @@ translate Chinese day12_julian_seedmorocco_7d07f38b:
 translate Chinese day12_julian_seedmorocco_953aaa6c:
 
     # j "The one with your muzzle and my dick."
-    j "就是你答应我给我口的那个"
+    j "就是你答应我给我口的那个。"
 
 # game/script day12.rpy:5680
 translate Chinese day12_julian_seedmorocco_4a07f5be:
 
     # "Barely a second passes before the flush of red spreads across the African wild dog's head."
-    "不过一瞬，绯红就瞬间染遍了Nomax的脸颊"
+    "不过一瞬，绯红就瞬间染遍了Nomax的脸颊。"
 
 # game/script day12.rpy:5682
 translate Chinese day12_julian_seedmorocco_8ac6ee52:
 
     # j "It sounds like you'll be pulling double duty."
-    j "这么听来，你得一人干两份活儿了"
+    j "这么听来，你得一人干两份活儿了。"
 
 # game/script day12.rpy:5684
 translate Chinese day12_julian_seedmorocco_b07a7006:
@@ -10035,19 +10034,19 @@ translate Chinese day12_julian_seedmorocco_b07a7006:
 translate Chinese day12_julian_seedmorocco_53efdba4:
 
     # j "Oh, come on, you're a scientist.{w} You can figure it out."
-    j "行了，别这样，你可是科学家，{w}这点事你肯定能想明白"
+    j "行了，别这样，你可是科学家，{w}这点事你肯定能想明白。"
 
 # game/script day12.rpy:5688
 translate Chinese day12_julian_seedmorocco_7f6423cb:
 
     # "You see his eyes shift to you in his search for clarification."
-    "你看到他转头看向你，显然是想要寻求解释与澄清"
+    "你看到他转头看向你，显然是想要寻求解释与澄清。"
 
 # game/script day12.rpy:5690
 translate Chinese day12_julian_seedmorocco_13e2b648:
 
     # "All he finds is a playful shrug from you."
-    "他只看到你调皮地耸了耸肩"
+    "他只看到你调皮地耸了耸肩。"
 
 # game/script day12.rpy:5692
 translate Chinese day12_julian_seedmorocco_a91bbb94:
@@ -10059,7 +10058,7 @@ translate Chinese day12_julian_seedmorocco_a91bbb94:
 translate Chinese day12_julian_seedmorocco_f6213e60:
 
     # p "Besides, it {i}does{/i} sound like a great way to forget about today."
-    p "况且，这听着{i}确实{/i}是忘掉今天糟心事的好办法"
+    p "况且，这听着{i}确实{/i}是忘掉今天糟心事的好办法。"
 
 # game/script day12.rpy:5698
 translate Chinese day12_julian_seedmorocco_74f5a41d:
@@ -10071,13 +10070,13 @@ translate Chinese day12_julian_seedmorocco_74f5a41d:
 translate Chinese day12_julian_seedmorocco_385c5fc2:
 
     # n "I, well...{w} I guess."
-    n "我，那个……{w}我想应该可以吧"
+    n "我，那个……{w}我想应该可以吧。"
 
 # game/script day12.rpy:5702
 translate Chinese day12_julian_seedmorocco_295db61d:
 
     # j "See? I knew you'd enjoy our change of plans. Why don't you get yourself over here then, oh and maybe put the chair in front of the door.{w} We wouldn't want a repeat of what happened with you two."
-    j "你看？我就知道你会喜欢这次临时改的计划，那你赶紧过来这边，顺便把椅子搬到门口抵住，{w}可别再重演你们俩上次那档子事了"
+    j "你看？我就知道你会喜欢这次临时改的计划，那你赶紧过来这边，顺便把椅子搬到门口抵住，{w}可别再重演你们俩上次那档子事了。"
 
 # game/script day12.rpy:5712
 translate Chinese day12_julian_seedmorocco_0e302461:
@@ -10089,31 +10088,31 @@ translate Chinese day12_julian_seedmorocco_0e302461:
 translate Chinese day12_julian_seedmorocco_5c0ad519:
 
     # "After a few adjustments, he seems happy to leave the chair alone, pushed up against the door to prevent it from accidentally swinging open again."
-    "他稍作挪动调整，觉得位置合适便不再动了，把椅子死死顶在门后，防止门再无意间被风吹开"
+    "他稍作挪动调整，觉得位置合适便不再动了，把椅子死死顶在门后，防止门再无意间被风吹开。"
 
 # game/script day12.rpy:5723
 translate Chinese day12_julian_seedmorocco_84783e7b:
 
     # "Though he appears reluctant, you notice just the slightest hint of a sway of his tail as he makes his way over to the bed."
-    "他看上去一脸不情愿，可朝床边走过去时，你能察觉到他尾巴还是悄悄轻轻晃了晃"
+    "他看上去一脸不情愿，可朝床边走过去时，你能察觉到他尾巴还是悄悄轻轻晃了晃。"
 
 # game/script day12.rpy:5727
 translate Chinese day12_julian_seedmorocco_23ea4318:
 
     # "His claws click on the floor with each step and he leans on the mattress with a clenched fist as he wants to join you two."
-    "他每走一步，爪子都在地板上发出咔嗒声，他攥紧拳头靠在床垫上，想要加入你们二人"
+    "他每走一步，爪子都在地板上发出咔嗒声，他攥紧拳头靠在床垫上，想要加入你们二人。"
 
 # game/script day12.rpy:5736
 translate Chinese day12_julian_seedmorocco_39327c78:
 
     # j "Wait."
-    j "等等"
+    j "等等。"
 
 # game/script day12.rpy:5740
 translate Chinese day12_julian_seedmorocco_058642e1:
 
     # "Nomax's ears perk to attention."
-    "Nomax的耳朵警觉地竖了起来"
+    "Nomax的耳朵警觉地竖了起来。"
 
 # game/script day12.rpy:5742
 translate Chinese day12_julian_seedmorocco_4385b5c3:
@@ -10125,19 +10124,19 @@ translate Chinese day12_julian_seedmorocco_4385b5c3:
 translate Chinese day12_julian_seedmorocco_b7b2a105:
 
     # "He appears stumped, glancing from the door to the table, then back to Julian."
-    "他一下子犯了难，目光先看向门，又扫过桌子，最后转头望向Julian"
+    "他一下子犯了难，目光先看向门，又扫过桌子，最后转头望向Julian。"
 
 # game/script day12.rpy:5746
 translate Chinese day12_julian_seedmorocco_99e23fb9:
 
     # n "Forgotten something? I am not quite sure I follow."
-    n "忘了什么？我不太明白你的意思"
+    n "忘了什么？我不太明白你的意思。"
 
 # game/script day12.rpy:5748
 translate Chinese day12_julian_seedmorocco_0c07cedf:
 
     # "Julian reaches for the collar of the canine, tugging on it gently."
-    "Julian伸手握住Nomax的衣领，轻轻地拉了拉"
+    "Julian伸手握住Nomax的衣领，轻轻地拉了拉。"
 
 # game/script day12.rpy:5750
 translate Chinese day12_julian_seedmorocco_6e395e95:
@@ -10155,7 +10154,7 @@ translate Chinese day12_julian_seedmorocco_6186867a:
 translate Chinese day12_julian_seedmorocco_41258c51:
 
     # p "He does."
-    p "他是说过"
+    p "他是说过。"
 
 # game/script day12.rpy:5765
 translate Chinese day12_julian_seedmorocco_7b241452:
@@ -10167,19 +10166,19 @@ translate Chinese day12_julian_seedmorocco_7b241452:
 translate Chinese day12_julian_seedmorocco_0e6e135a:
 
     # n "Taking my clothes off and putting them back on always requires some work until they sit neatly."
-    n "脱下来再重新穿回去总得折腾好一会儿才能把衣服穿得整整齐齐"
+    n "脱下来再重新穿回去总得折腾好一会儿才能把衣服穿得整整齐齐。"
 
 # game/script day12.rpy:5771
 translate Chinese day12_julian_seedmorocco_bdac2ac7:
 
     # j "I insist."
-    j "我还是坚持你脱光"
+    j "我还是坚持你脱光。"
 
 # game/script day12.rpy:5775
 translate Chinese day12_julian_seedmorocco_f9711091:
 
     # "The canine lets out a drawn-out exhale before he slips from the bed and stands back up, beginning to pull his arm out of his coat."
-    "Nomax长长地叹了口气，顺势从床上挪下来站起身，开始把胳膊从外套里抽出来"
+    "Nomax长长地叹了口气，顺势从床上挪下来站起身，开始把胳膊从外套里抽出来。"
 
 # game/script day12.rpy:5779
 translate Chinese day12_julian_seedmorocco_43b6e6b5:
@@ -10191,31 +10190,31 @@ translate Chinese day12_julian_seedmorocco_43b6e6b5:
 translate Chinese day12_julian_seedmorocco_025cc155:
 
     # "Unlike last time, when you only witnessed the end result, this time you could savor the entire process. Nomax slid the jacket off his back, meticulously folding it at the head of the bed."
-    "上次你只看到了最后的样子，但这一回却能完整看清整个过程，Nomax把外套从背上脱下来，一丝不苟地叠好，放在了床头"
+    "上次你只看到了最后的样子，但这一回却能完整看清整个过程，Nomax把外套从背上脱下来，一丝不苟地叠好，放在了床头。"
 
 # game/script day12.rpy:5790
 translate Chinese day12_julian_seedmorocco_654b30d5:
 
     # "You steal a glance at Julian, who watches with an assured smile. His single finger guides your chin back to focus on the canine."
-    "你偷偷瞥了一眼Julian，他正带着胸有成竹的微笑静静看着，他伸出一根手指，轻轻抬住你的下巴，让你重新把目光落回Nomax身上"
+    "你偷偷瞥了一眼Julian，他正带着胸有成竹的微笑静静看着，他伸出一根手指，轻轻抬住你的下巴，让你重新把目光落回Nomax身上。"
 
 # game/script day12.rpy:5799
 translate Chinese day12_julian_seedmorocco_4c0e4117:
 
     # j "That's where the music's playing."
-    j "好戏正在那儿上演呢"
+    j "好戏正在那儿上演呢。"
 
 # game/script day12.rpy:5803
 translate Chinese day12_julian_seedmorocco_c34389fe:
 
     # "His hand drops from your chin to your chest, leaving you with three gentle pats before returning to himself."
-    "他的手从你的下巴滑到胸口，轻轻拍了三下便收了回去"
+    "他的手从你的下巴滑到胸口，轻轻拍了三下便收了回去。"
 
 # game/script day12.rpy:5805
 translate Chinese day12_julian_seedmorocco_a56a404a:
 
     # "Button after button, Nomax undoes his shirt, revealing the view of his spotted fur."
-    "Nomax一颗一颗地解开衬衫纽扣，身上带斑点的皮毛也随之慢慢展露无遗"
+    "Nomax一颗一颗地解开衬衫纽扣，身上带斑点的皮毛也随之慢慢展露无遗。"
 
 # game/script day12.rpy:5807
 translate Chinese day12_julian_seedmorocco_f3b8b22c:
@@ -10227,49 +10226,49 @@ translate Chinese day12_julian_seedmorocco_f3b8b22c:
 translate Chinese day12_julian_seedmorocco_568a12d3:
 
     # "Like the jacket before it, his shirt and cravat were both neatly placed on top of it. The fur of his now bare torso shifted with each movement, shimmering softly in the warm light of the cabin."
-    "和之前那件外套一样，他把衬衫和领巾也整整齐齐叠放在上面，他赤裸的上身皮毛随着每个动作轻轻拂动，在船舱温暖的光线里泛着柔和的微光"
+    "和之前那件外套一样，他把衬衫和领巾也整整齐齐叠放在上面，他赤裸的上身皮毛随着每个动作轻轻拂动，在船舱温暖的光线里泛着柔和的微光。"
 
 # game/script day12.rpy:5811
 translate Chinese day12_julian_seedmorocco_64af1d6a:
 
     # "You see Julian's hand moving in your periphery, down between his legs where he begins to massage himself quite openly."
-    "你用余光注意到Julian的手移动到他的胯下，开始相当暴露地抚慰着自己"
+    "你用余光注意到Julian的手移动到他的胯下，开始相当暴露地抚慰着自己。"
 
 # game/script day12.rpy:5813
 translate Chinese day12_julian_seedmorocco_6a556088:
 
     # "The folds of his pants shift under his touch as he runs his fingers over the spot where you know his slit to be."
-    "他裤子的褶皱在抚慰下移动着，他的手指划过你知道是他肉缝所在的位置"
+    "他裤子的褶皱在抚慰下移动着，他的手指划过你知道是他肉缝所在的位置。"
 
 # game/script day12.rpy:5815
 translate Chinese day12_julian_seedmorocco_711e5754:
 
     # "You do feel the anticipation brewing in yourself, maybe a touch or two wouldn't be the worst idea..."
-    "你的的确确地感受到了自己体内酝酿的兴奋，也许撸动一两下也不算是坏主意"
+    "你的的确确地感受到了自己体内酝酿的兴奋，也许撸动一两下也不算是坏主意……"
 
 # game/script day12.rpy:5830
 translate Chinese day12_julian_seedmorocco_df59ec8c:
 
     # "Seeing Julian do it gives you enough courage to join him, and you let your own paw wander."
-    "看到Julian公然地刺激自己这件事会给你足够的勇气加入他，你也让自己的爪子四处移动着"
+    "看到Julian公然地刺激自己这件事会给你足够的勇气加入他，你也让自己的爪子四处移动着。"
 
 # game/script day12.rpy:5832
 translate Chinese day12_julian_seedmorocco_4ef3ad43:
 
     # "Pulling them across the mattress first, you let your legs lean apart slightly and cup the curve of your pouch."
-    "你先把自己的肉棒从内裤中释放出来，双腿微微张开，用手掌捧住自己的蛋蛋"
+    "你先把自己的肉棒从内裤中释放出来，双腿微微张开，用手掌捧住自己的蛋蛋。"
 
 # game/script day12.rpy:5834
 translate Chinese day12_julian_seedmorocco_35a425e7:
 
     # "Even though your pants block any direct contact, it still sends a pleasant sensation up your spine as you run your thumb over the bulge of your sheath."
-    "尽管你的裤子阻挡了任何直接的抚摸，但当你带有肉垫的拇指滑过你自己的肉棒时，仍旧有一股愉悦的快感用上你的大脑"
+    "尽管你的裤子阻挡了任何直接的抚摸，但当你带有肉垫的拇指滑过你自己的肉棒时，仍旧有一股愉悦的快感用上你的大脑。"
 
 # game/script day12.rpy:5838
 translate Chinese day12_julian_seedmorocco_07b8a4d4:
 
     # "Though tempted, you decide against it and just shift around on the mattress."
-    "尽管非常的诱人，但你还是决定不那样做，只是挪动了自己身体"
+    "尽管非常的诱人，但你还是决定不那样做，只是挪动了自己身体。"
 
 # game/script day12.rpy:5840
 translate Chinese day12_julian_seedmorocco_e493447e:
@@ -10281,13 +10280,13 @@ translate Chinese day12_julian_seedmorocco_e493447e:
 translate Chinese day12_julian_seedmorocco_4dd5a88a:
 
     # "With his tongue instead of your own paw, no less."
-    "更何况他会用他的舌头帮你，这比你的爪子爽多了"
+    "更何况他会用他的舌头帮你，这比你的爪子爽多了。"
 
 # game/script day12.rpy:5844
 translate Chinese day12_julian_seedmorocco_697f6a63:
 
     # "That is, if you don't get hard just watching."
-    "也就是说，如果你的肉棒只是光看着而不会起立的话"
+    "也就是说，如果你的肉棒只是光看着而不会起立的话。"
 
 # game/script day12.rpy:5846
 translate Chinese day12_julian_seedmorocco_6f646875:
@@ -10299,49 +10298,49 @@ translate Chinese day12_julian_seedmorocco_6f646875:
 translate Chinese day12_julian_seedmorocco_4fbe231f:
 
     # p "Every bit as handsome."
-    p "每一处都还是那么秀色可餐"
+    p "每一处都还是那么秀色可餐。"
 
 # game/script day12.rpy:5850
 translate Chinese day12_julian_seedmorocco_5634f87a:
 
     # p "Just wait until he steps out of those, though."
-    p "不过，还是等他脱掉那些衣服再看吧"
+    p "不过，还是等他脱掉那些衣服再看吧。"
 
 # game/script day12.rpy:5854
 translate Chinese day12_julian_seedmorocco_b6bb46ec:
 
     # "Nomax probably didn't mind that he wasn't looking at you two as he begins to fulfill your wish and steps out of the white trousers."
-    "Nomax似乎并不在乎，他没有看向你们俩，反而他开始顺着你的心意，迈步褪去了白色长裤"
+    "Nomax似乎并不在乎，他没有看向你们俩，反而他开始顺着你的心意，迈步褪去了白色长裤。"
 
 # game/script day12.rpy:5859
 translate Chinese day12_julian_seedmorocco_cf9dedd6:
 
     # "You watch with rapt attention as he bends slightly and pulls them over his hips, until they are low enough to slide the rest of the way on their own."
-    "你目不转睛地看着他微微躬身，把长裤从屁股拉下，直到滑到一定位置，便自行滑落"
+    "你目不转睛地看着他微微躬身，把长裤从屁股拉下，直到滑到一定位置，便自行滑落。"
 
 # game/script day12.rpy:5861
 translate Chinese day12_julian_seedmorocco_76784f6d:
 
     # "They, too, are picked up from the floor and folded together with the rest."
-    "他也将地上的衣物捡起，和别的衣服一起整齐叠好"
+    "他也将地上的衣物捡起，和别的衣服一起整齐叠好。"
 
 # game/script day12.rpy:5863
 translate Chinese day12_julian_seedmorocco_d4a21075:
 
     # "It would be a casual scene of him folding the last piece of clothing together if it weren't for the fact that you get a full view of...{w} Well, {i}everything{/i}."
-    "原本只是他叠好最后一件衣服的普通画面，可你却完完整整地看清了…… {w}没错，{i}所有一切{/i}的光景"
+    "原本只是他叠好最后一件衣服的普通画面，可你却完完整整地看清了…… {w}没错，{i}所有一切{/i}的光景。"
 
 # game/script day12.rpy:5867
 translate Chinese day12_julian_seedmorocco_8e255c10:
 
     # "And the fact that he does it in a room with Julian and you openly enjoying it."
-    "更何况他就在房间里当着你和Julian的面这么做，而你们也坦然享受着眼前的一切"
+    "更何况他就在房间里当着你和Julian的面这么做，而你们也坦然享受着眼前的一切。"
 
 # game/script day12.rpy:5871
 translate Chinese day12_julian_seedmorocco_5640d281:
 
     # "And for Julian enjoying it rather openly."
-    "而Julian更是毫不避讳地享受着眼前一切"
+    "而Julian更是毫不避讳地享受着眼前一切。"
 
 # game/script day12.rpy:5880
 translate Chinese day12_julian_seedmorocco_7074786f:
@@ -10353,13 +10352,13 @@ translate Chinese day12_julian_seedmorocco_7074786f:
 translate Chinese day12_julian_seedmorocco_7b255216:
 
     # "Julian hums for a moment as he slowly takes in the sight of the naked canine, making doubly sure to linger between his legs before he turns to look at you."
-    "Julian轻哼了一会儿，慢慢打量着赤裸着的Nomax，眼神特意地在他双腿之间弥留片刻，然后才转头看向你"
+    "Julian轻哼了一会儿，慢慢打量着赤裸着的Nomax，眼神特意地在他双腿之间弥留片刻，然后才转头看向你。"
 
 # game/script day12.rpy:5884
 translate Chinese day12_julian_seedmorocco_58d8fb10:
 
     # j "Not one bit. He looks as good as you made him sound back then."
-    j "一点都没有夸大，他本人就和你当初形容的一样美味"
+    j "一点都没有夸大，他本人就和你当初形容的一样美味。"
 
 # game/script day12.rpy:5888
 translate Chinese day12_julian_seedmorocco_3d85b545:
@@ -10377,7 +10376,7 @@ translate Chinese day12_julian_seedmorocco_362ae37f:
 translate Chinese day12_julian_seedmorocco_75fbc2ed:
 
     # j "Mhm... No wonder you went and fucked him."
-    j "嗯……难怪你找他做了"
+    j "嗯……难怪你找他做了。"
 
 # game/script day12.rpy:5896
 translate Chinese day12_julian_seedmorocco_cc3947f6:
@@ -10389,67 +10388,67 @@ translate Chinese day12_julian_seedmorocco_cc3947f6:
 translate Chinese day12_julian_seedmorocco_c6f9c3e9:
 
     # "Nomax looks over his shoulder as he answers."
-    "Nomax回头看了一眼，回答道"
+    "Nomax回头看了一眼，回答道。"
 
 # game/script day12.rpy:5906
 translate Chinese day12_julian_seedmorocco_82bb9a08:
 
     # n "No."
-    n "没有"
+    n "没有。"
 
 # game/script day12.rpy:5914
 translate Chinese day12_julian_seedmorocco_db4a0df0:
 
     # j "Was worth a try."
-    j "值得一试"
+    j "值得一试。"
 
 # game/script day12.rpy:5916
 translate Chinese day12_julian_seedmorocco_fa9b92e6:
 
     # "The lizard returns with a cheeky grin."
-    "Julian转过身来，脸上挂着一脸坏坏的笑意"
+    "Julian转过身来，脸上挂着一脸坏坏的笑意。"
 
 # game/script day12.rpy:5920
 translate Chinese day12_julian_seedmorocco_42f3052c:
 
     # j "Now you can get over here, though."
-    j "现在你可以过来了"
+    j "现在你可以过来了。"
 
 # game/script day12.rpy:5927
 translate Chinese day12_julian_seedmorocco_7459d373:
 
     # "You watch as he turns again and sits down on the edge of the bed between you and Julian."
-    "你看着他再次转身，走到床边，正好坐在你和Julian中间的床沿"
+    "你看着他再次转身，走到床边，正好坐在你和Julian中间的床沿。"
 
 # game/script day12.rpy:5933
 translate Chinese day12_julian_seedmorocco_a10364dd:
 
     # "The pointed tip of your cock rests against your thumb while you squeeze your sheath, coaxing yourself out further to the thought of what his snout must feel like."
-    "你用拇指挑逗着自己的龟头，紧握着根部，试图让自己更深入，想象着插入他的嘴里会是什么感觉"
+    "你用拇指挑逗着自己的龟头，紧握着根部，试图让自己更深入，想象着插入他的嘴里会是什么感觉。"
 
 # game/script day12.rpy:5935
 translate Chinese day12_julian_seedmorocco_164769b8:
 
     # "Looking over at Julian, he seems to be a little further along than you, already sporting a noticeable bump where his palm rests."
-    "你看向Julian，他似乎比你更兴奋一些，手掌覆盖的地方已经出现一个明显的隆起"
+    "你看向Julian，他似乎比你更兴奋一些，手掌覆盖的地方已经出现一个明显的隆起。"
 
 # game/script day12.rpy:5939
 translate Chinese day12_julian_seedmorocco_da929e52:
 
     # "Julian already seems to sport a noticeable bump where his palm rests, and your memory returns to the evening the two of you spent together."
-    "Julian手掌覆盖的地方已经出现一个明显的隆起，这让你的记忆溯洄至你们二人共度的那晚"
+    "Julian手掌覆盖的地方已经出现一个明显的隆起，这让你的记忆溯洄至你们二人共度的那晚。"
 
 # game/script day12.rpy:5941
 translate Chinese day12_julian_seedmorocco_efe0498e:
 
     # "Between the two of you, he easily has the better view, as he is lucky enough to have the painted dog facing him, while you get to enjoy his back though not much else."
-    "在你们之中，显然他的视野更好，因为他有幸正对着Nomax，而你只能看到他的后背，除此之外也没什么可看的"
+    "在你们之中，显然他的视野更好，因为他有幸正对着Nomax，而你只能看到他的后背，除此之外也没什么可看的。"
 
 # game/script day12.rpy:5943
 translate Chinese day12_julian_seedmorocco_4b6cec5e:
 
     # "But you do get to appreciate the soft curve of his spine that runs down to his rump, its shape, along with his fur, flattened under his own weight."
-    "但你其实可以欣赏到他从脊背延伸到臀部的柔和曲线，它的形状连同他的毛发，都在自身的重量下被压扁"
+    "但你其实可以欣赏到他从脊背延伸到臀部的柔和曲线，它的形状连同他的毛发，都在自身的重量下被压扁。"
 
 # game/script day12.rpy:5947
 translate Chinese day12_julian_seedmorocco_4f449b04:
@@ -10479,25 +10478,25 @@ translate Chinese day12_julian_seedmorocco_33be8352:
 translate Chinese day12_julian_seedmorocco_a2dd23a8:
 
     # "The answer doesn't sound like he really thought about it and just went with the first thing that came to mind."
-    "他听着根本没认真多想便回答了，完全是脑子里想到什么就随口说了什么"
+    "他听着根本没认真多想便回答了，完全是脑子里想到什么就随口说了什么。"
 
 # game/script day12.rpy:5966
 translate Chinese day12_julian_seedmorocco_3b442967:
 
     # "Not that Julian seems to mind. He hooks his thumbs under his breeches and lifts his butt to slide them down."
-    "看起来Julian并不介意，他用拇指钩住裤子下摆，抬起屁股将裤子褪下"
+    "看起来Julian并不介意，他用拇指钩住裤子下摆，抬起屁股将裤子褪下。"
 
 # game/script day12.rpy:5971
 translate Chinese day12_julian_seedmorocco_43aad042:
 
     # "It brings the pale yellow scales of his crotch into the warm light of the room. From where you sit, they appear an almost luminous orange, the way they reflect the light of the lamp."
-    "这让他胯部苍黄色的鳞片暴露在房间温暖的光线中，从你坐的地方看，它们反射着灯光，呈现出几近发亮的橙色"
+    "这让他胯部苍黄色的鳞片暴露在房间温暖的光线中，从你坐的地方看，它们反射着灯光，呈现出几近发亮的橙色。"
 
 # game/script day12.rpy:5973
 translate Chinese day12_julian_seedmorocco_61dfaf5d:
 
     # "For a second his cock catches on the breeches before it springs free and lands unceremoniously on his white shirt."
-    "他的肉棒被裤子勾住了一瞬间，随后弹出，不偏不倚地落在他的白衬衫上"
+    "他的肉棒被裤子勾住了一瞬间，随后弹出，不偏不倚地落在他的白衬衫上。"
 
 # game/script day12.rpy:5975
 translate Chinese day12_julian_seedmorocco_003b817a:
@@ -10509,175 +10508,175 @@ translate Chinese day12_julian_seedmorocco_003b817a:
 translate Chinese day12_julian_seedmorocco_a5acc277:
 
     # j "Don't be shy."
-    j "别那么害羞"
+    j "别那么害羞。"
 
 # game/script day12.rpy:5986
 translate Chinese day12_julian_seedmorocco_e119bec2:
 
     # "Nomax is, and very much looks the part. He lowers his head to waist level above the lizard's crotch."
-    "Nomax看起来害羞得相当明显，他将头低到Julian胯部前"
+    "Nomax看起来害羞得相当明显，他将头低到Julian胯部前。"
 
 # game/script day12.rpy:5990
 translate Chinese day12_julian_seedmorocco_0d74edaf:
 
     # "The smile on Julian's lips is unmistakable, as is his excitement."
-    "Julian嘴角的笑意十分明显，那份相当雀跃地期待也一目了然"
+    "Julian嘴角的笑意十分明显，那份相当雀跃地期待也一目了然。"
 
 # game/script day12.rpy:5992
 translate Chinese day12_julian_seedmorocco_be42fde7:
 
     # "His cock twitches in anticipation as Nomax leans in close."
-    "当Nomax靠近时，他的肉棒因兴奋而抽动着"
+    "当Nomax靠近时，他的肉棒因兴奋而抽动着。"
 
 # game/script day12.rpy:5994
 translate Chinese day12_julian_seedmorocco_e5aae739:
 
     # "Where before you struggled to see much of the canine, you now have prime seats for both of them as Nomax climbs onto the bed on all fours."
-    "之前你很难看清Nomax的大部分，现在当他四肢着地爬上床时，你现在有着绝佳的视角欣赏着他们"
+    "之前你很难看清Nomax的大部分，现在当他四肢着地爬上床时，你现在有着绝佳的视角欣赏着他们。"
 
 # game/script day12.rpy:5996
 translate Chinese day12_julian_seedmorocco_fc9da90e:
 
     # "His own equipment hangs freely beneath him."
-    "他自己的肉棒自由地悬垂在他身下"
+    "他自己的肉棒自由地悬垂在他身下。"
 
 # game/script day12.rpy:5998
 translate Chinese day12_julian_seedmorocco_6b5f3b6d:
 
     # "Completely soft himself."
-    "他自己却没有起立"
+    "他自己却没有起立。"
 
 # game/script day12.rpy:6000
 translate Chinese day12_julian_seedmorocco_e76a69bd:
 
     # "Cute."
-    "可爱"
+    "可爱。"
 
 # game/script day12.rpy:6004
 translate Chinese day12_julian_seedmorocco_ead6a5d6:
 
     # "Julian reaches down around the base of his length and pushes it up so that his cock slides right over Nomax's snout."
-    "Julian伸手握住自己肉棒的根部并向上推，让他的肉棒滑过Nomax的吻部"
+    "Julian伸手握住自己肉棒的根部并向上推，让他的肉棒滑过Nomax的吻部。"
 
 # game/script day12.rpy:6008
 translate Chinese day12_julian_seedmorocco_cb702286:
 
     # j "Open up."
-    j "张嘴"
+    j "张嘴。"
 
 # game/script day12.rpy:6010
 translate Chinese day12_julian_seedmorocco_98301ccc:
 
     # "The canine does as he is told and Julian runs the pointed tip over his tongue, a teasing touch at first, before helping his length further along his tongue."
-    "Nomax照做了，Julian先是戏弄般地将龟头划过他的舌头，随后将肉棒往舌头更深处插入"
+    "Nomax照做了，Julian先是戏弄般地将龟头划过他的舌头，随后将肉棒往舌头更深处插入。"
 
 # game/script day12.rpy:6012
 translate Chinese day12_julian_seedmorocco_bd3bc7b9:
 
     # "A moment later, Nomax's own paw pushes Julian's aside as he takes more control himself and begins to settle into a slow rhythm of sucking Julian's shaft."
-    "片刻后，Nomax用爪子推开Julian爪子，开始慢慢地掌控节奏，吸吮Julian的肉棒"
+    "片刻后，Nomax用爪子推开Julian爪子，开始慢慢地掌控节奏，吸吮Julian的肉棒。"
 
 # game/script day12.rpy:6016
 translate Chinese day12_julian_seedmorocco_337f166a:
 
     # j "Mhm, he {i}is{/i} nice."
-    j "嗯，他的活计{i}确实{/i}不错"
+    j "嗯，他的活计{i}确实{/i}不错。"
 
 # game/script day12.rpy:6018
 translate Chinese day12_julian_seedmorocco_89a94372:
 
     # j "You weren't lying."
-    j "你没说谎"
+    j "你没说谎。"
 
 # game/script day12.rpy:6020
 translate Chinese day12_julian_seedmorocco_5dfa62cd:
 
     # "Watching those two just edges your own excitement along."
-    "你看着那两个人，自己的兴奋也在逐渐地积累着"
+    "你看着那两个人，自己的兴奋也在逐渐地积累着。"
 
 # game/script day12.rpy:6022
 translate Chinese day12_julian_seedmorocco_727e329e:
 
     # "Listening to the tender suckles coming from Nomax, the heavy breaths from Julian."
-    "听着Nomax发出轻柔的吮吸声，以及Julian沉重的呼吸声"
+    "听着Nomax发出轻柔的吮吸声，以及Julian沉重的呼吸声。"
 
 # game/script day12.rpy:6028
 translate Chinese day12_julian_seedmorocco_cd704ca3:
 
     # "You almost feel overdressed watching them."
-    "你看着他们，反倒觉得自己穿得太过多余了"
+    "你看着他们，反倒觉得自己穿得太过多余了。"
 
 # game/script day12.rpy:6030
 translate Chinese day12_julian_seedmorocco_671bdb74:
 
     # "Almost."
-    "很多余"
+    "很多余。"
 
 # game/script day12.rpy:6034
 translate Chinese day12_julian_seedmorocco_6237bb4b:
 
     # "Though you do push your own paw under the lining of your breeches, coaxing yourself out of your sheath without the fabric in the way of your paw."
-    "不过你还是把自己的爪子伸入了内裤里，在没有布料阻碍的情况下，你让自己的肉棒从鞘中探出来"
+    "不过你还是把自己的爪子伸入了内裤里，在没有布料阻碍的情况下，你让自己的肉棒从鞘中探出来。"
 
 # game/script day12.rpy:6036
 translate Chinese day12_julian_seedmorocco_41669de5:
 
     # "The pads of your fingers find the smooth and naked flesh of your own length, and as you continue down, the soft fur of your testicles."
-    "你指腹的肉垫触碰到肉棒光滑裸露的皮肤，继续往下摸到自己蛋蛋的柔软毛发"
+    "你指腹的肉垫触碰到肉棒光滑裸露的皮肤，继续往下摸到自己蛋蛋的柔软毛发。"
 
 # game/script day12.rpy:6040
 translate Chinese day12_julian_seedmorocco_f6a58cf6:
 
     # "It's a struggle not to reach down and touch yourself at this point."
-    "在这个时候，你很难不去伸手抚慰自己"
+    "在这个时候，你很难不去伸手抚慰自己。"
 
 # game/script day12.rpy:6042
 translate Chinese day12_julian_seedmorocco_dfcd298e:
 
     # "Instead of doing that, you slide closer to them, your leg brushing against the fur of Nomax's own."
-    "你没有那样做，而是向他们靠近，你的腿蹭到了Nomax他自己的毛发"
+    "你没有那样做，而是向他们靠近，你的腿蹭到了Nomax他自己的毛发。"
 
 # game/script day12.rpy:6044
 translate Chinese day12_julian_seedmorocco_233864b9:
 
     # "For a moment he moves his legs closer together, but he must have found it uncomfortable and brings his leg over yours instead."
-    "他把腿稍微靠拢了一会儿，但他应该是又觉得不舒服，于是把腿搭在你的腿上"
+    "他把腿稍微靠拢了一会儿，但他应该是又觉得不舒服，于是把腿搭在你的腿上。"
 
 # game/script day12.rpy:6046
 translate Chinese day12_julian_seedmorocco_27d33aa6:
 
     # "Much to your pleasure, as it just means he has to spread his legs a little further."
-    "这让你非常兴奋，这意味着他不得不把腿张得更开一些"
+    "这让你非常兴奋，这意味着他不得不把腿张得更开一些。"
 
 # game/script day12.rpy:6048
 translate Chinese day12_julian_seedmorocco_2505f49a:
 
     # p "You two don't look too bad together."
-    p "你们两个在一起看起来还不错"
+    p "你们两个在一起看起来还不错。"
 
 # game/script day12.rpy:6050
 translate Chinese day12_julian_seedmorocco_c132a717:
 
     # "Nomax doesn't stop sucking the lizard, but you can see him peeking over his glasses."
-    "Nomax没有停止吮吸Julian的肉棒，但你能看到他从眼镜上方偷喵"
+    "Nomax没有停止吮吸Julian的肉棒，但你能看到他从眼镜上方偷喵。"
 
 # game/script day12.rpy:6052
 translate Chinese day12_julian_seedmorocco_5e28bdcd:
 
     # "Julian cocks his head with a satisfied grin."
-    "Julian歪着头，露出非常满意的笑容"
+    "Julian歪着头，露出非常满意的笑容。"
 
 # game/script day12.rpy:6058
 translate Chinese day12_julian_seedmorocco_1a4eb96f:
 
     # j "He does look good down there."
-    j "他被操时看起来确实很美味"
+    j "他被操时看起来确实很美味。"
 
 # game/script day12.rpy:6060
 translate Chinese day12_julian_seedmorocco_ca1338df:
 
     # "Julian's paw settles on the back of the canine's head pushing his ears down and guiding his motions."
-    "Julian的爪子落在Nomax的后脑勺上，压低了它的耳朵，引导着他吮吸的动作"
+    "Julian的爪子落在Nomax的后脑勺上，压低了它的耳朵，引导着他吮吸的动作。"
 
 # game/script day12.rpy:6062
 translate Chinese day12_julian_seedmorocco_719b4d80:
@@ -10689,25 +10688,25 @@ translate Chinese day12_julian_seedmorocco_719b4d80:
 translate Chinese day12_julian_seedmorocco_17a2176d:
 
     # "All you get back is a moan."
-    "你只得到一声呻吟作为回应"
+    "你只得到一声呻吟作为回应。"
 
 # game/script day12.rpy:6070
 translate Chinese day12_julian_seedmorocco_022091be:
 
     # p "Sounds like a yes."
-    p "听起来像是肯定"
+    p "听起来像是肯定。"
 
 # game/script day12.rpy:6072
 translate Chinese day12_julian_seedmorocco_2e74a4c0:
 
     # "Not only does he moan, but you notice the time between his moans steadily decreasing."
-    "Nomax仍旧在呻吟，而且你注意到他呻吟的间隔在稳步缩短"
+    "Nomax仍旧在呻吟，而且你注意到他呻吟的间隔在稳步缩短。"
 
 # game/script day12.rpy:6074
 translate Chinese day12_julian_seedmorocco_24b53b6a:
 
     # p "And like someone is getting close."
-    p "看起来有人快射了"
+    p "看起来有人快射了。"
 
 # game/script day12.rpy:6076
 translate Chinese day12_julian_seedmorocco_da78068d:
@@ -10719,31 +10718,31 @@ translate Chinese day12_julian_seedmorocco_da78068d:
 translate Chinese day12_julian_seedmorocco_dc1fec93:
 
     # "You watch his fingers combing through the fur on the back of Nomax's head, claw tips grazing the skin underneath as Julian lets his palm glide down along the painted dog's head."
-    "你看着他的手指梳过Nomax脑后的毛发，指尖轻轻掠过下面的皮肤，Julian的手沿着他的头滑下"
+    "你看着他的手指梳过Nomax脑后的毛发，指尖轻轻掠过下面的皮肤，Julian的手沿着他的头滑下。"
 
 # game/script day12.rpy:6082
 translate Chinese day12_julian_seedmorocco_f974939f:
 
     # "Urgently he brings his paw around the dog's cheek to wrap it around his muzzle, to further control him."
-    "他急切地用爪子环住Nomax的脸颊，用爪子握住的吻部，进一步地控制它"
+    "他急切地用爪子环住Nomax的脸颊，用爪子握住的吻部，进一步地控制它。"
 
 # game/script day12.rpy:6086
 translate Chinese day12_julian_seedmorocco_3bdaf297:
 
     # "Julian takes the reins bit by bit with his building climax, even pushing his hips up to force more of his length down Nomax's throat.{w} Far enough that it made the poor guy choke."
-    "Julian在射之前一点点地掌控了口交的主导权，甚至抬起臀部，将肉棒插入Nomax喉咙的更深处，{w} 深入到引起了Nomax的呕吐反射"
+    "Julian在射之前一点点地掌控了口交的主导权，甚至抬起臀部，将肉棒插入Nomax喉咙的更深处，{w} 深入到引起了Nomax的呕吐反射。"
 
 # game/script day12.rpy:6092
 translate Chinese day12_julian_seedmorocco_12997478:
 
     # "You feel your own cock twitch in your paw as he does."
-    "当他这样做时，你感觉自己的肉棒也在在爪子里抽动"
+    "当他这样做时，你感觉自己的肉棒也在在爪子里抽动。"
 
 # game/script day12.rpy:6094
 translate Chinese day12_julian_seedmorocco_2a696e57:
 
     # "The breeches feel too constricting at this point. A quick back and forth in your mind later, you undo the buttons and slide them down far enough to free your erection."
-    "此时穿着的裤子感觉太紧了，脑海里快速思考后，你解开扣子，褪下得足够多，露出了你起立着的肉棒"
+    "此时穿着的裤子感觉太紧了，脑海里快速思考后，你解开扣子，褪下得足够多，露出了你起立着的肉棒。"
 
 # game/script day12.rpy:6096
 translate Chinese day12_julian_seedmorocco_9d8ccd32:
@@ -10755,73 +10754,73 @@ translate Chinese day12_julian_seedmorocco_9d8ccd32:
 translate Chinese day12_julian_seedmorocco_703924b2:
 
     # "Neither of them really notices, Julian is far too close to his climax, and Nomax? He is too busy dealing with Julian's pent-up desire."
-    "他们都没怎么注意到你，Julian即将高潮，Nomax？他忙着处理Julian积压的欲望"
+    "他们都没怎么注意到你，Julian即将高潮，Nomax？他忙着处理Julian积压的欲望。"
 
 # game/script day12.rpy:6103
 translate Chinese day12_julian_seedmorocco_0fdaaae0:
 
     # "Julian's jagged grunt fills the air, and for one urgent thrust he pushes himself as far into Nomax's muzzle as he will allow."
-    "Julian尖锐的呻吟弥漫在了空气中，在一次急切地挺进中中，他尽可能地把肉棒推入Nomax嘴里更深处"
+    "Julian尖锐的呻吟弥漫在了空气中，在一次急切地挺进中中，他尽可能地把肉棒推入Nomax嘴里更深处。"
 
 # game/script day12.rpy:6105
 translate Chinese day12_julian_seedmorocco_87e1809d:
 
     # "His other hand wraps around the snout, holding it firmly in place as you watch his orgasm wash through his body."
-    "他的另一只手握住了吻部，牢牢地握着，你就这样看着他射精，快感席卷了他全身"
+    "他的另一只手握住了吻部，牢牢地握着，你就这样看着他射精，快感席卷了他全身。"
 
 # game/script day12.rpy:6107
 translate Chinese day12_julian_seedmorocco_c09e5d82:
 
     # "Tension ripples through his muscles, the lizard lost in utter bliss."
-    "紧张感在他的肌肉中荡漾，Julian沉浸在机制的愉悦中"
+    "紧张感在他的肌肉中荡漾，Julian沉浸在机制的愉悦中。"
 
 # game/script day12.rpy:6111
 translate Chinese day12_julian_seedmorocco_86c62652:
 
     # "He looks cute when he cums."
-    "他射精时真可爱"
+    "他射精时真可爱。"
 
 # game/script day12.rpy:6113
 translate Chinese day12_julian_seedmorocco_1b47ea40:
 
     # "With his eyes closed... That adorably tense but silly smile."
-    "他闭着双眼……那笑容又拘谨又傻气，格外惹人怜爱"
+    "他闭着双眼……那笑容又拘谨又傻气，格外惹人怜爱。"
 
 # game/script day12.rpy:6115
 translate Chinese day12_julian_seedmorocco_a3e9c36b:
 
     # "Not a worry in the world."
-    "如此的无忧无虑"
+    "如此的无忧无虑。"
 
 # game/script day12.rpy:6117
 translate Chinese day12_julian_seedmorocco_d2f5a441:
 
     # "Unlike Nomax, who seems fully focused on dealing with what the lizard is delivering to the back of his throat."
-    "而Nomax完全不同，他似乎完全专注于处理Julian射在喉咙后部的精液"
+    "而Nomax完全不同，他似乎完全专注于处理Julian射在喉咙后部的精液。"
 
 # game/script day12.rpy:6119
 translate Chinese day12_julian_seedmorocco_8ed58f00:
 
     # "He's doing well."
-    "他口活很好"
+    "他口活很好。"
 
 # game/script day12.rpy:6121
 translate Chinese day12_julian_seedmorocco_6a4329d4:
 
     # "Only a small trail runs down his lips and Julian's length to pool in the plush crevice of his slit."
-    "只有一小流精液沿着他的嘴唇和Julian的肉棒流下，汇聚在他柔软的肉缝处"
+    "只有一小流精液沿着他的嘴唇和Julian的肉棒流下，汇聚在他柔软的肉缝处。"
 
 # game/script day12.rpy:6125
 translate Chinese day12_julian_seedmorocco_44edae35:
 
     # "The climax fades as quickly as it came, Julian's body softening again as he keeps clinging to Nomax's snout. At the first opportunity he pulls back and takes a few deep breaths."
-    "射精时的愉悦感来的快去的也快，Julian的身体再次变得柔软，但他仍旧紧紧地握住Nomax的吻部，一有机会，他便后退几步，深呼吸几次"
+    "射精时的愉悦感来的快去的也快，Julian的身体再次变得柔软，但他仍旧紧紧地握住Nomax的吻部，一有机会，他便后退几步，深呼吸几次。"
 
 # game/script day12.rpy:6127
 translate Chinese day12_julian_seedmorocco_3bf1a5f7:
 
     # "Julian peers through half-lidded eyes with a satisfied sigh, his head dropping to face you as if nothing but gravity moves it."
-    "Julian眯起双眼满意轻叹，脑袋无力地垂向你，整副姿态浑然随性，像是任由身体自然下坠一般"
+    "Julian眯起双眼满意轻叹，脑袋无力地垂向你，整副姿态浑然随性，像是任由身体自然下坠一般。"
 
 # game/script day12.rpy:6131
 translate Chinese day12_julian_seedmorocco_4d74b116:
@@ -10833,19 +10832,19 @@ translate Chinese day12_julian_seedmorocco_4d74b116:
 translate Chinese day12_julian_seedmorocco_5201974c:
 
     # p "Not bad."
-    p "很不错"
+    p "很不错。"
 
 # game/script day12.rpy:6137
 translate Chinese day12_julian_seedmorocco_d223cbcd:
 
     # p "He barely spilled a drop."
-    p "他几乎没露出一滴精液"
+    p "他几乎没露出一滴精液。"
 
 # game/script day12.rpy:6139
 translate Chinese day12_julian_seedmorocco_2976f224:
 
     # "Nomax uses the ball of his thumb to wipe away what little caught on his jaw."
-    "Nomax用指腹擦去残留在下巴上的少许精液"
+    "Nomax用指腹擦去残留在下巴上的少许精液。"
 
 # game/script day12.rpy:6145
 translate Chinese day12_julian_seedmorocco_9e81a669:
@@ -10857,7 +10856,7 @@ translate Chinese day12_julian_seedmorocco_9e81a669:
 translate Chinese day12_julian_seedmorocco_da8b581a:
 
     # j "Would you listen to him."
-    j "听听他说的"
+    j "听听他说的。"
 
 # game/script day12.rpy:6149
 translate Chinese day12_julian_seedmorocco_f0c5f5b6:
@@ -10869,13 +10868,13 @@ translate Chinese day12_julian_seedmorocco_f0c5f5b6:
 translate Chinese day12_julian_seedmorocco_31d7b755:
 
     # p "Right?{w} He was playing coy 5 minutes ago and now he can't wait to get another taste."
-    p "是吧？{w}五分钟前还在装矜持，现在却迫不及待想再来一次"
+    p "是吧？{w}五分钟前还在装矜持，现在却迫不及待想再来一次。"
 
 # game/script day12.rpy:6155
 translate Chinese day12_julian_seedmorocco_f04d6f6f:
 
     # j "You should take your pants off so you can get your turn."
-    j "你应该先把裤子脱了，这样便轮到你了"
+    j "你应该先把裤子脱了，这样便轮到你了。"
 
 # game/script day12.rpy:6157
 translate Chinese day12_julian_seedmorocco_53976138:
@@ -10887,7 +10886,7 @@ translate Chinese day12_julian_seedmorocco_53976138:
 translate Chinese day12_julian_seedmorocco_435796ff:
 
     # p "I want him to do it."
-    p "我想让他来"
+    p "我想让他来。"
 
 # game/script day12.rpy:6163
 translate Chinese day12_julian_seedmorocco_170cc4d6:
@@ -10899,31 +10898,31 @@ translate Chinese day12_julian_seedmorocco_170cc4d6:
 translate Chinese day12_julian_seedmorocco_0d5bc82f:
 
     # p "Get to it, dog."
-    p "开始吧，小狗"
+    p "开始吧，小狗。"
 
 # game/script day12.rpy:6185
 translate Chinese day12_julian_seedmorocco_e3c8a43a:
 
     # "You watch his ears fold against his skull as he shifts on the bed to face you instead of Julian."
-    "你看着他耳朵向后抿贴紧头部，在床上挪了挪身子，避开Julian，转头面向你"
+    "你看着他耳朵向后抿贴紧头部，在床上挪了挪身子，避开Julian，转头面向你。"
 
 # game/script day12.rpy:6205
 translate Chinese day12_julian_seedmorocco_831a798c:
 
     # "He gets the hint and leans over your body to bring his head closer to your crotch."
-    "他明白了你的暗示，俯身靠近你的胯部"
+    "他明白了你的暗示，俯身靠近你的胯部。"
 
 # game/script day12.rpy:6207
 translate Chinese day12_julian_seedmorocco_3c84b8a1:
 
     # j "You're learning."
-    j "你在学习"
+    j "你在学习。"
 
 # game/script day12.rpy:6209
 translate Chinese day12_julian_seedmorocco_73127b0e:
 
     # j "Dogs just need the occasional tug on their chain."
-    j "小狗偶尔需要拉一下链子"
+    j "小狗偶尔需要拉一下链子。"
 
 # game/script day12.rpy:6211
 translate Chinese day12_julian_seedmorocco_506c685a:
@@ -10941,61 +10940,61 @@ translate Chinese day12_julian_seedmorocco_171c688d:
 translate Chinese day12_julian_seedmorocco_3c749781:
 
     # "He rolls his eyes."
-    "他翻了个白眼"
+    "他翻了个白眼。"
 
 # game/script day12.rpy:6219
 translate Chinese day12_julian_seedmorocco_82bb5023:
 
     # "Your attention returns to Nomax and you reach down, holding the base of your length with one hand and cupping his cheek with the other."
-    "你的注意力回到Nomax身上，你伸手兄啊去，一只握住你肉棒的根部，另一只手捧着他的脸颊"
+    "你的注意力回到Nomax身上，你伸手兄啊去，一只握住你肉棒的根部，另一只手捧着他的脸颊。"
 
 # game/script day12.rpy:6227
 translate Chinese day12_julian_seedmorocco_a34e72c1:
 
     # "You urge his lips open as you push your thumb through the corner of his lips. When you manage to open his muzzle enough, you aim your dick between his jaws."
-    "你用拇指轻轻拂过他的嘴角，催促他张开嘴，当你终于撑开他的嘴时，你把肉棒对准他的双颚间"
+    "你用拇指轻轻拂过他的嘴角，催促他张开嘴，当你终于撑开他的嘴时，你把肉棒对准他的双颚间。"
 
 # game/script day12.rpy:6231
 translate Chinese day12_julian_seedmorocco_a2984fee:
 
     # "You watch as Nomax undoes the buttons of your breeches and, pull by pull, exposes the white fur of your crotch."
-    "你看着Nomax解开你裤子的纽扣，露出你胯间的白色毛发"
+    "你看着Nomax解开你裤子的纽扣，露出你胯间的白色毛发。"
 
 # game/script day12.rpy:6233
 translate Chinese day12_julian_seedmorocco_5698e7d5:
 
     # "Julian watches with quiet interest, taking a thorough look as your half-erect length slides out from under your clothes, feline balls resting comfortably beneath."
-    "Julian安静注视着，神色间带着几分饶有兴致，当你半勃的肉棒从衣物下滑出时，那独属于猫科动物般的蛋蛋垂在下方"
+    "Julian安静注视着，神色间带着几分饶有兴致，当你半勃的肉棒从衣物下滑出时，那独属于猫科动物般的蛋蛋垂在下方。"
 
 # game/script day12.rpy:6235
 translate Chinese day12_julian_seedmorocco_9e4a1033:
 
     # "Not waiting for Nomax to take the initiative, you grab the base of one of his ears and make sure he gets a face full of your parts."
-    "你不等Nomax自己主动，而是伸手捏住了他一只耳朵的根部，确保他的脸能完全地埋进你的胯下"
+    "你不等Nomax自己主动，而是伸手捏住了他一只耳朵的根部，确保他的脸能完全地埋进你的胯下。"
 
 # game/script day12.rpy:6253
 translate Chinese day12_julian_seedmorocco_55db7142:
 
     # "His cold snout presses against your balls, yet you keep pushing until his cheek is flush with your genitals."
-    "他冰冷的吻部顶着你的蛋蛋，但你继续推进，直到他的脸颊紧贴着你的肉棒"
+    "他冰冷的吻部顶着你的蛋蛋，但你继续推进，直到他的脸颊紧贴着你的肉棒。"
 
 # game/script day12.rpy:6255
 translate Chinese day12_julian_seedmorocco_1422470c:
 
     # "Not quite satisfied, you keep him there, pushing him this way and that over your junk."
-    "但你还不太满足，你让他停在那里，用你的肉来回蹭弄他的脸"
+    "但你还不太满足，你让他停在那里，用你的肉来回蹭弄他的脸。"
 
 # game/script day12.rpy:6257
 translate Chinese day12_julian_seedmorocco_8d727921:
 
     # "Maybe he'll reek of your scent later."
-    "也许稍后他身上会沾满你的气味"
+    "也许稍后他身上会沾满你的气味。"
 
 # game/script day12.rpy:6259
 translate Chinese day12_julian_seedmorocco_244c6fcd:
 
     # "Wouldn't be the worst."
-    "那也不坏"
+    "那也不坏。"
 
 # game/script day12.rpy:6261
 translate Chinese day12_julian_seedmorocco_599d8cda:
@@ -11007,31 +11006,31 @@ translate Chinese day12_julian_seedmorocco_599d8cda:
 translate Chinese day12_julian_seedmorocco_7d02b6c1:
 
     # "You feel him try to move, perhaps to start by himself, but instead you keep control."
-    "你感到他试图移动，可能是想自己开始，但你依然掌控着局面"
+    "你感到他试图移动，可能是想自己开始，但你依然掌控着局面。"
 
 # game/script day12.rpy:6272
 translate Chinese day12_julian_seedmorocco_5bf7ba0c:
 
     # "You lift his head, aligning yourself with his lips and pushing yourself between them with an eager urgency."
-    "你扬起他的头，将肉棒与他的唇对齐，并急切地把肉棒推进他的唇间"
+    "你扬起他的头，将肉棒与他的唇对齐，并急切地把肉棒推进他的唇间。"
 
 # game/script day12.rpy:6275
 translate Chinese day12_julian_seedmorocco_e48fe867:
 
     # p "It's alright, you can begin whenever you are ready."
-    p "没关系，你准备好了就可以开始"
+    p "没关系，你准备好了就可以开始。"
 
 # game/script day12.rpy:6280
 translate Chinese day12_julian_seedmorocco_774c4fcc:
 
     # j "You're such a gentleman."
-    j "你可真绅士啊"
+    j "你可真绅士啊。"
 
 # game/script day12.rpy:6282
 translate Chinese day12_julian_seedmorocco_d3268095:
 
     # "You raise your hands and fold them behind your back, not a hurry in the world."
-    "你抬起双手背在身后，神情悠然，丝毫没有半点匆忙"
+    "你抬起双手背在身后，神情悠然，丝毫没有半点匆忙。"
 
 # game/script day12.rpy:6284
 translate Chinese day12_julian_seedmorocco_27afe8e0:
@@ -11043,7 +11042,7 @@ translate Chinese day12_julian_seedmorocco_27afe8e0:
 translate Chinese day12_julian_seedmorocco_b0742fef:
 
     # p "The farm boy shaping into someone who enjoys the finer things in life."
-    p "那个田舍郎渐渐长成了懂得享受生活精致美好的人"
+    p "那个田舍郎渐渐长成了懂得享受生活精致美好的人。"
 
 # game/script day12.rpy:6290
 translate Chinese day12_julian_seedmorocco_96e2bc35:
@@ -11055,67 +11054,67 @@ translate Chinese day12_julian_seedmorocco_96e2bc35:
 translate Chinese day12_julian_seedmorocco_1ac9ba13:
 
     # p "Hold your tongue or I'll challenge you to a gentleman's duel."
-    p "闭嘴安分些，否则我便要与你进行一场绅士决斗了"
+    p "闭嘴安分些，否则我便要与你进行一场绅士决斗了。"
 
 # game/script day12.rpy:6300
 translate Chinese day12_julian_seedmorocco_feba9f3b:
 
     # "Nomax slowly shifts his position to face you, bringing his head closer to your crotch."
-    "Nomax慢慢调整着姿势面向你，头靠近你的胯下"
+    "Nomax慢慢调整着姿势面向你，头靠近你的胯下。"
 
 # game/script day12.rpy:6304
 translate Chinese day12_julian_seedmorocco_39044c02:
 
     # "Your own instincts greet him with a throb of your length, lifting it briefly from your belly to meet him."
-    "你自己的本能用你肉棒的悸动迎接他，短暂地将它从腹部抬起与他相遇"
+    "你自己的本能用你肉棒的悸动迎接他，短暂地将它从腹部抬起与他相遇。"
 
 # game/script day12.rpy:6322
 translate Chinese day12_julian_seedmorocco_57e8cb98:
 
     # "His paw settles on your hips, steadying himself as his other lifts your penis."
-    "他的爪子放在你的臀部，稳住自己，另一只手抬起你的肉棒"
+    "他的爪子放在你的臀部，稳住自己，另一只手抬起你的肉棒。"
 
 # game/script day12.rpy:6329
 translate Chinese day12_julian_seedmorocco_02d96a9d:
 
     # "He carefully undoes the buttons of your breeches and, pull by pull, exposes the white fur of your crotch."
-    "他小心地解开你裤子的纽扣，露出你胯间的白色毛发"
+    "他小心地解开你裤子的纽扣，露出你胯间的白色毛发。"
 
 # game/script day12.rpy:6331
 translate Chinese day12_julian_seedmorocco_3a915d94:
 
     # "Julian watches with as much interest as Nomax himself as your half-erect length slides out, feline balls resting comfortably beneath."
-    "Julian和Nomax一样饶有兴趣地看着你半勃的肉棒滑出，那独属于猫科动物般的蛋蛋垂在下方"
+    "Julian和Nomax一样饶有兴趣地看着你半勃的肉棒滑出，那独属于猫科动物般的蛋蛋垂在下方。"
 
 # game/script day12.rpy:6333
 translate Chinese day12_julian_seedmorocco_0876f154:
 
     # "His paw finds them and treats you to a wonderfully measured run of his fingers from the underside of your balls up until they meet the edge of your sheath."
-    "他的爪子找到了它们，用手指动作精准地从蛋蛋下方一路滑到鞘的边缘"
+    "他的爪子找到了它们，用手指动作精准地从蛋蛋下方一路滑到鞘的边缘。"
 
 # game/script day12.rpy:6335
 translate Chinese day12_julian_seedmorocco_56a8b3e2:
 
     # "Just as carefully, he lets his claws graze along the sensitive edge of your sheath, even slipping underneath it for brief moments as he works your growing length."
-    "他同样小心翼翼地让爪子轻轻掠过你鞘内敏感的边缘，甚至短暂地滑入其中，同时抚摸着你逐渐苏醒的肉棒"
+    "他同样小心翼翼地让爪子轻轻掠过你鞘内敏感的边缘，甚至短暂地滑入其中，同时抚摸着你逐渐苏醒的肉棒。"
 
 # game/script day12.rpy:6337
 translate Chinese day12_julian_seedmorocco_aa0dcb25:
 
     # n "You look... cute."
-    n "你看起来……挺可爱的"
+    n "你看起来……挺可爱的。"
 
 # game/script day12.rpy:6339
 translate Chinese day12_julian_seedmorocco_34a14261:
 
     # j "Aw, our cute [name]."
-    j "啊，我们可爱的[name]"
+    j "啊，我们可爱的[name]。"
 
 # game/script day12.rpy:6341
 translate Chinese day12_julian_seedmorocco_8c457cd7:
 
     # "Julian leans in with a goofy grin, and you briefly untie your hands to push his stupid face away."
-    "Julian咧嘴傻笑着凑上前，你暂时松开双手，伸手把他那张蠢萌的脸拨开"
+    "Julian咧嘴傻笑着凑上前，你暂时松开双手，伸手把他那张蠢萌的脸拨开。"
 
 # game/script day12.rpy:6343
 translate Chinese day12_julian_seedmorocco_15c1a46b:
@@ -11127,25 +11126,25 @@ translate Chinese day12_julian_seedmorocco_15c1a46b:
 translate Chinese day12_julian_seedmorocco_a1e391dd:
 
     # n "You look good is what I am trying to say."
-    n "我其实就是想说你这样子挺好看的"
+    n "我其实就是想说你这样子挺好看的。"
 
 # game/script day12.rpy:6347
 translate Chinese day12_julian_seedmorocco_7eb0a694:
 
     # p "I didn't take it like that.{p}Julian's just an idiot, don't listen to him."
-    p "我根本没往那方面想，Julian就是个呆子，别听他胡说八道"
+    p "我根本没往那方面想。{p}Julian就是个呆子，别听他胡说八道。"
 
 # game/script day12.rpy:6366
 translate Chinese day12_julian_seedmorocco_2af3198e:
 
     # "Worked up as you are, it doesn't take long for Nomax to handle your full-grown length in his paws first, and his tongue soon after."
-    "你无比的兴奋，Nomax很快就用爪子摸了摸你完全起立的肉棒，随后舌头也舔了上来"
+    "你无比的兴奋，Nomax很快就用爪子摸了摸你完全起立的肉棒，随后舌头也舔了上来。"
 
 # game/script day12.rpy:6368
 translate Chinese day12_julian_seedmorocco_451357fe:
 
     # "Almost daintily at first, barely touching the tip before he takes you completely into his muzzle."
-    "起初是很轻柔的，几乎没碰到龟头，他就完全含住了你"
+    "起初是很轻柔的，几乎没碰到龟头，他就完全含住了你。"
 
 # game/script day12.rpy:6372
 translate Chinese day12_julian_seedmorocco_617d8b5f:
@@ -11157,19 +11156,19 @@ translate Chinese day12_julian_seedmorocco_617d8b5f:
 translate Chinese day12_julian_seedmorocco_520d4d19:
 
     # "Whatever it was, you give him a moment to collect himself while keeping your cock right where it is."
-    "不管怎样，你给了他一点时间整理，同时保持你的肉棒不动"
+    "不管怎样，你给了他一点时间整理，同时保持你的肉棒不动。"
 
 # game/script day12.rpy:6376
 translate Chinese day12_julian_seedmorocco_f8db3a50:
 
     # j "Don't go too hard on him."
-    j "别对他太粗暴"
+    j "别对他太粗暴。"
 
 # game/script day12.rpy:6385
 translate Chinese day12_julian_seedmorocco_a4f62efc:
 
     # "The warmth of his muzzle was wonderful.{w} At first just a breath against the tip of your cock, but it is immediately followed by the touch of his tongue and lips."
-    "他口腔的温度真是很绝妙，{w}起初只是轻轻呼气，紧接着是他的舌头和嘴唇的触碰"
+    "他口腔的温度真是很绝妙，{w}起初只是轻轻呼气，紧接着是他的舌头和嘴唇的触碰。"
 
 # game/script day12.rpy:6387
 translate Chinese day12_julian_seedmorocco_1ae63947:
@@ -11181,31 +11180,31 @@ translate Chinese day12_julian_seedmorocco_1ae63947:
 translate Chinese day12_julian_seedmorocco_fdecf1cc:
 
     # "You hold him tight, his muzzle hovering not an inch above your belly. Your fur is blown in all directions whenever he exhales through his nose."
-    "你紧紧抱住他，他的口鼻离你的腹部不到一寸，他每次从鼻子里呼气都把你的毛发吹得四散飘拂"
+    "你紧紧抱住他，他的口鼻离你的腹部不到一寸，他每次从鼻子里呼气都把你的毛发吹得四散飘拂。"
 
 # game/script day12.rpy:6393
 translate Chinese day12_julian_seedmorocco_1ce3ee07:
 
     # "Though even now you continue to deny him the freedom to dictate his own pace. With your hand still wrapped around his ear, it's all you."
-    "可直到现在，你依旧不让他自己掌控节奏，你的手还握着他的耳朵，主动权完全在你手上"
+    "可直到现在，你依旧不让他自己掌控节奏，你的手还握着他的耳朵，主动权完全在你手上。"
 
 # game/script day12.rpy:6395
 translate Chinese day12_julian_seedmorocco_43c3aeb4:
 
     # "He follows."
-    "他顺从着"
+    "他顺从着。"
 
 # game/script day12.rpy:6397
 translate Chinese day12_julian_seedmorocco_16a4063c:
 
     # "Up, down,{w} up and down again, only to trap his head right against your crotch once more.{w} To feel yourself throb and leave a glob of pre on his tongue."
-    "上，下，{w}又上又下，最后又把头顶在你的胯间，{w}感受着自己跳动，舌尖上留下一滩先走液"
+    "上，下，{w}又上又下，最后又把头顶在你的胯间，{w}感受着自己跳动，舌尖上留下一滩先走液。"
 
 # game/script day12.rpy:6399
 translate Chinese day12_julian_seedmorocco_5c622b0d:
 
     # "You close your eyes and let a satisfied sigh escape your lips."
-    "你闭上眼，情不自禁吐出一声满足的叹息"
+    "你闭上眼，情不自禁吐出一声满足的叹息。"
 
 # game/script day12.rpy:6401
 translate Chinese day12_julian_seedmorocco_9fc18fea:
@@ -11217,37 +11216,37 @@ translate Chinese day12_julian_seedmorocco_9fc18fea:
 translate Chinese day12_julian_seedmorocco_4036ed65:
 
     # "He tries to shy away. You can feel it as his head pushes back against your palm. But your firm grip makes sure he doesn't get his wish, and his lips remain tight around your cock."
-    "他试图躲闪，你能感觉到他的头向后顶在你的手掌上，但你坚定的握力确保他无法如愿以偿，他的嘴唇依然紧紧包裹着你的肉棒"
+    "他试图躲闪，你能感觉到他的头向后顶在你的手掌上，但你坚定的握力确保他无法如愿以偿，他的嘴唇依然紧紧包裹着你的肉棒。"
 
 # game/script day12.rpy:6405
 translate Chinese day12_julian_seedmorocco_ee3ab4ed:
 
     # "You open one eye to peer down, seeing your cock disappear into his black snout, and be rewarded with the wonderful sensation of his tongue pressing against the underside of your shaft."
-    "你睁开一只眼睛往下看，看到你的肉棒消失在他黑色的口鼻中，随之而来的是他的舌头顶在你肉棒底部的美妙感觉"
+    "你睁开一只眼睛往下看，看到你的肉棒消失在他黑色的口鼻中，随之而来的是他的舌头顶在你肉棒底部的美妙感觉。"
 
 # game/script day12.rpy:6407
 translate Chinese day12_julian_seedmorocco_0eef8972:
 
     # p "You look good...{w} You know, mhm, with a cock down your throat."
-    p "你看起来……相当性感……{w}你知道的，嗯，含着肉棒的样子"
+    p "你看起来……相当性感……{w}你知道的，嗯，含着肉棒的样子。"
 
 # game/script day12.rpy:6409
 translate Chinese day12_julian_seedmorocco_4f2bb654:
 
     # "He can't respond."
-    "他无法回应"
+    "他无法回应。"
 
 # game/script day12.rpy:6411
 translate Chinese day12_julian_seedmorocco_62f4f08d:
 
     # "Not that you would want him to."
-    "你也不希望他回应"
+    "你也不希望他回应。"
 
 # game/script day12.rpy:6413
 translate Chinese day12_julian_seedmorocco_c4c19503:
 
     # "The shade of red that spreads across his snout is answer enough."
-    "他口鼻泛起的那片红晕已然说明了一切"
+    "他口鼻泛起的那片红晕已然说明了一切。"
 
 # game/script day12.rpy:6415
 translate Chinese day12_julian_seedmorocco_55af1c49:
@@ -11259,13 +11258,13 @@ translate Chinese day12_julian_seedmorocco_55af1c49:
 translate Chinese day12_julian_seedmorocco_ec759895:
 
     # "You turn your head to meet Julian's voice, who leisurely strokes himself as he's watching the two of you."
-    "你转过头去，迎向Julian的声音，他悠闲地抚慰着自己，同时看着你们两个"
+    "你转过头去，迎向Julian的声音，他悠闲地抚慰着自己，同时看着你们两个。"
 
 # game/script day12.rpy:6419
 translate Chinese day12_julian_seedmorocco_be0bff08:
 
     # j "With someone between your legs."
-    j "有人伺候着你的肉棒"
+    j "有人伺候着你的肉棒。"
 
 # game/script day12.rpy:6421
 translate Chinese day12_julian_seedmorocco_e7488644:
@@ -11277,31 +11276,31 @@ translate Chinese day12_julian_seedmorocco_e7488644:
 translate Chinese day12_julian_seedmorocco_94adb78b:
 
     # "Julian responds with a pleased hum."
-    "Julian愉悦地哼了一声，算是回应"
+    "Julian愉悦地哼了一声，算是回应。"
 
 # game/script day12.rpy:6425
 translate Chinese day12_julian_seedmorocco_6f5c7d2c:
 
     # "Eager for more, you hasten your rhythm, sloppy sounds punctuating every thrust."
-    "你渴求着更多，加快了节奏，每一次深入都夹杂着凌乱的声音"
+    "你渴求着更多，加快了节奏，每一次深入都夹杂着凌乱的声音。"
 
 # game/script day12.rpy:6427
 translate Chinese day12_julian_seedmorocco_bd3fbaf3:
 
     # "Again and again you feel his muzzle pressed against your belly, hot breath after hot breath each time you bury yourself deep in it."
-    "一次又一次，你感受到他的鼻子紧贴在你的腹部，每次当你深深埋入时，滚烫的呼吸喷在你的身上"
+    "一次又一次，你感受到他的鼻子紧贴在你的腹部，每次当你深深埋入时，滚烫的呼吸喷在你的身上。"
 
 # game/script day12.rpy:6429
 translate Chinese day12_julian_seedmorocco_89906cc8:
 
     # "Soon the fur around the base of your cock becomes matted with both your own cum and his saliva, and now and then you hear the poor canine gag as you use him."
-    "很快，你的耻毛被自己的精液和他的唾液弄得粘腻不堪，你时不时得还能听到Nomax在给你口时发出的作呕声"
+    "很快，你的耻毛被自己的精液和他的唾液弄得粘腻不堪，你时不时得还能听到Nomax在给你口时发出的作呕声。"
 
 # game/script day12.rpy:6431
 translate Chinese day12_julian_seedmorocco_22d6c880:
 
     # "You begin to feel the all too familiar tingling of your approaching climax. His tongue draws you closer and closer as its warm flesh slides along your sensitive tip."
-    "你开始感受到那熟悉的，预示着即将高潮的酥麻感闪过全身，他的舌头越拉越近，温热的肉体沿着你敏感的龟头滑动"
+    "你开始感受到那熟悉的，预示着即将高潮的酥麻感闪过全身，他的舌头越拉越近，温热的肉体沿着你敏感的龟头滑动。"
 
 # game/script day12.rpy:6433
 translate Chinese day12_julian_seedmorocco_6d58cf7c:
@@ -11313,7 +11312,7 @@ translate Chinese day12_julian_seedmorocco_6d58cf7c:
 translate Chinese day12_julian_seedmorocco_52721854:
 
     # "The flash of hot white pleasure zaps through you, and for a moment the world around you dissolves away to be replaced by nothing but bliss."
-    "炽热白光般的快感闪过你的全身，有那么一瞬间，你觉得你周围的世界尽数消失，只剩下极致的愉悦"
+    "炽热白光般的快感闪过你的全身，有那么一瞬间，你觉得你周围的世界尽数消失，只剩下极致的愉悦。"
 
 # game/script day12.rpy:6443
 translate Chinese day12_julian_seedmorocco_8fde0efc:
@@ -11325,31 +11324,31 @@ translate Chinese day12_julian_seedmorocco_8fde0efc:
 translate Chinese day12_julian_seedmorocco_7db04618:
 
     # "With little choice, he struggles to choke down your second and third splatter of cum with strained swallows."
-    "他别无选择，用力地吞咽着你射出来的第二股和第三股精液"
+    "他别无选择，用力地吞咽着你射出来的第二股和第三股精液。"
 
 # game/script day12.rpy:6447
 translate Chinese day12_julian_seedmorocco_8b3fbd10:
 
     # "You moan."
-    "你呻吟着"
+    "你呻吟着。"
 
 # game/script day12.rpy:6449
 translate Chinese day12_julian_seedmorocco_860f09b5:
 
     # "Immediately replacing anything he ingests with another thick spurt."
-    "你立即用另一股浓厚喷出的精液替代了他吞咽的任何东西"
+    "你立即用另一股浓厚喷出的精液替代了他吞咽的任何东西。"
 
 # game/script day12.rpy:6451
 translate Chinese day12_julian_seedmorocco_cb961fc1:
 
     # "You feel it pool around your cock, and with another shot of warm seed, the warmth of it begins to run down your shaft as it escapes his maw."
-    "你感觉精液在肉棒周围汇聚着，随着另一股温热的精液喷射而出，这份炽热开始顺着你的肉棒流下，从他的嘴里流出"
+    "你感觉精液在肉棒周围汇聚着，随着另一股温热的精液喷射而出，这份炽热开始顺着你的肉棒流下，从他的嘴里流出。"
 
 # game/script day12.rpy:6453
 translate Chinese day12_julian_seedmorocco_9c4b671b:
 
     # "Your mind returns from the blissful cloud you visited, your muscles relax again, body sinking into his bed, and finally you let go of his ears."
-    "你的意识从极致的愉悦中抽离，浑身肌肉放松下来，身体陷落在他的床上，你也终于放开了他的耳朵"
+    "你的意识从极致的愉悦中抽离，浑身肌肉放松下来，身体陷落在他的床上，你也终于放开了他的耳朵。"
 
 # game/script day12.rpy:6455
 translate Chinese day12_julian_seedmorocco_d81f1b6e:
@@ -11361,7 +11360,7 @@ translate Chinese day12_julian_seedmorocco_d81f1b6e:
 translate Chinese day12_julian_seedmorocco_ce913a8c:
 
     # "Half swallowing, half coughing, he gasps for air and clears his throat.{p} For the first time since you pulled him down, he takes a breath without struggling."
-    "他一边咽着气息，一边大口喘气，从你把他拉到身边开始，这是他第一次能毫不费力地正常换气"
+    "他一边咽着气息，一边大口喘气，清了清嗓子。{p}从你把他拉到身边开始，这是他第一次能毫不费力地正常换气。"
 
 # game/script day12.rpy:6471
 translate Chinese day12_julian_seedmorocco_3135bec2:
@@ -11373,19 +11372,19 @@ translate Chinese day12_julian_seedmorocco_3135bec2:
 translate Chinese day12_julian_seedmorocco_fd88cc00:
 
     # j "Language."
-    j "话音未落，他仍在喘息"
+    j "话音未落，他仍在喘息。"
 
 # game/script day12.rpy:6481
 translate Chinese day12_julian_seedmorocco_92c43f27:
 
     # "Nomax brings the back of his hand to his mouth and coughs against it, attempting to regain his composure as he is allowed to breathe freely again."
-    "Nomax用手背捂住嘴咳了几声，趁着能顺畅呼吸的空当，试着稳住自己的神态"
+    "Nomax用手背捂住嘴咳了几声，趁着能顺畅呼吸的空当，试着稳住自己的神态。"
 
 # game/script day12.rpy:6483
 translate Chinese day12_julian_seedmorocco_ad4ee53e:
 
     # "The flow of sperm is thankfully just a trickle at this point, only a glob of creamy white glistening on the tip of your cock before it slides down."
-    "幸好此时精液早已是细流，只有一团乳白色的粘稠液体在你肉棒的龟头闪闪发光，然后滑落"
+    "幸好此时精液早已是细流，只有一团乳白色的粘稠液体在你肉棒的龟头闪闪发光，然后滑落。"
 
 # game/script day12.rpy:6487
 translate Chinese day12_julian_seedmorocco_9deed582:
@@ -11397,25 +11396,25 @@ translate Chinese day12_julian_seedmorocco_9deed582:
 translate Chinese day12_julian_seedmorocco_4c64004b:
 
     # "You don't answer and just watch him with a satisfied post-orgasm smile."
-    "你没有应声，只带着高潮后餍足的浅笑，静静注视着他"
+    "你没有应声，只带着高潮后餍足的浅笑，静静注视着他。"
 
 # game/script day12.rpy:6493
 translate Chinese day12_julian_seedmorocco_75f9dc87:
 
     # j "Why? You took it like a champ."
-    j "怎么了？你表现得很像个冠军"
+    j "怎么了？你表现得很像个冠军。"
 
 # game/script day12.rpy:6497
 translate Chinese day12_julian_seedmorocco_6c494bfb:
 
     # "Julian pulls up his breeches again and folds his hands behind his head. You follow suit, fastening the buttons back into place and leaving only Nomax naked."
-    "Julian再次提起裤子，把手交叉放在脑后，你也照做，把扣子重新扣好，只留下Nomax仍旧赤裸着"
+    "Julian再次提起裤子，把手交叉放在脑后，你也照做，把扣子重新扣好，只留下Nomax仍旧赤裸着。"
 
 # game/script day12.rpy:6501
 translate Chinese day12_julian_seedmorocco_0f932d97:
 
     # j "I get the feeling that someone has had some experience."
-    j "我怎么感觉，某人倒是挺有经验的嘛"
+    j "我怎么感觉，某人倒是挺有经验的嘛。"
 
 # game/script day12.rpy:6503
 translate Chinese day12_julian_seedmorocco_9abbde01:
@@ -11427,7 +11426,7 @@ translate Chinese day12_julian_seedmorocco_9abbde01:
 translate Chinese day12_julian_seedmorocco_be95f641:
 
     # "Julian teases with a broad smirk, but doesn't get much of an answer, instead tilting his head to the side to face you."
-    "Julian咧嘴坏笑着打趣，却没得到什么回应，便歪了歪头，把脸转向了你"
+    "Julian咧嘴坏笑着打趣，却没得到什么回应，便歪了歪头，把脸转向了你。"
 
 # game/script day12.rpy:6507
 translate Chinese day12_julian_seedmorocco_bee635ab:
@@ -11439,85 +11438,85 @@ translate Chinese day12_julian_seedmorocco_bee635ab:
 translate Chinese day12_julian_seedmorocco_2c2aa5b5:
 
     # "He pushes forward, his snout hovering not even an inch above your belly. Your fur blown in all directions as he exhales hotly through his nose."
-    "他朝前凑近，鼻尖离你的腹部只差分毫，灼热的鼻息从鼻中呼出，吹得你满身毛发四下飘散"
+    "他朝前凑近，鼻尖离你的腹部只差分毫，灼热的鼻息从鼻中呼出，吹得你满身毛发四下飘散。"
 
 # game/script day12.rpy:6517
 translate Chinese day12_julian_seedmorocco_4027ca88:
 
     # "Only to have his head pull back with a leisurely slowness, sucking all the way until his lips slip from the tip of your cock."
-    "随后他的头又慢慢地往后拉，直到嘴唇从你的龟头滑落"
+    "随后他的头又慢慢地往后拉，直到嘴唇从你的龟头滑落。"
 
 # game/script day12.rpy:6521
 translate Chinese day12_julian_seedmorocco_f12a7c90:
 
     # "He quickly finds a comfortable rhythm, looking up at you to watch your reactions."
-    "他很快稳住节奏，抬眼看向你，观察着你的一举一动"
+    "他很快稳住节奏，抬眼看向你，观察着你的一举一动。"
 
 # game/script day12.rpy:6523
 translate Chinese day12_julian_seedmorocco_2376924b:
 
     # "All he sees is your thorough enjoyment of every one of his movements. Every single slurp, every single slide of his tongue, they all send shivers up your spine."
-    "他看到的只有你对他每一个动作的极致享受，每一次吸吮，每一次舌头的滑动，都让你脊背酥麻"
+    "他看到的只有你对他每一个动作的极致享受，每一次吸吮，每一次舌头的滑动，都让你脊背酥麻。"
 
 # game/script day12.rpy:6525
 translate Chinese day12_julian_seedmorocco_5cae37ce:
 
     # j "Nomax."
-    j "Nomax"
+    j "Nomax。"
 
 # game/script day12.rpy:6527
 translate Chinese day12_julian_seedmorocco_15bd6e4f:
 
     # "The canine's ears perk up as he stops, his eyes wandering over to Julian."
-    "他双耳一竖，骤然停住，视线缓缓落向Julian"
+    "他双耳一竖，骤然停住，视线缓缓落向Julian。"
 
 # game/script day12.rpy:6529
 translate Chinese day12_julian_seedmorocco_dd9e69ba:
 
     # j "Touch yourself."
-    j "撸撸你自己"
+    j "撸撸你自己。"
 
 # game/script day12.rpy:6531
 translate Chinese day12_julian_seedmorocco_a62a347c:
 
     # "You watch the flush return to his snout. He turns back to you, perhaps hoping you'll veto Julian's command."
-    "你看着他的鼻尖再度泛起红晕，他转头看向你，隐隐盼着你能驳回Julian的要求"
+    "你看着他的鼻尖再度泛起红晕，他转头看向你，隐隐盼着你能驳回Julian的要求。"
 
 # game/script day12.rpy:6533
 translate Chinese day12_julian_seedmorocco_a66562f1:
 
     # "You don't.{p}Instead, you nod for him to do it."
-    "你没有，{p}相反，你点头示意他照做"
+    "你没有，{p}相反，你点头示意他照做。"
 
 # game/script day12.rpy:6535
 translate Chinese day12_julian_seedmorocco_56842234:
 
     # "He lowers his head around your dick again, avoiding looking at either of you, just staring down at your stomach."
-    "他再次低头凑近你的肉棒，避免看你们任何一方，只是盯着你的腹部"
+    "他再次低头凑近你的肉棒，避免看你们任何一方，只是盯着你的腹部。"
 
 # game/script day12.rpy:6537
 translate Chinese day12_julian_seedmorocco_29bde23d:
 
     # "Patiently, you give him a few seconds, and after some initial hesitation, he reaches back with his paw, right between his own legs."
-    "你耐心地给了他几秒钟，经过一阵犹豫，他伸出爪子，正好伸到自己两腿之间"
+    "你耐心地给了他几秒钟，经过一阵犹豫，他伸出爪子，正好伸到自己两腿之间。"
 
 # game/script day12.rpy:6539
 translate Chinese day12_julian_seedmorocco_4ddfd144:
 
     # "Nomax's tail droops over the curve of his backside, hiding between his legs as he wraps his fingers around his sheath."
-    "Nomax的尾巴垂在他臀部的曲线上，藏在双腿之间，手指紧紧握住他的鞘"
+    "Nomax的尾巴垂在他臀部的曲线上，藏在双腿之间，手指紧紧握住他的鞘。"
 
 # game/script day12.rpy:6541
 translate Chinese day12_julian_seedmorocco_e3d39097:
 
     # "Briefly you can spot the black tip of his length as he pulls his sheath back. But,{w} he has a pretty good way of drawing your attention away from his own cock."
-    "你能短暂地看到他拉开鞘时黑色的肉棒尖端，不过，{w}他有很好的办法让你从他自己的肉棒上转移注意力"
+    "你能短暂地看到他拉开鞘时黑色的肉棒尖端，不过，{w}他有很好的办法让你从他自己的肉棒上转移注意力。"
 
 # game/script day12.rpy:6543
 translate Chinese day12_julian_seedmorocco_2c527973:
 
     # "A soft huff spills from his lips as he glides his mouth up along your cock, his tongue pressed against the underside of your shaft."
-    "他轻轻地喘息着，嘴唇沿着你的肉棒滑动，舌头贴在你肉棒的下侧"
+    "他轻轻地喘息着，嘴唇沿着你的肉棒滑动，舌头贴在你肉棒的下侧。"
 
 # game/script day12.rpy:6545
 translate Chinese day12_julian_seedmorocco_59381427:
@@ -11529,115 +11528,115 @@ translate Chinese day12_julian_seedmorocco_59381427:
 translate Chinese day12_julian_seedmorocco_d28ba027:
 
     # "The blush on his snout would not fade even after a minute."
-    "哪怕过了片刻，他鼻尖的红晕也丝毫没有褪去"
+    "哪怕过了片刻，他鼻尖的红晕也丝毫没有褪去。"
 
 # game/script day12.rpy:6549
 translate Chinese day12_julian_seedmorocco_8af3be63:
 
     # "It's not the most dignified position to be in.{w} With a cock at your lips, playing with yourself in front of two other people. And it seems that the painted dog is well aware of it."
-    "这并不是什么体面的姿势，{w}嘴边含着肉棒，在两个人面前自慰，而且看起来Nomax对此心知肚明"
+    "这并不是什么体面的姿势，{w}嘴边含着肉棒，在两个人面前自慰，而且看起来Nomax对此心知肚明。"
 
 # game/script day12.rpy:6551
 translate Chinese day12_julian_seedmorocco_5485cea1:
 
     # "He swallows around you and you feel the warm suction building for a moment."
-    "他在你肉棒周围吞咽，你感觉到一阵温暖的吸力正在形成"
+    "他在你肉棒周围吞咽，你感觉到一阵温暖的吸力正在形成。"
 
 # game/script day12.rpy:6553
 translate Chinese day12_julian_seedmorocco_6689048c:
 
     # "As if on cue, you make sure he has another drop of pre-cum to swallow right after he finishes."
-    "仿佛应声而至，你确保他在刚吞咽后还有一滴先走液可以吞下"
+    "仿佛应声而至，你确保他在刚吞咽后还有一滴先走液可以吞下。"
 
 # game/script day12.rpy:6555
 translate Chinese day12_julian_seedmorocco_5c28dd76:
 
     # "You savor every moment of it, every bit of the wet, slimy warmth he provides. Each moment brings you closer to your peak."
-    "你细细品味每一刻，每一丝湿润且黏腻的温暖，每一刻都让你更接近射精"
+    "你细细品味每一刻，每一丝湿润且黏腻的温暖，每一刻都让你更接近射精。"
 
 # game/script day12.rpy:6557
 translate Chinese day12_julian_seedmorocco_b430069a:
 
     # j "What I'd give for every morning to be like this."
-    j "我多么希望每个早晨都能像这样"
+    j "我多么希望每个早晨都能像这样。"
 
 # game/script day12.rpy:6559
 translate Chinese day12_julian_seedmorocco_a4b84b09:
 
     # j "He looks like he's enjoying himself."
-    j "他看起来乐在其中"
+    j "他看起来乐在其中。"
 
 # game/script day12.rpy:6561
 translate Chinese day12_julian_seedmorocco_c65e87e8:
 
     # "You don't answer, but you take another look between his legs."
-    "你没有回答，但你又看了一眼他的两腿之间"
+    "你没有回答，但你又看了一眼他的两腿之间。"
 
 # game/script day12.rpy:6563
 translate Chinese day12_julian_seedmorocco_46e669c0:
 
     # "By now, the pink of his penis nestles prominently between his fingertips."
-    "此刻，他那粉色肉棒在指尖间显眼地依偎着"
+    "此刻，他那粉色肉棒在指尖间显眼地依偎着。"
 
 # game/script day12.rpy:6565
 translate Chinese day12_julian_seedmorocco_3874ba18:
 
     # "He looks up at you, cock pulsing between his lips."
-    "他抬头看着你，肉棒在他的嘴唇之间跳动着"
+    "他抬头看着你，肉棒在他的嘴唇之间跳动着。"
 
 # game/script day12.rpy:6567
 translate Chinese day12_julian_seedmorocco_895d6f75:
 
     # "You whisper an almost inaudible curse and buck your hips lightly to meet his nose."
-    "你低声咒骂了几句，轻轻扭动胯部，让肉棒与他的鼻子相对"
+    "你低声咒骂了几句，轻轻扭动胯部，让肉棒与他的鼻子相对。"
 
 # game/script day12.rpy:6569
 translate Chinese day12_julian_seedmorocco_ccfce2ef:
 
     # "The movement startles him momentarily, but almost immediately he catches himself and guides your length from his lips with silky smoothness."
-    "这一动作让他一时吃惊，但几乎立刻他就稳住了自己，用丝般顺滑的动作将你的肉棒从他的唇间引开"
+    "这一动作让他一时吃惊，但几乎立刻他就稳住了自己，用丝般顺滑的动作将你的肉棒从他的唇间引开。"
 
 # game/script day12.rpy:6571
 translate Chinese day12_julian_seedmorocco_329a8214:
 
     # "It takes a little while before you feel your body giving in."
-    "又过了一段时间，你才感觉到自己开始缴械"
+    "又过了一段时间，你才感觉到自己开始缴械。"
 
 # game/script day12.rpy:6573
 translate Chinese day12_julian_seedmorocco_707045cd:
 
     # "Once your orgasm builds, though, it builds quickly."
-    "不过，一旦你的精液开始积累，它便迅速积累，喷薄而出"
+    "不过，一旦你的精液开始积累，它便迅速积累，喷薄而出。"
 
 # game/script day12.rpy:6575
 translate Chinese day12_julian_seedmorocco_d729c7c6:
 
     # "Your fingers curl against the mattress as you feel the wave of pleasure surge up your spine."
-    "你的手指紧抓床垫，快感顺着脊柱涌了上来"
+    "你的手指紧抓床垫，快感顺着脊柱涌了上来。"
 
 # game/script day12.rpy:6583
 translate Chinese day12_julian_seedmorocco_8f16052a:
 
     # "He notices in time and takes a breath just in time before you reward his efforts with a first powerful spurt of cum, shot against the back of his throat."
-    "他及时察觉，深吸了一口气，恰好在你第一股浓精磅礴有力地射向他的喉咙深处，这是他勤奋的奖赏"
+    "他及时察觉，深吸了一口气，恰好在你第一股浓精磅礴有力地射向他的喉咙深处，这是他勤奋的奖赏。"
 
 # game/script day12.rpy:6585
 translate Chinese day12_julian_seedmorocco_02dcdc4a:
 
     # "A blissful grunt slips from your lips as you are carried by the force of your climax."
-    "你在射精快感的席卷下，发出愉悦的哼声"
+    "你在射精快感的席卷下，发出愉悦的哼声。"
 
 # game/script day12.rpy:6587
 translate Chinese day12_julian_seedmorocco_14a9e785:
 
     # "Tension runs through your whole body."
-    "浑身瞬间绷紧，一股愉悦感窜遍四肢百骸"
+    "浑身瞬间绷紧，一股愉悦感窜遍四肢百骸。"
 
 # game/script day12.rpy:6589
 translate Chinese day12_julian_seedmorocco_f88ec78b:
 
     # "Shot after shot of warm, gooey white paints the inside of his jaw."
-    "一阵又一阵温热黏稠的白精涂满了他的下颚内部"
+    "一阵又一阵温热黏稠的白精涂满了他的下颚内部。"
 
 # game/script day12.rpy:6591
 translate Chinese day12_julian_seedmorocco_53b0ea15:
@@ -11649,37 +11648,37 @@ translate Chinese day12_julian_seedmorocco_53b0ea15:
 translate Chinese day12_julian_seedmorocco_eb511fde:
 
     # "He swallows and you immediately replace everything he ingests with another thick spurt."
-    "他刚咽下去，你立刻又用另一股浓稠的精液替换他吞下的一切"
+    "他刚咽下去，你立刻又用另一股浓稠的精液替换他吞下的一切。"
 
 # game/script day12.rpy:6595
 translate Chinese day12_julian_seedmorocco_772fa1ed:
 
     # "The warmth of your own seed begins to pool around your cock and once it becomes too much for him to handle, it begins to leak from Nomax's lips to the base of your shaft."
-    "你自己的精液开始在你肉棒的周围汇聚，当他无法承受时，精液从Nomax的嘴唇流向你肉棒的根部"
+    "你自己的精液开始在你肉棒的周围汇聚，当他无法承受时，精液从Nomax的嘴唇流向你肉棒的根部。"
 
 # game/script day12.rpy:6597
 translate Chinese day12_julian_seedmorocco_b5b29d24:
 
     # "Fortunately, the shots of your climax subside and Nomax pulls back, your limp cock drooping from his jaws, breaking the connecting strings of drool and cum that connect to his lips."
-    "幸运的是，高潮的喷射渐渐消退，Nomax向后退开，你逐渐疲软的肉棒从他嘴中滑落，扯断了连接他嘴唇的唾液与精液丝线"
+    "幸运的是，高潮的喷射渐渐消退，Nomax向后退开，你逐渐疲软的肉棒从他嘴中滑落，扯断了连接他嘴唇的唾液与精液丝线。"
 
 # game/script day12.rpy:6609
 translate Chinese day12_julian_seedmorocco_8e24656a:
 
     # "He takes one last swallow and wipes away the remnants of your bliss with the back of his hand."
-    "他最后吞咽了一次，用手背拭去你欢愉后的残余"
+    "他最后吞咽了一次，用手背拭去你欢愉后的残余。"
 
 # game/script day12.rpy:6611
 translate Chinese day12_julian_seedmorocco_4f81c2a0:
 
     # "Your body relaxes again and you melt into his bed with your afterglow."
-    "身躯缓缓放松，伴着温存余韵，你整个人绵软地倚卧在床上"
+    "身躯缓缓放松，伴着温存余韵，你整个人绵软地倚卧在床上。"
 
 # game/script day12.rpy:6619
 translate Chinese day12_julian_seedmorocco_d153c46a:
 
     # j "He hardly spilled anything. Clean cock, and clean sheets too."
-    j "他几乎没露出什么，肉棒被舔得干净，床单也干净"
+    j "他几乎没露出什么，肉棒被舔得干净，床单也干净。"
 
 # game/script day12.rpy:6621
 translate Chinese day12_julian_seedmorocco_efc47b50:
@@ -11697,7 +11696,7 @@ translate Chinese day12_julian_seedmorocco_b5dc1c6f:
 translate Chinese day12_julian_seedmorocco_ae1eb5f6:
 
     # "Julian teases."
-    "Julian调侃道"
+    "Julian调侃道。"
 
 # game/script day12.rpy:6629
 translate Chinese day12_julian_seedmorocco_4d0bac9a:
@@ -11709,7 +11708,7 @@ translate Chinese day12_julian_seedmorocco_4d0bac9a:
 translate Chinese day12_julian_seedmorocco_45c510d2:
 
     # "You can't help yourself and join in with a playful remark of your own."
-    "你忍不住接了话，也随口打趣起来"
+    "你忍不住接了话，也随口打趣起来。"
 
 # game/script day12.rpy:6633
 translate Chinese day12_julian_seedmorocco_e496de58:
@@ -11721,37 +11720,37 @@ translate Chinese day12_julian_seedmorocco_e496de58:
 translate Chinese day12_julian_seedmorocco_779ce982:
 
     # p "{i}Botany.{/i}{w} Sure."
-    p "{w}当然是{i}植物学{/i}"
+    p "{w}当然是{i}植物学。{/i}"
 
 # game/script day12.rpy:6639
 translate Chinese day12_julian_seedmorocco_7c846f6d:
 
     # n "My patron is a lady."
-    n "我的赞助人是位女士"
+    n "我的赞助人是位女士。"
 
 # game/script day12.rpy:6644
 translate Chinese day12_julian_seedmorocco_afb755fd:
 
     # j "I'm sure your tongue works just as well on her."
-    j "我敢肯定你的舌头在她身上同样有效"
+    j "我敢肯定你的舌头在她身上同样有效。"
 
 # game/script day12.rpy:6646
 translate Chinese day12_julian_seedmorocco_b6ab9968:
 
     # "Nomax stalls, taking a few moments to reply with a familiar blush on his snout."
-    "Nomax稍稍迟疑，顿了好一会儿才开口作答，鼻尖照旧染上了熟悉的红晕"
+    "Nomax稍稍迟疑，顿了好一会儿才开口作答，鼻尖照旧染上了熟悉的红晕。"
 
 # game/script day12.rpy:6648
 translate Chinese day12_julian_seedmorocco_447a21a2:
 
     # n "We never did anything."
-    n "我们什么都没做过"
+    n "我们什么都没做过。"
 
 # game/script day12.rpy:6650
 translate Chinese day12_julian_seedmorocco_51abe871:
 
     # p "I love how bad he is at lying."
-    p "我就喜欢看他这副不擅长撒谎的样子"
+    p "我就喜欢看他这副不擅长撒谎的样子。"
 
 # game/script day12.rpy:6654
 translate Chinese day12_julian_seedmorocco_11c46818:
@@ -11763,7 +11762,7 @@ translate Chinese day12_julian_seedmorocco_11c46818:
 translate Chinese day12_julian_seedmorocco_b2546bd7:
 
     # "Julian laughs and leans over to the seated canine to playfully tap the side of his softening length."
-    "Julian笑着，凑过去调皮地拍了拍他渐渐软化的肉棒"
+    "Julian笑着，凑过去调皮地拍了拍他渐渐软化的肉棒。"
 
 # game/script day12.rpy:6660
 translate Chinese day12_julian_seedmorocco_700b6124:
@@ -11775,13 +11774,13 @@ translate Chinese day12_julian_seedmorocco_700b6124:
 translate Chinese day12_julian_seedmorocco_16b8cb94:
 
     # "Silence."
-    "死寂般的沉默"
+    "死寂般的沉默。"
 
 # game/script day12.rpy:6664
 translate Chinese day12_julian_seedmorocco_b94e1d40:
 
     # p "Poor guy lost count."
-    p "可怜的家伙都数不清了"
+    p "可怜的家伙都数不清了。"
 
 # game/script day12.rpy:6668
 translate Chinese day12_julian_seedmorocco_0ceb2e97:
@@ -11793,7 +11792,7 @@ translate Chinese day12_julian_seedmorocco_0ceb2e97:
 translate Chinese day12_julian_seedmorocco_fcebf00d:
 
     # j "Got our answer after all."
-    j "终究还是得到答案了"
+    j "终究还是得到答案了。"
 
 # game/script day12.rpy:6672
 translate Chinese day12_julian_seedmorocco_a01539a9:
@@ -11805,7 +11804,7 @@ translate Chinese day12_julian_seedmorocco_a01539a9:
 translate Chinese day12_julian_seedmorocco_46667e2d:
 
     # "Nomax shakes his head."
-    "Nomax摇了摇头"
+    "Nomax摇了摇头。"
 
 # game/script day12.rpy:6678
 translate Chinese day12_julian_seedmorocco_fa0a1cba:
@@ -11817,19 +11816,19 @@ translate Chinese day12_julian_seedmorocco_fa0a1cba:
 translate Chinese day12_julian_seedmorocco_32495507:
 
     # n "And she likes to watch."
-    n "而且她喜欢看"
+    n "而且她喜欢看。"
 
 # game/script day12.rpy:6684
 translate Chinese day12_julian_seedmorocco_6444914e:
 
     # "You notice his penis starting to peek from his sheath again."
-    "你注意到他的肉棒开始从鞘中探出"
+    "你注意到他的肉棒开始从鞘中探出。"
 
 # game/script day12.rpy:6686
 translate Chinese day12_julian_seedmorocco_de393681:
 
     # p "No wonder you are the way you are."
-    p "难怪你是现在这副德性"
+    p "难怪你是现在这副德性。"
 
 # game/script day12.rpy:6690
 translate Chinese day12_julian_seedmorocco_f8be603c:
@@ -11841,13 +11840,13 @@ translate Chinese day12_julian_seedmorocco_f8be603c:
 translate Chinese day12_julian_seedmorocco_85000154:
 
     # p "I'm certain you know exactly what I mean."
-    p "我确信你完全明白我的意思"
+    p "我确信你完全明白我的意思。"
 
 # game/script day12.rpy:6694
 translate Chinese day12_julian_seedmorocco_53104273:
 
     # j "Oh, [name]."
-    j "哦，[family_name]"
+    j "哦，[name]。"
 
 # game/script day12.rpy:6696
 translate Chinese day12_julian_seedmorocco_bdbd5257:
@@ -11883,37 +11882,37 @@ translate Chinese day12_julian_seedmorocco_01ef20b1:
 translate Chinese day12_julian_seedmorocco_64b5a30b:
 
     # s "Or hawk,{w} falcon,{w} I don't bloody know what you call it! Should have asked the passenger guy before we left."
-    s "也可能是鹞子，{w}猎隼，{w}我他妈压根说不清这到底叫什么！出发前真该问问那位乘客的"
+    s "也可能是鹞子，{w}猎隼，{w}我他妈压根说不清这到底叫什么！出发前真该问问那位乘客的。"
 
 # game/script day12.rpy:6738
 translate Chinese day12_julian_seedmorocco_7e262396:
 
     # "You follow Samuel, and Julian in turn follows you as you three make your way through the bowels of the ship towards the stairs to the main deck."
-    "你跟着Samuel，Julian又紧随你身后，三人穿过船舱底层，往主甲板的楼梯走去"
+    "你跟着Samuel，Julian又紧随你身后，三人穿过船舱底层，往主甲板的楼梯走去。"
 
 # game/script day12.rpy:6740
 translate Chinese day12_julian_seedmorocco_424212bd:
 
     # p "He's a botanist, Sam."
-    p "Sam，他是个植物学家"
+    p "Sam，他是个植物学家。"
 
 # game/script day12.rpy:6744
 translate Chinese day12_julian_seedmorocco_44308ac2:
 
     # p "Plants."
-    p "植物"
+    p "植物。"
 
 # game/script day12.rpy:6746
 translate Chinese day12_julian_seedmorocco_41c22adf:
 
     # s "So? His books probably talk a lot about animals, too."
-    s "那咋了？他写的书说不定也大量讲到各类鸟兽生灵"
+    s "那咋了？他写的书说不定也大量讲到各类鸟兽生灵。"
 
 # game/script day12.rpy:6750
 translate Chinese day12_julian_seedmorocco_c870b254:
 
     # j "Maybe you should ask to borrow one and learn about birds of prey. That way, the next time you drag us out in the rain, we'll at least know the appropriate level of excitement we should be feeling."
-    j "要不你去借一本看看，好好学学猛禽相关的知识，这样下次你再拉着我们冒雨出门，我们好歹也该心里有数，该摆出多大的兴致来配合你"
+    j "要不你去借一本看看，好好学学猛禽相关的知识，这样下次你再拉着我们冒雨出门，我们好歹也该心里有数，该摆出多大的兴致来配合你。"
 
 # game/script day12.rpy:6754
 translate Chinese day12_julian_seedmorocco_b5332693:
@@ -11925,13 +11924,13 @@ translate Chinese day12_julian_seedmorocco_b5332693:
 translate Chinese day12_julian_seedmorocco_631c2397:
 
     # j "What? I don't know, I was just making a joke about how I'd be really disappointed if it isn't an eagle."
-    j "干嘛这么看我？我就是随口开个玩笑而已，要真不是雄鹰，我肯定会特别失望的"
+    j "干嘛这么看我？我就是随口开个玩笑而已，要真不是雄鹰，我肯定会特别失望的。"
 
 # game/script day12.rpy:6762
 translate Chinese day12_julian_seedmorocco_28691041:
 
     # p "You wouldn't even know the difference yourself, idiot."
-    p "你自己都分不清区别，白痴"
+    p "你自己都分不清区别，白痴。"
 
 # game/script day12.rpy:6766
 translate Chinese day12_julian_seedmorocco_1bbfe894:
@@ -11943,7 +11942,7 @@ translate Chinese day12_julian_seedmorocco_1bbfe894:
 translate Chinese day12_julian_seedmorocco_982e9f38:
 
     # j "It's probably their size."
-    j "大概是体型吧"
+    j "大概是体型吧。"
 
 # game/script day12.rpy:6772
 translate Chinese day12_julian_seedmorocco_2acac2e3:
@@ -11961,13 +11960,13 @@ translate Chinese day12_julian_seedmorocco_93f8e717:
 translate Chinese day12_julian_seedmorocco_8a924168:
 
     # j "One of them."
-    j "其中之一"
+    j "其中之一。"
 
 # game/script day12.rpy:6782
 translate Chinese day12_julian_seedmorocco_22bdbe3d:
 
     # s "So you don't know shit."
-    s "所以你屁都不知道"
+    s "所以你屁都不知道。"
 
 # game/script day12.rpy:6786
 translate Chinese day12_julian_seedmorocco_f49f5cbe:
@@ -11997,31 +11996,31 @@ translate Chinese day12_julian_seedmorocco_38b9b1da:
 translate Chinese day12_julian_seedmorocco_ae5f1bc9:
 
     # "Samuel turns around as [he] continues to walk backwards, spreading [his] arms to show the size of it."
-    "Samuel转过身，倒着往后走，同时张开双臂，比划出它的个头大小"
+    "Samuel转过身，倒着往后走，同时张开双臂，比划出它的个头大小。"
 
 # game/script day12.rpy:6802
 translate Chinese day12_julian_seedmorocco_6260f248:
 
     # s "And they want to try to feed it."
-    s "而且他们想试着喂它"
+    s "而且他们想试着喂它。"
 
 # game/script day12.rpy:6804
 translate Chinese day12_julian_seedmorocco_55d17ef4:
 
     # s "It's going to be a hoot.{w} Trust me, stuff like this always is."
-    s "这事准保有意思，{w}相信我，这种事向来都不会无聊"
+    s "这事准保有意思，{w}相信我，这种事向来都不会无聊。"
 
 # game/script day12.rpy:6806
 translate Chinese day12_julian_seedmorocco_cd35f812:
 
     # "He ducks past a crossbeam even when walking backwards, not even a glance needed to avoid it."
-    "他就算倒着走，也能顺势低头躲过横梁，连看都不用看一眼就能避开"
+    "他就算倒着走，也能顺势低头躲过横梁，连看都不用看一眼就能避开。"
 
 # game/script day12.rpy:6808
 translate Chinese day12_julian_seedmorocco_1dddf7dd:
 
     # "Probably knows every inch of this ship by heart."
-    "大概对这艘船的每一寸都了如指掌"
+    "大概对这艘船的每一寸都了如指掌。"
 
 # game/script day12.rpy:6812
 translate Chinese day12_julian_seedmorocco_fd1c4f3b:
@@ -12033,19 +12032,19 @@ translate Chinese day12_julian_seedmorocco_fd1c4f3b:
 translate Chinese day12_julian_seedmorocco_44cec285:
 
     # j "Must be, if you're dragging us back out into the rain."
-    j "那肯定是了，不然也不至于又拖着我们淋雨出去"
+    j "那肯定是了，不然也不至于又拖着我们淋雨出去。"
 
 # game/script day12.rpy:6820
 translate Chinese day12_julian_seedmorocco_52b2a2e8:
 
     # s "{i}Him{/i} I'm dragging out because he deserves it after today."
-    s "我就是要拖着{i}他{/i}去，谁让他今天折腾了我们，活该跟着受罪"
+    s "我就是要拖着{i}他{/i}去，谁让他今天折腾了我们，活该跟着受罪。"
 
 # game/script day12.rpy:6822
 translate Chinese day12_julian_seedmorocco_43ac4f0f:
 
     # s "You, though... I guess, you I'm just bringing along because it's funny to hear you moan about it, Jules."
-    s "但你就不一样了…… 说实话，我带上你，纯粹就是想听你一路唉声叹气抱怨，还挺有意思的，Jules"
+    s "但你就不一样了…… 说实话，我带上你，纯粹就是想听你一路唉声叹气抱怨，还挺有意思的，Jules。"
 
 # game/script day12.rpy:6826
 translate Chinese day12_julian_seedmorocco_974df823:
@@ -12057,7 +12056,7 @@ translate Chinese day12_julian_seedmorocco_974df823:
 translate Chinese day12_julian_seedmorocco_c11a33cf:
 
     # j "Very funny."
-    j "真有意思"
+    j "真有意思。"
 
 # game/script day12.rpy:6830
 translate Chinese day12_julian_seedmorocco_22028310:
@@ -12087,25 +12086,25 @@ translate Chinese day12_julian_seedmorocco_ffd8f01d:
 translate Chinese day12_julian_seedmorocco_cfa0b856:
 
     # s "I didn't realize that whoever recruited you never told you about it."
-    s "我还真没看出来，当初招你的人，居然从没跟你提过这事"
+    s "我还真没看出来，当初招你的人，居然从没跟你提过这事。"
 
 # game/script day12.rpy:6842
 translate Chinese day12_julian_seedmorocco_7fc491ef:
 
     # "Sam finishes the sentence with a turn on [his] heel and hurries up the stairs out into the wall of rain, followed by you, and reluctantly, Julian."
-    "Sam说完话猛地转身，快步冲上楼梯，扎进漫天密雨里，你跟在后面，Julian则一脸不情不愿地紧随其后"
+    "Sam说完话猛地转身，快步冲上楼梯，扎进漫天密雨里，你跟在后面，Julian则一脸不情不愿地紧随其后。"
 
 # game/script day12.rpy:6856
 translate Chinese day12_julian_seedmorocco_6d5d4ff0:
 
     # "You peer over at an inquisitive, but seemingly unsuspecting Nomax, and answer in a similarly hushed whisper."
-    "你转头看向满脸好奇且丝毫没有起疑心的Nomax，同样压低了声音，小声低声回应"
+    "你转头看向满脸好奇且丝毫没有起疑心的Nomax，同样压低了声音，小声低声回应。"
 
 # game/script day12.rpy:6858
 translate Chinese day12_julian_seedmorocco_9ac7da83:
 
     # p "Sorry, Jules. But I don't think this is really the time for me."
-    p "抱歉，Jules，但我觉得现在真不是时候"
+    p "抱歉，Jules，但我觉得现在真不是时候。"
 
 # game/script day12.rpy:6860
 translate Chinese day12_julian_seedmorocco_0d724a51:
@@ -12117,37 +12116,37 @@ translate Chinese day12_julian_seedmorocco_0d724a51:
 translate Chinese day12_julian_seedmorocco_d20b7929:
 
     # "He waits for a few seconds, hoping you might change your mind."
-    "他等了几秒钟，希望你可能改变主意"
+    "他等了几秒钟，希望你可能改变主意。"
 
 # game/script day12.rpy:6864
 translate Chinese day12_julian_seedmorocco_bb6021aa:
 
     # j "Understood."
-    j "明白了"
+    j "明白了。"
 
 # game/script day12.rpy:6866
 translate Chinese day12_julian_seedmorocco_0881e22b:
 
     # "You see Julian's muzzle in your periphery as he pushes past you, propping himself up on his elbows."
-    "你眼角余光扫到Julian的口鼻，他从你身边挤了过去，用双肘支撑起身体"
+    "你眼角余光扫到Julian的口鼻，他从你身边挤了过去，用双肘支撑起身体。"
 
 # game/script day12.rpy:6875
 translate Chinese day12_julian_seedmorocco_655dcd87:
 
     # j "No secrets."
-    j "没有秘密"
+    j "没有秘密。"
 
 # game/script day12.rpy:6877
 translate Chinese day12_julian_seedmorocco_30e24757:
 
     # n "Sounds awfully like you're keeping a secret."
-    n "听起来倒像是你在隐瞒什么秘密"
+    n "听起来倒像是你在隐瞒什么秘密。"
 
 # game/script day12.rpy:6879
 translate Chinese day12_julian_seedmorocco_45050385:
 
     # "He pries a little further, tipping his head to the side."
-    "他进一步打探，把头歪向一边"
+    "他进一步打探，把头歪向一边。"
 
 # game/script day12.rpy:6883
 translate Chinese day12_julian_seedmorocco_19c78358:
@@ -12159,55 +12158,55 @@ translate Chinese day12_julian_seedmorocco_19c78358:
 translate Chinese day12_julian_seedmorocco_bbf7043f:
 
     # n "You two whisper to each other and then you tell me there are no secrets. It's hardly my fault that that makes me curious."
-    n "你们俩偷偷咬耳朵，还跟我说没什么秘密，换谁都会好奇，这可不能怪我"
+    n "你们俩偷偷咬耳朵，还跟我说没什么秘密，换谁都会好奇，这可不能怪我。"
 
 # game/script day12.rpy:6894
 translate Chinese day12_julian_seedmorocco_4941cc3a:
 
     # j "Well, fine, do you want the innocent version or the true one?{p}Actually never mind, I asked [name] if he wanted to join."
-    j "行吧，你想听客套敷衍的说法，还是实话实说的版本？{p}算了不提了，我就是问问[name]，看他愿不愿意一起来"
+    j "行吧，你想听客套敷衍的说法，还是实话实说的版本？{p}算了不提了，我就是问问[name]，看他愿不愿意一起来。"
 
 # game/script day12.rpy:6898
 translate Chinese day12_julian_seedmorocco_50050a4c:
 
     # "Julian shrugs dismissively and shoots you a quick glance before continuing."
-    "Julian无所谓地耸耸肩，迅速扫了你一眼，接着便继续开口"
+    "Julian无所谓地耸耸肩，迅速扫了你一眼，接着便继续开口。"
 
 # game/script day12.rpy:6900
 translate Chinese day12_julian_seedmorocco_b09d34fb:
 
     # j "But he's not feeling it.{p}You're in luck, and that snout of yours will remain saddeningly unused."
-    j "但他没兴趣，{p}算你侥幸，可惜你这张嘴，终究没机会派上用场了"
+    j "但他没兴趣，{p}算你侥幸，可惜你这张嘴，终究没机会派上用场了。"
 
 # game/script day12.rpy:6908
 translate Chinese day12_julian_seedmorocco_90108a28:
 
     # "Nomax looks as if he regrets his curiosity immediately. He doesn't manage to utter a real answer and just gives an uncertain chuckle in return."
-    "Nomax刚好奇完就立马后悔了，他一时不知该如何作答，只能含糊地讪讪干笑两声"
+    "Nomax刚好奇完就立马后悔了，他一时不知该如何作答，只能含糊地讪讪干笑两声。"
 
 # game/script day12.rpy:6918
 translate Chinese day12_julian_seedmorocco_846384f1:
 
     # "A few knocks on the door interrupts you, all three heads turning towards it."
-    "门外传来几声敲门声，打断了你们的对话，三人同时扭头朝门口望去"
+    "门外传来几声敲门声，打断了你们的对话，三人同时扭头朝门口望去。"
 
 # game/script day12.rpy:6920
 translate Chinese day12_julian_seedmorocco_667ddea1:
 
     # p "I guess I saved us some embarrassment."
-    p "我想我帮我们免去了一些尴尬"
+    p "我想我帮我们免去了一些尴尬。"
 
 # game/script day12.rpy:6922
 translate Chinese day12_julian_seedmorocco_af8a16b2:
 
     # j "Or maybe they just want to join, and you just made sure someone will leave very disappointed."
-    j "也说不定人家只是想入伙而已，你这么一做反倒注定有人要失望而归了"
+    j "也说不定人家只是想入伙而已，你这么一做反倒注定有人要失望而归了。"
 
 # game/script day12.rpy:6926
 translate Chinese day12_julian_seedmorocco_aa1035be:
 
     # "Another round of knocking follows, a little more insistent this time, with the door almost getting pushed open by them."
-    "紧接着又是一阵敲门声，这次来得更急切，门外的人差点直接把门给推开"
+    "紧接着又是一阵敲门声，这次来得更急切，门外的人差点直接把门给推开。"
 
 # game/script day12.rpy:6928
 translate Chinese day12_julian_seedmorocco_a7632675:
@@ -12231,19 +12230,19 @@ translate Chinese day12_julian_seedmorocco_de2db79d:
 translate Chinese day12_julian_seedmorocco_a7e59b3a:
 
     # j "No escape."
-    j "同样无处可逃"
+    j "同样无处可逃。"
 
 # game/script day12.rpy:6951
 translate Chinese day12_julian_seedmorocco_8eb3f12b:
 
     # "A sudden knock grabs your attention, and the heads of the other two turn to the door just the same."
-    "忽然一阵敲门声吸引了你的注意，另外两人也不约而同转头看向门口"
+    "忽然一阵敲门声吸引了你的注意，另外两人也不约而同转头看向门口。"
 
 # game/script day12.rpy:6960
 translate Chinese day12_julian_seedmorocco_de9b1f1b:
 
     # j "Speaking of hauntings."
-    j "说到纠缠"
+    j "说到纠缠。"
 
 # game/script day12.rpy:6969
 translate Chinese day12_julian_seedmorocco_4e287f18:
@@ -12273,7 +12272,7 @@ translate Chinese day12_transition_from_nomax_to_outside_7951b481:
 translate Chinese day12_transition_from_nomax_to_outside_ed103216:
 
     # "You begin to feel a bit stupid shouting through the door and turn to Nomax."
-    "隔着门这么大声嚷嚷你自己都觉得有点傻，于是转头望向Nomax"
+    "隔着门这么大声嚷嚷你自己都觉得有点傻，于是转头望向Nomax。"
 
 # game/script day12.rpy:6991
 translate Chinese day12_transition_from_nomax_to_outside_2391bdcd:
@@ -12285,7 +12284,7 @@ translate Chinese day12_transition_from_nomax_to_outside_2391bdcd:
 translate Chinese day12_transition_from_nomax_to_outside_83dffa0c:
 
     # n "Of course."
-    n "当然"
+    n "当然。"
 
 # game/script day12.rpy:6998
 translate Chinese day12_transition_from_nomax_to_outside_b6c8259b:
@@ -12297,19 +12296,19 @@ translate Chinese day12_transition_from_nomax_to_outside_b6c8259b:
 translate Chinese day12_transition_from_nomax_to_outside_1946608c:
 
     # "Samuel pushes the door open in a hurry and steps through it excitedly, though thoroughly soaked."
-    "Samuel慌忙推开房门，兴冲冲走了进来，尽管整个人已经淋得浑身湿透"
+    "Samuel慌忙推开房门，兴冲冲走了进来，尽管整个人已经淋得浑身湿透。"
 
 # game/script day12.rpy:7006
 translate Chinese day12_transition_from_nomax_to_outside_e04eb98b:
 
     # "Immediately a puddle forms where [he] stands, [his] fur hanging off of [him], soaking wet as [he] beckons you all to follow."
-    "他脚下立刻积出一滩水，皮毛湿哒哒地贴垂在身上，浑身湿透，他抬手示意你们全都跟他走"
+    "他脚下立刻积出一滩水，皮毛湿哒哒地贴垂在身上，浑身湿透，他抬手示意你们全都跟他走。"
 
 # game/script day12.rpy:7019
 translate Chinese day12_transition_from_nomax_to_outside_ef740eca:
 
     # s "Oh, just come on, will you? Or they'll do it before you get back."
-    s "赶紧走吧行不行？再拖下去，不等你们回去，他们就先动手了"
+    s "赶紧走吧行不行？再拖下去，不等你们回去，他们就先动手了。"
 
 # game/script day12.rpy:7021
 translate Chinese day12_transition_from_nomax_to_outside_71a75ae6:
@@ -12339,25 +12338,25 @@ translate Chinese day12_transition_from_nomax_to_outside_74c8c2aa:
 translate Chinese day12_transition_from_nomax_to_outside_86fe52dd:
 
     # "[He] gestures to Nomax."
-    "他指向Nomax"
+    "[He]指向Nomax。"
 
 # game/script day12.rpy:7037
 translate Chinese day12_transition_from_nomax_to_outside_3d763b2e:
 
     # j "He's a botanist.{w} Plants, Sam."
-    j "他是植物学家，{w} 植物，Sam"
+    j "他是植物学家，{w} 植物，Sam。"
 
 # game/script day12.rpy:7041
 translate Chinese day12_transition_from_nomax_to_outside_96077f57:
 
     # p "Sam, he's a botanist. Well, I guess they are somewhat adjacent fields, but I'm not sure that means he's an expert on eagles and hawks..."
-    p "Sam，他是植物学家，嗯，这两门专业顶多算沾点边而已，可这不代表他就懂老鹰或者是隼类这些啊"
+    p "Sam，他是植物学家，嗯，这两门专业顶多算沾点边而已，可这不代表他就懂老鹰或者是隼类这些啊……"
 
 # game/script day12.rpy:7045
 translate Chinese day12_transition_from_nomax_to_outside_ccc36db1:
 
     # n "Yes, my expertise lies in the plant kingdom, and I must admit that, yes, I would probably have trouble distinguishing between those birds."
-    n "没错，我专攻植物领域，老实说，我确实不太分得清这些鸟类"
+    n "没错，我专攻植物领域，老实说，我确实不太分得清这些鸟类。"
 
 # game/script day12.rpy:7049
 translate Chinese day12_transition_from_nomax_to_outside_2d149088:
@@ -12369,19 +12368,19 @@ translate Chinese day12_transition_from_nomax_to_outside_2d149088:
 translate Chinese day12_transition_from_nomax_to_outside_11b1d716:
 
     # "Julian jumps up from the bed and slips past Samuel to the door."
-    "Julian从床上跳起来，轻巧绕过Samuel，快步走到门口"
+    "Julian从床上跳起来，轻巧绕过Samuel，快步走到门口。"
 
 # game/script day12.rpy:7065
 translate Chinese day12_transition_from_nomax_to_outside_ab93d434:
 
     # j "You sold me, sounds like I should see this."
-    j "你说服我了，听起来我该去看看"
+    j "你说服我了，听起来我该去看看。"
 
 # game/script day12.rpy:7069
 translate Chinese day12_transition_from_nomax_to_outside_8f0bd2f6:
 
     # j "Get your behind up here, [name]."
-    j "快把你的屁股挪过来，[name]"
+    j "快把你的屁股挪过来，[name]。"
 
 # game/script day12.rpy:7071
 translate Chinese day12_transition_from_nomax_to_outside_5967efdf:
@@ -12399,49 +12398,49 @@ translate Chinese day12_transition_from_nomax_to_outside_dc838dd6:
 translate Chinese day12_transition_from_nomax_to_outside_83894e70:
 
     # "Julian looks back at Nomax and demonstratively scans him for two or three seconds."
-    "Julian回头望向Nomax，刻意上下打量了他两三秒钟"
+    "Julian回头望向Nomax，刻意上下打量了他两三秒钟。"
 
 # game/script day12.rpy:7083
 translate Chinese day12_transition_from_nomax_to_outside_681ed30f:
 
     # j "He is a big boy and got two legs.{w} He can come along if he wants to."
-    j "他都长大了，又不是没长腿，{w}想去的话跟着一起来就行"
+    j "他都长大了，又不是没长腿，{w}想去的话跟着一起来就行。"
 
 # game/script day12.rpy:7085
 translate Chinese day12_transition_from_nomax_to_outside_299a18f4:
 
     # j "The eagle won't stay forever and I want to see it."
-    j "那只鹰不会永远待在那儿，我想去看看"
+    j "那只鹰不会永远待在那儿，我想去看看。"
 
 # game/script day12.rpy:7088
 translate Chinese day12_transition_from_nomax_to_outside_3061771c:
 
     # p "I can't just leave him, though."
-    p "不过，我不能就这么丢下他"
+    p "不过，我不能就这么丢下他。"
 
 # game/script day12.rpy:7090
 translate Chinese day12_transition_from_nomax_to_outside_d32be5ab:
 
     # "Nomax stands up and encourages you to go alone with a wave of his hand."
-    "Nomax站起身摆了摆手，示意你一个人去就好"
+    "Nomax站起身摆了摆手，示意你一个人去就好。"
 
 # game/script day12.rpy:7094
 translate Chinese day12_transition_from_nomax_to_outside_5a93ec11:
 
     # n "No, please, you two go ahead. An eagle sounds rather exciting, and I am not at risk of running away."
-    n "不用了，你们俩先去吧，老鹰这事听着就挺有意思，我也不会随便跑掉的"
+    n "不用了，你们俩先去吧，老鹰这事听着就挺有意思，我也不会随便跑掉的。"
 
 # game/script day12.rpy:7096
 translate Chinese day12_transition_from_nomax_to_outside_3b3a648c:
 
     # "He picks up one of the used cups to give it a quick visual inspection, before then lifting the can to see if any tea remains."
-    "他拿起一只用过的杯子，快速看了一眼，接着提起茶罐，检查里面还剩没有茶水"
+    "他拿起一只用过的杯子，快速看了一眼，接着提起茶罐，检查里面还剩没有茶水。"
 
 # game/script day12.rpy:7098
 translate Chinese day12_transition_from_nomax_to_outside_2d234673:
 
     # n "Besides, I have to clean up the tea set anyway."
-    n "再说，反正我也得收拾茶具"
+    n "再说，反正我也得收拾茶具。"
 
 # game/script day12.rpy:7100
 translate Chinese day12_transition_from_nomax_to_outside_c9e3d6df:
@@ -12453,19 +12452,19 @@ translate Chinese day12_transition_from_nomax_to_outside_c9e3d6df:
 translate Chinese day12_transition_from_nomax_to_outside_4e1836b5:
 
     # n "Uh, I am afraid I have not packed for stormy weather, and I do not think that it is a good idea for me to go out on deck right now."
-    n "呃，我没带能应付暴风雨的衣物，现在这个时候去甲板上，实在不太合适"
+    n "呃，我没带能应付暴风雨的衣物，现在这个时候去甲板上，实在不太合适。"
 
 # game/script day12.rpy:7106
 translate Chinese day12_transition_from_nomax_to_outside_7fb3457c:
 
     # n "Nor am I feeling too sick right now, but I fear that if I move around, it might just make it worse again."
-    n "我现在倒也不算很难受，但就怕四处走动折腾，情况又会重新加重"
+    n "我现在倒也不算很难受，但就怕四处走动折腾，情况又会重新加重。"
 
 # game/script day12.rpy:7110
 translate Chinese day12_transition_from_nomax_to_outside_16453d65:
 
     # n "But, you two can tell me how the feeding went."
-    n "不过，你们俩可以告诉我喂食的情况"
+    n "不过，你们俩可以告诉我喂食的情况。"
 
 # game/script day12.rpy:7116
 translate Chinese day12_transition_from_nomax_to_outside_2f4627b0:
@@ -12477,19 +12476,19 @@ translate Chinese day12_transition_from_nomax_to_outside_2f4627b0:
 translate Chinese day12_transition_from_nomax_to_outside_0c83af3f:
 
     # n "Of course, I will still be here later."
-    n "当然不，我晚些时候还会在这里"
+    n "当然不，我晚些时候还会在这里。"
 
 # game/script day12.rpy:7120
 translate Chinese day12_transition_from_nomax_to_outside_8b32c644:
 
     # "As you get up from the bed, you realize that Julian and Samuel have already left, and you jump to your feet to chase after them!"
-    "你从床上坐起来，发现Julian和Samuel已经走了，立刻一跃而起，追了出去"
+    "你从床上坐起来，发现Julian和Samuel已经走了，立刻一跃而起，追了出去！"
 
 # game/script day12.rpy:7124
 translate Chinese day12_transition_from_nomax_to_outside_dab67343:
 
     # p "Alright, I will. Thank you very much for the tea, Nomax."
-    p "好吧，我会的，非常感谢你的茶，Nomax"
+    p "好吧，我会的，非常感谢你的茶，Nomax。"
 
 # game/script day12.rpy:7129
 translate Chinese day12_transition_from_nomax_to_outside_5cfe6e4b:
@@ -12501,61 +12500,61 @@ translate Chinese day12_transition_from_nomax_to_outside_5cfe6e4b:
 translate Chinese day12_transition_from_nomax_to_outside_99828026:
 
     # "Samuel is already halfway through the door, anxiously waiting for you to get moving."
-    "Samuel整个人已经半个跨出门外，正着急等着赶紧出发"
+    "Samuel整个人已经半个跨出门外，正着急等着赶紧出发。"
 
 # game/script day12.rpy:7133
 translate Chinese day12_transition_from_nomax_to_outside_e932ec9e:
 
     # "You quickly hop to your feet and hurry after [him] through the door and to the open deck."
-    "你立刻跳起来，紧随他身后出门，直奔露天甲板而去"
+    "你立刻跳起来，紧随[him]身后出门，直奔露天甲板而去。"
 
 # game/script day12.rpy:7165
 translate Chinese day12_decideleave_wolf_d3880163:
 
     # "Staying below deck for a moment longer was too much."
-    "在甲板下多待一刻都难以忍受"
+    "在甲板下多待一刻都难以忍受。"
 
 # game/script day12.rpy:7167
 translate Chinese day12_decideleave_wolf_88e0bdcf:
 
     # "They all just went along like nothing happened. And well, for most of them, nothing did happen. But that was your point. This was hardly the camaraderie you'd dreamed of finding. Each moment of indifference stung."
-    "他们全都装作没事人一样照常度日，说实话，这对大部分人来说，确实什么都没发生，但这正是你在意的地方，这根本不是你梦寐以求的伙伴情谊，旁人每一次的冷漠都像针扎一样难受"
+    "他们全都装作没事人一样照常度日，说实话，这对大部分人来说，确实什么都没发生，但这正是你在意的地方，这根本不是你梦寐以求的伙伴情谊，旁人每一次的冷漠都像针扎一样难受。"
 
 # game/script day12.rpy:7169
 translate Chinese day12_decideleave_wolf_b9154f75:
 
     # "What a fool you'd been."
-    "你真是个傻瓜"
+    "你真是个傻瓜。"
 
 # game/script day12.rpy:7171
 translate Chinese day12_decideleave_wolf_e668a5a9:
 
     # "The sour turn of that dream felt real enough to make you curl your tone, but there weren't really words for what you wanted to say."
-    "梦想急转直下的酸涩太过真切，连你的语气都不由得带上怅然，可心里那份感受，却怎么也找不到合适的话来形容"
+    "梦想急转直下的酸涩太过真切，连你的语气都不由得带上怅然，可心里那份感受，却怎么也找不到合适的话来形容。"
 
 # game/script day12.rpy:7173
 translate Chinese day12_decideleave_wolf_c019c3d0:
 
     # "So, you grind your teeth and clench your fists."
-    "于是，你咬紧牙关，握紧拳头"
+    "于是，你咬紧牙关，握紧拳头。"
 
 # game/script day12.rpy:7177
 translate Chinese day12_decideleave_wolf_51715a13:
 
     # "Pain lances up your arm sharply. You stop tensing just as quickly, but the pain turns to a dull throb that's slow to fade. Still, it felt oddly satisfying, in some bitter way."
-    "尖锐的刺痛猛地窜上手臂，你立刻停止用力，可刺痛转为沉闷的钝感，迟迟消不下去，但说不清为何，这份痛楚在苦涩之余，竟有几分莫名的释然"
+    "尖锐的刺痛猛地窜上手臂，你立刻停止用力，可刺痛转为沉闷的钝感，迟迟消不下去，但说不清为何，这份痛楚在苦涩之余，竟有几分莫名的释然。"
 
 # game/script day12.rpy:7179
 translate Chinese day12_decideleave_wolf_33aded7c:
 
     # "You just wanted some space."
-    "你只是想要一点空间"
+    "你只是想要一点空间。"
 
 # game/script day12.rpy:7181
 translate Chinese day12_decideleave_wolf_fb614c18:
 
     # "Storm be damned."
-    "去他妈的暴风雨"
+    "去他妈的暴风雨。"
 
 # game/script day12.rpy:7183
 translate Chinese day12_decideleave_wolf_36e1ad89:
@@ -12567,133 +12566,133 @@ translate Chinese day12_decideleave_wolf_36e1ad89:
 translate Chinese day12_decideleave_wolf_631a594c:
 
     # "You climb through the bowels of the ship, ignoring the flickers of activity that in turn, ignore you. Glimpses of fur in various sodden states, the roll of dice, the cackle of bets made and won and lost."
-    "你在船舱底层缓步穿行，无视身边各处零星的动静，旁人也全然懒得理会你，满眼尽是皮毛湿漉的身影，骰子叮咚作响，赌徒们随着输赢起落，一阵阵狂笑喧嚷"
+    "你在船舱底层缓步穿行，无视身边各处零星的动静，旁人也全然懒得理会你，满眼尽是皮毛湿漉的身影，骰子叮咚作响，赌徒们随着输赢起落，一阵阵狂笑喧嚷。"
 
 # game/script day12.rpy:7187
 translate Chinese day12_decideleave_wolf_b35bd47a:
 
     # "No one cares to stop you."
-    "没人在意你，没人阻拦你"
+    "没人在意你，没人阻拦你。"
 
 # game/script day12.rpy:7198
 translate Chinese day12_decideleave_wolf_f235cd7e:
 
     # "You grab the hatch overhead with your good hand and give it a few awkward shoves, before popping it open only to be greeted by a wall of heavy rain."
-    "你用还没受伤的那只手抓住头顶舱门，别扭地推了好几下，猛地将它掀开，瞬间就被扑面而来的瓢泼大雨迎面罩住"
+    "你用还没受伤的那只手抓住头顶舱门，别扭地推了好几下，猛地将它掀开，瞬间就被扑面而来的瓢泼大雨迎面罩住。"
 
 # game/script day12.rpy:7201
 translate Chinese day12_decideleave_wolf_bb2e7c4a:
 
     # "You grab the hatch overhead and give it a satisfying shove, only to be greeted by a wall of rain pelting your face."
-    "你抓住头顶舱门，猛地将它掀开，瞬间就被扑面而来的瓢泼大雨迎面罩住"
+    "你抓住头顶舱门，猛地将它掀开，瞬间就被扑面而来的瓢泼大雨迎面罩住。"
 
 # game/script day12.rpy:7203
 translate Chinese day12_decideleave_wolf_ab38ed28:
 
     # "But... It is quiet out there."
-    "但是……外面很安静"
+    "但是……外面很安静。"
 
 # game/script day12.rpy:7205
 translate Chinese day12_decideleave_wolf_c819fb6b:
 
     # "Wonderful."
-    "太好了"
+    "太好了。"
 
 # game/script day12.rpy:7207
 translate Chinese day12_decideleave_wolf_1cbdf0e0:
 
     # "You slip out and close the hatch behind you. It's still dark out here, barely a ray of sunshine breaking through the thick, heavy clouds that streak across the sky."
-    "你悄悄走出舱口，顺手关上身后的舱门，外面依旧天色阴沉，厚重乌云漫布长空，几乎见不到一丝阳光穿透云层"
+    "你悄悄走出舱口，顺手关上身后的舱门，外面依旧天色阴沉，厚重乌云漫布长空，几乎见不到一丝阳光穿透云层。"
 
 # game/script day12.rpy:7209
 translate Chinese day12_decideleave_wolf_1ab16aa0:
 
     # "Your paws are immediately wet as the comfortably warm water runs over the deck. Here and there, the rain collects across the deck in a number of shifting pools, reflecting what little daylight pierces the clouds."
-    "温热的雨水淌过甲板，你的脚掌立刻就湿了，甲板各处积着片片晃动的水洼，浅浅倒映着穿透云层的微弱天光"
+    "温热的雨水淌过甲板，你的脚掌立刻就湿了，甲板各处积着片片晃动的水洼，浅浅倒映着穿透云层的微弱天光。"
 
 # game/script day12.rpy:7211
 translate Chinese day12_decideleave_wolf_80b0c9ad:
 
     # "For a moment you just stand there."
-    "有那么一会儿，你就单单只是站在那里"
+    "有那么一会儿，你就单单只是站在那里。"
 
 # game/script day12.rpy:7213
 translate Chinese day12_decideleave_wolf_dc8052df:
 
     # "Lost in the silence, the roar from the storm and sea."
-    "万籁俱寂间，只剩狂风暴雨与大海在呼啸咆哮"
+    "万籁俱寂间，只剩狂风暴雨与大海在呼啸咆哮。"
 
 # game/script day12.rpy:7215
 translate Chinese day12_decideleave_wolf_fd9c3166:
 
     # "No voices."
-    "没有人声"
+    "没有人声。"
 
 # game/script day12.rpy:7217
 translate Chinese day12_decideleave_wolf_e63be3f6:
 
     # "No other sounds, or other scents."
-    "没有其他声音，也没有其他气味"
+    "没有其他声音，也没有其他气味。"
 
 # game/script day12.rpy:7219
 translate Chinese day12_decideleave_wolf_9d7bee72:
 
     # "Just you, and your thoughts."
-    "只有你，和你的思绪"
+    "只有你，和你的思绪。"
 
 # game/script day12.rpy:7221
 translate Chinese day12_decideleave_wolf_a7aea639:
 
     # "The rain keeps pelting your body. In but a minute you're soaked to the core, causing your fur to sag and fall over your eyes. Occasionally the world blurs as a big drop of water falls in front of them, but you don't mind."
-    "暴雨不停拍打着你的身躯，转瞬之间便淋得通透湿透，毛发湿重垂落，遮住眉眼，偶尔雨珠挡在眼前，视线一片朦胧，你却毫不在意"
+    "暴雨不停拍打着你的身躯，转瞬之间便淋得通透湿透，毛发湿重垂落，遮住眉眼，偶尔雨珠挡在眼前，视线一片朦胧，你却毫不在意。"
 
 # game/script day12.rpy:7223
 translate Chinese day12_decideleave_wolf_6a5894b1:
 
     # "You watch masts shift above you as you balance yourself on the rolling deck, while the ship pitches between the waves."
-    "海浪跌宕，船身起伏，你在摇晃的甲板上稳住重心，仰头望着上方桅杆不住摇摆晃动"
+    "海浪跌宕，船身起伏，你在摇晃的甲板上稳住重心，仰头望着上方桅杆不住摇摆晃动。"
 
 # game/script day12.rpy:7225
 translate Chinese day12_decideleave_wolf_213698e9:
 
     # "Only a small portion of the sails remain in place, pulled tight by the wind and dragging the ship through the storm."
-    "仅剩一小部分船帆还完好绷立，被狂风扯得紧绷，拖着整艘船在风暴中破浪前行"
+    "仅剩一小部分船帆还完好绷立，被狂风扯得紧绷，拖着整艘船在风暴中破浪前行。"
 
 # game/script day12.rpy:7230
 translate Chinese day12_decideleave_wolf_c0f7d37d:
 
     # "You take one step forward."
-    "你向前迈出一步"
+    "你向前迈出一步。"
 
 # game/script day12.rpy:7232
 translate Chinese day12_decideleave_wolf_6f54ddd5:
 
     # "Then another, finding a delicate balance as you feel your way through the pitch and roll of the ceaseless waves."
-    "你又踏出一步，稳稳拿捏住微妙平衡，在波涛不停的起伏颠簸中，凭感觉缓步前行"
+    "你又踏出一步，稳稳拿捏住微妙平衡，在波涛不停的起伏颠簸中，凭感觉缓步前行。"
 
 # game/script day12.rpy:7236
 translate Chinese day12_decideleave_wolf_8357eed4:
 
     # "It's more your instinctual, feline grace than any seafaring skill, but it feels like a reminder of what perhaps could have been. If only it'd turned out differently."
-    "这并非是航海技能，而是猫科动物天生一般的灵动身姿与本能优雅，这一瞬却莫名提醒着你，本该拥有另一种人生，只可惜世事没能如愿改写"
+    "这并非是航海技能，而是猫科动物天生一般的灵动身姿与本能优雅，这一瞬却莫名提醒着你，本该拥有另一种人生，只可惜世事没能如愿改写。"
 
 # game/script day12.rpy:7238
 translate Chinese day12_decideleave_wolf_2fbde076:
 
     # "Still. What's done is done. You just move with the sway, going nowhere in particular, just following the movements of the storm, and the ocean beneath you."
-    "事已至此，覆水难收，你任由身体跟着船身晃动，没有特定去向，只是任凭风暴与身下大海的起伏顺势而动"
+    "事已至此，覆水难收，你任由身体跟着船身晃动，没有特定去向，只是任凭风暴与身下大海的起伏顺势而动。"
 
 # game/script day12.rpy:7240
 translate Chinese day12_decideleave_wolf_de7ab9fd:
 
     # "You'd heard sometimes that there was solace to be found in surrendering to things much larger than yourself, and perhaps the ocean at least would offer such cryptic comfort."
-    "你曾有耳闻，向远超自身的宏大事物低头顺从便能寻到内心的安宁，或许这片大海，总能给到这般玄妙又隐晦的抚慰"
+    "你曾有耳闻，向远超自身的宏大事物低头顺从便能寻到内心的安宁，或许这片大海，总能给到这般玄妙又隐晦的抚慰。"
 
 # game/script day12.rpy:7242
 translate Chinese day12_decideleave_wolf_aa35fa95:
 
     # "You walk past the main mast, letting your hand run along the waterlogged lines secured at its base."
-    "你行过主桅杆，伸手缓缓抚过桅底固定着的湿漉漉的绳索"
+    "你行过主桅杆，伸手缓缓抚过桅底固定着的湿漉漉的绳索。"
 
 # game/script day12.rpy:7244
 translate Chinese day12_decideleave_wolf_4571b147:
@@ -12705,7 +12704,7 @@ translate Chinese day12_decideleave_wolf_4571b147:
 translate Chinese day12_decideleave_wolf_09663a9b:
 
     # "As you move around the front of the secured jolly boat, a hint of white linen catches your attention."
-    "你绕到拴牢的小艇前方，忽然瞥见一抹白色亚麻布的踪影"
+    "你绕到拴牢的小艇前方，忽然瞥见一抹白色亚麻布的踪影。"
 
 # game/script day12.rpy:7248
 translate Chinese day12_decideleave_wolf_51c2cffa:
@@ -12717,7 +12716,7 @@ translate Chinese day12_decideleave_wolf_51c2cffa:
 translate Chinese day12_decideleave_wolf_9ed4bb95:
 
     # "The idea that someone could have been so sloppy with their sheetwork and not have gotten chewed out burned at the back of your throat."
-    "一想到有人可能在帆缆作业上如此马虎却还没被骂个狗血淋头，一股无名火涌上你的喉咙"
+    "一想到有人可能在帆缆作业上如此马虎却还没被骂个狗血淋头，一股无名火涌上你的喉咙。"
 
 # game/script day12.rpy:7252
 translate Chinese day12_decideleave_wolf_bf762688:
@@ -12729,13 +12728,13 @@ translate Chinese day12_decideleave_wolf_bf762688:
 translate Chinese day12_decideleave_wolf_22df9496:
 
     # "... And come face to face with Wolf."
-    "……与Wolf打了个照面"
+    "……与Wolf打了个照面。"
 
 # game/script day12.rpy:7260
 translate Chinese day12_decideleave_wolf_cca84f4f:
 
     # "Dripping black fur, snarl and all."
-    "黑毛湿透淌水，周身戾气尽显，低吼嘶吼分毫不减"
+    "黑毛湿透淌水，周身戾气尽显，低吼嘶吼分毫不减。"
 
 # game/script day12.rpy:7262
 translate Chinese day12_decideleave_wolf_ab7d2390:
@@ -12747,13 +12746,13 @@ translate Chinese day12_decideleave_wolf_ab7d2390:
 translate Chinese day12_decideleave_wolf_23f5011c:
 
     # "He calmed down quickly, eyes flicking between invisible points as he concluded that you probably weren't here to cause him trouble."
-    "他迅速冷静下来，眼神在虚空中来回扫视，暗自断定你应该不是来招惹麻烦的"
+    "他迅速冷静下来，眼神在虚空中来回扫视，暗自断定你应该不是来招惹麻烦的。"
 
 # game/script day12.rpy:7268
 translate Chinese day12_decideleave_wolf_b9cfe4c1:
 
     # w "Resting."
-    w "休息"
+    w "休息。"
 
 # game/script day12.rpy:7270
 translate Chinese day12_decideleave_wolf_fb83acd6:
@@ -12765,19 +12764,19 @@ translate Chinese day12_decideleave_wolf_fb83acd6:
 translate Chinese day12_decideleave_wolf_574f67f8:
 
     # "You want to laugh, but you do a fine job holding back any hint of derision. Not that Wolf would tolerate you doing so anyway."
-    "你忍不住想发笑，却极力压下所有讥讽的神色，说到底，Wolf本就绝不会容忍你这般嘲弄他"
+    "你忍不住想发笑，却极力压下所有讥讽的神色，说到底，Wolf本就绝不会容忍你这般嘲弄他。"
 
 # game/script day12.rpy:7274
 translate Chinese day12_decideleave_wolf_77c9bbbf:
 
     # "He looks at you as if you're the odd one. Even with the boat as a cover he is dripping wet just the same, with no way to escape the spray of the waves as they slosh about between the deck and the gunwale."
-    "他看你的眼神，反倒像是在觉得你古怪反常，即便躲在小艇后方遮雨，他照样浑身湿透滴水，海浪在甲板与船舷间拍荡飞溅，根本避不开漫天浪花水雾"
+    "他看你的眼神，反倒像是在觉得你古怪反常，即便躲在小艇后方遮雨，他照样浑身湿透滴水，海浪在甲板与船舷间拍荡飞溅，根本避不开漫天浪花水雾。"
 
 # game/script day12.rpy:7278
 translate Chinese day12_decideleave_wolf_eb124775:
 
     # w "It was pleasantly quiet until just now."
-    w "到刚才为止还挺安静的"
+    w "到刚才为止还挺安静的。"
 
 # game/script day12.rpy:7280
 translate Chinese day12_decideleave_wolf_f54376e9:
@@ -12789,19 +12788,19 @@ translate Chinese day12_decideleave_wolf_f54376e9:
 translate Chinese day12_decideleave_wolf_1ce246b6:
 
     # "Perhaps his company would be just the right thing right now?"
-    "或许此时此刻，有他作伴反倒刚刚好"
+    "或许此时此刻，有他作伴反倒刚刚好？"
 
 # game/script day12.rpy:7284
 translate Chinese day12_decideleave_wolf_b54e5043:
 
     # "The thought of being cooped up under the boat isn't looking so bad. Certainly better than taking the full force of the storm."
-    "躲进船底暂避风雨，似乎也未尝不可，总好过硬生生直面风暴的猛烈冲击"
+    "躲进船底暂避风雨，似乎也未尝不可，总好过硬生生直面风暴的猛烈冲击。"
 
 # game/script day12.rpy:7286
 translate Chinese day12_decideleave_wolf_c7db7799:
 
     # "At least it beat heading back inside and facing the other's questions."
-    "至少比回到舱内面对其他人的盘问强"
+    "至少比回到舱内面对其他人的盘问强。"
 
 # game/script day12.rpy:7288
 translate Chinese day12_decideleave_wolf_489c3a8b:
@@ -12825,7 +12824,7 @@ translate Chinese day12_decideleave_wolf_6bbaefd9:
 translate Chinese day12_decideleave_wolf_221886e4:
 
     # "You duck under the gunwale of the overturned boat and scoot underneath it. Though now being underneath here you realize that it's not exactly a spot with a wealth of options for comfortable seating."
-    "你矮身钻过翻倒小艇的船舷，挪到船底下方避身，可进到里面才发现，这里空间逼仄，根本没什么舒服落座的余地"
+    "你矮身钻过翻倒小艇的船舷，挪到船底下方避身，可进到里面才发现，这里空间逼仄，根本没什么舒服落座的余地。"
 
 # game/script day12.rpy:7311
 translate Chinese day12_decideleave_wolf_4f0c453e:
@@ -12837,73 +12836,73 @@ translate Chinese day12_decideleave_wolf_4f0c453e:
 translate Chinese day12_decideleave_wolf_e6b6c55f:
 
     # "You try to slowly lean back against the wooden frame, but the nail prodding your lower back just hurts too much that you realize you can't sit like that."
-    "你想缓缓靠向木架，不料铁钉死死顶着后腰，刺痛难耐，只好放弃这般坐姿"
+    "你想缓缓靠向木架，不料铁钉死死顶着后腰，刺痛难耐，只好放弃这般坐姿。"
 
 # game/script day12.rpy:7315
 translate Chinese day12_decideleave_wolf_c6277d9c:
 
     # "Instead, you lean forward."
-    "于是你向前倾"
+    "于是你向前倾。"
 
 # game/script day12.rpy:7319
 translate Chinese day12_decideleave_wolf_ecfab4b0:
 
     # "You duck under the gunwale of the overturned boat and scoot underneath it. The wooden frame it's attached to isn't exactly comfortable to lean against, and you feel a nail prodding your lower back, but you make do."
-    "你俯身钻过翻倒的船舷，躲到小艇底下，支撑的木架靠着并不舒服，还有铁钉顶着后腰，你也只能凑合着忍了"
+    "你俯身钻过翻倒的船舷，躲到小艇底下，支撑的木架靠着并不舒服，还有铁钉顶着后腰，你也只能凑合着忍了。"
 
 # game/script day12.rpy:7326
 translate Chinese day12_decideleave_wolf_2cade12a:
 
     # "For minutes the two of you just sit there."
-    "数分钟里，你们就这样静坐着"
+    "数分钟里，你们就这样静坐着。"
 
 # game/script day12.rpy:7328
 translate Chinese day12_decideleave_wolf_12f8b3f7:
 
     # "Not a single word exchanged."
-    "没有交换只言片语"
+    "没有交换只言片语。"
 
 # game/script day12.rpy:7330
 translate Chinese day12_decideleave_wolf_e72539d2:
 
     # "Just huddled up underneath the boat, almost lost among the sea."
-    "只是蜷缩在船底，几乎湮没于茫茫海天之间"
+    "只是蜷缩在船底，几乎湮没于茫茫海天之间。"
 
 # game/script day12.rpy:7334
 translate Chinese day12_decideleave_wolf_bf558472:
 
     # "You feel over the back of your injured hand, squeezing your knuckles to test if the pain continues to flare up, and stopping immediately when it does."
-    "你摩挲着受伤的手背，轻握指关节试探痛感是否还会发作，一旦疼意涌上，当即停住不动"
+    "你摩挲着受伤的手背，轻握指关节试探痛感是否还会发作，一旦疼意涌上，当即停住不动。"
 
 # game/script day12.rpy:7336
 translate Chinese day12_decideleave_wolf_1a595e9c:
 
     # "You notice movement in your peripheral vision when Wolf looks at what you're doing, though of course staying stumm as he does."
-    "你眼角余光察觉到异动，Wolf正望着你的一举一动，但全程却缄口不言"
+    "你眼角余光察觉到异动，Wolf正望着你的一举一动，但全程却缄口不言。"
 
 # game/script day12.rpy:7338
 translate Chinese day12_decideleave_wolf_a51e8f79:
 
     # "The impact of every single raindrop resonates through the wooden dome above you. Isolated in a way, but not entirely removed from it all."
-    "雨滴逐一敲打头顶木质棚顶，声声回荡，你有几分与世隔绝之感，却又并未彻底抽离这风雨人间"
+    "雨滴逐一敲打头顶木质棚顶，声声回荡，你有几分与世隔绝之感，却又并未彻底抽离这风雨人间。"
 
 # game/script day12.rpy:7340
 translate Chinese day12_decideleave_wolf_5e7ee176:
 
     # "All your senses are flooded with the sensations of the weather."
-    "所有感官都被天气的触感浸透"
+    "所有感官都被天气的触感浸透。"
 
 # game/script day12.rpy:7342
 translate Chinese day12_decideleave_wolf_92b703b2:
 
     # "The sting of saltwater in your eyes. The smell of it too. Muddled with the freshwater scent of the rain. The faint smell of the pitch and tar waterproofing the boat's hull. And of course, the strong smell of wet fur—yourself, and Wolf."
-    "海水咸涩刺目，咸腥气息萦绕鼻间，混着雨水清润的气息，船壳防水的沥青焦油，飘着浅淡焦味，更有浓重的湿毛气味，萦绕在你与Wolf的身上"
+    "海水咸涩刺目，咸腥气息萦绕鼻间，混着雨水清润的气息，船壳防水的沥青焦油，飘着浅淡焦味，更有浓重的湿毛气味，萦绕在你与Wolf的身上。"
 
 # game/script day12.rpy:7346
 translate Chinese day12_decideleave_wolf_bc0030e3:
 
     # "You stretch out one of your legs briefly, before hurriedly deciding to reverse course once you feel the rain hitting it."
-    "你短暂伸开一条腿，雨水一淋到腿脚，便立刻慌忙收回"
+    "你短暂伸开一条腿，雨水一淋到腿脚，便立刻慌忙收回。"
 
 # game/script day12.rpy:7348
 translate Chinese day12_decideleave_wolf_dbbff5f3:
@@ -12915,7 +12914,7 @@ translate Chinese day12_decideleave_wolf_dbbff5f3:
 translate Chinese day12_decideleave_wolf_3c719703:
 
     # "He whispers it at first, and only gets your confused look in return. After all, you had promised not to disturb him further."
-    "起初只是耳语，只换来你困惑的眼神，毕竟你承诺过不再打扰他"
+    "起初只是耳语，只换来你困惑的眼神，毕竟你承诺过不再打扰他。"
 
 # game/script day12.rpy:7357
 translate Chinese day12_decideleave_wolf_36b9a3a7:
@@ -12927,13 +12926,13 @@ translate Chinese day12_decideleave_wolf_36b9a3a7:
 translate Chinese day12_decideleave_wolf_ff26a69b:
 
     # "The repetition makes it clear to you that yes, Wolf did actually want to talk."
-    "他再三做出暗示，你已然了解，Wolf确实是想开口交谈"
+    "他再三做出暗示，你已然了解，Wolf确实是想开口交谈。"
 
 # game/script day12.rpy:7361
 translate Chinese day12_decideleave_wolf_4a0d09a3:
 
     # p "Oh... Same as you I suppose.{p}Getting away from the others."
-    p "……想来我跟你也一样，{p}只想躲开其他人静静待着"
+    p "……想来我跟你也一样，{p}只想躲开其他人静静待着。"
 
 # game/script day12.rpy:7365
 translate Chinese day12_decideleave_wolf_81608c29:
@@ -12951,19 +12950,19 @@ translate Chinese day12_decideleave_wolf_4a875baf:
 translate Chinese day12_decideleave_wolf_b282744c:
 
     # "You leave it at that, still unsure whether he actually really wanted to talk, or was just trying to be kind. Considering how things had gone for you, it wasn't entirely surprising."
-    "你就此打住，依旧分不清他是真心想交谈，还是仅仅出于客气，以你一路走来的经历而言，有这种顾虑也不足为奇"
+    "你就此打住，依旧分不清他是真心想交谈，还是仅仅出于客气，以你一路走来的经历而言，有这种顾虑也不足为奇。"
 
 # game/script day12.rpy:7376
 translate Chinese day12_decideleave_wolf_6c6160aa:
 
     # "Almost half a minute passes before he speaks up again."
-    "沉寂近半分钟后他才再度开口"
+    "沉寂近半分钟后他才再度开口。"
 
 # game/script day12.rpy:7380
 translate Chinese day12_decideleave_wolf_284b1e61:
 
     # w "That doesn't sound like you."
-    w "这可不像你"
+    w "这可不像你。"
 
 # game/script day12.rpy:7389
 translate Chinese day12_decideleave_wolf_5f815775:
@@ -12975,7 +12974,7 @@ translate Chinese day12_decideleave_wolf_5f815775:
 translate Chinese day12_decideleave_wolf_2943d406:
 
     # p "You know yourself that I enjoy some quiet moments."
-    p "你也应该知道我也喜欢独处时光"
+    p "你也应该知道我也喜欢独处时光。"
 
 # game/script day12.rpy:7395
 translate Chinese day12_decideleave_wolf_3b162d84:
@@ -12987,13 +12986,13 @@ translate Chinese day12_decideleave_wolf_3b162d84:
 translate Chinese day12_decideleave_wolf_4a941175:
 
     # w "Though, so far you usually used them as an excuse to talk to me."
-    w "只不过到现在为止，你向来都是拿这些当借口，借机跟我说话"
+    w "只不过到现在为止，你向来都是拿这些当借口，借机跟我说话。"
 
 # game/script day12.rpy:7401
 translate Chinese day12_decideleave_wolf_2bbe40f6:
 
     # w "But seeing you walk around on your own?{w} That's new."
-    w "但看你这般独自四处走动？{w}倒是很少见"
+    w "但看你这般独自四处走动？{w}倒是很少见。"
 
 # game/script day12.rpy:7403
 translate Chinese day12_decideleave_wolf_267cb05c:
@@ -13017,37 +13016,37 @@ translate Chinese day12_decideleave_wolf_e3de2bb4:
 translate Chinese day12_decideleave_wolf_f1850ce5:
 
     # "You sigh and rest your head on your shoulder."
-    "你叹息着将头靠上肩膀"
+    "你叹息着将头靠上肩膀。"
 
 # game/script day12.rpy:7415
 translate Chinese day12_decideleave_wolf_9ad13434:
 
     # "You sigh and let the back of your head bump against the wood you are leaning against."
-    "你轻轻叹了口气，后脑顺势往靠着的木架上轻轻一靠"
+    "你轻轻叹了口气，后脑顺势往靠着的木架上轻轻一靠。"
 
 # game/script day12.rpy:7417
 translate Chinese day12_decideleave_wolf_a01ae304:
 
     # p "Today has been fucking awful, Wolf."
-    p "对我来说今天糟糕透了，Wolf"
+    p "对我来说今天糟糕透了，Wolf。"
 
 # game/script day12.rpy:7419
 translate Chinese day12_decideleave_wolf_984fee75:
 
     # p "That's why I'm here."
-    p "所以我来这儿"
+    p "所以我来这儿。"
 
 # game/script day12.rpy:7421
 translate Chinese day12_decideleave_wolf_15ec01ba:
 
     # "Again, Wolf lets the silence stretch out between the two of you."
-    "Wolf再度缄口不言，任由沉默在你们二人之间慢慢弥漫开来"
+    "Wolf再度缄口不言，任由沉默在你们二人之间慢慢弥漫开来。"
 
 # game/script day12.rpy:7423
 translate Chinese day12_decideleave_wolf_80fd8ef9:
 
     # "First he flicks an ear. Then he takes a short breath, biting his lip, one fang slipping free."
-    "他先抖了下耳朵，跟着短促吸气，轻咬唇角，一枚獠牙微微露了出来"
+    "他先抖了下耳朵，跟着短促吸气，轻咬唇角，一枚獠牙微微露了出来。"
 
 # game/script day12.rpy:7427
 translate Chinese day12_decideleave_wolf_e5cfb391:
@@ -13059,19 +13058,19 @@ translate Chinese day12_decideleave_wolf_e5cfb391:
 translate Chinese day12_decideleave_wolf_5a6320eb:
 
     # "He sniffs the air between you cautiously."
-    "他谨慎地嗅了嗅你们之间的氛围"
+    "他谨慎地嗅了嗅你们之间的氛围。"
 
 # game/script day12.rpy:7431
 translate Chinese day12_decideleave_wolf_d08ad1c2:
 
     # "At first it feels futile. It's cold and wet, the salt from the spray cutting through anything else."
-    "起初只觉得徒劳无益，四下阴冷潮湿，飞溅浪花的咸腥凛冽，盖过了所有别的知觉"
+    "起初只觉得徒劳无益，四下阴冷潮湿，飞溅浪花的咸腥凛冽，盖过了所有别的知觉。"
 
 # game/script day12.rpy:7433
 translate Chinese day12_decideleave_wolf_dec968e7:
 
     # "Then on your next breath, you become acutely aware of the pungent scent of wet canine. On your next breath after that, you realize you're not in such a great position to talk."
-    "再一次呼吸，浓烈刺鼻的湿漉漉狼兽气息清晰钻入鼻尖，紧跟着下一瞬，你意识到眼下这般处境，并不适合开口说话"
+    "再一次呼吸，浓烈刺鼻的湿漉漉狼兽气息清晰钻入鼻尖，紧跟着下一瞬，你意识到眼下这般处境，并不适合开口说话。"
 
 # game/script day12.rpy:7437
 translate Chinese day12_decideleave_wolf_329e0c56:
@@ -13083,7 +13082,7 @@ translate Chinese day12_decideleave_wolf_329e0c56:
 translate Chinese day12_decideleave_wolf_054fa83d:
 
     # "Wolf dips his muzzle—just once, and slowly, in a reserved nod."
-    "Wolf垂下口鼻，只缓缓颔首一下，神色拘谨而含蓄"
+    "Wolf垂下口鼻，只缓缓颔首一下，神色拘谨而含蓄。"
 
 # game/script day12.rpy:7441
 translate Chinese day12_decideleave_wolf_9d6e6332:
@@ -13095,43 +13094,43 @@ translate Chinese day12_decideleave_wolf_9d6e6332:
 translate Chinese day12_decideleave_wolf_ba4e32ba:
 
     # "You take a deep, fortifying breath. He actually really seems to want to talk to you about it."
-    "你深吸一口气，稳住心绪，他看上去是真的打算和你好好谈谈这件事"
+    "你深吸一口气，稳住心绪，他看上去是真的打算和你好好谈谈这件事。"
 
 # game/script day12.rpy:7445
 translate Chinese day12_decideleave_wolf_7122c843:
 
     # "You frown and rub your head."
-    "你皱眉揉了揉额头"
+    "你皱眉揉了揉额头。"
 
 # game/script day12.rpy:7447
 translate Chinese day12_decideleave_wolf_0cf1e895:
 
     # w "You said you wanted to get away from everyone."
-    w "你说过你想远离所有人"
+    w "你说过你想远离所有人。"
 
 # game/script day12.rpy:7449
 translate Chinese day12_decideleave_wolf_281ffc4a:
 
     # "Huddled inside the boat, rain and water... It feels like the perfect moment too. After all, if anyone was going to probably agree with what you had to say, you'd put your money on Wolf."
-    "蜷缩躲在船下，雨声潺潺，水汽弥漫……此刻恰好是最合适谈心的时刻，说到底，若有谁能理解并认同你的想法，你最笃定的人便是Wolf"
+    "蜷缩躲在船下，雨声潺潺，水汽弥漫……此刻恰好是最合适谈心的时刻，说到底，若有谁能理解并认同你的想法，你最笃定的人便是Wolf。"
 
 # game/script day12.rpy:7451
 translate Chinese day12_decideleave_wolf_0fbe65b5:
 
     # p "I'm done with it all, Wolf."
-    p "我真的受够了，Wolf"
+    p "我真的受够了，Wolf。"
 
 # game/script day12.rpy:7453
 translate Chinese day12_decideleave_wolf_d1201a8c:
 
     # p "It was a mistake to go along with all this."
-    p "当初跟着上船就是个错误"
+    p "当初跟着上船就是个错误。"
 
 # game/script day12.rpy:7455
 translate Chinese day12_decideleave_wolf_00ea78cf:
 
     # p "And I just wish I'd realized that sooner."
-    p "真希望我能早点明白这点"
+    p "真希望我能早点明白这点。"
 
 # game/script day12.rpy:7459
 translate Chinese day12_decideleave_wolf_ddd3eb9e:
@@ -13143,37 +13142,37 @@ translate Chinese day12_decideleave_wolf_ddd3eb9e:
 translate Chinese day12_decideleave_wolf_3aa8d651:
 
     # "Wolf raises an eyebrow."
-    "Wolf挑起眉梢"
+    "Wolf挑起眉梢。"
 
 # game/script day12.rpy:7463
 translate Chinese day12_decideleave_wolf_2f8dc545:
 
     # "He seems to be implying what you'll do with that realization, rather than trying to console you, or get you to see it from someone else's point of view."
-    "他意在点破你醒悟之后该作何选择，既不刻意出言安慰，也不劝你站在他人角度看待这件事"
+    "他意在点破你醒悟之后该作何选择，既不刻意出言安慰，也不劝你站在他人角度看待这件事。"
 
 # game/script day12.rpy:7465
 translate Chinese day12_decideleave_wolf_b1245651:
 
     # "You bite your lip again and nod. You can respect that, at least."
-    "你再次咬唇点头，至少这点值得尊重"
+    "你再次咬唇点头，至少这点值得尊重。"
 
 # game/script day12.rpy:7469
 translate Chinese day12_decideleave_wolf_6af480ba:
 
     # "Wolf leaned forward slightly and sniffed again, confirming his interest."
-    "Wolf微微向前倾身，又轻嗅了一下，摆明了他心生兴致"
+    "Wolf微微向前倾身，又轻嗅了一下，摆明了他心生兴致。"
 
 # game/script day12.rpy:7473
 translate Chinese day12_decideleave_wolf_00715417:
 
     # p "I decided to leave."
-    p "我决定离开"
+    p "我决定离开。"
 
 # game/script day12.rpy:7475
 translate Chinese day12_decideleave_wolf_6ae3c233:
 
     # p "Next port, I'll be gone."
-    p "下个港口就走"
+    p "下个港口就走。"
 
 # game/script day12.rpy:7477
 translate Chinese day12_decideleave_wolf_81608c29_1:
@@ -13185,97 +13184,97 @@ translate Chinese day12_decideleave_wolf_81608c29_1:
 translate Chinese day12_decideleave_wolf_dd842e80:
 
     # "For a moment, you can't help but wonder whether he'll point out that Arthur in fact made that decision for you. Your tone should have at least made it clear enough that there was more to it."
-    "一时间你忍不住暗自思忖，他会不会点破其实是Arthur替你做了抉择，单凭你方才的语气，理应足以让人听出这事背后另有原委"
+    "一时间你忍不住暗自思忖，他会不会点破其实是Arthur替你做了抉择，单凭你方才的语气，理应足以让人听出这事背后另有原委。"
 
 # game/script day12.rpy:7481
 translate Chinese day12_decideleave_wolf_33e41156:
 
     # "Wolf raises an eyebrow. At first it would have been imperceptible, but perhaps it was the days spent together in the confines of a ship that meant you could now see past his stoic front."
-    "Wolf轻轻抬了抬眉，起初那细微神情几乎无从分辨，许是连日同船相守，你已然能透过他淡漠木然的外表读懂他暗藏的神色"
+    "Wolf轻轻抬了抬眉，起初那细微神情几乎无从分辨，许是连日同船相守，你已然能透过他淡漠木然的外表读懂他暗藏的神色。"
 
 # game/script day12.rpy:7483
 translate Chinese day12_decideleave_wolf_a8b0ac66:
 
     # "Somewhat, at least."
-    "至少应该能看出些许端倪"
+    "至少应该能看出些许端倪。"
 
 # game/script day12.rpy:7485
 translate Chinese day12_decideleave_wolf_c357efaf:
 
     # w "It's not running away."
-    w "这不是逃避"
+    w "这不是逃避。"
 
 # game/script day12.rpy:7487
 translate Chinese day12_decideleave_wolf_6816e772:
 
     # w "It's your decision."
-    w "是你的决定"
+    w "是你的决定。"
 
 # game/script day12.rpy:7489
 translate Chinese day12_decideleave_wolf_bf32d513:
 
     # p "Hmph... Exactly."
-    p "哼……正是"
+    p "哼……正是。"
 
 # game/script day12.rpy:7491
 translate Chinese day12_decideleave_wolf_ffa98f4f:
 
     # p "At least you're not trying to talk me out of it."
-    p "至少你没打算劝我回头"
+    p "至少你没打算劝我回头。"
 
 # game/script day12.rpy:7493
 translate Chinese day12_decideleave_wolf_726b92bb:
 
     # "Wolf slowly tilts his head. Like he's pointing out he barely talks anyway."
-    "Wof缓缓歪头，仿佛在说他本来话就少"
+    "Wolf缓缓歪头，仿佛在说他本来话就少。"
 
 # game/script day12.rpy:7495
 translate Chinese day12_decideleave_wolf_060f5748:
 
     # "But as you let the familiar silence fall comfortably between you, he actually takes a breath."
-    "你任由那份熟悉的沉默安然笼罩二人，他却缓缓深吸了一口气"
+    "你任由那份熟悉的沉默安然笼罩二人，他却缓缓深吸了一口气。"
 
 # game/script day12.rpy:7497
 translate Chinese day12_decideleave_wolf_f86ab785:
 
     # w "I thought you were going to be like Julian. When I first saw you."
-    w "初见遇见你时，我以为你会像Julian那样"
+    w "初见遇见你时，我以为你会像Julian那样。"
 
 # game/script day12.rpy:7501
 translate Chinese day12_decideleave_wolf_131981f8:
 
     # w "Loud."
-    w "聒噪"
+    w "聒噪。"
 
 # game/script day12.rpy:7503
 translate Chinese day12_decideleave_wolf_f4476db1:
 
     # w "Chirpy."
-    w "轻浮"
+    w "轻浮。"
 
 # game/script day12.rpy:7505
 translate Chinese day12_decideleave_wolf_0a0812b6:
 
     # "He growled softly."
-    "他低声咕噜着"
+    "他低声咕噜着。"
 
 # game/script day12.rpy:7507
 translate Chinese day12_decideleave_wolf_ada6db54:
 
     # w "Annoying."
-    w "烦人"
+    w "烦人。"
 
 # game/script day12.rpy:7509
 translate Chinese day12_decideleave_wolf_93fcad63:
 
     # "He whispered."
-    "他轻声道"
+    "他轻声道。"
 
 # game/script day12.rpy:7511
 translate Chinese day12_decideleave_wolf_a619fee5:
 
     # w "Naive."
-    w "天真"
+    w "天真。"
 
 # game/script day12.rpy:7513
 translate Chinese day12_decideleave_wolf_5f815775_1:
@@ -13293,7 +13292,7 @@ translate Chinese day12_decideleave_wolf_2e66d8e9:
 translate Chinese day12_decideleave_wolf_ae5f223f:
 
     # w "Takes you from one place to another. They're not a place that you seek to stay."
-    w "载人从此处到彼处，不是让人久留之地"
+    w "载人从此处到彼处，不是让人久留之地。"
 
 # game/script day12.rpy:7523
 translate Chinese day12_decideleave_wolf_3b21d334:
@@ -13305,7 +13304,7 @@ translate Chinese day12_decideleave_wolf_3b21d334:
 translate Chinese day12_decideleave_wolf_0704ae0b:
 
     # w "The ship takes you."
-    w "船便载着你漂"
+    w "船便载着你漂。"
 
 # game/script day12.rpy:7527
 translate Chinese day12_decideleave_wolf_25f91902:
@@ -13317,13 +13316,13 @@ translate Chinese day12_decideleave_wolf_25f91902:
 translate Chinese day12_decideleave_wolf_b5faa073:
 
     # "Wolf flicks his ears."
-    "Wolf抖了抖耳朵"
+    "Wolf抖了抖耳朵。"
 
 # game/script day12.rpy:7531
 translate Chinese day12_decideleave_wolf_d12416c7:
 
     # w "I didn't say that."
-    w "我没这么说"
+    w "我没这么说。"
 
 # game/script day12.rpy:7533
 translate Chinese day12_decideleave_wolf_49ec1100:
@@ -13347,19 +13346,19 @@ translate Chinese day12_decideleave_wolf_ac0ed9c2:
 translate Chinese day12_decideleave_wolf_7c4c04d7:
 
     # "Wolf sighs, shaking his head. His body sways with the rhythm of the ship, but there's an extra looseness to his movement that makes you wonder whether he's rolling his head back and forth deliberately, weighing up whether to tell you."
-    "Wolf叹了口气，微微摇头，他身形顺着船的摇晃节律起伏，动作透着几分闲散随性，不由得让你疑心，他这般缓缓晃头，是故意为之，正在纠结要不要对你坦白"
+    "Wolf叹了口气，微微摇头，他身形顺着船的摇晃节律起伏，动作透着几分闲散随性，不由得让你疑心，他这般缓缓晃头，是故意为之，正在纠结要不要对你坦白。"
 
 # game/script day12.rpy:7543
 translate Chinese day12_decideleave_wolf_54283233:
 
     # "It almost looks like the ocean is trying to cajole the truth out of him."
-    "仿佛连大海都在怂恿他说出真相"
+    "仿佛连大海都在怂恿他说出真相。"
 
 # game/script day12.rpy:7547
 translate Chinese day12_decideleave_wolf_e55002e6:
 
     # w "Getting away from somewhere is just as good."
-    w "逃离某个地方同样有意义"
+    w "逃离某个地方同样有意义。"
 
 # game/script day12.rpy:7549
 translate Chinese day12_decideleave_wolf_437d1f1b:
@@ -13637,7 +13636,7 @@ translate Chinese day12_decideleave_wolf_6eacf95e:
 
     # w "Well, I can't say I know much more than you. I know the Barbary pirates used to sail from those shores, but that's mostly died out by now, I think."
     w "嗯，我可说不上比你多懂多少。我知道巴巴里海盗以前从那些海岸出航，但我觉得到现在基本已经没落了。"
-    #https://en.wikipedia.org/wiki/Barbary_corsairs
+        # 译注：Barbary corsairs（巴巴里海盗/奥斯曼海盗），16至19世纪活跃于北非海域的著名海盗船队。参考：https://en.wikipedia.org/wiki/Barbary_corsairs
 
 # game/script day12.rpy:7657
 translate Chinese day12_decideleave_wolf_a0e8873c:
@@ -13775,7 +13774,7 @@ translate Chinese day12_decideleave_wolf_e696c819:
 translate Chinese day12_decideleave_wolf_58402d2a:
 
     # w "Yeah, exactly."
-    w "对，没错"
+    w "对，没错。"
 
 # game/script day12.rpy:7721
 translate Chinese day12_decideleave_wolf_fd147e8c:
@@ -13817,7 +13816,7 @@ translate Chinese day12_decideleave_wolf_3bf0ea8e:
 translate Chinese day12_decideleave_wolf_3f3a7be1:
 
     # p "That's not what I meant, I meant fixing your shirt."
-    p "我不是指那个，我是指我帮你补衬衫的事"
+    p "我不是指那个，我是指我帮你补衬衫的事。"
 
 # game/script day12.rpy:7739
 translate Chinese day12_decideleave_wolf_8d8b6c2c:
@@ -14069,7 +14068,7 @@ translate Chinese day12_decideleave_wolf_5e36f37b:
 translate Chinese day12_decideleave_wolf_7f55edd3:
 
     # w "You don't believe my reason, you barely listen, and you clearly don't know how to keep yourself out of trouble—even when you had someone like Samuel to try and keep you on side."
-    w "你不信我的说辞，也懒得认真听，还完全不懂得避祸安分，就算有Samuel帮你撑腰也毫无用处"
+    w "你不信我的说辞，也懒得认真听，还完全不懂得避祸安分，就算有Samuel帮你撑腰也毫无用处。"
 
 # game/script day12.rpy:7851
 translate Chinese day12_decideleave_wolf_a19bf282:
@@ -14105,7 +14104,7 @@ translate Chinese day12_decideleave_wolf_57ccdd7d:
 translate Chinese day12_decideleave_wolf_80418f63:
 
     # w "They will see you as weak and they'll be drawn to it—real monsters, not like anyone else on this ship."
-    w "他们会认定你软弱，继而被这份脆弱所吸引，那是真正的豺狼，跟船上任何人都不一样"
+    w "他们会认定你软弱，继而被这份脆弱所吸引，那是真正的豺狼，跟船上任何人都不一样。"
 
 # game/script day12.rpy:7865
 translate Chinese day12_decideleave_wolf_f71c75ae:
@@ -14195,7 +14194,7 @@ translate Chinese day12_decideleave_wolf_efc2379a:
 translate Chinese day12_decideleave_wolf_d48c6e78:
 
     # w "New. Learning the ropes. Grappling with a life unfamiliar to me. But I learned quickly, and found that to every lesson I learned there were two options—either to accept the way of things and survive, or not."
-    w "那时初来乍到，学着适应，在陌生的生活中挣扎着，但是我悟性不低，很快看清现实，每一次抉择只有两条路，顺从规则以求活路，或是一意孤行走向末路"
+    w "那时初来乍到，学着适应，在陌生的生活中挣扎着，但是我悟性不低，很快看清现实，每一次抉择只有两条路，顺从规则以求活路，或是一意孤行走向末路。"
 
 # game/script day12.rpy:7901
 translate Chinese day12_decideleave_wolf_0d322603:
@@ -14405,13 +14404,13 @@ translate Chinese day12_leave_eagle_feeding_178c63ed:
 translate Chinese day12_leave_eagle_feeding_6d3608b1:
 
     # "So you nod along and make the right noises, trying to at least pass as functional. It was a shame that Samuel kept trying. Surely [he] could direct [his] effort elsewhere..."
-    "所以你只能点头附和，装作正常的样子。真可惜 Samuel 还在那白费劲。他肯定能把精力用到更有用的地方..."
+    "所以你只能点头附和，装作正常的样子。真可惜 Samuel 还在那白费劲。[he]肯定能把精力用到更有用的地方……"
 
 # game/script day12.rpy:8017
 translate Chinese day12_leave_eagle_feeding_56d61b08:
 
     # "You don't need to know more about that to survive now. So you nod along and make the right noises, trying to at least pass as functional. It was a shame that Samuel kept trying. Surely [he] could direct [his] effort elsewhere..."
-    "你现在不需要知道那么多也能混下去。所以你只能点头附和，装作正常的样子。真可惜 Samuel 还在那白费劲。他肯定能把精力用到更有用的地方..."
+    "你现在不需要知道那么多也能混下去。所以你只能点头附和，装作正常的样子。真可惜 Samuel 还在那白费劲。[he]肯定能把精力用到更有用的地方……"
 
 # game/script day12.rpy:8019
 translate Chinese day12_leave_eagle_feeding_c29ca5d1:
@@ -14555,7 +14554,7 @@ translate Chinese day12_leave_eagle_feeding_15f736ba:
 translate Chinese day12_leave_eagle_feeding_68634af8:
 
     # "You've already overshot the last stairwell down below the decks, but everyone else is so preoccupied with their tasks that you take a moment to look around more—a mix of curiosity, but also a ploy to run down time a bit more."
-    "你早已走过下舱的最后一道扶梯，旁人各司其职，你趁机环顾四周，既是心生好奇，也借机拖延时间"
+    "你早已走过下舱的最后一道扶梯，旁人各司其职，你趁机环顾四周，既是心生好奇，也借机拖延时间。"
 
 # game/script day12.rpy:8083
 translate Chinese day12_leave_eagle_feeding_23b4e089:
@@ -14657,7 +14656,7 @@ translate Chinese day12_leave_eagle_feeding_882b4803:
 translate Chinese day12_leave_eagle_feeding_ee0e9e39:
 
     # "You're so focused on keeping your eyes, and attention, on the osprey, that you only dimly hear Torres approach behind you."
-    "你目光紧盯着鹗鸟，全然投入，只模糊听见Torres从身后走近"
+    "你目光紧盯着鹗鸟，全然投入，只模糊听见Torres从身后走近。"
 
 # game/script day12.rpy:8123
 translate Chinese day12_leave_eagle_feeding_515ab5d4:
@@ -14681,7 +14680,7 @@ translate Chinese day12_leave_eagle_feeding_6c6668c6:
 translate Chinese day12_leave_eagle_feeding_bd77217c:
 
     # "He points a talon at the osprey, now hissing loudly and spreading its wings defiantly at you, trying to make itself appear even bigger."
-    "他抬爪指向鹗鸟，对方厉声嘶叫，张翼相抗，刻意展翼撑大身形，尽显凶态"
+    "他抬爪指向鹗鸟，对方厉声嘶叫，张翼相抗，刻意展翼撑大身形，尽显凶态。"
 
 # game/script day12.rpy:8136
 translate Chinese day12_leave_eagle_feeding_a9a37699:
@@ -14765,7 +14764,7 @@ translate Chinese day12_leave_eagle_feeding_c519341a:
 translate Chinese day12_leave_eagle_feeding_cf0de3a6:
 
     # t "Understandable."
-    t "understandable。"
+    t "可以理解。"
 
 # game/script day12.rpy:8175
 translate Chinese day12_leave_eagle_feeding_a98fb39a:
@@ -14861,7 +14860,7 @@ translate Chinese day12_leave_eagle_feeding_b9075ec8:
 translate Chinese day12_leave_eagle_feeding_36be44de:
 
     # "He takes a step back and half turns towards you, keeping one eye on the osprey as he searches about for some scraps."
-    "他退步侧身望向你，一眼紧盯鹗鸟，一边四处翻找残食"
+    "他退步侧身望向你，一眼紧盯鹗鸟，一边四处翻找残食。"
 
 # game/script day12.rpy:8219
 translate Chinese day12_leave_eagle_feeding_0cde9b50:
@@ -14963,7 +14962,7 @@ translate Chinese day12_leave_eagle_feeding_d6e41668:
 translate Chinese day12_leave_eagle_feeding_893a6adf:
 
     # "You glance back at the osprey."
-    "你回头瞥了一眼那只鹗"
+    "你回头瞥了一眼那只鹗。"
 
 # game/script day12.rpy:8264
 translate Chinese day12_leave_eagle_feeding_35831bf6:
@@ -15005,7 +15004,7 @@ translate Chinese day12_leave_eagle_feeding_05af7817:
 translate Chinese day12_leave_eagle_feeding_9e428a92:
 
     # "If the osprey is anything to go by, you expect you can't be that far off land by now."
-    "以这只枭的样子来看，想来这会儿离陆地也该不远了吧"
+    "以这只枭的样子来看，想来这会儿离陆地也该不远了吧。"
 
 # game/script day12.rpy:8283
 translate Chinese day12_leave_eagle_feeding_6dd28fdd:
@@ -15131,7 +15130,7 @@ translate Chinese day12_leave_eagle_feeding_a2e46988:
 translate Chinese day12_leave_eagle_feeding_eba8ca31:
 
     # "You don't know how to take his comment, really. Perhaps he is just trying to wind you up—you don't really know the guy."
-    "你真搞不懂他这话什么意思，也许他就是想气你——你又不了解他"
+    "你真搞不懂他这话什么意思，也许他就是想气你——你又不了解他。"
 
 # game/script day12.rpy:8337
 translate Chinese day12_leave_eagle_feeding_c151e987:
@@ -15317,7 +15316,7 @@ translate Chinese day12_leave_eagle_feeding_635923a9:
 translate Chinese day12_leave_eagle_feeding_c23bd11a:
 
     # t "You're angry at Arthur, I get it—justifiably so. But that doesn't mean everyone else on this ship is out to get you."
-    t "你在生Arthur的气，我明白——这合情合理，毕竟换了谁都会生气，可这不意味着Conway号上的每一个人都跟你过不去"
+    t "你在生Arthur的气，我明白——这合情合理，毕竟换了谁都会生气，可这不意味着Conway号上的每一个人都跟你过不去。"
 
 # game/script day12.rpy:8415
 translate Chinese day12_leave_eagle_feeding_5d2e0383:
@@ -15558,13 +15557,13 @@ translate Chinese day12_leave_eagle_feeding_46fddc26:
 translate Chinese day12_leave_eagle_feeding_455b5d24:
 
     # "A wheeling cry brings you back to the present as osprey flaps away from you both, settling on the railings close to you."
-    "一声盘旋而过的啼鸣将你拉回当下，那只枭扑扇着翅膀从你俩身边飞开，落到了近旁的栏杆上"
+    "一声盘旋而过的啼鸣将你拉回当下，那只枭扑扇着翅膀从你俩身边飞开，落到了近旁的栏杆上。"
 
 # game/script day12.rpy:8507
 translate Chinese day12_leave_eagle_feeding_fcf2d31a:
 
     # "No longer hidden from view, the beast instantly attracts the other's attention, who, to your surprise—and irritation—instantly drop whatever it is they were doing and flock around the bird, eager to get a closer view."
-    "那野兽不再藏于视线之外，立刻引来了旁人的注意，令你又惊又恼的是，他们当即丢下手头的一切蜂拥围向那只鸟，个个争先恐后，只想看得更真切些"
+    "那野兽不再藏于视线之外，立刻引来了旁人的注意，令你又惊又恼的是，他们当即丢下手头的一切蜂拥围向那只鸟，个个争先恐后，只想看得更真切些。"
 
 # game/script day12.rpy:8509
 translate Chinese day12_leave_eagle_feeding_dd009d82:
@@ -15636,7 +15635,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_c8b5256c:
 translate Chinese day12_leave_eagle_feeding_pt2_0e626497:
 
     # "Samuel, meanwhile, has a wild smile stretched across [his] muzzle. Despite the rain, [he]'s relishing the first bit of fun in days—the added dash of danger, and chance to win the respect of the crew making it all the more appealing."
-    "与此同时，Samuel则咧开了一抹狂放的笑意，不顾雨水倾泻，[he]正享受着数日来头一遭的乐子，险中添趣，还有赢得全船敬重的机会，让这一切愈发诱人"
+    "与此同时，Samuel则咧开了一抹狂放的笑意，不顾雨水倾泻，[he]正享受着数日来头一遭的乐子，险中添趣，还有赢得全船敬重的机会，让这一切愈发诱人。"
 
 # game/script day12.rpy:8566
 translate Chinese day12_leave_eagle_feeding_pt2_48938fe2:
@@ -15912,7 +15911,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_313b7822:
 translate Chinese day12_leave_eagle_feeding_pt2_959eee75:
 
     # "He turns around at just the right time to watch another of the crew attempt the same move. He's not so lucky, and instead reaps the unceremonious reward of a slash through his clothes—and fortunately nothing more."
-    "他恰好这时转过身来，正瞧见另一名船员试图照搬同样的动作，那人的运气可没这么好， 他衣服被划开一道口子——但所幸仅此而已"
+    "他恰好这时转过身来，正瞧见另一名船员试图照搬同样的动作，那人的运气可没这么好， 他衣服被划开一道口子——但所幸仅此而已。"
 
 # game/script day12.rpy:8732
 translate Chinese day12_leave_eagle_feeding_pt2_4ff5e8dc:
@@ -16170,7 +16169,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_6667fbd3:
 translate Chinese day12_leave_eagle_feeding_pt2_0550d2f3:
 
     # "You watch closely as Julian goes quiet, considering your words. No doubt working through the alluring delights such freedom could entail, but more importantly, just being free himself..."
-    "你 внимательно 仔细观察着 Julian 沉默不语，似乎在琢磨你说的那些话。毫无疑问，他正在考虑自由能带来什么好处，更重要的是，他自己也能获得自由..."
+    "你仔细观察着 Julian 沉默不语，似乎在琢磨你说的那些话。毫无疑问，他正在考虑自由能带来什么好处，更重要的是，他自己也能获得自由……"
 
 # game/script day12.rpy:8865
 translate Chinese day12_leave_eagle_feeding_pt2_5d89bfa5:
@@ -16440,7 +16439,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_8fca078c:
 translate Chinese day12_leave_eagle_feeding_pt2_f9ea0f91:
 
     # p "What do you expect? It's a port I've never been to before... More than that, it's a {i}kingdom{/i} I've never been to."
-    p "你还指望什么？我又没去过那个港口…… 不止如此，那还是我从未去过的{i}kingdom{/i}。"
+    p "你还指望什么？我又没去过那个港口…… 不止如此，那还是我从未去过的{i}王国{/i}。"
 
 # game/script day12.rpy:8988
 translate Chinese day12_leave_eagle_feeding_pt2_cff2de72:
@@ -17383,7 +17382,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_3fe9bb13:
 translate Chinese day12_leave_eagle_feeding_pt2_5960d5a8:
 
     # "Julian replies, a cynical tone cutting sharply through."
-    "[name]带着尖刻的语气说道。"
+    "Julian带着尖刻的语气说道。"
 
 # game/script day12.rpy:9473
 translate Chinese day12_leave_eagle_feeding_pt2_00ec8c31:
@@ -17431,7 +17430,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_45f8ac35:
 translate Chinese day12_leave_eagle_feeding_pt2_6fe82a61:
 
     # "You bite your lip and take a deep breath, pushing Julian off the pump and working it yourself."
-    "你咬着嘴唇，深吸一口气，把[name]从泵上推开，自己干了起来。"
+    "你咬着嘴唇，深吸一口气，把Julian从泵上推开，自己干了起来。"
 
 # game/script day12.rpy:9494
 translate Chinese day12_leave_eagle_feeding_pt2_9b18bfd4:
@@ -19105,7 +19104,7 @@ translate Chinese day12_leave_wolf_post_eagle_2f8bdf06:
 translate Chinese day12_leave_wolf_post_eagle_33c51144:
 
     # "You take a step back, but your retreat is cut short by the gunboat scraping over your wounds and sending a flash of pain up your spine. The only space left behind you is taken up by the gunwale you were resting on just a few minutes ago."
-    "你想往后退一步，结果炮艇擦过你的伤口，疼得你脊梁骨都麻了。身后能站人的地方，几分钟前还让你靠在gunwale（舷缘）上了。"
+    "你想往后退一步，结果炮艇擦过你的伤口，疼得你脊梁骨都麻了。身后唯一剩下的空间，全被你几分钟前靠着的舷墙占满了。"
 
 # game/script day12.rpy:10341
 translate Chinese day12_leave_wolf_post_eagle_31949807:
@@ -19141,7 +19140,7 @@ translate Chinese day12_leave_wolf_post_eagle_f7e16732:
 translate Chinese day12_leave_wolf_post_eagle_b6600d32:
 
     # w "I told you. You, the ship, the crew—I just do it to get paid. And yet here you are, asking me to drop everything and set off with you.{w} {i}Again.{/i}"
-    w "我告诉过你。你，这艘船，船员——我做这些只是为了拿报酬。可你却在这里，要我抛下一切跟你走。又一次。"
+    w "我告诉过你。你，这艘船，船员——我做这些只是为了拿报酬。可你却在这里，要我抛下一切跟你走。{w}{i}又一次。{/i}"
 
 # game/script day12.rpy:10360
 translate Chinese day12_leave_wolf_post_eagle_85c99319:
@@ -19273,7 +19272,7 @@ translate Chinese day12_leave_wolf_post_eagle_ea8721ac:
 translate Chinese day12_leave_wolf_post_eagle_383e0388:
 
     # p "Yes...{w} two days..."
-    p "是啊……两天……"
+    p "是啊……{w}两天……"
 
 # game/script day12.rpy:10417
 translate Chinese day12_leave_wolf_post_eagle_1a17a1b6:
@@ -19345,7 +19344,7 @@ translate Chinese day12_leave_wolf_post_eagle_14746183:
 translate Chinese day12_leave_wolf_post_eagle_aada2286:
 
     # p "I think...{w} I thought I had made up my mind."
-    p "我想...我原以为自己已经下定决心了。"
+    p "我想……{w}我原以为自己已经下定决心了。"
 
 # game/script day12.rpy:10450
 translate Chinese day12_leave_wolf_post_eagle_8ace0892_1:
@@ -19393,7 +19392,7 @@ translate Chinese day12_leave_wolf_post_eagle_16da311e:
 translate Chinese day12_leave_wolf_post_eagle_285c487d:
 
     # w "Your fear is real, yes.{w} It should be. It's how our ancestors survived, seeking the strength of their packs."
-    w "你的恐惧是真实的，没错。 这很正常。 我们的祖先就是靠着恐惧，以及对同伴的依赖才得以生存。"
+    w "你的恐惧是真实的，没错。{w}这很正常。我们的祖先就是靠着恐惧，以及对同伴的依赖才得以生存。"
 
 # game/script day12.rpy:10466
 translate Chinese day12_leave_wolf_post_eagle_784c48f8:
@@ -20113,7 +20112,7 @@ translate Chinese day12_decidestay_ce857223:
 translate Chinese day12_decidestay_7eea491a:
 
     # s "Didn't see the end of it. It must have been at least several leagues wide and kept shifting on us, so there was no avoiding it really."
-    s "“我没看到头。那玩意儿起码有好几里格宽，而且一直冲着我们漂移，根本躲不开。”（leagues，航海里程单位，约等于5.5公里）"
+    s "我没看到头。那玩意儿起码有好几里格宽，而且一直冲着我们漂移，根本躲不开。"
 
 # game/script day12.rpy:10859
 translate Chinese day12_decidestay_5125edc1:
@@ -20569,7 +20568,7 @@ translate Chinese day12_decidestay_3bbca557:
 translate Chinese day12_decidestay_78495885:
 
     # b "They told me they wanted to try something local.{w} You know, they were all caught up in the adventure and instead of wanting something from home in the usual style, they asked me for something hot."
-    b "他们说想尝尝当地的玩意儿。{w} 你知道，他们都玩high了，也不想吃家乡菜，非要我做点辣的。"
+    b "他们说想尝尝当地的玩意儿。{w}你知道，他们一个个兴头正盛，也不想吃家乡菜，非要我做点带劲的。"
 
 # game/script day12.rpy:11097
 translate Chinese day12_decidestay_fdeecca9:
@@ -20875,7 +20874,8 @@ translate Chinese day12_decidestay_8ca694fb:
 translate Chinese day12_decidestay_266a3547:
 
     # s "This wasn't the nice volunteering you did. Sometimes, the navy would go and press gang guys into joining."
-    s "这可不是你那种自愿报名。有时候啊，海军会直接{a=https://en.wikipedia.org/wiki/Impressment}press gang{/a}（强行拉人入伍）抓人当兵。"
+    s "这可不是你那种自愿报名。有时候啊，海军会直接强征水手抓人当兵。"
+    # 译注：强征水手（Impressment），指18世纪英国皇家海军强行征募平民或商船海员入伍的制度。参考：https://en.wikipedia.org/wiki/Impressment
 
 # game/script day12.rpy:11284
 translate Chinese day12_decidestay_0569516c:
@@ -22363,7 +22363,7 @@ translate Chinese day12_honest_path_34a1677a:
 translate Chinese day12_honest_path_a3bd8f1a:
 
     # s "No, I was thinking of something with a bit more flair, you know.{w} Something that suits him."
-    s "我说的是那种更有范儿的，你知道吧。得配得上他的气质。"
+    s "我说的是那种更有范儿的，你知道吧。{w}得配得上他的气质。"
 
 # game/script day12.rpy:12074
 translate Chinese day12_honest_path_42c3de85:
@@ -22507,7 +22507,7 @@ translate Chinese day12_honest_path_9a315a33:
 translate Chinese day12_honest_path_004e34b8:
 
     # p "Scaling the castle walls under the moon's watchful eye. Not above getting his paws dirty to make his king proud."
-    p "在月亮 watchful 的注视下，攀爬城堡高墙。为了让国王骄傲，不惜弄脏他的爪子。"
+    p "在月亮警惕的注视下，攀爬城堡高墙。为了让国王骄傲，不惜弄脏他的爪子。"
 
 # game/script day12.rpy:12149
 translate Chinese day12_honest_path_0dc34b50:
@@ -23893,7 +23893,7 @@ translate Chinese day12_honest_path_a2fbfe12:
 translate Chinese day12_honest_path_31dcbfab:
 
     # p "Just distracted."
-    p "只是走神"
+    p "只是走神。"
 
 # game/script day12.rpy:12865
 translate Chinese day12_honest_path_1ecb954e:
@@ -23947,7 +23947,7 @@ translate Chinese day12_honest_path_20dbce0e:
 translate Chinese day12_honest_path_cfa50d20:
 
     # r "It's wormwood wine.{w} Four bottles in total, but one of them is empty. That means I have to make a note to pick up a replacement bottle when I'm restocking."
-    r "这是苦艾药酒。总共四瓶，一瓶空了，得记着补货。"
+    r "这是苦艾药酒。{w}总共四瓶，一瓶空了，得记着补货。"
 
 # game/script day12.rpy:12893
 translate Chinese day12_honest_path_40c12622:
@@ -24229,7 +24229,7 @@ translate Chinese day12_honest_path_3a489cb4:
 translate Chinese day12_honest_path_86fb04c5:
 
     # r "Or who knows, maybe it really does have a valuable use in childbirth?{p}I wouldn't have too many opportunities on this ship to know either way."
-    r "“或者，谁知道呢，说不定它在分娩方面真的有奇效？可惜我在这艘船上也没什么机会验证。”"
+    r "或者，谁知道呢，说不定它在分娩方面真的有奇效？{p}可惜我在这艘船上也没什么机会验证。"
 
 # game/script day12.rpy:13042
 translate Chinese day12_honest_path_a734954a:
@@ -25021,7 +25021,7 @@ translate Chinese day12_honest_path_f507d1c4:
 translate Chinese day12_honest_path_6dd6e017:
 
     # "But...{w}do you?"
-    "但...你真走了吗？"
+    "但……{w}你真走了吗？"
 
 # game/script day12.rpy:13424
 translate Chinese day12_honest_path_3c4552b9:
@@ -25189,7 +25189,7 @@ translate Chinese day12_honest_path_eagle_10c26c4c:
 translate Chinese day12_honest_path_eagle_8f111a96:
 
     # p "Yeah.{w} You do."
-    p "没错，你就是。"
+    p "没错。{w}你就是。"
 
 # game/script day12.rpy:13537
 translate Chinese day12_honest_path_eagle_242b7b31:
@@ -26557,7 +26557,7 @@ translate Chinese day12_honest_path_eagle_29034d2d:
 translate Chinese day12_honest_path_eagle_7ae45990:
 
     # a "One more thing.{w} About your future duties."
-    a "还有一件事。嗯，关于你未来的职责。"
+    a "还有一件事。{w}嗯，关于你未来的职责。"
 
 # game/script day12.rpy:14222
 translate Chinese day12_honest_path_eagle_852b0f59:
@@ -26587,7 +26587,7 @@ translate Chinese day12_honest_path_eagle_d47f5ac8:
 translate Chinese day12_honest_path_eagle_950b8beb:
 
     # a "I-{w} well..."
-    a "我……嗯……"
+    a "我……{w}嗯……"
 
 # game/script day12.rpy:14232
 translate Chinese day12_honest_path_eagle_09212e0c:
@@ -27163,7 +27163,7 @@ translate Chinese day12_honest_path_eagle_2a28197f:
 translate Chinese day12_honest_path_eagle_48604295:
 
     # s "Trust me, [name], some of the guys on this ship fall short of even {i}that{/i} mark."
-    s "哥们儿，信我，这条船上有些人，连{i}不犯浑{/i}都做不到。"
+    s "信我，[name]，这条船上有些人，连{i}不犯浑{/i}都做不到。"
 
 # game/script day12.rpy:14565
 translate Chinese day12_honest_path_eagle_487a394b:
@@ -27241,7 +27241,7 @@ translate Chinese day12_honest_path_eagle_f5331508:
 translate Chinese day12_honest_path_eagle_67dff00d:
 
     # s "Yes, yes yes, yesssssss!"
-    s "是！是！是！Yes！"
+    s "是！是！是！太棒了！"
 
 # game/script day12.rpy:14603
 translate Chinese day12_honest_path_eagle_771fb5d0:
@@ -27349,7 +27349,7 @@ translate Chinese day12_honest_path_eagle_dae7120c:
 translate Chinese day12_honest_path_eagle_3d6763b4:
 
     # p "Huh?"
-    p "Huh？"
+    p "啊？"
 
 # game/script day12.rpy:14659
 translate Chinese day12_honest_path_eagle_ea42208e:
@@ -27721,7 +27721,7 @@ translate Chinese day12_honest_path_eagle_79c0ac09_1:
 translate Chinese day12_honest_path_eagle_7787c4cf:
 
     # "[His] eyes narrow a little.{w} [He] means it."
-    "他微微眯起眼睛，语气认真。"
+    "[His]微微眯起眼睛。{w}[He]是认真的。"
 
 # game/script day12.rpy:14858
 translate Chinese day12_honest_path_eagle_d8a3ffd9_2:
@@ -27859,7 +27859,7 @@ translate Chinese day12_honest_path_eagle_318857da:
 translate Chinese day12_honest_path_eagle_57ee4367:
 
     # p "That was the plan, yes.{w} If you can even call it a plan."
-    p "他的确是这么打算的。如果那也能叫做计划的话。"
+    p "他的确是这么打算的，没错。{w}如果那也能叫做计划的话。"
 
 # game/script day12.rpy:14932
 translate Chinese day12_honest_path_eagle_b670ebc8:
@@ -28729,7 +28729,7 @@ translate Chinese day12_rajeeyah_letters_58e93197:
 translate Chinese day12_rajeeyah_letters_f179d325:
 
     # r "It's just that going home always puts me in a bit of a... it brings out the melancholy in me, if you can believe that."
-    r "就是... 怎么说呢，回家总让我有点emo，你懂吧？"
+    r "就是……怎么说呢，回家总让我心里有点发闷，勾起些伤感，要是你肯信的话。"
 
 # game/script day12.rpy:15404
 translate Chinese day12_rajeeyah_letters_4a6547d7:
@@ -28795,7 +28795,7 @@ translate Chinese day12_rajeeyah_letters_6d472085:
 translate Chinese day12_rajeeyah_letters_4db77ab0:
 
     # r "Oh, don't look so surprised. Yes, I had a... {w}have a... partner. Lover?{w} Once, I suppose. It is difficult to know how to put it, exactly."
-    r "哦，别这么惊讶。没错，我... 曾经... 有个伴侣。爱人？算是吧。哎，这事儿真不好说。"
+    r "哦，别这么惊讶。没错，我……{w}曾经……有个伴侣。爱人？{w}算是吧。哎，这事儿真不好说。"
 
 # game/script day12.rpy:15448
 translate Chinese day12_rajeeyah_letters_9661f819:
@@ -29089,7 +29089,8 @@ translate Chinese day12_rajeeyah_letters_046bce10:
 translate Chinese day12_rajeeyah_letters_7363114d:
 
     # r "Now, yes. This was in the time before the Roman Empire, though. But even today, in my homeland, the Amazigh remain objects of... fear, if not respect, in some quarters."
-    r "没错，现在是这样。但那可是在罗马帝国之前。即使是今天，在我的家乡，{a=https://en.wikipedia.org/wiki/Berbers}阿马齐格人{/a}在某些地方仍然是让人... 感到恐惧的存在，就算不说是敬畏。"
+    r "没错，现在是这样。但那可是在罗马帝国之前。即使是今天，在我的家乡，阿马齐格人在某些地方仍然是让人……感到恐惧的存在，就算不说是敬畏。"
+    # 译注：阿马齐格人（Amazigh / Berbers），北非本土原住民族，自古繁衍生息于摩洛哥与撒哈拉一带。参考：https://en.wikipedia.org/wiki/Berbers
 
 # game/script day12.rpy:15593
 translate Chinese day12_rajeeyah_letters_9fb4c725:
@@ -29439,13 +29440,13 @@ translate Chinese day12_rajeeyah_letters_282280ae:
 translate Chinese day12_rajeeyah_letters_24bc8058:
 
     # r "I countered that it was from the workshop of the famous jeweler al-Abassid. A smaller stone had sold for 400 dirhams just the month before."
-    r "我反驳说，这块宝石出自著名珠宝匠al-Abassid的工作室。就在上个月，一块小点的同类宝石还卖了 400 dirhams呢。"
+    r "我反驳说，这块宝石出自著名珠宝匠al-Abassid的工作室。就在上个月，一块小点的同类宝石还卖了 400 迪拉姆呢。"
 
 # game/script day12.rpy:15773
 translate Chinese day12_rajeeyah_letters_c30620d0:
 
     # p "What's a dirham?"
-    p "dirhams是什么？"
+    p "迪拉姆是什么？"
 
 # game/script day12.rpy:15775
 translate Chinese day12_rajeeyah_letters_9fb9465c:
@@ -29499,7 +29500,7 @@ translate Chinese day12_rajeeyah_letters_1734fba2:
 translate Chinese day12_rajeeyah_letters_d0543e96:
 
     # r "A hundred dirhams, perhaps? He overpaid, because he desired me. Arezki stormed off in a huff. The merchant went back to his residence."
-    r "大概一百dirhams吧？ 他是看上我了，所以才多给的。Arezki气得鼻子都歪了，哼了一声就走了。 那个商人就回他住的地方了。"
+    r "大概一百迪拉姆吧？ 他是看上我了，所以才多给的。Arezki气得鼻子都歪了，哼了一声就走了。 那个商人就回他住的地方了。"
 
 # game/script day12.rpy:15803
 translate Chinese day12_rajeeyah_letters_f486b045:
@@ -29631,7 +29632,7 @@ translate Chinese day12_rajeeyah_letters_31755fd6:
 translate Chinese day12_rajeeyah_letters_455649d8:
 
     # r "{cps=5000}Nearly. I could be {i}nearly{/i} anything.{w} I just couldn't be his.{/cps}" nointeract
-    r "" nointeract
+    r "{cps=5000}几乎无所不能。我{i}几乎{/i}可以成为任何角色，{w}唯独无法成为专属于他的女人。{/cps}" nointeract
 
 # game/script day12.rpy:15862
 translate Chinese day12_rajeeyah_letters_d633307a:
@@ -30699,7 +30700,7 @@ translate Chinese day12_rajeeyah_letters_8fe092ff:
 translate Chinese day12_rajeeyah_letters_3ff8f6f1:
 
     # r "Don't be ridiculous. We have a history, yes.{w} But we're friends. Nothing more."
-    r "别犯傻了。我们是有过一段历史，没错。但我们是朋友。仅此而已。"
+    r "别犯傻了。我们是有过一段过去，没错。{w}但我们是朋友。仅此而已。"
 
 # game/script day12.rpy:16341
 translate Chinese day12_rajeeyah_letters_b2555f4d:
@@ -31389,7 +31390,7 @@ translate Chinese day12_wolf_wine_436d27ec:
 translate Chinese day12_wolf_wine_09b21949:
 
     # p "Just to make sure I get it right: you sit out here and regularly get drenched by the waves because there are too many people down below?"
-    p "我再确认一下：你就是因为下边人太多，才宁愿坐在这儿， регулярно被海浪浇成落汤鸡？"
+    p "我再确认一下：你就是因为下边人太多，才宁愿坐在这儿，经常被海浪浇成落汤鸡？"
 
 # game/script day12.rpy:16712
 translate Chinese day12_wolf_wine_358fffde:
@@ -31623,13 +31624,13 @@ translate Chinese day12_wolf_wine_01ff08d4:
 translate Chinese day12_wolf_wine_6f8c9d4d:
 
     # "Or he genuinely doesn't care enough to even notice it.{w} It's always hard to tell with him..."
-    "或者他真的压根就没注意到。 真是搞不懂他……"
+    "或者他真的压根就没注意到。{w}真是搞不懂他……"
 
 # game/script day12.rpy:16818
 translate Chinese day12_wolf_wine_1b8eb59f:
 
     # p "Perhaps I was a bit quick to judge.{w} It's rather pleasant here."
-    p "也许我之前判断得太快了。 这儿其实还挺舒服的。"
+    p "也许我之前判断得太快了。{w}这儿其实还挺舒服的。"
 
 # game/script day12.rpy:16820
 translate Chinese day12_wolf_wine_109eb205:
@@ -31689,7 +31690,7 @@ translate Chinese day12_wolf_wine_f2f7fab0:
 translate Chinese day12_wolf_wine_0404abea:
 
     # w "See? Your head is good for something, after all. {w}Not just there to keep out the rain."
-    w "看吧？你的脑袋总算有点用了。 不只是用来挡雨的。"
+    w "看吧？你的脑袋总算有点用了。{w}不只是用来挡雨的。"
 
 # game/script day12.rpy:16846
 translate Chinese day12_wolf_wine_b5af812d:
@@ -31737,7 +31738,7 @@ translate Chinese day12_wolf_wine_0c713a78:
 translate Chinese day12_wolf_wine_1eb3e069:
 
     # w "A lady from the state of Hanover.{w} In the Empire."
-    w "一位来自汉诺威邦的女士。 在神圣罗马帝国境内。"
+    w "一位来自汉诺威邦的女士。{w}在神圣罗马帝国境内。"
 
 # game/script day12.rpy:16868
 translate Chinese day12_wolf_wine_5b398d09:
@@ -31965,7 +31966,7 @@ translate Chinese day12_wolf_wine_313952e2:
 translate Chinese day12_wolf_wine_c704dc63:
 
     # p "Wolf, you speak sedition!"
-    p "Wolf，你这话可是大逆不道啊！//character: Wolf"
+    p "Wolf，你这话可是大逆不道啊！"
 
 # game/script day12.rpy:16972
 translate Chinese day12_wolf_wine_2761df77:
@@ -32013,7 +32014,7 @@ translate Chinese day12_wolf_wine_0dcb91dd:
 translate Chinese day12_wolf_wine_5a3cdf42:
 
     # p "So, uh, {w}how was it?"
-    p "所以，{w}说说看，Hanover 怎么样？"
+    p "所以，{w}说说看，汉诺威怎么样？"
 
 # game/script day12.rpy:16994
 translate Chinese day12_wolf_wine_ddc81cd9:
@@ -32103,7 +32104,7 @@ translate Chinese day12_wolf_wine_273d44be:
 translate Chinese day12_wolf_wine_c863d1c7:
 
     # p "Hanover. I don't know, what's the landscape like? Any interesting towns? Perhaps something else there that sticks in your mind?"
-    p "Hanover 啊。 我也不知道，那儿的风景怎么样？ 有啥好玩的地方吗？ 还是说，有什么特别让你记得的？"
+    p "汉诺威啊。我也不知道，那儿的风景怎么样？有啥好玩的地方吗？还是说，有什么特别让你记得的？"
 
 # game/script day12.rpy:17028
 translate Chinese day12_wolf_wine_0346b6dd:
@@ -33507,7 +33508,7 @@ translate Chinese day12_wolf_wine_53c5cf05:
 translate Chinese day12_wolf_wine_956ef5e2:
 
     # p "Oh, yes. Please complain, Wolf.{w} I apologize that I didn't have a vineyard nearby to perhaps peruse their selection. Would the good sir have preferred the 1786 Vincent du Volf?"
-    p "哎呦，Wolf狼，您就别抱怨了。{w} 我还想找个葡萄园好好挑挑呢，这不是没找着嘛。要不，来瓶1786年的 Vincent du Volf？"
+    p "哎呦，Wolf，您就别抱怨了。{w}我还想找个葡萄园好好挑挑呢，这不是没找着嘛。要不，来瓶1786年的 Vincent du Volf？"
 
 # game/script day12.rpy:17648
 translate Chinese day12_wolf_wine_93410de3:
@@ -33609,7 +33610,7 @@ translate Chinese day12_wolf_wine_71c5369f:
 translate Chinese day12_wolf_wine_76cb317c:
 
     # p "I still have to convince Arthur somehow, but whatever. I figured some celebration with you is in order, lest I won't have the chance anymore."
-    p "我还得想办法说服ArthurArthur呢，不过也无所谓了。总觉得应该和你庆祝一下，免得以后都没机会了。"
+    p "我还得想办法说服Arthur呢，不过也无所谓了。总觉得应该和你庆祝一下，免得以后都没机会了。"
 
 # game/script day12.rpy:17691
 translate Chinese day12_wolf_wine_fb0b06be:
@@ -34431,7 +34432,7 @@ translate Chinese day12_wolf_wine_72902017:
 translate Chinese day12_wolf_wine_fede333d:
 
     # "An angry throw.{w} Aimless.{w} Sloppy enough that he has to catch himself against the gunwale."
-    "带着怒气，胡乱地一扔。{w} 他扔得太没准头了，不得不扶着舷墙才能稳住自己。"
+    "带着怒气，胡乱地一扔。{w}毫无目标。{w}他扔得太没准头了，不得不扶着舷墙才能稳住自己。"
 
 # game/script day12.rpy:18057
 translate Chinese day12_wolf_wine_d3206d14:
@@ -34917,7 +34918,7 @@ translate Chinese day12_wolf_wine_710d1a77:
 translate Chinese day12_wolf_wine_892b0e5e:
 
     # "He shifts his weight forward and begins to exit your little hiding place."
-    "他重心一 shift，就要爬出咱们这小小的藏身之处。"
+    "他重心向前一移，就要爬出咱们这小小的藏身之处。"
 
 # game/script day12.rpy:18302
 translate Chinese day12_wolf_wine_2c962696:
@@ -36353,7 +36354,7 @@ translate Chinese day12_perce_alcohol_2bda9ff2:
 translate Chinese day12_perce_alcohol_522a7959:
 
     # "Turning once again you hurry around the corner and back to him. By now Perce looks visibly annoyed, thin eyes glaring back at you."
-    "你再次转身，匆匆绕过拐角，回到他身边。现在Perce看起来非常恼火，细长的眼睛 злобно 瞪着你。"
+    "你再次转身，匆匆绕过拐角，回到他身边。现在Perce看起来非常恼火，细长的眼睛恶狠狠地瞪着你。"
 
 # game/script day12.rpy:18999
 translate Chinese day12_perce_alcohol_e96cecea:
@@ -36516,7 +36517,6 @@ translate Chinese day12_perce_alcohol_612f5395_1:
 
     # "With the hatch closed, only a faint sliver of daylight streams in through the deck prism."
     "随着舱盖合拢，仅有一缕微弱的天光透过甲板采光棱镜洒入幽暗的舱内。"
-    # 译注: deck prism（甲板采光玻璃柱/甲板棱镜），嵌在帆船甲板上的厚玻璃棱镜，用于在无明火隐患下将自然光折射进下层暗舱。
 
 # game/script day12.rpy:19056
 translate Chinese day12_perce_alcohol_e04ccc99:
@@ -37026,7 +37026,7 @@ translate Chinese day12_perce_alcohol_fb3f9709:
 translate Chinese day12_perce_alcohol_f8976a15:
 
     # "Perce shudders, giving a sharp, instinctive buck like he was properly tied. A quick look upward shows ecstasy writ over his strained features." with hpunch
-    "Perce猛地一颤，像被桩子狠狠顶了一下似的，本能地向后一挺。你 দ্রুত抬头，看到他那张紧绷的脸上写满了狂喜。" with hpunch
+    "Perce猛地一颤，像被桩子狠狠顶了一下似的，本能地向后一挺。你急忙抬头，看到他那张紧绷的脸上写满了狂喜。" with hpunch
 
 # game/script day12.rpy:19359
 translate Chinese day12_perce_alcohol_817142fd:
@@ -38220,7 +38220,7 @@ translate Chinese day12_rajeeyah_alcohol_cc7b8f18:
 translate Chinese day12_rajeeyah_alcohol_a24dc1b9:
 
     # r "You helped me because you're a sailor,{w} sailor."
-    r "你帮我忙是因为你是干什么的？你是个水手！"
+    r "你帮我忙是因为你是个水手，{w}水手。"
 
 # game/script day12.rpy:20047
 translate Chinese day12_rajeeyah_alcohol_c206fa9f:
@@ -38304,7 +38304,7 @@ translate Chinese day12_rajeeyah_alcohol_9fb6ba2e:
 translate Chinese day12_rajeeyah_alcohol_898f4c41:
 
     # r "And who distracted me in the first place?"
-    r "话说回来，一开始是谁在那儿 distracting 我来着？"
+    r "话说回来，一开始是谁在那儿让我分心来着？"
 
 # game/script day12.rpy:20095
 translate Chinese day12_rajeeyah_alcohol_12cd3a24:
@@ -38328,7 +38328,7 @@ translate Chinese day12_rajeeyah_alcohol_84fef24e:
 translate Chinese day12_rajeeyah_alcohol_bd84308a:
 
     # r "Or, well, you {i}shouldn't{/i} get any points for that.{w} But I will admit, given the low standards of some of the crew, at times even basic decency appears to be a lost art."
-    r "要说吧，你{i}本来{/i}就不该因为这事儿要什么好处。{w}不过说真的，就咱们船上有些人的素质，有时候能做到最起码的 decent 就已经很不错了。"
+    r "要说吧，你{i}本来{/i}就不该因为这事儿要什么好处。{w}不过说真的，就咱们船上有些人的素质，有时候能做到最起码的得体就已经很不错了。"
 
 # game/script day12.rpy:20103
 translate Chinese day12_rajeeyah_alcohol_1ea6a769:
@@ -38352,7 +38352,7 @@ translate Chinese day12_rajeeyah_alcohol_f186ac28:
 translate Chinese day12_rajeeyah_alcohol_2901f6fe:
 
     # p "What was it he was talking about again?{w} His personal theories on the intricacies of different rope splicing techniques?"
-    p "他又在讲什么来着？ 是他那一套关于不同绳索拼接的歪理？"
+    p "他又在讲什么来着？{w}是他那一套关于不同绳索拼接的歪理？"
 
 # game/script day12.rpy:20115
 translate Chinese day12_rajeeyah_alcohol_4d50c876:
@@ -38364,7 +38364,7 @@ translate Chinese day12_rajeeyah_alcohol_4d50c876:
 translate Chinese day12_rajeeyah_alcohol_93151b25:
 
     # r "And I didn't {i}beg{/i} you."
-    r "而且我没有{i}beg{/i}你。"
+    r "而且我没有{i}求{/i}你。"
 
 # game/script day12.rpy:20119
 translate Chinese day12_rajeeyah_alcohol_1bc0ab25:
@@ -39409,7 +39409,7 @@ translate Chinese day12_convincing_arthur_171c05e4:
 translate Chinese day12_convincing_arthur_bc0b4c81:
 
     # "This is the fight. You've picked it, committed to it when you chose to do all those unsavory things to get to this point. To have something to fight back with."
-    "这就是你死我活的战斗。从你选择不择手段走到今天这一步开始，就注定了要 fighting 到底。为了有能反击的筹码。"
+    "这就是你死我活的战斗。从你选择不择手段走到今天这一步开始，就注定了要抗争到底。为了有能反击的筹码。"
 
 # game/script day12.rpy:20674
 translate Chinese day12_convincing_arthur_a310908e:
@@ -40892,7 +40892,7 @@ translate Chinese day12_convincing_arthur_0574c4b2:
 translate Chinese day12_convincing_arthur_6a25adb7:
 
     # "The horse points to his latched glass window."
-    "horse指了指他紧闭的玻璃窗。"
+    "那匹马指了指他紧闭的玻璃窗。"
 
 # game/script day12.rpy:21360
 translate Chinese day12_convincing_arthur_61d9353d:
@@ -41829,7 +41829,7 @@ translate Chinese day12_convincing_arthur_continued_f0fee227:
 translate Chinese day12_convincing_arthur_continued_122a8a4c:
 
     # p "I, well... There is something else.{w} I know this may sound foolish, but..."
-    p "我，好吧...还有一件事。我知道这听起来可能很傻，但是..."
+    p "我，好吧……还有一件事。{w}我知道这听起来可能很傻，但是……"
 
 # game/script day12.rpy:21834
 translate Chinese day12_convincing_arthur_continued_2763bc68:
@@ -42009,7 +42009,7 @@ translate Chinese day12_convincing_arthur_continued_d1358cda:
 translate Chinese day12_convincing_arthur_continued_106c443a:
 
     # "He turns to run his eyes up and down you."
-    "他转过身，目光像要把我 পুরোটা剥光一样上下打量。"
+    "他转过身，目光上下打量着你。"
 
 # game/script day12.rpy:21904
 translate Chinese day12_convincing_arthur_continued_8d26cf9e:
@@ -43353,7 +43353,7 @@ translate Chinese day12_arthur_blackmail_with_samuel_b60e2b8f:
 translate Chinese day12_arthur_blackmail_with_samuel_81d1d4a7:
 
     # "Somehow it smells sweeter now."
-    "不知怎么的，现在这味道闻起来竟然更 приятен了。"
+    "不知怎么的，现在这味道闻起来竟然更好闻了。"
 
 # game/script day12.rpy:22495
 translate Chinese day12_arthur_blackmail_with_samuel_281931de:
@@ -44973,7 +44973,7 @@ translate Chinese day12_convincing_arthur_bj_40cc1747:
 translate Chinese day12_convincing_arthur_bj_5cfbf02c:
 
     # "But...{w} you're staying."
-    "但是...你得留下。"
+    "但是……{w}你得留下。"
 
 # game/script day12.rpy:23197
 translate Chinese day12_convincing_arthur_bj_59ddc385:
@@ -44991,7 +44991,7 @@ translate Chinese day12_convincing_arthur_bj_443109d8:
 translate Chinese day12_night_transition_1ea2c058:
 
     # "The rest of the day passes quietly.{w} Mercifully so."
-    "之后的时间总算平静地过去了。"
+    "之后的时间总算平静地过去了。{w}谢天谢地。"
 
 # game/script day12.rpy:23238
 translate Chinese day12_night_transition_51062d37:
@@ -45587,7 +45587,7 @@ translate Chinese day12_bioluminescence_arthur_nomax_7316fd40:
 translate Chinese day12_bioluminescence_arthur_nomax_65d51b5e:
 
     # n "Speaking of advancements... Has there not been some recent experimentation with alternate methods of ship propulsion?"
-    n "“说起新玩意儿…最近是不是有人在研究用别的方法来 движущийся 船只？”"
+    n "“说起新玩意儿…最近是不是有人在研究用别的方法来驱动船只？”"
 
 # game/script day12.rpy:23563
 translate Chinese day12_bioluminescence_arthur_nomax_4fbf99d1:
@@ -46867,7 +46867,7 @@ translate Chinese day12_bioluminescence_arthur_60664983:
 translate Chinese day12_bioluminescence_arthur_12731c10:
 
     # "He barks in a brief laugh."
-    "他 короткий 地笑了声，跟 собака 叫似的。"
+    "他短促地笑了一声，粗嘎得像声狗叫。"
 
 # game/script day12.rpy:24268
 translate Chinese day12_bioluminescence_arthur_21b51a89:
@@ -46999,7 +46999,8 @@ translate Chinese day12_bioluminescence_arthur_e2d26e11:
 translate Chinese day12_bioluminescence_arthur_15779d51:
 
     # a "My first captain that I served under would call moments like the one you experienced {i}'Dhyana'.{/i}"
-    a "我以前的老船长把你们体验到的那种时刻叫做{i}'{a=https://en.wikipedia.org/wiki/Dhyana_in_Buddhism}Dhyana{/a}'（禅那）{/i}。"
+    a "我以前的老船长把你们体验到的那种时刻叫做{i}'Dhyana'（禅那）{/i}。"
+    # 译注：Dhyana（禅那/冥想），源自印度梵语，指专注于心念合一的沉思寂静境界。参考：https://en.wikipedia.org/wiki/Dhyana_in_Buddhism
 
 # game/script day12.rpy:24333
 translate Chinese day12_bioluminescence_arthur_075db3c6:
@@ -47077,7 +47078,8 @@ translate Chinese day12_bioluminescence_arthur_72f22c2f:
 translate Chinese day12_bioluminescence_arthur_398e6b08:
 
     # a "Back then, I learned under him as a fresh-faced young stallion assigned as a midshipman to {i}HMS Royal George.{/i}"
-    a "那时候，我还是个刚入伍的毛头小子，就在他手下当见习军官，被分配到了{i}{a=https://en.wikipedia.org/wiki/HMS_Royal_George_(1756)}皇家乔治号{/a}{/i}上。"
+    a "那时候，我还是个刚入伍的毛头小子，就在他手下当见习军官，被分配到了{i}皇家乔治号{/i}上。"
+    # 译注：皇家乔治号（HMS Royal George, 1756），英国皇家海军著名风帆战列舰，曾参与七年战争基伯龙湾海战。参考：https://en.wikipedia.org/wiki/HMS_Royal_George_(1756)
 
 # game/script day12.rpy:24359
 translate Chinese day12_bioluminescence_arthur_aa309d98:
@@ -48588,7 +48590,6 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_e352ca63:
 
     # n "I acquired {i}Employment for the Microscope{/i} as a manual of sorts, but became absorbed by its descriptions of experiments and incredibly minute life-forms."
     n "我原本是把《显微镜的应用》当作一本操作手册买来的，结果却被书中描绘的种种实验以及那些不可思议的微小生命彻底吸引住了。"
-    # 译注: 《Employment for the Microscope》（1753年）由英国博物学家亨利·贝克（Henry Baker）所著，详细记录了微观水生生物与夜光虫发光现象。
 
 # game/script day12.rpy:25139
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_1cd9a663:
@@ -48906,7 +48907,7 @@ translate Chinese day12_bioluminescence_nomax_moonlight_grab_52a894e7:
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_d237cf75:
 
     # "A rub. {w}The painted dog suppresses a moan, but barely."
-    "轻轻一揉。{w} painted dog压抑着呻吟，但还是没忍住。"
+    "轻轻一揉。{w}那只三色犬压抑着呻吟，但还是没忍住。"
 
 # game/script day12.rpy:25297
 translate Chinese day12_bioluminescence_nomax_moonlight_grab_b678ba8a:
@@ -51264,7 +51265,7 @@ translate Chinese day12_bioluminescence_nomax_ending_4dff05ab:
 translate Chinese day12_bioluminescence_nomax_ending_588d34ca:
 
     # s "Anyone else here... Enraptured? Struck with awe? Anyone got more fancy words I could use?{w} Come on, I see we're among theater-loving gentlemen here."
-    s "还有谁... 看入迷了？ 被震住了？ 还有什么更 fancy 的词儿能形容我现在的心情吗？ 别装了，我知道咱们这儿有不少戏迷。"
+    s "还有谁……看入迷了？被震住了？还有什么更高雅的词儿能形容我现在的心情吗？{w}别装了，我知道咱们这儿有不少戏迷。"
 
 # game/script day12.rpy:26538
 translate Chinese day12_bioluminescence_nomax_ending_7eab5484:
@@ -51288,7 +51289,7 @@ translate Chinese day12_bioluminescence_nomax_ending_03535115:
 translate Chinese day12_bioluminescence_nomax_ending_ed6dccac:
 
     # s "Good.{w} I shouldn't have to remind you that we're still on a ship, and you're still paid to act like tars."
-    s "很好。 我可得提醒你们，咱们还在船上呢，都给我拿出点水手的样子来。"
+    s "很好。{w}我可得提醒你们，咱们还在船上呢，都给我拿出点水手的样子来。"
 
 # game/script day12.rpy:26546
 translate Chinese day12_bioluminescence_nomax_ending_d7fd629d:
@@ -51336,7 +51337,7 @@ translate Chinese day12_bioluminescence_nomax_ending_6e2d9aa8:
 translate Chinese day12_bioluminescence_nomax_ending_05156a63:
 
     # n "Already?!{w} It is well past midnight! Another two hours or so and the sun is coming out again..."
-    n "这么快？！ 都已经过了半夜了！ 再过两三个小时，太阳就要出来了..."
+    n "这么快？！{w}都已经过了半夜了！再过两三个小时，太阳就要出来了……"
 
 # game/script day12.rpy:26569
 translate Chinese day12_bioluminescence_nomax_ending_616fff53:
@@ -51966,7 +51967,7 @@ translate Chinese day12_bioluminescence_rajeeyah_wolf_24c38567:
 translate Chinese day12_bioluminescence_rajeeyah_wolf_9d5ff1ed:
 
     # w "You should.{w} To someone else. I do not accept your apology."
-    w "你应该原谅别人，但我不会接受你的道歉。"
+    w "你应该向别人道歉。{w}我不接受你的道歉。"
 
 # game/script day12.rpy:26959
 translate Chinese day12_bioluminescence_rajeeyah_wolf_dd61f681:
@@ -53425,7 +53426,7 @@ translate Chinese day12_bioluminescence_wolf_rajeeyah_post_6f432dde:
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_e78dde23:
 
     # r "I appreciate the offer, I guess, but I'm not sure that's really a good idea. Most of what I'll be doing is handling delicate medicinal ingredients. The negotiations might take some time."
-    r "谢谢你的好意，不过我觉得这主意不太好。我主要负责处理精细的药材，而且谈判可能要花不少时间，"
+    r "谢谢你的好意，不过我觉得这主意不太好。我主要负责处理精细的药材，而且谈判可能要花不少时间，。"
 
 # game/script day12.rpy:27829
 translate Chinese day12_bioluminescence_wolf_rajeeyah_post_d97767e8:
@@ -57265,7 +57266,7 @@ translate Chinese day12_bioluminescence_sam_julian_2e55e5a2:
 translate Chinese day12_bioluminescence_sam_julian_bb0fc6b2:
 
     # "Some of the sailors, more intrigued than startled, begin climbing into the shrouds to seek a better vantage point."
-    "一些水手，与其说是受惊不如说是好奇，开始爬上侧支索，想找个更好的 vantage point（有利位置）。"
+    "一些水手，与其说是受惊不如说是好奇，开始爬上侧支索，想找个更好的有利观察位置。"
 
 # game/script day12.rpy:29780
 translate Chinese day12_bioluminescence_sam_julian_100dc9be:
@@ -57919,7 +57920,7 @@ translate Chinese day12_bioluminescence_sam_julian_c582becc:
 translate Chinese day12_bioluminescence_sam_julian_55a0da26:
 
     # "[He] appears to be digging deep in the recesses of [his] memory."
-    "他似乎在记忆深处努力挖掘。"
+    "[He]似乎在记忆深处努力挖掘。"
 
 # game/script day12.rpy:30041
 translate Chinese day12_bioluminescence_sam_julian_c243b4b3:
@@ -58501,7 +58502,7 @@ translate Chinese day12_bioluminescence_sam_julian_961cae8d:
 translate Chinese day12_bioluminescence_sam_julian_4a0e7b6b:
 
     # "He effortlessly rolls his R's as he imitates the sound."
-    "他模仿着那个声音，轻松地滚动着R音。"
+    "他模仿着那个声音，轻松地发出大舌颤音。"
 
 # game/script day12.rpy:30344
 translate Chinese day12_bioluminescence_sam_julian_6e588b1b:
@@ -60677,7 +60678,7 @@ translate Chinese day12_bioluminescence_sam_julian_3870ca84:
 translate Chinese day12_bioluminescence_sam_julian_0e491746:
 
     # s "I mean it."
-    s "我是认真的"
+    s "我是认真的。"
 
 # game/script day12.rpy:31341
 translate Chinese day12_bioluminescence_sam_julian_6290caa1:
@@ -61861,7 +61862,7 @@ translate Chinese strings:
 
     # game/script day12.rpy:1631
     old "Ask [him] if you are making enough progress to keep the ship safe"
-    new "问问他，你做得够不够好，能不能保证船没事。"
+    new "问问[him]，你做得够不够好，能不能保证船没事。"
 
     # game/script day12.rpy:1651
     old "Apologize for your mistake"
