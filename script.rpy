@@ -118,7 +118,7 @@ translate Chinese start_5a28d3c2:
 translate Chinese start_35e2ec77:
 
     # "{cps=2}. . .{/cps}"
-    "{cps=2}...{/cps}"
+    "{cps=2}…{/cps}"
 
 # game/script.rpy:1100
 translate Chinese start_8afacf61:
@@ -244,7 +244,7 @@ translate Chinese start_12a4c225:
 translate Chinese start_f1c0e50f:
 
     # horse "So..."
-    horse "所以..."
+    horse "所以…"
 
 # game/script.rpy:1155
 translate Chinese start_364cd120:
@@ -685,7 +685,7 @@ translate Chinese firstchoice_done_e71ac4f4:
 translate Chinese firstchoice_done_875ce35a:
 
     # p ". . ."
-    p ". . ."
+    p "……"
 
 # game/script.rpy:1521
 translate Chinese firstchoice_done_de411af8:
@@ -1081,7 +1081,7 @@ translate Chinese firstchoice_done_ed8d9127:
 translate Chinese firstchoice_done_d6a14645:
 
     # j "Mine aren't either, but... surely they didn't just call you \"Wolf.\""
-    j "我的也不是，但是...他们应该不会只叫你“Wolf”吧。"
+    j "我的也不是，但是…他们应该不会只叫你“Wolf”吧。"
 
 # game/script.rpy:1731
 translate Chinese firstchoice_done_618328de:
@@ -1843,7 +1843,7 @@ translate Chinese firstchoice_done_cba08017_1:
 translate Chinese firstchoice_done_fba1fc46:
 
     # a "Well, you apparently can keep out of trouble. Let's see if you can be useful, too. You're at posts... 36, and 37, I believe."
-    a "看来你确实能避开麻烦。让我们看看你是否也能派上用场。你负责的岗位是...36号和37号，我记得。"
+    a "看来你确实能避开麻烦。让我们看看你是否也能派上用场。你负责的岗位是…36号和37号，我记得。"
 
 # game/script.rpy:2146
 translate Chinese firstchoice_done_0aa463f5_1:
