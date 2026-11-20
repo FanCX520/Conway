@@ -1,10 +1,12 @@
 translate Chinese strings:
 
+# 不要改这里的，详见readme.md
+
     old "His"
-    new "他的"
+    new "他"
 
     old "his"
-    new "他的"
+    new "他"
 
     old "He"
     new "他"
@@ -43,10 +45,10 @@ translate Chinese strings:
     new "她"
 
     old "Hers"
-    new "她的"
+    new "她"
 
     old "hers"
-    new "她的"
+    new "她"
 
     old "Hannah"
     new "Hannah"
