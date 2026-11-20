@@ -37713,7 +37713,7 @@ translate Chinese day2_eveningchoice_rajeeyahdinner_91601868:
 translate Chinese day2_eveningchoice_rajeeyahdinner_4064dab0:
 
     # p "First Wolf takes half, and now you're trying to rob me blind as well?"
-    p "“狼”先拿走了一半，现在你又想把我榨干是吧？"
+    p "先是 Wolf 拿走了一半，现在你又想把我榨干是吧？"
 
 # game/script day2.rpy:21505
 translate Chinese day2_eveningchoice_rajeeyahdinner_bab26d3f:
@@ -37899,7 +37899,7 @@ translate Chinese day2_eveningchoice_rajeeyahdinner_44b02686:
 translate Chinese day2_eveningchoice_rajeeyahdinner_338a5a06:
 
     # "You turn to the lynx to invite him to go on as Rajeeyah lets her head slump into the palm of her hand."
-    "你转向那边的猞猁，想问问他接下来怎么办，拉姬娅却直接把头撑在手心上，一脸不耐烦。"
+    "你转向那边的猞猁，想问问他接下来怎么办，Rajeeyah却直接把头撑在手心上，一脸不耐烦。"
 
 # game/script day2.rpy:21612
 translate Chinese day2_eveningchoice_rajeeyahdinner_6b4eb0b7:
@@ -38055,7 +38055,7 @@ translate Chinese day2_eveningchoice_rajeeyahdinner_1f2e543e:
 translate Chinese day2_eveningchoice_rajeeyahdinner_60571551:
 
     # "Rajeeyah quickly raises her voice and cuts him off."
-    "拉姬娅突然提高了嗓门，打断了他的话。"
+    "Rajeeyah突然提高了嗓门，打断了他的话。"
 
 # game/script day2.rpy:21702
 translate Chinese day2_eveningchoice_rajeeyahdinner_b5759fda:

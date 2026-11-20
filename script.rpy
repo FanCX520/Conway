@@ -12728,7 +12728,7 @@ translate Chinese firstdinner_Arthur_9e5e73f7:
 translate Chinese firstdinner_Arthur_b455bc36:
 
     # a "Rajeeyah... How confident are you about it, really?"
-    a "拉姬娅，你到底有多大把握？"
+    a "Rajeeyah，你到底有多大把握？"
 
 # game/script.rpy:8620
 translate Chinese firstdinner_Arthur_3c156547:
