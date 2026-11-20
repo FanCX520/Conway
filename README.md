@@ -66,7 +66,7 @@ Ren'Py game scripts for **Conway** (Chinese localization / translation files).
 | 原文 | 译文 | 备注 |
 | :--- | :--- | :--- |
 | James (Protagonist) | James（主角） | 20岁农场出身的猫，新入行水手，性格机敏、怀揣航海梦想。 |
-| Arthur Hudson | Arthur Hudson / Arthur长官 | 极其高大魁梧的马（航海长/主管军官），威严严肃、治军严厉。 |
+| Arthur Hudson | Arthur Hudson / Arthur长官 | 极其高大魁梧的马（大副），威严严肃、治军严厉。 |
 | Julian Preble | Julian Preble / Julian | 约20岁青年蜥蜴，性格活泼友善、幽默机警、同为新入行水手。 |
 | Wolf (Wolf Hvidt) | Wolf（Wolf Hvidt） | 三十余岁沧桑老练的灰狼，随身携带横笛（fife），沉默寡言、手艺精湛，曾流亡法国、背负身世隐情。 |
 | Samuel | Samuel | 鬃狼（Maned Wolf），负责起锚机（Capstan）等重活的资深甲板水手长。 |
@@ -86,7 +86,8 @@ Ren'Py game scripts for **Conway** (Chinese localization / translation files).
 | 原文 | 译文 | 备注 |
 | :--- | :--- | :--- |
 | Officer | 长官 / 军官 | 船上管理层，Arthur要求主角称呼其为Officer。 |
-| Sailing Master | 航海长 | 专职负责船舶导航与操帆作业的主管长官（由Arthur兼任）。 |
+| Sailing Master | 航海长 | 专职负责船舶导航与操帆作业的主管长官。 |
+| First mate | 大副 | 担任甲板部负责人和船长主要助手，是甲板部的最高长官。 |
 | Ship's Surgeon | 船医 | 帆船时代专职医护长官，负责伤病与卫生。 |
 | Landsman | 旱鸭子水手 / 新手水手 | 18世纪英国航海制度中船龄不到一年的无经验新手，初登船水手等级。 |
 | Ordinary Seaman | 二等水手 / 普通水手 | 有一定出海经验的水手（1-2年船龄）。 |
