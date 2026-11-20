@@ -94,7 +94,7 @@ Ren'Py game scripts for **Conway** (Chinese localization / translation files).
 | Able Seaman (A.B.) | 一等水手 / 全能水手 | 熟练掌握所有操帆索具操作的老资历水手。 |
 | Recruit / New hand | 新水手 / 新丁 / 新兵 | 新招募入船的人员。 |
 | Runt | 矮冬瓜 / 小矮个 | Arthur长官对猫族新手James轻视与立规矩时的刻薄蔑称。 |
-| Purser | 事务长 | 帆船主管船上账目、给养采购、衣物配发与水手饷银的高级职官（旧译曾误作“管家”）。 |
+| Purser | 事务长 | 帆船主管船上账目、给养采购、衣物配发与水手饷银的高级职官。 |
 | Boatswain (Bosun) | 水手长 | 负责甲板维护、索具、起锚作业的船员头领。 |
 | Shipwright / Carpenter | 船匠 / 木工水手长 | 负责船体结构维修、堵漏、水密性与木工工艺的资深高级海员。 |
 | Tar / Old Salt | 老水手 / 老海员 | 久经风浪、经验丰富的老练海员俚称。 |
