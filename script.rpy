@@ -118,7 +118,7 @@ translate Chinese start_5a28d3c2:
 translate Chinese start_35e2ec77:
 
     # "{cps=2}. . .{/cps}"
-    " {cps=2}...{/cps}"
+    "{cps=2}…{/cps}"
 
 # game/script.rpy:1100
 translate Chinese start_8afacf61:
@@ -166,19 +166,19 @@ translate Chinese start_f274a3a0:
 translate Chinese start_a6c0b996:
 
     # "A slurred voice commands as a burly otter emerges from the tavern, shouldering his way through the crowd."
-    " 一个含糊不清的声音传来，只见一个身材魁梧的水獭从酒馆里走了出来，一边嚷嚷着一边用肩膀在人群中开路。"
+    "一个含糊不清的声音传来，只见一个身材魁梧的水獭从酒馆里走了出来，一边嚷嚷着一边用肩膀在人群中开路。"
 
 # game/script.rpy:1116
 translate Chinese start_4b9aa1c2:
 
     # "Lost in your thoughts, you find yourself rudely knocked to the ground by the shove. The sudden impact jolts you back to reality, quickly reminding you of the chaotic nature of port life."
-    " 你沉浸在思绪中，没留神被他撞倒在地。这突如其来的撞击让你瞬间清醒，也让你意识到港口生活充满了混乱。"
+    "你沉浸在思绪中，没留神被他撞倒在地。这突如其来的撞击让你瞬间清醒，也让你意识到港口生活充满了混乱。"
 
 # game/script.rpy:1118
 translate Chinese start_2d9ba243:
 
     # "A groan escapes your lips as you climb back to your feet. The otter is already lost in the crowd, just another sailor with one too many pints in him too early in the day. It's a sight you know you will be growing accustomed to in your new life."
-    " 你呻吟着爬了起来。那个水獭已经消失在人群中，只是一个在白天就喝得酩酊大醉的普通水手。你知道，在未来的日子里，你肯定会经常见到这样的景象。"
+    "你呻吟着爬了起来。那个水獭已经消失在人群中，只是一个在白天就喝得酩酊大醉的普通水手。你知道，在未来的日子里，你肯定会经常见到这样的景象。"
 
 # game/script.rpy:1124
 translate Chinese start_78f97eaa:
@@ -244,7 +244,7 @@ translate Chinese start_12a4c225:
 translate Chinese start_f1c0e50f:
 
     # horse "So..."
-    horse "所以..."
+    horse "所以…"
 
 # game/script.rpy:1155
 translate Chinese start_364cd120:
@@ -534,7 +534,7 @@ translate Chinese firstchoice_quiet_d00bb2f1:
 translate Chinese firstchoice_quiet_21bbc16a:
 
     # "Julian remains silent for a moment, a mischievous smirk gracing his lips as he studies you with an intense gaze. "
-    "Julian沉默了片刻，脸上带着一丝顽皮的笑容，饶有兴致地打量着你。 "
+    "Julian沉默了片刻，脸上带着一丝顽皮的笑容，饶有兴致地打量着你。"
 
 # game/script.rpy:1456
 translate Chinese firstchoice_done_abf132f7:
@@ -661,7 +661,7 @@ translate Chinese firstchoice_done_ceffef06:
 translate Chinese firstchoice_done_ba42c10c:
 
     # "Julian's jest comes with a mischievous glint in his eyes."
-    " Julian说着玩笑话，眼睛里闪着坏笑。"
+    "Julian说着玩笑话，眼睛里闪着坏笑。"
 
 # game/script.rpy:1506
 translate Chinese firstchoice_done_42cca550:
@@ -679,13 +679,13 @@ translate Chinese firstchoice_done_22f5fe88:
 translate Chinese firstchoice_done_e71ac4f4:
 
     # "The wolf's deep voice interrupts the conversation from behind you, drawing your attention. You glance over your shoulder to see him still engrossed in his coin, its polished surface gleaming in the sunlight as he expertly flips it through the air."
-    " 一个低沉的嗓音从你身后传来，打断了你们的谈话，你回头一看，是那头狼，正盯着手里的硬币玩呢，那硬币在阳光底下闪闪发光，被他抛来抛去，花里胡哨的。"
+    "一个低沉的嗓音从你身后传来，打断了你们的谈话，你回头一看，是那头狼，正盯着手里的硬币玩呢，那硬币在阳光底下闪闪发光，被他抛来抛去，花里胡哨的。"
 
 # game/script.rpy:1519
 translate Chinese firstchoice_done_875ce35a:
 
     # p ". . ."
-    p ". . ."
+    p "……"
 
 # game/script.rpy:1521
 translate Chinese firstchoice_done_de411af8:
@@ -745,13 +745,13 @@ translate Chinese firstchoice_done_2096f27a:
 translate Chinese firstchoice_done_900459e6:
 
     # p "I guess I just needed to see something other than this town."
-    p "我只是想看看外面的世界。"
+    p "我想我只是需要看看这小镇之外的东西。"
 
 # game/script.rpy:1560
 translate Chinese firstchoice_done_ed5b488c:
 
     # "Feeling self-conscious, you try to think of a way to put it into words."
-    "你有点不好意思，想了想该怎么说。"
+    "你感到有些局促不安，试图想个措辞来表达。"
 
 # game/script.rpy:1562
 translate Chinese firstchoice_done_0ee2dd91:
@@ -769,1099 +769,1099 @@ translate Chinese firstchoice_done_11128422:
 translate Chinese firstchoice_done_fbd596e3:
 
     # p "Maybe that's childish of me."
-    p ""
+    p "也许这有点孩子气。"
 
 # game/script.rpy:1568
 translate Chinese firstchoice_done_b9b9e423:
 
     # j "Wanting to \"get out and see the world,\" you mean?"
-    j ""
+    j "你是说，想“出去见见世面”？"
 
 # game/script.rpy:1570
 translate Chinese firstchoice_done_10b477f2:
 
     # p "I suppose."
-    p ""
+    p "我想是吧。"
 
 # game/script.rpy:1572
 translate Chinese firstchoice_done_07c686af:
 
     # wolf "Yes. It is."
-    wolf ""
+    wolf "没错。"
 
 # game/script.rpy:1576
 translate Chinese firstchoice_done_e83b2ba5:
 
     # j "Oh, ignore him."
-    j ""
+    j "哦，别理他。"
 
 # game/script.rpy:1578
 translate Chinese firstchoice_done_f5ca8fce:
 
     # "You try, although you nuance your explanation with a shrug, so that you don't seem too vulnerable."
-    ""
+    "你尝试着解释，虽然用耸肩来微妙地修饰自己的解释，以免显得太玻璃心。"
 
 # game/script.rpy:1586
 translate Chinese firstchoice_done_6a71bbe2:
 
     # p "It was this or working on the farm. And..."
-    p ""
+    p "要么干这个，要么去农场干活。而且……"
 
 # game/script.rpy:1588
 translate Chinese firstchoice_done_748828a4:
 
     # "Somehow, considering that life for yourself makes the rest easier."
-    ""
+    "不知为何，为自己考虑未来让其他事变得容易些。"
 
 # game/script.rpy:1590
 translate Chinese firstchoice_done_c1bcb652:
 
     # p "I'd hate myself if I didn't try it. I'm sure it's not all laughs and... the friendly company."
-    p ""
+    p "如果不尝试，我会恨透自己。我确信这并非全是欢笑与……友善相伴。"
 
 # game/script.rpy:1597
 translate Chinese firstchoice_done_e0e24275:
 
     # "The wolf doesn't rise to the bait. Julian, however, smiles affably."
-    ""
+    "狼不为诱饵所动。然而Julian却露出了和蔼可亲的微笑。"
 
 # game/script.rpy:1599
 translate Chinese firstchoice_done_b75a6094:
 
     # j "As long as you know that before you start. You can always return, if you find out it's not for you."
-    j ""
+    j "只要你在开始前明白这一点。如果发现不适合自己，随时可以回头。"
 
 # game/script.rpy:1603
 translate Chinese firstchoice_done_bcb836bb:
 
     # p "Sure. It's still a leap into the unknown, that's all. Maybe I'm just worried it won't work out the way I hoped."
-    p ""
+    p "确实。这仍是一次未知的飞跃，仅此而已。或许我只是担心结果会不如预期。"
 
 # game/script.rpy:1605
 translate Chinese firstchoice_done_7a89e0c8:
 
     # "That sounds childish, too, once you say it out loud. But you can't help casting one last, slightly wistful look at the harbor."
-    ""
+    "这话说出口也显得孩子气。但你仍忍不住向港口投去最后一瞥，带着些许惆怅。"
 
 # game/script.rpy:1607
 translate Chinese firstchoice_done_a97bca64:
 
     # "All that security. Everything you've known. You'll be leaving it all behind, to spend..."
-    ""
+    "那些安稳的生活。你所熟知的一切。你将抛下这一切，去度过……"
 
 # game/script.rpy:1609
 translate Chinese firstchoice_done_e66209f7:
 
     # "To spend God only knows how long—with sailors like these?"
-    ""
+    "天知道要花多久——和这些水手一起？"
 
 # game/script.rpy:1611
 translate Chinese firstchoice_done_54125c17:
 
     # p "It worked out for you, though, right? You don't seem to have any trouble."
-    p ""
+    p "不过你倒是熬过来了，对吧？你看起来没什么麻烦。"
 
 # game/script.rpy:1615
 translate Chinese firstchoice_done_d8c2f8b2:
 
     # "He gives you a quizzical look."
-    ""
+    "他向你投来困惑的目光。"
 
 # game/script.rpy:1617
 translate Chinese firstchoice_done_085892b0:
 
     # j "Trouble?"
-    j ""
+    j "有什么烦心事吗？"
 
 # game/script.rpy:1619
 translate Chinese firstchoice_done_3f3c7504:
 
     # p "Nerves? Things you're leaving behind? People who might miss you..."
-    p ""
+    p "有些不安？那些你将抛下的事物？可能会想念你的人……"
 
 # game/script.rpy:1623
 translate Chinese firstchoice_done_f1b7bbc5:
 
     # "He grabs the leather strap of the bag that, you realize, must contain all his belongings. Everything he has left in the world—just like you."
-    ""
+    "他抓住背包的皮革肩带，你意识到那里面一定装着他所有的家当。他在世上仅剩的一切——就像你一样。"
 
 # game/script.rpy:1625
 translate Chinese firstchoice_done_265469f6:
 
     # "But he twirls it idly in his hand, then shakes his head decisively."
-    ""
+    "但他只是漫不经心地在手中转动着它，然后坚决地摇了摇头。"
 
 # game/script.rpy:1627
 translate Chinese firstchoice_done_5989ea6a:
 
     # j "Oh.{w} No."
-    j ""
+    j "噢。{w}才不会。"
 
 # game/script.rpy:1629
 translate Chinese firstchoice_done_8af92370:
 
     # p "Nobody?"
-    p ""
+    p "不会吗？"
 
 # game/script.rpy:1631
 translate Chinese firstchoice_done_fa4a836a:
 
     # j "Well. Fine, yes."
-    j ""
+    j "好吧。当然会。"
 
 # game/script.rpy:1633
 translate Chinese firstchoice_done_e4fd1e41:
 
     # "Either he realizes that's not enough of an answer, or he suddenly decides he wants to tell you more."
-    ""
+    "要么是他意识到这回答不够充分，要么是他突然决定要告诉你更多。"
 
 # game/script.rpy:1635
 translate Chinese firstchoice_done_70bd14de:
 
     # j "People will miss me. And I'll miss seeing the friends I grew up with. But my father has worked on ships all my life, so..."
-    j ""
+    j "人们会想念我的。我也会怀念那些与我一同长大的朋友们。但父亲一生都在船上工作，所以……"
 
 # game/script.rpy:1637
 translate Chinese firstchoice_done_2c4f6d83:
 
     # p "What do they say—salt water in your veins?"
-    p ""
+    p "他们怎么说来着——你可是个正儿八经的‘水手命’啊？"
 
 # game/script.rpy:1641
 translate Chinese firstchoice_done_02801b7a:
 
     # j "Well, in that sense."
-    j ""
+    j "嗯，从这个意义上来说。"
 
 # game/script.rpy:1645
 translate Chinese firstchoice_done_7414ea8e:
 
     # "He lets go of the bag and stands up, stretching his arms widely."
-    ""
+    "他松开袋子站起身来，大大地伸了个懒腰。"
 
 # game/script.rpy:1647
 translate Chinese firstchoice_done_4d1fce77:
 
     # j "It was only a matter of time before I'd follow in his footsteps, I guess."
-    j ""
+    j "我想，我步他后尘只是时间问题。"
 
 # game/script.rpy:1651
 translate Chinese firstchoice_done_adcea35e:
 
     # wolf "Ah, yes, of course. The Admiralty is, no doubt, in this one's illustrious future."
-    wolf ""
+    wolf "啊，确实。这位想必注定要登上海军部的显赫之位。"
 
 # game/script.rpy:1660
 translate Chinese firstchoice_done_3b40e24f:
 
     # j "Hey, who knows?"
-    j ""
+    j "嘿，谁知道呢？"
 
 # game/script.rpy:1662
 translate Chinese firstchoice_done_025224c3:
 
     # "He seems to do a better job than you of not letting the wolf's personality get to him. Or maybe he takes it as a challenge, because his next question is directed at the canine as he makes his way over to him."
-    ""
+    "他似乎比你更擅长不让狼的个性影响到自己。又或许他将此视为挑战，因为他接下来的问题直接冲着那只犬科动物而去，同时朝对方走去。"
 
 # game/script.rpy:1668
 translate Chinese firstchoice_done_1daad1b6:
 
     # j "What about you, anyway? What's your story?"
-    j ""
+    j "那你呢？你有什么故事？"
 
 # game/script.rpy:1670
 translate Chinese firstchoice_done_49dde398:
 
     # "The wolf looks at him with an openly baleful expression."
-    ""
+    "狼用毫不掩饰的恶意眼神盯着他。"
 
 # game/script.rpy:1672
 translate Chinese firstchoice_done_ff86a6f9:
 
     # wolf "My story?"
-    wolf ""
+    wolf "我的故事？"
 
 # game/script.rpy:1674
 translate Chinese firstchoice_done_fcceffc0:
 
     # j "Yeah."
-    j ""
+    j "是啊。"
 
 # game/script.rpy:1680
 translate Chinese firstchoice_done_ce08d860:
 
     # "His thick tail follows the movements of each step he takes, like a dancer's ribbons, as he makes his way around the mast... And past the wolf."
-    ""
+    "他粗壮的尾巴随着每一步的移动而摆动，如同舞者的丝带般优雅，当他绕过桅杆……经过那只狼时。"
 
 # game/script.rpy:1685
 translate Chinese firstchoice_done_9fcae6ce:
 
     # wolf "Money."
-    wolf ""
+    wolf "钱。"
 
 # game/script.rpy:1689
 translate Chinese firstchoice_done_e7859c9a:
 
     # j "Money? That's it?"
-    j ""
+    j "钱？就这样？"
 
 # game/script.rpy:1691
 translate Chinese firstchoice_done_13d2cc92:
 
     # wolf "That's it."
-    wolf ""
+    wolf "就这样。"
 
 # game/script.rpy:1693
 translate Chinese firstchoice_done_8efd3a6b:
 
     # p "You could have earned money here in town, you know?"
-    p ""
+    p "你本可以在镇上赚钱的，知道吗？"
 
 # game/script.rpy:1697
 translate Chinese firstchoice_done_3acffd14:
 
     # wolf "And? I didn't, did I? Maybe I should've asked for a bonus. Being interrogated wasn't part of the description."
-    wolf ""
+    wolf "然后呢？但我没那么做，不是么？也许我该索要点额外报酬。审讯可不在工作描述里。"
 
 # game/script.rpy:1701
 translate Chinese firstchoice_done_c8a71010:
 
     # j "It's hardly an interrogation! I'm just curious."
-    j ""
+    j "这哪算得上审讯！我只是好奇罢了。"
 
 # game/script.rpy:1705
 translate Chinese firstchoice_done_49c4733f:
 
     # p "We're really not going to get you to tell us anything about you, are we?"
-    p ""
+    p "看来我们真的没法从你这里打听到任何关于你的事，对吧？"
 
 # game/script.rpy:1709
 translate Chinese firstchoice_done_fe924238:
 
     # "Rather than answering, he flips the coin into the air.{w} He catches it effortlessly, rolling it down between his fingers."
-    ""
+    "他没有回答，而是将硬币弹向空中。{w}他轻松接住，任其在指间翻滚流转。"
 
 # game/script.rpy:1711
 translate Chinese firstchoice_done_704f9bf9:
 
     # p "What about your name? Will you at least tell us that?"
-    p ""
+    p "那你的名字呢？至少告诉我们这个吧？"
 
 # game/script.rpy:1713
 translate Chinese firstchoice_done_3207a923:
 
     # "He pauses, looking at you, poised to flip the coin into the air again."
-    ""
+    "他停下动作，注视着你，准备再次将硬币抛向空中。"
 
 # game/script.rpy:1715
 translate Chinese firstchoice_done_5a7891ae:
 
     # w "Wolf."
-    w ""
+    w "Wolf。"
 
 # game/script.rpy:1719
 translate Chinese firstchoice_done_01d21830:
 
     # j "You can't be serious. No way your name is just Wolf."
-    j ""
+    j "你不是认真的吧。你的名字不可能就叫Wolf。"
 
 # game/script.rpy:1721
 translate Chinese firstchoice_done_b5d39b60:
 
     # w "And yet, here we are."
-    w ""
+    w "然而，事实就是这样。"
 
 # game/script.rpy:1723
 translate Chinese firstchoice_done_ed8d9127:
 
     # w "My parents weren't the creative type,{w} how's that?"
-    w ""
+    w "我父母可不是那种有创意的人，{w}这说法怎么样？"
 
 # game/script.rpy:1727
 translate Chinese firstchoice_done_d6a14645:
 
     # j "Mine aren't either, but... surely they didn't just call you \"Wolf.\""
-    j ""
+    j "我的也不是，但是…他们应该不会只叫你“Wolf”吧。"
 
 # game/script.rpy:1731
 translate Chinese firstchoice_done_618328de:
 
     # w "What was the point of asking me if you weren't going to listen to the answer in the first place?"
-    w ""
+    w "既然你一开始就没打算听我的回答，那问我还有什么意义？"
 
 # game/script.rpy:1733
 translate Chinese firstchoice_done_0451bd21:
 
     # j "Wolf."
-    j ""
+    j "Wolf。"
 
 # game/script.rpy:1735
 translate Chinese firstchoice_done_1334cd1c:
 
     # "He repeats it, clearly unconvinced."
-    ""
+    "他重复了一遍，显然并不信服。"
 
 # game/script.rpy:1737
 translate Chinese firstchoice_done_86acd0ba:
 
     # w "They saw a wolf fall out, and it was the first thing that came to their mind. What more do you want?"
-    w ""
+    w "他们看见一只狼摔了出来，这立刻浮现在他们脑海中。你还想要什么答案？"
 
 # game/script.rpy:1739
 translate Chinese firstchoice_done_63e12b43:
 
     # "Silence descends, as you and Julian both try to decide whether he's being serious."
-    ""
+    "沉默降临，你和Julian都在试图判断他是否当真。"
 
 # game/script.rpy:1741
 translate Chinese firstchoice_done_d7b63d2b:
 
     # "Finally, he flips the coin again. This time, though, he doesn't catch it. The coin glints and catches the light before it disappears in one of the folds of his white shirt."
-    ""
+    "最终，他再次抛起硬币。但这一次，他没有接住它。硬币闪烁着光芒，在消失于他白衬衫的一道褶皱之前，捕捉到了光线。"
 
 # game/script.rpy:1745
 translate Chinese firstchoice_done_08c94947:
 
     # "Rather than acknowledge the missed toss, he simply fishes it from his shirt, then shakes his head scornfully."
-    ""
+    "他没有承认自己漏接的事实，只是从衬衫里掏出硬币，然后轻蔑地摇了摇头。"
 
 # game/script.rpy:1751
 translate Chinese firstchoice_done_eec7b71b:
 
     # w "Whatever."
-    w ""
+    w "随便吧。"
 
 # game/script.rpy:1753
 translate Chinese firstchoice_done_63e9f822:
 
     # j "Apparently."
-    j ""
+    j "好吧。"
 
 # game/script.rpy:1762
 translate Chinese firstchoice_done_40c07307:
 
     # "He leans the other way to get close to you, whispering so that the wolf—Wolf—can't hear him."
-    ""
+    "他朝另一侧倾身靠近你，压低声音不让狼——Wolf——听见。"
 
 # game/script.rpy:1764
 translate Chinese firstchoice_done_8a3236de:
 
     # j "Weird guy..."
-    j ""
+    j "怪人……"
 
 # game/script.rpy:1772
 translate Chinese firstchoice_done_381575ad:
 
     # "Before you can answer, or ask whether or not it was a safe bet that Wolf's hearing wasn't that good, Arthur makes his way forward to join you."
-    ""
+    "还没等你回答，或是询问赌Wolf听力不好是否稳妥，Arthur就已走上前来与你汇合。"
 
 # game/script.rpy:1774
 translate Chinese firstchoice_done_0c2e968d:
 
     # a "Hello, ladies!"
-    a ""
+    a "女士们，大家好！"
 
 # game/script.rpy:1776
 translate Chinese firstchoice_done_414d0202:
 
     # "The three of you get up, and you try to stand at something like military attention, greeting him properly."
-    ""
+    "你们三人站起身来，试图以近乎军姿的挺拔姿态站好，向他致以得体的问候。"
 
 # game/script.rpy:1778
 translate Chinese firstchoice_done_0221ac57:
 
     # "Arthur takes a few seconds to quietly survey his new recruits."
-    ""
+    "Arthur静静地花了几秒钟审视他的新兵们。"
 
 # game/script.rpy:1780
 translate Chinese firstchoice_done_f9ceb7a6:
 
     # a "Well! Enough sitting around. We're almost ready. We'll be leaving port shortly."
-    a ""
+    a "好了！别再闲坐着了。我们差不多准备就绪，很快就要离港了。"
 
 # game/script.rpy:1791
 translate Chinese firstchoice_done_d8df2d80:
 
     # "You take one final look from the ship down to the harbor. Once more, the realization begins to sink in: this will be the last time you'll see this place for a long time."
-    ""
+    "你从船上向港口投去最后一瞥。再一次，你逐渐意识到：这将是很长一段时间内，你最后一次见到这个地方了。"
 
 # game/script.rpy:1793
 translate Chinese firstchoice_done_6629f1cb:
 
     # "Or you could bail now. Like Julian said—turn back, while you still have the chance...{p}No."
-    ""
+    "或者你现在就可以放弃。就像Julian说的——趁还有机会，赶紧回头……{p}不。"
 
 # game/script.rpy:1795
 translate Chinese firstchoice_done_0d0a847e:
 
     # "You can't just go back. You chose this for a reason, and you're not going to back out now. This ship is your home."
-    ""
+    "你不能就这样回头。当初选择这条路自有原因，现在更不能退缩。这艘船就是你的家。"
 
 # game/script.rpy:1797
 translate Chinese firstchoice_done_8b752382:
 
     # "These odd characters are your companions."
-    ""
+    "这些古怪的角色是你的同伴。"
 
 # game/script.rpy:1807
 translate Chinese firstchoice_done_76d2ad60:
 
     # "As you watch two sailors begin to close the heavy wooden cargo grate, Arthur speaks up again."
-    ""
+    "当你看着两名水手开始合上沉重的木质货舱格栅时，Arthur再次开口。"
 
 # game/script.rpy:1809
 translate Chinese firstchoice_done_4bf11fe1:
 
     # a "You may be new, but I expect the same discipline and dedication from you as I would from any of the others."
-    a ""
+    a "你或许是个新人，但我对你的纪律性和专注力的要求，与其他所有人一视同仁。"
 
 # game/script.rpy:1811
 translate Chinese firstchoice_done_14c3ecc2:
 
     # "The whole deck rattles as the door slams shut, with the finality you've always associated with a jail door closing." with hpunch
-    "" with hpunch
+    "整层甲板随着舱门砰然关闭而震颤，那种终结感总让你联想到监狱铁门落锁的瞬间。" with hpunch
 
 # game/script.rpy:1813
 translate Chinese firstchoice_done_100f6e47:
 
     # "Which side of the door are you on? You're not certain, but with a boyish smile you realize you certainly don't feel like a prisoner."
-    ""
+    "你站在门的哪一边？你并不确定，但带着少年般的笑容，你意识到自己确实不觉得自己像个囚徒。"
 
 # game/script.rpy:1815
 translate Chinese firstchoice_done_e78df59f:
 
     # "Even if some might argue that you are."
-    ""
+    "即便有人可能会争辩说你是。"
 
 # game/script.rpy:1817
 translate Chinese firstchoice_done_fb1f3967:
 
     # a "Is something funny, sailor?"
-    a ""
+    a "有什么好笑的，水手？"
 
 # game/script.rpy:1819
 translate Chinese firstchoice_done_04372ea5:
 
     # "You straighten up even further, to the limits of what you would've thought possible."
-    ""
+    "你将身姿挺得更加笔直，几乎达到了你想象中能做到的极限。"
 
 # game/script.rpy:1821
 translate Chinese firstchoice_done_f5928b22:
 
     # p "No, sir."
-    p ""
+    p "没有，长官。"
 
 # game/script.rpy:1823
 translate Chinese firstchoice_done_e4fe052c:
 
     # "Sensing that this might not be sufficiently persuasive, you clear your throat."
-    ""
+    "察觉到这可能不够有说服力，你清了清嗓子。"
 
 # game/script.rpy:1825
 translate Chinese firstchoice_done_308b1b13:
 
     # p "I'm just... I'm happy to be here. Sir."
-    p ""
+    p "我只是……很高兴能来到这里。长官。"
 
 # game/script.rpy:1827
 translate Chinese firstchoice_done_6f03ec83:
 
     # "He fixes you in a stern gaze, sizing you up."
-    ""
+    "他以严厉的目光凝视着你，上下打量。"
 
 # game/script.rpy:1829
 translate Chinese firstchoice_done_15c322fb:
 
     # a "This isn't a day's sailing on your master's yacht, son. And that goes for you, too."
-    a ""
+    a "这可不是在你主人游艇上一天的航行，小子。这话对你也一样。"
 
 # game/script.rpy:1831
 translate Chinese firstchoice_done_d870e62b:
 
     # "Arthur directs this at Julian, who remains impassive, even if you don't know why he might've been singled out."
-    ""
+    "Arthur将矛头直指Julian，后者始终面无表情——即便你并不明白他为何会被单独针对。"
 
 # game/script.rpy:1833
 translate Chinese firstchoice_done_0c02cdee:
 
     # a "We may not be aboard a warship, but lives of others are going to depend on your diligent work. I expect you—all of you—to take it seriously."
-    a ""
+    a "我们虽非身处战舰之上，但他人性命将系于诸位的勤勉工作。我期望你们——在场的每一位——都能郑重以待。"
 
 # game/script.rpy:1835
 translate Chinese firstchoice_done_2ff2d055:
 
     # a "All three of you will be under my command. Whatever I tell you to do, you'll do. Without question, without hesitation, and without doubt.{p}Is that clear?"
-    a ""
+    a "你们三人都将听命于我。我下达的任何指令，你们都必须执行。不许质疑，不许犹豫，更不许怀疑。明白了吗？"
 
 # game/script.rpy:1837
 translate Chinese firstchoice_done_b2c856c0:
 
     # p "Yes, sir."
-    p ""
+    p "遵命，长官。"
 
 # game/script.rpy:1839
 translate Chinese firstchoice_done_a2c2407a:
 
     # "Julian and Wolf echo the same, alongside you."
-    ""
+    "Julian与Wolf在你身旁发出同样的回声。"
 
 # game/script.rpy:1841
 translate Chinese firstchoice_done_6065d579:
 
     # a "If not I, then whoever I delegate in my stead. I do not have time to nursemaid you. Is that clear?"
-    a ""
+    a "若非我亲自出马，便是我委派的代理人。我可没闲工夫像保姆般照料你。明白了吗？"
 
 # game/script.rpy:1843
 translate Chinese firstchoice_done_eff5237d:
 
     # "Again, a chorus of \"yes, sir\"—in unison, certainly more disciplined than you feel."
-    ""
+    "又是一阵齐声的“是，长官”——整齐划一，显然比你们内心的感受要守纪律得多。"
 
 # game/script.rpy:1845
 translate Chinese firstchoice_done_cc34e7d8:
 
     # a "The chain of command is your god, now. Whatever you were before, you'll be sailors, soon enough."
-    a ""
+    a "指挥链就是你们现在的神明。无论你们曾经是谁，很快都将成为水手。"
 
 # game/script.rpy:1847
 translate Chinese firstchoice_done_c2fbfdaa:
 
     # a "...With any luck."
-    a ""
+    a "…但愿如此。"
 
 # game/script.rpy:1849
 translate Chinese firstchoice_done_82154223:
 
     # "The three of you remain motionless and stiff as Arthur looks you all up and down. If the horse feels optimistic, or disappointed—or nothing at all—you can't tell. His expression is impassive. Stern. Authoritative."
-    ""
+    "你们三人僵立不动，亚瑟将你们上下打量了一番。这匹马是感到乐观、失望还是毫无波澜——你们无从得知。他的表情毫无波澜，严肃而威严。"
 
 # game/script.rpy:1853
 translate Chinese firstchoice_done_af2b8669:
 
     # "After a long spell, he decides he's had enough of his inspection and steps back."
-    ""
+    "经过漫长的巡视后，他决定受够了检查工作，便向后退了一步。"
 
 # game/script.rpy:1857
 translate Chinese firstchoice_done_05824698:
 
     # a "I'll find someone to teach you once we've left port."
-    a ""
+    a "等我们离港后，我会找人教你。"
 
 # game/script.rpy:1861
 translate Chinese firstchoice_done_44e9b718:
 
     # a "Until then, grab your belongings and follow me."
-    a ""
+    a "在那之前，请带上你的随身物品跟我来。"
 
 # game/script.rpy:1863
 translate Chinese firstchoice_done_066a76bd:
 
     # "When he nods to the bags sitting next to you, you hurry to grab yours—everything that remains of your previous life."
-    ""
+    "当他朝你身旁的行李点头示意时，你匆忙抓起自己的背包——那是你过往生活仅存的全部。"
 
 # game/script.rpy:1867
 translate Chinese firstchoice_done_8c04989a:
 
     # "Arthur turns with a crisp, precise movement and heads toward the stern of the ship. He walks quickly, followed by Julian and Wolf."
-    ""
+    "Arthur以一个干脆利落的精准转身，朝船尾方向走去。他步伐迅捷，Julian和Wolf紧随其后。"
 
 # game/script.rpy:1887
 translate Chinese firstchoice_done_d44ff825:
 
     # "You hasten to catch up, falling in line with the others as sailors around you finish the last of the preparations."
-    ""
+    "你匆忙赶上前去，与其他人排成一列，周围的水手们正完成最后的准备工作。"
 
 # game/script.rpy:1894
 translate Chinese firstchoice_done_1fddaa14:
 
     # "A sailor makes his way up the gangplank, just before it's pulled up after him. Carrying a leather-bound book and a few dozen letters in his hands, he approaches Arthur."
-    ""
+    "一名水手踏上舷梯，就在梯子随后被收起之际。他手捧一本皮面装订的书和几十封信件，朝Arthur走去。"
 
 # game/script.rpy:1896
 translate Chinese firstchoice_done_4927b8bb:
 
     # "The horse stops and returns the salute the sailor offers him."
-    ""
+    "马儿停下脚步，向水手回敬了他所行的礼。"
 
 # game/script.rpy:1898
 translate Chinese firstchoice_done_3ebe7b4d:
 
     # a "At ease. Your report?"
-    a ""
+    a "稍息。你的报告呢？"
 
 # game/script.rpy:1900
 translate Chinese firstchoice_done_ff121d79:
 
     # sailschwartz "Everything and everyone is aboard, sir."
-    sailschwartz ""
+    sailschwartz "所有人员和物资都已登船，长官。"
 
 # game/script.rpy:1902
 translate Chinese firstchoice_done_0836021d:
 
     # a "The surgeon?"
-    a ""
+    a "那位外科医生？"
 
 # game/script.rpy:1904
 translate Chinese firstchoice_done_2b9bcde8:
 
     # "He gives a short, sharp nod."
-    ""
+    "他短促而干脆地点了点头。"
 
 # game/script.rpy:1906
 translate Chinese firstchoice_done_0bf5327b:
 
     # sailschwartz "Yes, sir. Rajeeyah came aboard this morning. She said that she'd found what she needed to continue Mr. Blackborow's treatment."
-    sailschwartz ""
+    sailschwartz "是的，长官。Rajeeyah今早登船了。她说已找到继续治疗Blackborow先生所需的材料。"
 
 # game/script.rpy:1910
 translate Chinese firstchoice_done_86ea528f:
 
     # a "Some good news, then. That should ease everyone's minds. Anything else?"
-    a ""
+    a "那么，有个好消息。这应该能让大家都安心些。还有其他事吗？"
 
 # game/script.rpy:1912
 translate Chinese firstchoice_done_62585de9:
 
     # sailschwartz "Final messages from shore, sir. And the most recent soundings. They're still dredging the main channel, unfortunately."
-    sailschwartz ""
+    sailschwartz "长官，这是岸上发来的最后几份电报，还有最新的水深测量数据。可惜主航道仍在疏浚中。"
 
 # game/script.rpy:1914
 translate Chinese firstchoice_done_96d6e9a2:
 
     # a "I swear they'd be faster if they used their teeth. Very well. Take this to the quartermaster."
-    a ""
+    a "我发誓他们用牙齿咬都会更快些。好吧，把这个交给军需官。"
 
 # game/script.rpy:1919
 translate Chinese firstchoice_done_7ceeea4b:
 
     # "With another salute, the sailor dashes aft, toward the raised quarterdeck at the ship's rear."
-    ""
+    "随着又一个敬礼，那名水手冲向船尾，朝着舰艇后方高耸的尾甲板奔去。"
 
 # game/script.rpy:1921
 translate Chinese firstchoice_done_8f4c1791:
 
     # "The four of you follow, although more slowly. Arthur's head is on a constant swivel, taking in the state of the ship around him."
-    ""
+    "你们四人紧随其后，只是步伐更为缓慢。Arthur的脑袋不停地转动，打量着周围飞船的状况。"
 
 # game/script.rpy:1927
 translate Chinese firstchoice_done_0f28ac0d:
 
     # "The sailor returns, without the books or the letters, scarcely out of breath despite dashing across the deck."
-    ""
+    "水手空手而归，既无书籍也无信件，尽管他在甲板上疾奔却几乎气息未乱。"
 
 # game/script.rpy:1929
 translate Chinese firstchoice_done_ec5852bb:
 
     # sailschwartz "Sir. The kedge is fast. The quartermaster recommends we catch the tide, sir."
-    sailschwartz ""
+    sailschwartz "长官，小锚已固定。军需官建议我们趁潮水行动，长官。"
 
 # game/script.rpy:1931
 translate Chinese firstchoice_done_1f96963d:
 
     # a "And catch it we shall. Have them hoist the flying jib, but keep it eased until I say so."
-    a ""
+    a "那我们就趁潮水起航。让他们升起飞三角帆，但在我发话之前，先把帆索放松。"
 
 # game/script.rpy:1935
 translate Chinese firstchoice_done_bcd595b4:
 
     # "When the sailor departs, Arthur straightens up further. His head is held high, and although you can see his chest fill with a deep breath, the loudness of his voice still takes you by surprise."
-    ""
+    "当水手离去时，Arthur将身姿挺得更直。他高昂着头，尽管你能看见他深吸一口气时胸膛的起伏，但那洪亮的嗓音仍令你猝不及防。"
 
 # game/script.rpy:1942
 translate Chinese firstchoice_done_38e5e442:
 
     # a "All hands, stand by to weigh anchor!"
-    a ""
+    a "全体船员，准备起锚！"
 
 # game/script.rpy:1944
 translate Chinese firstchoice_done_43d14c02:
 
     # "It is a clear, sharp bellow, and the crew snaps into action as if they are marionettes, under his direct control."
-    ""
+    "那是一声响亮而清晰的吼叫，船员们如同提线木偶般立即行动起来，完全处于他的直接掌控之下。"
 
 # game/script.rpy:1946
 translate Chinese firstchoice_done_22c00257:
 
     # a "Cast off all lines!"
-    a ""
+    a "解开所有缆绳！"
 
 # game/script.rpy:1950
 translate Chinese firstchoice_done_01b7f974:
 
     # "Arthur checks his immediate surroundings, which includes the three of you."
-    ""
+    "Arthur长官扫视了一下周围，包括你们三个。"
 
 # game/script.rpy:1952
 translate Chinese firstchoice_done_3735bebb:
 
     # a "Stay clear of the ladders. We'll have men moving about. Beyond that, watch and learn."
-    a ""
+    a "远离梯子。我们会有人来回走动。除此之外，仔细观察学习。"
 
 # game/script.rpy:1954
 translate Chinese firstchoice_done_b2c856c0_1:
 
     # p "Yes, sir."
-    p ""
+    p "遵命，长官。"
 
 # game/script.rpy:1956
 translate Chinese firstchoice_done_ae111f75:
 
     # "Although Julian and Wolf seem to know what's going on, you have to pay close attention to discern one bit of activity from any other."
-    ""
+    "Julian和Wolf似乎已经明白怎么回事了，你得全神贯注才能从一片忙乱中分辨出点眉目。"
 
 # game/script.rpy:1958
 translate Chinese firstchoice_done_c222498d:
 
     # "The crew are untying the ropes that have bound the Conway to her pier, you finally determine. Yet others wait raptly, their attention focused on Arthur."
-    ""
+    "你最终确认，船员们正在解开将Conway号系在码头的缆绳。而其他人则屏息凝神，目光聚焦在Arthur身上。"
 
 # game/script.rpy:1964
 translate Chinese firstchoice_done_f2784108:
 
     # a "Haul in the kedge!"
-    a ""
+    a "收提锚绞移的小锚！"
 
 # game/script.rpy:1977
 translate Chinese firstchoice_done_20da1e7c:
 
     # "His head turns, and you follow the horse's attention to where sailors have taken position around the capstan."
-    ""
+    "他转过头，你顺着这匹马的视线看去，水手们已在起锚绞盘周围就位。"
 
 # game/script.rpy:1979
 translate Chinese firstchoice_done_82336c6c:
 
     # "You notice no movement at first as it starts to turn; then, gradually, you perceive the shore receding from you as the ship's bow pulls away."
-    ""
+    "起初当船开始转向时，你并未察觉任何动静；渐渐地，随着船首驶离，你才觉察到海岸正从视野中远去。"
 
 # game/script.rpy:1983
 translate Chinese firstchoice_done_3404c749:
 
     # a "Today, if you please!"
-    a ""
+    a "看在老天的份上！"
 
 # game/script.rpy:1985
 translate Chinese firstchoice_done_32ed9395:
 
     # "This seems to have been directed at a maned wolf, supervising the capstan. He gives Arthur a salute."
-    ""
+    "首席长官正对一只鬃狼发号施令，监督船长。By向Arthur长官敬了个礼。"
 
 # game/script.rpy:1987
 translate Chinese firstchoice_done_fc4291ed:
 
     # mw "He said haul in! Put your backs into it! If you want to stay ashore so much, jump ship-"
-    mw ""
+    mw "他喊道：“用力拉！使出全力！要是这么想上岸，就给我跳船——”"
 
 # game/script.rpy:1989
 translate Chinese firstchoice_done_6ddb5c84:
 
     # "The crew are doing their best, although you can't tell if the man's exhortations are making a difference."
-    ""
+    "船员们正在竭尽全力，尽管你无法判断那个男人的劝诫是否起了作用。"
 
 # game/script.rpy:1991
 translate Chinese firstchoice_done_59c7a023:
 
     # mw "-The rest of us have places to be. Oh, hell, I'll show you louts..."
-    mw ""
+    mw "我们其他人还有地方要去。哦，见鬼，我来给你们这群笨蛋示范下…"
 
 # game/script.rpy:1993
 translate Chinese firstchoice_done_e776dd97:
 
     # "He joins them, his long legs straining for purchase on the deck."
-    ""
+    "他加入了他们，修长的双腿在甲板上艰难地寻找着力点。"
 
 # game/script.rpy:1997
 translate Chinese firstchoice_done_96e78550:
 
     # a "Good! Handsomely, now!"
-    a ""
+    a "好！漂亮，现在！"
 
 # game/script.rpy:1999
 translate Chinese firstchoice_done_1fef13dc:
 
     # "You wonder if you're about to be enlisted to help, yourself, but Arthur seems satisfied with the change in progress."
-    ""
+    "你暗自思忖自己是否也会被拉来帮忙，但Arthur似乎对当前的进展变化已心满意足。"
 
 # game/script.rpy:2001
 translate Chinese firstchoice_done_818aae0b:
 
     # "The dock is noticeably further away now, as the ship's crew pulls it into the harbor by the anchor chain."
-    ""
+    "码头此刻明显远了许多，船员们正通过锚链将船只缓缓拖入港湾。"
 
 # game/script.rpy:2003
 translate Chinese firstchoice_done_3c73ed60:
 
     # "Arthur's eyes flick from the capstan to the shore, narrowing at the direction of the rising smoke."
-    ""
+    "Arthur的目光从绞盘扫向海岸，凝视着升腾烟雾的方向眯起了眼睛。"
 
 # game/script.rpy:2005
 translate Chinese firstchoice_done_bba34e23:
 
     # a "Sheet in the jib!"
-    a ""
+    a "收起前桅帆！"
 
 # game/script.rpy:2007
 translate Chinese firstchoice_done_16e22931:
 
     # "He pauses, his ear flicking at the sound of a shout from further aft. You can't make it out, but the horse seems to have had no difficulty. He raises his voice again."
-    ""
+    "他停下脚步，耳朵因远处船尾传来的喊声而抽动了一下。你听不清内容，但这匹马似乎毫不费力就听懂了。他又提高了嗓门。"
 
 # game/script.rpy:2012
 translate Chinese firstchoice_done_134ab1d9:
 
     # a "All hands, man the halyards! Now, damnit—brace the yards and hoist the stays'ls! Samuel, stand by!"
-    a ""
+    a "全体船员，各就各位操作升降索！现在，该死的——转桁扬帆并升起支索帆！Samuel，原地待命！"
 
 # game/script.rpy:2014
 translate Chinese firstchoice_done_97460d6a:
 
     # mw "Aye, sir!"
-    mw ""
+    mw "遵命，长官！"
 
 # game/script.rpy:2016
 translate Chinese firstchoice_done_cf0455b1:
 
     # a "Leave the yards be! Get on the bloody stays'ls, damn you!"
-    a ""
+    a "别管那些帆桁了！快升该死的支索帆，混账东西！"
 
 # game/script.rpy:2019
 translate Chinese firstchoice_done_0ad61d6f:
 
     # a "{cps=5000}Leave the yards be! Get on the bloody stays'ls, damn you!{/cps}" nointeract
-    a "" nointeract
+    a "{cps=5000}别管那些帆桁了！快升该死的支索帆，混账东西！{/cps}" nointeract
 
 # game/script.rpy:2025
 translate Chinese firstchoice_done_3400b200:
 
     # "Something seems to have agitated Arthur, although you can't tell what. But it looks like most of the crew are just pulling ropes.{p}Surely, you can do that?"
-    ""
+    "似乎有什么事情让Arthur感到不安，尽管你无法确定具体原因。但看起来大多数船员只是在拉绳索。你肯定也能做到吧？"
 
 # game/script.rpy:2027
 translate Chinese firstchoice_done_1b100a96:
 
     # p "How can we help, sir?"
-    p ""
+    p "有什么可以帮您的吗，长官？"
 
 # game/script.rpy:2029
 translate Chinese firstchoice_done_bab9326a:
 
     # "He shoots you a sharp look."
-    ""
+    "他锐利地瞥了你一眼。"
 
 # game/script.rpy:2031
 translate Chinese firstchoice_done_075f8076:
 
     # a "You can stay out of the bloody way. Clear of the damned ladders—what did I say?"
-    a ""
+    a "你最好别挡着这该死的道。离那些该死的梯子远点——别在那儿杵着！"
 
 # game/script.rpy:2033
 translate Chinese firstchoice_done_aaa561b1:
 
     # "Julian gives your arm a gentle tug, to draw you away from the horse's sight—and his ire."
-    ""
+    "Julian轻轻拉了拉你的手臂，将你从马匹的视线——以及它的怒火中——带离。"
 
 # game/script.rpy:2037
 translate Chinese firstchoice_done_1d3fecd5:
 
     # "Despite the outburst he's focused again immediately. The sails begin to lift, catching the wind until the ropes snap taut."
-    ""
+    "尽管情绪爆发，他立刻又集中了精神。船帆开始升起，迎风鼓胀，直到绳索倏然绷紧。"
 
 # game/script.rpy:2039
 translate Chinese firstchoice_done_26b95952:
 
     # a "Mind the downhaul on the mizen stays'l!"
-    a ""
+    a "注意后桅支索帆的下拉索！"
 
 # game/script.rpy:2041
 translate Chinese firstchoice_done_104bd539:
 
     # "The ship is moving perceptibly faster now. Arthur's eyes are still narrowed, his attention turned on something you can't yet perceive. But, as if receiving some sign, he raises his voice again."
-    ""
+    "飞船此刻正明显加速。Arthur的眼睛依然微眯，注意力集中在某个你尚未察觉的事物上。但仿佛接收到某种信号般，他突然提高嗓音说道："
 
 # game/script.rpy:2043
 translate Chinese firstchoice_done_e00990c8:
 
     # a "Samuel: haul away!"
-    a ""
+    a "Samuel：用力拉！"
 
 # game/script.rpy:2045
 translate Chinese firstchoice_done_71fec747:
 
     # "The maned wolf and his crew on the capstan work with renewed effort. It seems, at least, to be easier."
-    ""
+    "鬃狼和他的船员们在绞盘旁加倍努力地工作着。至少看起来，这活儿似乎轻松了些。"
 
 # game/script.rpy:2047
 translate Chinese firstchoice_done_bf63086e:
 
     # "They're no longer pulling the ship, you realize: The Conway is moving under her own power. Samuel just needs to raise the anchor as you pass over it."
-    ""
+    "你意识到，船头不再被小锚拖着了。Conway号正靠自身动力前行。Samuel，锚已经拉起，钳口越过。"
 
 # game/script.rpy:2051
 translate Chinese firstchoice_done_8ec71ae7:
 
     # a "Keep the stays'ls sheeted in! That's good, lads."
-    a ""
+    a "稳住支索帆的帆脚索！干得好，伙计们。"
 
 # game/script.rpy:2053
 translate Chinese firstchoice_done_1812709c:
 
     # "The order is loud, but sounds perceptibly less urgent. He relaxes, and takes a deep breath that you can see in the movement of his massive chest."
-    ""
+    "命令声洪亮，但听起来明显不那么急迫。他放松下来，深深吸了一口气，从他宽阔胸膛的起伏中清晰可见。"
 
 # game/script.rpy:2066
 translate Chinese firstchoice_done_cba08017:
 
     # "He watches for another minute or so, then turns to the three of you."
-    ""
+    "他继续观察了约一分钟，然后转向你们三人。"
 
 # game/script.rpy:2068
 translate Chinese firstchoice_done_703fd602:
 
     # a "While I appreciate your... enthusiasm..."
-    a ""
+    a "虽然我欣赏你的……热情……"
 
 # game/script.rpy:2070
 translate Chinese firstchoice_done_76afd139:
 
     # "He trails off, glaring fiercely at you, in particular."
-    ""
+    "他的话音渐弱，恶狠狠地瞪着你，尤其是你。"
 
 # game/script.rpy:2074
 translate Chinese firstchoice_done_840b081f:
 
     # a "I'd prefer you learn the ropes before I start you hauling on them."
-    a ""
+    a "在我开始让你们拉缆绳之前，你们最好先学会门道。"
 
 # game/script.rpy:2076
 translate Chinese firstchoice_done_b2c856c0_2:
 
     # p "Yes, sir."
-    p ""
+    p "遵命，长官。"
 
 # game/script.rpy:2080
 translate Chinese firstchoice_done_b4fb4fdf:
 
     # a "Report to Samuel. He'll be able to whip you into something like shape.{p}I hope."
-    a ""
+    a "向Samuel汇报。但愿他能把你调教得{p}像模像样。"
 
 # game/script.rpy:2082
 translate Chinese firstchoice_done_b2c856c0_3:
 
     # p "Yes, sir."
-    p ""
+    p "遵命，长官。"
 
 # game/script.rpy:2093
 translate Chinese firstchoice_done_06cb9a2d:
 
     # "Samuel, the maned wolf, seems to have finished whatever he was working on. You take one step towards him, only for Arthur to cut you off."
-    ""
+    "长鬃狼Samuel似乎已经完成了手头的工作。你刚朝他迈出一步，Arthur就拦住了你的去路。"
 
 # game/script.rpy:2095
 translate Chinese firstchoice_done_e0485388:
 
     # a "Take care of your bags first. Both of you. You're... posts 36 and 37, if I remember."
-    a ""
+    a "先照看好你们的行李。你们两个。你们是……36号和37号岗位，如果你们还记得的话。"
 
 # game/script.rpy:2099
 translate Chinese firstchoice_done_0aa463f5:
 
     # "He points to you and Julian in turn."
-    ""
+    "他依次指向你和Julian。"
 
 # game/script.rpy:2101
 translate Chinese firstchoice_done_5d900710:
 
     # a "Stow your gear. Then go see Samuel."
-    a ""
+    a "收拾好行装。然后去见Samuel。"
 
 # game/script.rpy:2103
 translate Chinese firstchoice_done_828f8215:
 
     # "You wait, sensing it's expected of you. Or, at least, that if you left at once he'd just yell at you again."
-    ""
+    "你等着，感觉这是意料之中的事。或者，至少，如果你等到有人先走再行动的话。"
 
 # game/script.rpy:2105
 translate Chinese firstchoice_done_4992235c:
 
     # a "You're dismissed. Be quick about it."
-    a ""
+    a "解散了。动作快点。"
 
 # game/script.rpy:2111
 translate Chinese firstchoice_done_4db22149:
 
     # "There is a bit of an edge in Arthur's voice, although you can't tell the reason. The crew respond, nonetheless, moving around the ship's rigging as nimbly as a spider in her web."
-    ""
+    "Arthur的语气中带着一丝锋芒，尽管你无法辨明缘由。船员们却依然响应，在船索间灵活穿梭，宛如蜘蛛游走于自己的网中。"
 
 # game/script.rpy:2115
 translate Chinese firstchoice_done_8bbdddc1:
 
     # "As you watch, the sails lift, catching the wind until the ropes snap taut. The ship is moving perceptibly faster now. Arthur's eyes are still narrowed, his attention focused on something you can't yet perceive."
-    ""
+    "你注视着船帆扬起，兜住风势直至缆绳倏然绷直。此刻船只的加速已清晰可辨，Arthur仍眯着眼睛，全神贯注于某个你尚未察觉的事物。"
 
 # game/script.rpy:2117
 translate Chinese firstchoice_done_cc52b8c9:
 
     # a "Mind the downhaul on the mizen stays'l—Samuel, haul away!"
-    a ""
+    a "注意后桅支索帆的下前角索——Samuel，用力拉！"
 
 # game/script.rpy:2119
 translate Chinese firstchoice_done_71fec747_1:
 
     # "The maned wolf and his crew on the capstan work with renewed effort. It seems, at least, to be easier."
-    ""
+    "鬃狼和他的船员们在绞盘旁加倍努力地工作着。至少看起来，这活儿似乎轻松了些。"
 
 # game/script.rpy:2123
 translate Chinese firstchoice_done_bf63086e_1:
 
     # "They're no longer pulling the ship, you realize: The Conway is moving under her own power. Samuel just needs to raise the anchor as you pass over it."
-    ""
+    "你意识到，船头不再被小锚拖着了。Conway号正靠自身动力前行。Samuel，锚已经拉起，钳口越过。"
 
 # game/script.rpy:2125
 translate Chinese firstchoice_done_ef85c08c:
 
     # a "Good."
-    a ""
+    a "好。"
 
 # game/script.rpy:2127
 translate Chinese firstchoice_done_2795c1e5:
 
     # "Arthur relaxes, and takes a deep breath that you can see in the movement of his massive chest. He lifts his voice again."
-    ""
+    "Arthur放松下来，深深吸了一口气，从他宽阔胸膛的起伏中清晰可见。他再度提高嗓音说道。"
 
 # game/script.rpy:2129
 translate Chinese firstchoice_done_47ad9044:
 
     # a "Keep the stays'ls sheeted in."
-    a ""
+    a "保持支索帆的帆脚索收紧。"
 
 # game/script.rpy:2142
 translate Chinese firstchoice_done_cba08017_1:
 
     # "He watches for another minute or so, then turns to the three of you."
-    ""
+    "他继续观察了约一分钟，然后转向你们三人。"
 
 # game/script.rpy:2144
 translate Chinese firstchoice_done_fba1fc46:
 
     # a "Well, you apparently can keep out of trouble. Let's see if you can be useful, too. You're at posts... 36, and 37, I believe."
-    a ""
+    a "看来你确实能避开麻烦。让我们看看你是否也能派上用场。你负责的岗位是…36号和37号，我记得。"
 
 # game/script.rpy:2146
 translate Chinese firstchoice_done_0aa463f5_1:
 
     # "He points to you and Julian in turn."
-    ""
+    "他依次指向你和Julian。"
 
 # game/script.rpy:2148
 translate Chinese firstchoice_done_a02a5d67:
 
     # a "Stow your gear and report to Samuel. Be quick about it."
-    a ""
+    a "收拾好装备，去向Samuel报到。动作快点。"
 
 # game/script.rpy:2172
 translate Chinese firstchoice_done_1fb36b70:
 
     # "Wolf, it would seem, has already put away his belongings. You follow Julian, who seems to know where he's going."
-    ""
+    "看来，Wolf已经收拾好了他的行李。你跟着Julian，他似乎知道要去哪里。"
 
 # game/script.rpy:2174
 translate Chinese firstchoice_done_569d0157:
@@ -18815,19 +18815,19 @@ translate Chinese strings:
 
     # game/script.rpy:1375
     old "Greet them"
-    new ""
+    new "问候他们"
 
     # game/script.rpy:1379
     old "Silently join and wait"
-    new ""
+    new "静默加入并等待"
 
     # game/script.rpy:2022
     old "Ask if any of you can be of assistance"
-    new ""
+    new "询问你们中是否有人能提供帮助"
 
     # game/script.rpy:2108
     old "Stay quiet"
-    new ""
+    new "保持安静"
 
     # game/script.rpy:2745
     old "{cps=5000}With that prompting, Julian looks to you for approval.{/cps}"
