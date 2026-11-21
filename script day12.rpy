@@ -10946,7 +10946,7 @@ translate Chinese day12_julian_seedmorocco_3c749781:
 translate Chinese day12_julian_seedmorocco_82bb5023:
 
     # "Your attention returns to Nomax and you reach down, holding the base of your length with one hand and cupping his cheek with the other."
-    "你的注意力回到Nomax身上，你伸手兄啊去，一只握住你肉棒的根部，另一只手捧着他的脸颊。"
+    "你的注意力回到Nomax身上，你伸手下去，一只握住你肉棒的根部，另一只手捧着他的脸颊。"
 
 # game/script day12.rpy:6227
 translate Chinese day12_julian_seedmorocco_a34e72c1:
@@ -10964,7 +10964,7 @@ translate Chinese day12_julian_seedmorocco_a2984fee:
 translate Chinese day12_julian_seedmorocco_5698e7d5:
 
     # "Julian watches with quiet interest, taking a thorough look as your half-erect length slides out from under your clothes, feline balls resting comfortably beneath."
-    "Julian安静注视着，神色间带着几分饶有兴致，当你半勃的肉棒从衣物下滑出时，那独属于猫科动物般的蛋蛋垂在下方。"
+    "Julian安静注视着，神色间带着几分饶有兴致，当你半勃的肉棒从衣物下滑出时，那独属于猫科动物的蛋蛋垂在下方。"
 
 # game/script day12.rpy:6235
 translate Chinese day12_julian_seedmorocco_9e4a1033:

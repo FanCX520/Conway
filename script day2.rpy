@@ -24907,7 +24907,7 @@ translate Chinese day2_nomax_question3_968dc709:
 translate Chinese day2_nomax_question3_d3b353b1:
 
     # p "Advances, yes. No ill will towards your feelings, of course, but my work here on the ship comes first."
-    p "要说进一步发展…的确有。当然，我无意冒犯您的感情，不过在下还是以船上的工作为重。"
+    p "要说进一步发展…的确有。当然，我无意冒犯您的感情，不过我还是以船上的工作为重。"
 
 # game/script day2.rpy:13945
 translate Chinese day2_nomax_question3_b6fca9e8:
@@ -24925,7 +24925,7 @@ translate Chinese day2_nomax_question3_0c13a2d4:
 translate Chinese day2_nomax_question3_db2068ad:
 
     # "You don't dare look at Nomax right now and all you hear is an exasperated snort as the painted dog crosses his arms and leans further forward on the bed."
-    "你现在根本不敢看Nomax，只听见那只花里胡哨的“野狗”不屑地哼了一声，抱着胳膊，在床上扭过身子。"
+    "你现在根本不敢看Nomax，只听见那只彩绘犬不屑地哼了一声，抱着胳膊，在床上扭过身子。"
 
 # game/script day2.rpy:13952
 translate Chinese day2_nomax_question3_cb812b29:
@@ -25099,7 +25099,7 @@ translate Chinese day2_nomax_question4_bbec5973:
 translate Chinese day2_nomax_question4_57e01214:
 
     # p "Did you know that he is a botanist by trade?"
-    p "您知道吗？他是个植物学家。"
+    p "你知道吗？他是个植物学家。"
 
 # game/script day2.rpy:14068
 translate Chinese day2_nomax_question4_34b2c2c2:
@@ -25147,7 +25147,7 @@ translate Chinese day2_nomax_question4_70fa39d4:
 translate Chinese day2_nomax_question4_37a67ce6:
 
     # a "And you stand by it that this is the true account of what happened this morning?"
-    a "您确定这就是今天早上事情的全部经过吗？"
+    a "你确定这就是今天早上事情的全部经过吗？"
 
 # game/script day2.rpy:14088
 translate Chinese day2_nomax_question4_e39c8077_1:
