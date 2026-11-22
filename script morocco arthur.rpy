@@ -680,7 +680,7 @@ translate Chinese day14_arthur_start_a41fa47b:
 
 # game/script morocco arthur.rpy:327
 translate Chinese day14_arthur_start_f7902668:
-And even then, your timing is impeccable, being that I find myself almost done
+
     # a "And even then, your timing is impeccable, being that I find myself almost done."
     a "以及，来得真巧，刚好我发现我快要做完了"
 

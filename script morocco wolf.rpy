@@ -256,7 +256,7 @@ translate Chinese day14_wolf_start_887e8699:
 translate Chinese day14_wolf_start_d4c6ae50:
 
     # "A little odd though, you think. For someone deep in the throes of boredom, you'd expect his tone to be slow, sarcastic, slightly slurred even. {w}But his voice is as sharp and focused as ever."
-    "不过你觉得有点奇怪。对于一个深陷无聊之苦的人，你还以为他的语调该是是缓慢、讽刺，甚至有点含糊不清的。{/w}但他的声音一如既往地锐利而专注。"
+    "不过你觉得有点奇怪。对于一个深陷无聊之苦的人，你还以为他的语调该是是缓慢、讽刺，甚至有点含糊不清的。{w}但他的声音一如既往地锐利而专注。"
 
 # game/script morocco wolf.rpy:134
 translate Chinese day14_wolf_start_92b5accf:
@@ -3466,7 +3466,7 @@ translate Chinese day_14_wolf_ruins_40b6a715:
 translate Chinese day_14_wolf_ruins_8997ccb0:
 
     # "An inn?{w} Doesn't make much sense, though. The island is extremely isolated, without even a trace of an ancient port."
-    "旅馆？{/w} 但这不太合理。这座岛极其偏僻，连古代港口的痕迹都没有。"
+    "旅馆？{w} 但这不太合理。这座岛极其偏僻，连古代港口的痕迹都没有。"
 
 # game/script morocco wolf.rpy:1725
 translate Chinese day_14_wolf_ruins_9d39d640:
@@ -11590,7 +11590,7 @@ translate Chinese morocco_wolf_ending_825b495a:
 translate Chinese morocco_wolf_ending_6d8aadfe:
 
     # a "I am fully aware that the two of you have grown rather... close, lately. {w}Or better, closer than most members of the crew who frequent Mr. Hvidt."
-    a "我完全清楚你们俩最近变得相当……亲密。{/w}或者说，比大多数常与Hvidt先生来往的船员都要近。"
+    a "我完全清楚你们俩最近变得相当……亲密。{w}或者说，比大多数常与Hvidt先生来往的船员都要近。"
 
 # game/script morocco wolf.rpy:5684
 translate Chinese morocco_wolf_ending_10ad1349:

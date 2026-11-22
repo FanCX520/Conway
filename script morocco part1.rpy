@@ -11194,7 +11194,7 @@ translate Chinese day14_samuel_morocco_decision_530bfbe3:
 translate Chinese day14_samuel_morocco_decision_4906b09e:
 
     # "[His] ears flick, and [he] doesn't answer at first. With a quirky smile—is [he]... embarrassed? {i}Awkward{/i}, of all people?—Sam pushes [himself] back from the table and gets to [his] paws."
-    "[他]耳朵抖了抖，起初没有回答。带着古怪的笑容——[他]这是……难为情？偏偏是[i]他{/i}觉得[i]尴尬{/i}？——Sam从桌边撑起身，站了起来。"
+    "[他]耳朵抖了抖，起初没有回答。带着古怪的笑容——[他]这是……难为情？偏偏是{i}他{/i}觉得{i}尴尬{/i}？——Sam从桌边撑起身，站了起来。"
 
 # game/script morocco part1.rpy:5300
 translate Chinese day14_samuel_morocco_decision_25a78c90:

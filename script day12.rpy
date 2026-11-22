@@ -16908,7 +16908,7 @@ translate Chinese day12_leave_eagle_feeding_pt2_777bd6f1:
 translate Chinese day12_leave_eagle_feeding_pt2_f862e701:
 
     # j "I'm just waiting to be the mate's {i}'ire of the week.'{/i}"
-    j "{/i}呢。"
+    j "我就等着成为大副{i}‘本周的出气筒’{/i}呢。"
 
 # game/script day12.rpy:9272
 translate Chinese day12_leave_eagle_feeding_pt2_defefdf3:
@@ -28782,7 +28782,7 @@ translate Chinese day12_rajeeyah_letters_6d472085:
 translate Chinese day12_rajeeyah_letters_4db77ab0:
 
     # r "Oh, don't look so surprised. Yes, I had a... {w}have a... partner. Lover?{w} Once, I suppose. It is difficult to know how to put it, exactly."
-    r "噢，别那么惊讶。是的，我{有}……{w}有过……一个伴侣。爱人？{w}我想，曾经是。确切地说，很难知道该怎么表述。"
+    r "噢，别那么惊讶。是的，我有过……{w}有……一个伴侣。爱人？{w}我想，曾经是。确切地说，很难知道该怎么表述。"
 
 # game/script day12.rpy:15448
 translate Chinese day12_rajeeyah_letters_9661f819:
@@ -29586,7 +29586,7 @@ translate Chinese day12_rajeeyah_letters_60c07821:
 translate Chinese day12_rajeeyah_letters_1ca08dac:
 
     # r "I {i}believe{/i} him."
-    r "我<i>相信</i>他。"
+    r "我{i}相信{/i}他。"
 
 # game/script day12.rpy:15847
 translate Chinese day12_rajeeyah_letters_ad52c7d1:
@@ -29604,7 +29604,7 @@ translate Chinese day12_rajeeyah_letters_0e21f1aa:
 translate Chinese day12_rajeeyah_letters_e44a31ea:
 
     # p "But you could. You {i}did{/i} become a surgeon. I know I'm never going to be able to do that. So... he was right, wasn't he?"
-    p "但你可以的。你<i>确实</i>成为了一名外科医生。我知道我永远做不到那样。所以……他是对的，不是吗？"
+    p "但你可以的。你{i}确实{/i}成为了一名外科医生。我知道我永远做不到那样。所以……他是对的，不是吗？"
 
 # game/script day12.rpy:15853
 translate Chinese day12_rajeeyah_letters_31755fd6:
@@ -29634,7 +29634,7 @@ translate Chinese day12_rajeeyah_letters_0f15fad2:
 translate Chinese day12_rajeeyah_letters_ce9a2155:
 
     # r "Sometimes I do. But what {i}I{/i} wanted was never going to be the only factor."
-    r "有时我确实想。但<i>我</i>的意愿从来都不是唯一的决定因素。"
+    r "有时我确实想。但{i}我{/i}的意愿从来都不是唯一的决定因素。"
 
 # game/script day12.rpy:15868
 translate Chinese day12_rajeeyah_letters_2dd079d0:
@@ -29652,7 +29652,7 @@ translate Chinese day12_rajeeyah_letters_f2df5c96:
 translate Chinese day12_rajeeyah_letters_fdb479e7:
 
     # p "But you didn't know you were going to end up on a ship like the {i}Conway{/i} then, right?"
-    p "但那时你并不知道自己最终会登上像<i>Conway</i>这样的船，对吧？"
+    p "但那时你并不知道自己最终会登上像{i}Conway{/i}这样的船，对吧？"
 
 # game/script day12.rpy:15878
 translate Chinese day12_rajeeyah_letters_25cd8f54:
@@ -29760,13 +29760,13 @@ translate Chinese day12_rajeeyah_letters_3087ccce:
 translate Chinese day12_rajeeyah_letters_c35d4220:
 
     # r "I just didn't... I didn't want to {i}be{/i} that. Not anymore."
-    r "我只是不……我不想<i>成为</i>那样的人。再也不想。"
+    r "我只是不……我不想{i}成为{/i}那样的人。再也不想。"
 
 # game/script day12.rpy:15928
 translate Chinese day12_rajeeyah_letters_5fb95ed8:
 
     # r "{cps=5000}I just didn't... I didn't want to {i}be{/i} that. Not anymore.{/cps}" nointeract
-    r "{cps=5000}我只是不……我不想<i>成为</i>那样的人。再也不想。{/cps}" nointeract
+    r "{cps=5000}我只是不……我不想{i}成为{/i}那样的人。再也不想。{/cps}" nointeract
 
 # game/script day12.rpy:15934
 translate Chinese day12_rajeeyah_letters_6c7dc72c:
@@ -30090,7 +30090,7 @@ translate Chinese day12_rajeeyah_letters_e9d527c8:
 translate Chinese day12_rajeeyah_letters_334c98d4:
 
     # r "It almost feels like there's something in me that doesn't {i}want{/i} to get it right."
-    r "感觉几乎像是，我内心深处有什么东西<i>不想</i>把它写好。"
+    r "感觉几乎像是，我内心深处有什么东西{i}不想{/i}把它写好。"
 
 # game/script day12.rpy:16075
 translate Chinese day12_rajeeyah_letters_ced6ba65:
@@ -30180,7 +30180,7 @@ translate Chinese day12_rajeeyah_letters_e2d045f2:
 translate Chinese day12_rajeeyah_letters_0ec17e20:
 
     # p "Does he write to {i}you{/i}?"
-    p "他给<i>你</i>写信吗？"
+    p "他给{i}你{/i}写信吗？"
 
 # game/script day12.rpy:16111
 translate Chinese day12_rajeeyah_letters_1d53767a:
@@ -50346,7 +50346,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_d8bf158d:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_55db7ece:
 
     # p "And you lifted his tail for him. It's hardly anything he hasn't seen yet.{w} Seen {i}and more.{/i}"
-    p "而且你还帮他抬起了尾巴。这几乎算不上是他没见过的东西。{w}没见过{/i}才怪。{/i}"
+    p "而且你还帮他抬起了尾巴。这几乎算不上是他没见过的东西。{w}见过，{i}而且不止于此。{/i}"
 
 # game/script day12.rpy:26082
 translate Chinese day12_bioluminescence_nomax_lifedrawing_9760a79f:
@@ -56250,19 +56250,19 @@ translate Chinese day12_bioluminescence_sam_julian_de6acd46:
 translate Chinese day12_bioluminescence_sam_julian_db9ccd7a:
 
     # j "When I went out to play?{w} I'm {i}'Not showing the discipline required of someone of my station.'{/i}"
-    j "{/i}"
+    j "出去玩的时候？{w}我就是{i}‘没有表现出与我身份相称的自律。’{/i}"
 
 # game/script day12.rpy:29333
 translate Chinese day12_bioluminescence_sam_julian_60fe88f7:
 
     # j "If I was reading a book it wasn't the {i}'proper literature.'{/i}"
-    j "{/i}"
+    j "要是我在看书，那看的也不是{i}‘正经书。’{/i}"
 
 # game/script day12.rpy:29335
 translate Chinese day12_bioluminescence_sam_julian_8f90ee05:
 
     # j "Music?{w} {i}'It's for the meek, lay aside these womanly pursuits and start behaving like a real man.'{/i}"
-    j "{/i}"
+    j "音乐？{w}{i}‘那是软弱之人才玩的东西。别再搞这些娘们兮兮的爱好，像个真正的男人一样做事。’{/i}"
 
 # game/script day12.rpy:29337
 translate Chinese day12_bioluminescence_sam_julian_483649b4:
