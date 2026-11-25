@@ -4,7 +4,7 @@
 translate Chinese day14_samuel_morocco_secret_6ff6960e:
 
     # "As you walk back towards the pier, you notice Sam is fidgeting somewhat awkwardly with [his] paws. You don't think you've ever seen [him] so anxious before."
-    "当你走回码头时，你注意到Sam正有些尴尬地摆弄[his]的爪子。你觉得自己以前从来没看见过[his]有这么焦虑。"
+    "当你走回码头时，你注意到Sam正有些局促地摆弄着[his]的爪子。你觉得自己从没见过[him]这么焦虑。"
 
 # game/script morocco samuel.rpy:21
 translate Chinese day14_samuel_morocco_secret_948a1888:
@@ -22,7 +22,7 @@ translate Chinese day14_samuel_morocco_secret_061e5381:
 translate Chinese day14_samuel_morocco_secret_3cc13ca4:
 
     # s "How do you figure the {i}Conway{/i}'s luck is?"
-    s "你觉得 {i}Conway{/i}的运气如何？"
+    s "你觉得{i}Conway{/i}号的运气如何？"
 
 # game/script morocco samuel.rpy:27
 translate Chinese day14_samuel_morocco_secret_b0fae625:
@@ -40,13 +40,13 @@ translate Chinese day14_samuel_morocco_secret_739f2fd4:
 translate Chinese day14_samuel_morocco_secret_86e495ec:
 
     # "Sam turns [his] head, looking past you towards the harbor. Eyes briefly flicking upwards, distracted by the wheeling gulls, [he] takes a moment to gather [his] thoughts."
-    "Sam转过头，目光越过你眺望海港。视线短暂地向上转移了一下，被盘旋的海鸥分散了注意力，[他]花了一点时间整理[自己]的思绪。"
+    "Sam转过头，目光越过你望向海港。[his]的视线被盘旋的海鸥吸引，短暂地向上飘了一下，[he]花了点时间整理思绪。"
 
 # game/script morocco samuel.rpy:33
 translate Chinese day14_samuel_morocco_secret_4f9f2efb:
 
     # "'A moment' turns to long seconds, broken only by the sound of your footfalls. You're not certain how to take 'mm' as an answer to what you've just said."
-    "‘一瞬’转为长长的几秒钟，只有你的脚步声打破寂静。你不确定该如何理解刚刚说话后得到的这个回答，'唔'。"
+    "“一会儿”变成了漫长的几秒，只有你的脚步声打破寂静。你说了那么多，只换来一声“唔”，你不知道该怎么理解。"
 
 # game/script morocco samuel.rpy:37
 translate Chinese day14_samuel_morocco_secret_2902eb82:
@@ -58,7 +58,7 @@ translate Chinese day14_samuel_morocco_secret_2902eb82:
 translate Chinese day14_samuel_morocco_secret_9aa84053:
 
     # "Samuel is still looking in your direction, but not {i}at{/i} you. You think again about his awkwardness, and the caginess of his earlier questions... the odd look he gave you... his friendship with Raj..."
-    "Samuel仍然朝你的方向注视着，但并不是{i}at{/i} 你。你又回想起他的尴尬，和之前提问时的闪烁其词……他递给你奇怪的眼神……他和Raj的友谊……"
+    "Samuel仍然朝着你的方向，却没有在{i}看{/i}你。你又想起他的局促，之前那些闪烁其词的问题……他看你的古怪眼神……他和Raj的交情……"
 
 # game/script morocco samuel.rpy:41
 translate Chinese day14_samuel_morocco_secret_84b65507:
@@ -88,7 +88,7 @@ translate Chinese day14_samuel_morocco_secret_a65a6f6d:
 translate Chinese day14_samuel_morocco_secret_9d23ed7d:
 
     # s "No. I was cursed by a sea witch, seven moons ago.{w} Yes, of course, [name]."
-    s "{w} 可不是嘛，[name]，但于七个月圆前，我却叫海巫给下了咒。"
+    s "不是，七个月圆之前，我被海巫下了咒。{w}当然是啦，[name]。"
 
 # game/script morocco samuel.rpy:71
 translate Chinese day14_samuel_morocco_secret_43f24805:
@@ -106,7 +106,7 @@ translate Chinese day14_samuel_morocco_secret_a33a59b0:
 translate Chinese day14_samuel_morocco_secret_2b58262a:
 
     # p "No.{w} Yes. That's why you wanted to talk to Rajeeyah?"
-    p "当然。{w}是的。所以你才想找Rajeeyah聊聊？"
+    p "不会。{w}呃，其实也会。所以你才想找Rajeeyah聊聊？"
 
 # game/script morocco samuel.rpy:79
 translate Chinese day14_samuel_morocco_secret_72ea3231:
@@ -130,7 +130,7 @@ translate Chinese day14_samuel_morocco_secret_918970ac:
 translate Chinese day14_samuel_morocco_secret_285862c3:
 
     # "Sam's thin smile seems balanced between gratefulness at your lack of anger, and bitterness whose source quickly becomes apparent."
-    "Sam的笑颜在感激和苦涩之间淡淡展开，[他]感激你没有生气，而苦涩的原因也即将显而易见。"
+    "Sam淡淡一笑，像是在感激和苦涩之间摇摆：感激你没有生气，而苦涩从何而来，很快就清楚了。"
 
 # game/script morocco samuel.rpy:87
 translate Chinese day14_samuel_morocco_secret_aaafaf70:
@@ -172,13 +172,13 @@ translate Chinese day14_samuel_morocco_secret_884b69c4:
 translate Chinese day14_samuel_morocco_secret_b5919bb0:
 
     # s "Sam. As far as you're concerned."
-    s "Sam。对你来说。"
+    s "对你来说，就是Sam。"
 
 # game/script morocco samuel.rpy:101
 translate Chinese day14_samuel_morocco_secret_b134826a:
 
     # p "I'm not going to {i}tell{/i} anyone. I was just..."
-    p "我不会跟任何人{i}说的{/i} 。我只是……"
+    p "我不会{i}告诉{/i}任何人的。我只是……"
 
 # game/script morocco samuel.rpy:105
 translate Chinese day14_samuel_morocco_secret_3278ef9d:
@@ -214,13 +214,13 @@ translate Chinese day14_samuel_morocco_secret_918970ac_1:
 translate Chinese day14_samuel_morocco_secret_1c1d3838:
 
     # s "Nobody who doesn't need to."
-    s "没必要让所有人知道。"
+    s "不需要知道的人，都不知道。"
 
 # game/script morocco samuel.rpy:143
 translate Chinese day14_samuel_morocco_secret_58e2f502:
 
     # p "Doesn't everyone need to? That's a lot to keep from us."
-    p "难道不是所有人都应该知道吗？你对我们隐瞒得太多了"
+    p "难道不是所有人都需要知道吗？你瞒了我们这么多。"
 
 # game/script morocco samuel.rpy:145
 translate Chinese day14_samuel_morocco_secret_2da5965c:
@@ -232,19 +232,19 @@ translate Chinese day14_samuel_morocco_secret_2da5965c:
 translate Chinese day14_samuel_morocco_secret_565d25e4:
 
     # s "Is anything changed?"
-    s "有差吗"
+    s "有差吗？"
 
 # game/script morocco samuel.rpy:151
 translate Chinese day14_samuel_morocco_secret_0febc460:
 
     # s "T'isn't. Isn't any of your business 'less you're making a nude sculpture of me, and nobody's doing that.{w} Why are you being so fucking weird about it?"
-    s "没有。除非你要看我的裸体，否者这关你什么事，没人会这样做。{w}你他妈的为什么对这件事表现得这么奇怪？"
+    s "没有。除非你要给我雕一座裸像，不然这关你什么事？也没人要雕。{w}你他妈的干嘛对这事这么别扭？"
 
 # game/script morocco samuel.rpy:153
 translate Chinese day14_samuel_morocco_secret_bdc0b52a:
 
     # s "And here I thought you might be different..."
-    s "都说到这了，我以为你和他们不一样。"
+    s "我还以为你会不一样……"
 
 # game/script morocco samuel.rpy:155
 translate Chinese day14_samuel_morocco_secret_1af1cf81:
@@ -256,7 +256,7 @@ translate Chinese day14_samuel_morocco_secret_1af1cf81:
 translate Chinese day14_samuel_morocco_secret_d6753f80:
 
     # p "Not being weird. Just... can't believe you'd do that."
-    p "我不觉得奇怪。只是...我不敢相信你会那样做。"
+    p "我没别扭。只是……我不敢相信你会这么做。"
 
 # game/script morocco samuel.rpy:159
 translate Chinese day14_samuel_morocco_secret_a78e7dcb:
@@ -268,13 +268,13 @@ translate Chinese day14_samuel_morocco_secret_a78e7dcb:
 translate Chinese day14_samuel_morocco_secret_d3bac7ff:
 
     # p "Maybe I'll think differently later..."
-    p "也许我以后会想通"
+    p "也许我以后会想通的……"
 
 # game/script morocco samuel.rpy:165
 translate Chinese day14_samuel_morocco_secret_882dd19e:
 
     # "You hear her snort out and annoyed exhale."
-    "你听见她不耐烦的鼻息声和气愤得吐气声。"
+    "你听见她哼了一声，恼火地呼出一口气。"
 
 # game/script morocco samuel.rpy:167
 translate Chinese day14_samuel_morocco_secret_a8328d39:
@@ -286,7 +286,7 @@ translate Chinese day14_samuel_morocco_secret_a8328d39:
 translate Chinese day14_samuel_morocco_secret_2ce32b91:
 
     # "The maned wolf's voice has gone cold."
-    "这只长鬃狼得声音变得冷淡。"
+    "鬃狼的声音冷了下来。"
 
 # game/script morocco samuel.rpy:171
 translate Chinese day14_samuel_morocco_secret_081471af:
@@ -298,31 +298,31 @@ translate Chinese day14_samuel_morocco_secret_081471af:
 translate Chinese day15_morocco_samuel_15031261:
 
     # "Back aboard the {i}Conway{/i}, Sam goes to talk to Rajeeyah alone."
-    "回到 {i}Conway{/i}上，Sam独自去找Rajeeyah谈谈。"
+    "回到{i}Conway{/i}号上，Sam独自去找Rajeeyah谈了。"
 
 # game/script morocco samuel.rpy:207
 translate Chinese day15_morocco_samuel_ca4a2179:
 
     # "You walk around the perimeter of the ship, where—for the moment—there's little activity."
-    "你漫无目的地在船的四周闲逛，此时，周围没有一点生机。"
+    "你沿着船舷绕了一圈，此刻这里没什么人走动。"
 
 # game/script morocco samuel.rpy:212
 translate Chinese day15_morocco_samuel_49387766:
 
     # "It's a far cry from the last time you saw it in harbor: {i}your{/i} harbor, and that brief transition where neither place was truly home."
-    "这和你上次在港口上看到的截然不同。 {i}your{/i}港口和上次短暂的停靠都不能算是真正的家。"
+    "这和你上次在港口看到它时大不一样——那是{i}你的{/i}港口，还有那段短暂的过渡，那时哪边都不算真正的家。"
 
 # game/script morocco samuel.rpy:217
 translate Chinese day15_morocco_samuel_6db68c1a:
 
     # "Eventually Sam returns, with no firmer plan of action."
-    "最后，Sam一脸茫然地回来了。"
+    "最后Sam回来了，还是没拿定什么主意。"
 
 # game/script morocco samuel.rpy:219
 translate Chinese day15_morocco_samuel_df3c6b73:
 
     # s "Raj is busy. So..."
-    s "Raj正在忙。所以..."
+    s "Raj正在忙。所以……"
 
 # game/script morocco samuel.rpy:221
 translate Chinese day15_morocco_samuel_f0ccf936:
@@ -334,7 +334,7 @@ translate Chinese day15_morocco_samuel_f0ccf936:
 translate Chinese day15_morocco_samuel_dd5a970f:
 
     # "Given the revelation about Perce and Arthur, you're confused by Sam's willingness to volunteer. It's not until halfway through your watch, checking ropes and cleaning the blocks, that you understand. Arthur is not her concern."
-    "考虑到Perce和Arthur的关系已经被揭露，你对Sam的主动帮忙感到困惑。直到你执勤，检查绳索，清理滑轮的琐事过半，你才反应过来她并不关心Arthur。"
+    "考虑到刚知道的Perce和Arthur的事，你对Sam的主动帮忙感到困惑。直到你执勤，检查绳索，清理滑轮的琐事过半，你才反应过来她并不关心Arthur。"
 
 # game/script morocco samuel.rpy:231
 translate Chinese day15_morocco_samuel_26770d8b:
@@ -346,7 +346,7 @@ translate Chinese day15_morocco_samuel_26770d8b:
 translate Chinese day15_morocco_samuel_af3ffce0:
 
     # "Your sleep, that evening, is broken several times by the return of other sailors, clearly having made the most of their time ashore. Their own lifted mood helps to buoy yours, even if it does mean having some of your precious slumber stolen."
-    "那天晚上，你的睡眠总是被其他水手的归来打断。他们显然在岸上玩得很开心。他们高涨得情绪也提振了你的心情，即使这意味着你会牺牲掉一些宝贵的睡眠时间。"
+    "那天晚上，你的睡眠被归船的水手们打断了好几次，他们显然在岸上玩得很尽兴。他们高涨的情绪也让你心情好了起来，即使这意味着你得牺牲掉一些宝贵的睡眠。"
 
 # game/script morocco samuel.rpy:260
 translate Chinese day15_morocco_samuel_787a9f61:
@@ -370,19 +370,19 @@ translate Chinese day15_morocco_samuel_8f5f2e74:
 translate Chinese day15_morocco_samuel_7dca0968:
 
     # "She leads you towards the lowered gangplank, where Rajeeyah is waiting. So is the quartermaster, who seems to be overseeing the watch, and a few other sailors waiting to talk to him. Sam ignores them, pointing to the cheetah."
-    "她带着你跳下被放下的跳板，Rajeeyah正在那等着他们。军需官也在，他似乎在督班，还有其他的水手等着和他谈话呢。Sam直接忽视了他们并指了指猎豹。"
+    "她领着你走向已经放下的跳板，Rajeeyah正在那儿等着。军需官也在，似乎在督班，还有几个水手等着跟他说话。Sam没理他们，指了指猎豹。"
 
 # game/script morocco samuel.rpy:295
 translate Chinese day15_morocco_samuel_126761b5:
 
     # s "Raj here says she knows a place that'll be more... authentic, like.{w} Cozier."
-    s "Raj说她知道一个相对来说更...正宗的地方，比如{w}更舒服。"
+    s "Raj说她知道个地方，更……地道些，嗯。{w}也更舒服。"
 
 # game/script morocco samuel.rpy:301
 translate Chinese day15_morocco_samuel_dd458906:
 
     # r "It is not quite that simple, Sam. I said I know {i}how{/i} to find a {i}hammam{/i} that will suit your purposes."
-    r "没那么简单，Sam。我知道{i}怎么{/i}找到一个适合你的{i}土耳其浴{/i}。"
+    r "没那么简单，Sam。我说的是，我知道{i}怎么{/i}找到一家合你心意的{i}浴场{/i}。"
 
 # game/script morocco samuel.rpy:303
 translate Chinese day15_morocco_samuel_2645c5e3:
@@ -394,7 +394,7 @@ translate Chinese day15_morocco_samuel_2645c5e3:
 translate Chinese day15_morocco_samuel_5825d402:
 
     # s "You can find one. The tricky part of it is, though, what with us new in the city... well, I could go by myself."
-    s "你总会找的一个适合你的。不过现在要紧的是我们初来乍到...嗯，我会自己去的。"
+    s "你是能找到。麻烦的是，我们初来乍到……嗯，我也可以自己去。"
 
 # game/script morocco samuel.rpy:307
 translate Chinese day15_morocco_samuel_b9a03500:
@@ -424,7 +424,7 @@ translate Chinese day15_morocco_samuel_18843813:
 translate Chinese day15_morocco_samuel_d18bb226:
 
     # "Given how few people know what you and the doctor know about Sam, she must've been dreading the prospect of an awkward conversation... or an outright lie that might incriminate both of them later."
-    "考虑到几乎没人知道Sam的事，她一定在担心可能有一场尴尬的谈话...或者一个日后可能牵连他们两个的彻头彻尾的谎言。"
+    "知道Sam这件事的人本来就少，除了你就是医生。她一定一直在担心要进行一场尴尬的谈话……或者撒个弥天大谎，日后把她们俩都牵连进去。"
 
 # game/script morocco samuel.rpy:321
 translate Chinese day15_morocco_samuel_8108c8ad:
@@ -436,7 +436,7 @@ translate Chinese day15_morocco_samuel_8108c8ad:
 translate Chinese day15_morocco_samuel_ab46026c:
 
     # r "I suppose that would be fine. The other boys won't tease either of you too much. If it's fine with Samuel?"
-    r "我觉得没问题。其他伙计确实不会过分取笑你两。如果Samuel没问题的话。"
+    r "我觉得没问题。其他伙计不会太取笑你俩的。如果Samuel没问题的话？"
 
 # game/script morocco samuel.rpy:329
 translate Chinese day15_morocco_samuel_61405d1c:
@@ -454,13 +454,13 @@ translate Chinese day15_morocco_samuel_570bc079:
 translate Chinese day15_morocco_samuel_cd2579a5:
 
     # r "Are you sure, [name]? Do you even know anything about bathhouses?"
-    r "你确定吗，[name]?你很了解澡堂吗？"
+    r "你确定吗，[name]？你对澡堂了解多少？"
 
 # game/script morocco samuel.rpy:337
 translate Chinese day15_morocco_samuel_706abcb1:
 
     # p "Well I mean... you bathe in them, right?"
-    p "呃...是指在里面洗澡是吗？"
+    p "呃……是指在里面洗澡是吗？"
 
 # game/script morocco samuel.rpy:341
 translate Chinese day15_morocco_samuel_9a7f740b:
@@ -472,7 +472,7 @@ translate Chinese day15_morocco_samuel_9a7f740b:
 translate Chinese day15_morocco_samuel_1ddd6ff7:
 
     # p "...Yes, not exactly. But doesn't that mean I might as well learn, ma'am?"
-    p "对啊，我确实不了解。但我可以借此好好学习一下不是吗，猎豹小姐。"
+    p "……是，不太了解。但这不正好说明我该学学吗，女士？"
 
 # game/script morocco samuel.rpy:347
 translate Chinese day15_morocco_samuel_fd147c43:
@@ -496,13 +496,13 @@ translate Chinese day15_morocco_samuel_3d50b088:
 translate Chinese day15_morocco_samuel_502e67d2:
 
     # "Rajeeyah, rather than Samuel, explains the situation to the quartermaster, who doesn't seem to feel like arguing one way or the other."
-    "Rajeeyah走向前去和军需官说明情况，而他似乎也懒得争论了。"
+    "Rajeeyah没让Samuel出面，自己去跟军需官说明了情况，而军需官似乎也懒得争什么。"
 
 # game/script morocco samuel.rpy:366
 translate Chinese day15_morocco_samuel_f47cc416:
 
     # "You follow Rajeeyah; as soon as the cheetah's feet touch dry land, a transformation seems to come over her."
-    "你跟着Rajeeyah。她的脚一踏上干燥的陆地，就完全变了一个人样的。"
+    "你跟着Rajeeyah。她的脚一踏上陆地，整个人仿佛都变了。"
 
 # game/script morocco samuel.rpy:370
 translate Chinese day15_morocco_samuel_5069a6eb:
@@ -514,7 +514,7 @@ translate Chinese day15_morocco_samuel_5069a6eb:
 translate Chinese day15_morocco_samuel_6a750ebc:
 
     # "Several times, she stops to speak with one of the locals; her voice is subdued, but evidently compelling—the result of every conversation is a nod, and a pointed gesture up another street."
-    "好几次，她停下来和本地人打听澡堂。她的声音低沉却有说服力——每次谈话都指引他们到达目的地。"
+    "好几次，她停下来跟当地人说话；她声音不大，却显然很有说服力——每次对方都点点头，朝另一条街指一指。"
 
 # game/script morocco samuel.rpy:374
 translate Chinese day15_morocco_samuel_56a69ab4:
@@ -526,7 +526,7 @@ translate Chinese day15_morocco_samuel_56a69ab4:
 translate Chinese day15_morocco_samuel_85f40547:
 
     # "And you are not, but all three of you know when you've reached the bathhouse you're looking for. Rajeeyah points to the building, an unassuming white structure with smoke curling from brick chimneys, when you're some distance away."
-    "而你没有。不远处，Rajeeyah指了指一栋不起眼的白色建筑，烟气从砖砌的烟囱里盘旋升空。你们三个知道马上到地方了。"
+    "而你可不是。不过找到要去的澡堂时，你们三个都认得出来。还隔着一段距离，Rajeeyah就指向了一栋不起眼的白色建筑，砖砌烟囱里冒着袅袅的烟。"
 
 # game/script morocco samuel.rpy:387
 translate Chinese day15_morocco_samuel_1d31c39b:
@@ -538,37 +538,37 @@ translate Chinese day15_morocco_samuel_1d31c39b:
 translate Chinese day15_morocco_samuel_f2b266f6:
 
     # "What other reason could there be for such an ostentatious display of water, here in this refuge from the encroaching desert?"
-    "在这一片抵御沙漠侵蚀的绿洲里，他们竟然能如此炫耀般地展示水资源。"
+    "在这片抵御沙漠侵蚀的避风港里，如此炫耀般地用水，除了澡堂还能是什么呢？"
 
 # game/script morocco samuel.rpy:391
 translate Chinese day15_morocco_samuel_b5530daa:
 
     # "No one has yet noticed your approach. Rajeeyah stops, turning to the two of you."
-    "还没有人注意到你们的到来。Rajeeyah停下脚步，转向你们倆。"
+    "还没有人注意到你们的到来。Rajeeyah停下脚步，转向你们俩。"
 
 # game/script morocco samuel.rpy:393
 translate Chinese day15_morocco_samuel_368e1746:
 
     # r "I'm told that this is one of the smaller {i}hammams{/i} in the city. What it lacks in history, it should make up for in intimacy. I should be able to arrange a bath for you, Hannah."
-    r "我听说这里有一家小{i}土耳其澡堂{/i}。虽然不是什么老店，但是胜在隐秘性。在这里给你安排一次舒服的洗浴再好不过了，Hannah。"
+    r "我听说这是城里比较小的一家{i}浴场{/i}。虽然没什么历史，但胜在清静私密。我应该能给你安排洗个澡，Hannah。"
 
 # game/script morocco samuel.rpy:397
 translate Chinese day15_morocco_samuel_9400ca82:
 
     # r "For you, [name]... well. She said she wanted you to join us. Do you?"
-    r "你呢，[name]...嗯。她说她想让你加入我们。你来吗？"
+    r "你呢，[name]……嗯。她说她想让你加入我们。你来吗？"
 
 # game/script morocco samuel.rpy:399
 translate Chinese day15_morocco_samuel_5976e7cb:
 
     # p "Well... yes. If it wouldn't cause too much trouble..."
-    p "呃...当然。如果不会造成太大的麻烦..."
+    p "呃……当然。如果不会造成太大的麻烦……"
 
 # game/script morocco samuel.rpy:407
 translate Chinese day15_morocco_samuel_3ed8122c:
 
     # r "And... I'll be honest, [name], it wasn't entirely clear to me. Were you thinking about joining her?"
-    r "还有...说实话，[name]，我不明白。你是在考虑加入她吗？"
+    r "还有……说实话，[name]，我不明白。你是在考虑加入她吗？"
 
 # game/script morocco samuel.rpy:409
 translate Chinese day15_morocco_samuel_48eec096:
@@ -616,13 +616,13 @@ translate Chinese day15_return_to_ship_5db85f0f:
 translate Chinese day15_return_to_ship_f3b01368:
 
     # "As nice as it would be to spend more time with her, you don't want to cause problems—or to be a distraction. Besides, you're staying on the {i}Conway{/i}: you'll have opportunities in the days ahead."
-    "虽然多花一点时间陪她很不错，的但是你不想惹麻烦，或者变成困扰。而且，你们还要待在 {i}Conway{/i}:以后还有很多机会。"
+    "虽然能多陪陪她挺好，但你不想惹麻烦，也不想让她分心。再说，你还会留在{i}Conway{/i}号上，往后有的是机会。"
 
 # game/script morocco samuel.rpy:472
 translate Chinese day15_return_to_ship_d0dd590c:
 
     # "When you turn to leave, Sam wraps her arms around you, giving you a tight hug and bringing her muzzle close to your ear."
-    "当你转身离开时，Sam突然双手环抱住你，给你个紧紧的拥抱，她的吻部轻轻的贴在你耳旁。"
+    "当你转身离开时，Sam突然双手环抱住你，给你个紧紧的拥抱，她的吻部轻轻地贴在你耳旁。"
 
 # game/script morocco samuel.rpy:474
 translate Chinese day15_return_to_ship_2c2755e8:
@@ -640,19 +640,19 @@ translate Chinese day15_return_to_ship_7e59172b:
 translate Chinese day15_return_to_ship_58bc76da:
 
     # r "You know your way back to the ship, [name]?"
-    r "你知道回船的路吗？"
+    r "你知道回船上的路吧，[name]？"
 
 # game/script morocco samuel.rpy:487
 translate Chinese day15_return_to_ship_2b0b2d65:
 
     # s "Well... if you're certain. I appreciate it, that's for sure."
-    s "嗯...如果你知道的话就太好了。我真的非常感激。"
+    s "嗯……要是你确定的话。总之，我真的很感激。"
 
 # game/script morocco samuel.rpy:489
 translate Chinese day15_return_to_ship_0745c688:
 
     # r "As do I. You know your way back to the ship, [name]?"
-    r "我也是。所以你知道回船的路吗？"
+    r "我也是。你知道回船上的路吧，[name]？"
 
 # game/script morocco samuel.rpy:491
 translate Chinese day15_return_to_ship_2a993ab4:
@@ -676,19 +676,19 @@ translate Chinese day15_return_to_ship_9cc8efe7:
 translate Chinese day15_return_to_ship_8ce68417:
 
     # "Foot traffic and goods wagons move, intertwined rivers, flowing around obstacles and momentary slowdowns in the current."
-    "前方是车水马龙，在街道上走走停停。"
+    "行人和货车在街上穿行，像交织的河流，绕过障碍，时而在水流中稍稍放缓。"
 
 # game/script morocco samuel.rpy:503
 translate Chinese day15_return_to_ship_73abb68d:
 
     # "Imagining them coursing down to the port, and from there to the ocean, and to lands as remote to you now as Morocco was a fortnight earlier."
-    "想象着他们流向港口，再从那里出发流向大海，流向如同两周前的Morocco一样遥远的地方。"
+    "你想象它们流向港口，再从那里流向大海，流向那些如今对你而言就像两周前的摩洛哥一样遥远的地方。"
 
 # game/script morocco samuel.rpy:505
 translate Chinese day15_return_to_ship_3ee2c350:
 
     # "You do not {i}feel{/i} alone. You do not feel like a naive kitten, waiting for the barked corrections of your superiors; waiting to understand what you might, with sufficient luck, one day become. You feel a part of it, a mote in that current."
-    "你并不孤独。你不再觉得你是一只等着被上级训斥的天真的小猫；你憧憬自己足够幸运的话可以成长为什么样的自己。人生海海，你就是其中一部分，一粒在洪流小小的尘埃。"
+    "你并不{i}觉得{/i}孤单。你不再觉得自己是只天真的小猫，等着上级吼着纠正你，等着弄明白自己运气够好的话将来会成为什么样的人。你觉得自己是这一切的一部分，是那股洪流中的一粒微尘。"
 
 # game/script morocco samuel.rpy:507
 translate Chinese day15_return_to_ship_a09780b7:
@@ -700,31 +700,31 @@ translate Chinese day15_return_to_ship_a09780b7:
 translate Chinese day15_samuel_raj_bathhouse_intro_18e97994:
 
     # "Her smile cracks into a grin, and a teasing laugh for which, at last, you aren't the intended target."
-    "她又开朗却带着戏虐地笑起来。而这次，她终于不是在笑你了。"
+    "她的微笑咧成了大笑，笑声里带着调侃，而这一次，被调侃的终于不是你了。"
 
 # game/script morocco samuel.rpy:551
 translate Chinese day15_samuel_raj_bathhouse_intro_fc6ad9f3:
 
     # r "Trouble? Sailors, getting into trouble? Imagine that. I'm sure she knew what she was getting me into when she asked for my help."
-    r "麻烦？水手惹上麻烦？想象一下。我敢肯定，她请我帮忙时就知道我会落得什么样的境地了。"
+    r "麻烦？水手会惹麻烦？真是稀奇。我敢肯定，她找我帮忙的时候就知道会把我拖进什么事里。"
 
 # game/script morocco samuel.rpy:555
 translate Chinese day15_samuel_raj_bathhouse_intro_859c71ba:
 
     # s "Even if {i}is{/i} trouble, now, t'isn't the kind ya gots to sew up. Right?"
-    s "即使{i}是{/i}麻烦，这也不是你马上要解决的麻烦呀，不是吗？"
+    s "就算{i}是{/i}麻烦，也不是要你拿针线缝的那种，对吧？"
 
 # game/script morocco samuel.rpy:557
 translate Chinese day15_samuel_raj_bathhouse_intro_0bfe6139:
 
     # r "No, I suppose it isn't. Well... you're foreigners, after all. I'm sure I can find a way to explain it. Wait here while I talk you both inside."
-    r "确实，我认为不是。好吧...毕竟你是外国兽。我肯定有法子解释的。在这等一下，我把你们都带进去谈谈。"
+    r "嗯，我想不是。好吧……毕竟你们是外国兽，我肯定能找个说法解释。在这儿等着，我去跟他们说，让你们俩进去。"
 
 # game/script morocco samuel.rpy:561
 translate Chinese day15_samuel_raj_bathhouse_intro_de17615b:
 
     # s "Surely it wouldn't be too much of that, though?"
-    s "这样不会太过分吗？"
+    s "应该不会太麻烦吧？"
 
 # game/script morocco samuel.rpy:563
 translate Chinese day15_samuel_raj_bathhouse_intro_512a06bc:
@@ -742,7 +742,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_ef6569eb:
 translate Chinese day15_samuel_raj_bathhouse_intro_0190dfbe:
 
     # s "Call it mine, Raj. He's a good friend. I mean, he offered to come for my sake, didn't he then?"
-    s "就算做我的吧，Raj。他是我的挚友。我是说他是为了我才提出来这个主意的不是吗？"
+    s "就算是我的吧，Raj。他是个好朋友。我是说，他是为了我才提出要来的，不是吗？"
 
 # game/script morocco samuel.rpy:569
 translate Chinese day15_samuel_raj_bathhouse_intro_a381c46f:
@@ -754,13 +754,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_a381c46f:
 translate Chinese day15_samuel_raj_bathhouse_intro_bf82670b:
 
     # "When she opens the door to the bathhouse, there's a brief exhalation of steam, twisting in ethereal patterns like the curling wave of her disappearing tail."
-    "当她打开澡堂的大门时，一股蒸汽迅速的涌了出来，扭曲成奇幻的图案，如同她缓缓消失的尾巴卷起的波浪。"
+    "当她打开澡堂的大门时，一股蒸汽迅速地涌了出来，扭曲成奇幻的图案，如同她缓缓消失的尾巴卷起的波浪。"
 
 # game/script morocco samuel.rpy:580
 translate Chinese day15_samuel_raj_bathhouse_intro_02a1924b:
 
     # s "Hope they won't ask too many questions. Us two-"
-    s "希望他们不会问太多关于我们的问题。"
+    s "希望他们别问太多。我们俩——"
 
 # game/script morocco samuel.rpy:582
 translate Chinese day15_samuel_raj_bathhouse_intro_d8c3edc4:
@@ -784,13 +784,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_e90d3f99:
 translate Chinese day15_samuel_raj_bathhouse_intro_ee0af7cb:
 
     # "She shakes her head firmly, resting a paw just as solidly on your shoulder."
-    "她坚定地摇了摇头，把爪子重重的地搭在你的肩膀上休息。"
+    "她坚定地摇了摇头，一只爪子同样坚定地搭在你肩上。"
 
 # game/script morocco samuel.rpy:599
 translate Chinese day15_samuel_raj_bathhouse_intro_edd19926:
 
     # "Several minutes pass before Rajeeyah reappears, waving you over."
-    "几分钟后，Rajeeyah出来的，招收示意你们过去。"
+    "过了几分钟，Rajeeyah才又出来，招手示意你们过去。"
 
 # game/script morocco samuel.rpy:601
 translate Chinese day15_samuel_raj_bathhouse_intro_25c068e2:
@@ -808,13 +808,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_530a950c:
 translate Chinese day15_samuel_raj_bathhouse_intro_0767ee94:
 
     # "The entryway beyond the door is nearly as brightly lit as the exterior. Once you're inside, you see why: the roof is open to the sky, awnings drawn back to give the hallway a beckoning glow, mottled with the dancing sparks of countless reflections."
-    "门后的过道和外面一样亮。进去之后你马上知道为什么了，屋顶时露天的，遮阳棚敞开给过道照得非常通透，点缀着跳动的光斑，反射出水的波纹。"
+    "门后的过道几乎和外面一样亮。进去之后你就明白了为什么：屋顶是露天的，遮阳篷拉开，过道被照得通透诱人，到处跳动着无数反光的光斑。"
 
 # game/script morocco samuel.rpy:617
 translate Chinese day15_samuel_raj_bathhouse_intro_2de81922:
 
     # r "They welcome us—as do I. This is a {i}hammam{/i}."
-    r "欢迎来的我们得澡堂——就像我们说的。这是个{i}土耳其浴场{/i}。"
+    r "他们欢迎我们——我也欢迎你们。这就是{i}浴场{/i}。"
 
 # game/script morocco samuel.rpy:621
 translate Chinese day15_samuel_raj_bathhouse_intro_1f001f53:
@@ -826,13 +826,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_1f001f53:
 translate Chinese day15_samuel_raj_bathhouse_intro_f263d7b0:
 
     # "Or when you got roped in to butchering and cleaning one of the neighbor's animals, or your family's chickens, and by the end of the day you could think of nothing else but your reeking fingerpads, and your claws catching in the tacky mess when you tried to unsheathe them."
-    "或者你被拉去帮宰杀和清洗邻居家的牲畜或者自己家的鸡，一天下来，你满脑子都是你发着腥味的肉垫和伸出手时被黏糊糊的东西粘住难的感觉。"
+    "或者你被拉去帮忙宰杀、清洗邻居家的牲口或自家的鸡，一天下来，你满脑子都是发着腥味的肉垫，想伸出爪子时，爪尖却被黏糊糊的东西粘住。"
 
 # game/script morocco samuel.rpy:625
 translate Chinese day15_samuel_raj_bathhouse_intro_52914b79:
 
     # "Then you'd slip away to the stream that ran along the property line, the banks too steep for grazing and the current too narrow and swift for a boat. Even in summers, warmed by longer days, you only dipped as much of your body in the water as you had to."
-    "之后你就会溜到那条边界分明的小溪，它的岸太陡不适合放牧，水流太在太急不适合行船。即使在炎热的夏天，白天更长水温更高，你也只能尽可能多地把要清洗的部分浸在水中。"
+    "然后你就会溜到沿着地界流过的那条小溪，岸太陡，放不了牧；水流又窄又急，行不了船。即便是在白天变长、溪水变暖的夏天，你也只把非洗不可的部分浸进水里。"
 
 # game/script morocco samuel.rpy:627
 translate Chinese day15_samuel_raj_bathhouse_intro_cf332316:
@@ -856,7 +856,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_759cd16b:
 translate Chinese day15_samuel_raj_bathhouse_intro_fdf54df5:
 
     # "Rajeeyah leads you deeper inside without further ceremony, continuing her explanation when you reach the next room."
-    "Rajeeyah没有过度在意那些礼节，带着你向更深处走去，到达下一个房间时她继续说明情况。"
+    "Rajeeyah没再多耽搁，带着你向更深处走去，到达下一个房间时她继续说明情况。"
 
 # game/script morocco samuel.rpy:643
 translate Chinese day15_samuel_raj_bathhouse_intro_5e30b3ac:
@@ -868,7 +868,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_5e30b3ac:
 translate Chinese day15_samuel_raj_bathhouse_intro_61ddf731:
 
     # p "All of them?"
-    p "所有的吗？"
+    p "全脱吗？"
 
 # game/script morocco samuel.rpy:650
 translate Chinese day15_samuel_raj_bathhouse_intro_cf117f28:
@@ -892,13 +892,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_625c991c:
 translate Chinese day15_samuel_raj_bathhouse_intro_28b9200b:
 
     # "Sam, if slightly more warily, does the same. Her loose shirt does a good job of obscuring her frame, generally, although even naked above the waist her lanky build gives her a somewhat boyish appearance."
-    "Sam也开始了，虽然脱得稍微更加谨慎。她宽松的衬衫很好地掩盖了她的身形，即使她裸着上半身，她瘦长得体形也让她看起来有些男子气概。"
+    "Sam也照做了，只是更谨慎一些。她宽松的衬衫平时很好地遮住了她的身形，而即便赤裸着上身，她瘦长的体形也让她看起来有些男孩子气。"
 
 # game/script morocco samuel.rpy:667
 translate Chinese day15_samuel_raj_bathhouse_intro_649e05a2:
 
     # "This is not true for Raj—the cheetah may be rather lean, herself, but seeing the two next to one another makes that quite obvious. And, also unlike Samuel, Rajeeyah strips down all the way. She glances between you, appraising your appearance."
-    "Raj则不然——可能这只猎豹她自己本身就很苗条，当两个人站在一起的时候区别就更明显了。并且，不像Samuel，Rajeeyah脱得一丝不挂。她扫视着你们，打量着你们的外貌。"
+    "Raj则不然——猎豹自己虽然也算精瘦，但两人站在一起，差别就很明显了。另外，和Samuel不同，Rajeeyah脱得一丝不挂。她的目光在你们俩之间扫过，打量着你们。"
 
 # game/script morocco samuel.rpy:672
 translate Chinese day15_samuel_raj_bathhouse_intro_1d53767a:
@@ -922,61 +922,61 @@ translate Chinese day15_samuel_raj_bathhouse_intro_6d2a77fd:
 translate Chinese day15_samuel_raj_bathhouse_intro_87a59cea:
 
     # "Now you're even less certain what sort of negotiations were required to gain entry into the {i}hammam{/i}, or what to expect next."
-    "现在你更加不确定接进入{i}土耳其浴池{/i}要进行何种谈判，也不知道下一步会发生什么。"
+    "现在你更搞不清进{i}浴场{/i}需要经过怎样的交涉，也不知道接下来会发生什么。"
 
 # game/script morocco samuel.rpy:689
 translate Chinese day15_samuel_raj_bathhouse_intro_10e3cdbd:
 
     # "A brown-furred assistant in rather richly colored blue robes appears. A pine marten of some kind you'd guess her to be, and by the looks of it she may have been unfortunate enough to have lost her left arm at some point."
-    "一位身着华丽的蓝色长袍毛发棕色的助浴师走了出来。你猜她可能是某种松豹，细看她也许不幸地在什么时候失去了她的左臂。"
+    "一位身穿华丽蓝色长袍、毛发棕色的助浴师走了出来。你猜她是某种松貂，看样子，她不知什么时候不幸失去了左臂。"
 
 # game/script morocco samuel.rpy:691
 translate Chinese day15_samuel_raj_bathhouse_intro_4b9e1896:
 
     # "You imagine her to be looking you over suspiciously, even before she directs a pointed question at Rajeeyah."
-    "你觉得她在怀疑地打量着你，甚至在她向Rajeeyah提出尖锐问题时就有这种感觉。"
+    "你觉得她在怀疑地打量着你，甚至在她向Rajeeyah提出尖锐问题之前就有这种感觉。"
 
 # game/script morocco samuel.rpy:693
 translate Chinese day15_samuel_raj_bathhouse_intro_fc12f529:
 
     # r "{i}Asmuha{/i} [name], {i}wahi aydan bahaaratun{/i}.{w} Go with this one."
-    r "{i}Asmuha{/i} [name], {i}wahi aydan bahaaratun{/i}.{w}这边请"
+    r "{i}Asmuha{/i} [name]，{i}wahi aydan bahaaratun{/i}。{w}跟她走吧。"
 
 # game/script morocco samuel.rpy:695
 translate Chinese day15_samuel_raj_bathhouse_intro_ba3b9c20:
 
     # "The cheetah's tone is equally forceful in both tongues, and the attendant relents, gesturing with a sweep of her arm to an adjoining room."
-    "猎豹地语调在两种语言里都一样有说服力，师者让步了，她挥手示意你去隔壁的房间。"
+    "猎豹的语气在两种语言里都一样不容分说，侍者让步了，她一挥手臂，示意你去隔壁的房间。"
 
 # game/script morocco samuel.rpy:707
 translate Chinese day15_samuel_raj_bathhouse_intro_e9731313:
 
     # "It's similarly delicate, with a stone table, and a basin with a stoppered brass faucet. The woman points at the table."
-    "这房间也同样精致，有一张石桌，一个水盆，上面有一个被塞住的黄铜水龙头。这只松豹指了指旁边的桌子。"
+    "这房间同样精致，有一张石桌，还有一个水盆，上面装着塞住的黄铜水龙头。松貂指了指那张桌子。"
 
 # game/script morocco samuel.rpy:712
 translate Chinese day15_samuel_raj_bathhouse_intro_7e6c4617:
 
     # "When you sit, she takes you by the shoulder, guiding you down to lay flat on your stomach. She speaks, but perhaps only to herself—you don't recognize any of it."
-    "当你坐下时，她轻压着你的肩膀示意你在桌上躺平。她对你说了什么，也可能是对自己说的——你一个字也听不懂。"
+    "你坐下后，她扶住你的肩膀，引着你趴到桌上。她说了些什么，也可能只是自言自语——你一个字也听不懂。"
 
 # game/script morocco samuel.rpy:714
 translate Chinese day15_samuel_raj_bathhouse_intro_e0580b4f:
 
     # "You hear the stopper being removed, and a pleasant burbling that is joined by a patter like heavy rain as the basin overflows."
-    "你听到塞子被拔掉的声音和一阵令人舒心地潺潺流水声随之而来的是水盆满时如同急雨般哗啦声。"
+    "你听到塞子被拔掉的声音和一阵令人舒心的潺潺流水声，随之而来的是水盆满时如同急雨般的哗啦声。"
 
 # game/script morocco samuel.rpy:716
 translate Chinese day15_samuel_raj_bathhouse_intro_fa06c94d:
 
     # "The attendant does not say anything further, which you take as a sign that you're doing what is expected of you."
-    "侍者没有再多说什么，这对你来说是一个很好的信号，说明她把你当成了正常的客人。"
+    "侍者没再多说什么，你就当这说明自己做得没错。"
 
 # game/script morocco samuel.rpy:723
 translate Chinese day15_samuel_raj_bathhouse_intro_bdf9ac10:
 
     # "Water, cooler than you'd expected but not unpleasantly cold, is suddenly coursing down your back. Moments later, it's followed by the touch of the marten's paw."
-    "水从你背上冲了下来，虽然比你想的还要冷，但是意外的舒服。片刻之后松豹的爪子重重地压了上来。"
+    "水突然顺着你的背冲下来，比你想的凉，但并不冷得难受。片刻之后，松貂的爪子就跟着落了下来。"
 
 # game/script morocco samuel.rpy:730
 translate Chinese day15_samuel_raj_bathhouse_intro_20dedb13:
@@ -1000,7 +1000,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_0010dd15:
 translate Chinese day15_samuel_raj_bathhouse_intro_2326be95:
 
     # "You find yourself growing used to the rough treatment, as more water is dumped upon you, alongside something grittier."
-    "逐渐的，你习惯了这粗暴的搓澡，更多谁浇在你身上，同时你也感觉到有什么东西被抹在了你背上。"
+    "你渐渐习惯了这粗暴的搓洗，更多的水浇到你身上，还夹着些更粗糙的颗粒。"
 
 # game/script morocco samuel.rpy:742
 translate Chinese day15_samuel_raj_bathhouse_intro_5bb112e5:
@@ -1030,19 +1030,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_76248a8a:
 translate Chinese day15_samuel_raj_bathhouse_intro_289caa13:
 
     # "No mercy is given though."
-    "更没有任何怜悯。"
+    "然而她毫不留情。"
 
 # game/script morocco samuel.rpy:752
 translate Chinese day15_samuel_raj_bathhouse_intro_24d3c9da:
 
     # "When the Marten is done abusing your back, she indicates for you to roll over by tugging at your side until you get the idea."
-    "松豹好好地“虐待”完你的背后，她拉着你的侧身示意你翻身。"
+    "等松貂好好“虐待”完你的背，她拽了拽你的侧身，直到你明白她是要你翻身。"
 
 # game/script morocco samuel.rpy:756
 translate Chinese day15_samuel_raj_bathhouse_intro_bf60e704:
 
     # "You heft your body around and lay there, staring up at the ceiling before you're able to relax enough to close your eyes."
-    "你抬起身体用力一翻，盯着天花板，过了一会舒服地闭上了眼睛。"
+    "你费劲地翻过身躺着，盯着天花板，过了一会儿才放松到能闭上眼睛。"
 
 # game/script morocco samuel.rpy:758
 translate Chinese day15_samuel_raj_bathhouse_intro_bbc659d5:
@@ -1060,7 +1060,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_3885398e:
 translate Chinese day15_samuel_raj_bathhouse_intro_75ccd6f4:
 
     # "Your companion is gesturing towards the next room... or what you {i}hope{/i} is a room. Steam roils through the open door, curling thickly along the ceiling as if something was aflame."
-    "你的同伴正示意你去下一个房间，或者说你这是个房间。蒸汽从敞开的门内翻涌而出，充满天花板，就像火焰在燃烧。"
+    "她正示意你去下一个房间……至少你{i}希望{/i}那是个房间。蒸汽从敞开的门里翻涌而出，沿着天花板浓浓地卷动，像是有什么东西着了火。"
 
 # game/script morocco samuel.rpy:775
 translate Chinese day15_samuel_raj_bathhouse_intro_a556293f:
@@ -1078,25 +1078,25 @@ translate Chinese day15_samuel_raj_bathhouse_intro_9ff71959:
 translate Chinese day15_samuel_raj_bathhouse_intro_aac66aae:
 
     # "The heat would feel palpable under any circumstance—the air thick enough to grab hold of and carry away like spun wool. But after the bath you've just received, it's almost shocking."
-    "热气充满了整个房间，空气浓稠得仿佛可以抓取并像纺织好的羊毛毯一样带走。即使刚刚经历了那样的擦洗，这样高的温度也让你吃惊。"
+    "无论什么时候，这股热气都能让人真切感觉到——空气浓得仿佛能一把抓住，像纺好的羊毛一样带走。可刚冲完那样一场凉水澡，这热度简直叫人吃惊。"
 
 # game/script morocco samuel.rpy:781
 translate Chinese day15_samuel_raj_bathhouse_intro_3b9607ba:
 
     # "Rajeeyah's muzzle turns in a grin at your expression."
-    "Rajeeyah的吻部转向你，对你的表情笑了笑。"
+    "看到你的表情，Rajeeyah咧嘴笑了。"
 
 # game/script morocco samuel.rpy:783
 translate Chinese day15_samuel_raj_bathhouse_intro_c94e57ac:
 
     # r "You needn't wait out there, you know."
-    r "来吧，你我们一起进去。"
+    r "你不用在外面等着。"
 
 # game/script morocco samuel.rpy:795
 translate Chinese day15_samuel_raj_bathhouse_intro_a9c94e37:
 
     # "Inside, the room is dominated by a large pool: the source of the clouds of steam. It appears to be fed by a constantly running sluice; when the water overflows, it drains to channels cut into smooth marble."
-    "里面有一个巨大的浴池，几乎占据了整个房间，蒸汽从池中缓缓冒出。热气腾腾温水不断从水闸里流入浴池；满了之后又沿着光滑的大理石水槽排出。"
+    "里面有一个巨大的浴池，几乎占据了整个房间，蒸汽从池中缓缓冒出。热气腾腾的温水不断从水闸里流入浴池；满了之后又沿着光滑的大理石水槽排出。"
 
 # game/script morocco samuel.rpy:797
 translate Chinese day15_samuel_raj_bathhouse_intro_f71b8f7b:
@@ -1108,13 +1108,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_f71b8f7b:
 translate Chinese day15_samuel_raj_bathhouse_intro_f418b902:
 
     # r "Did you enjoy yourself?"
-    r "搓澡好玩吗。"
+    r "搓澡好玩吗？"
 
 # game/script morocco samuel.rpy:803
 translate Chinese day15_samuel_raj_bathhouse_intro_dde0d4dd:
 
     # "You choose to take another bench, sitting down carefully—almost afraid to break the delicately carved seat—and feeling over your pelt before answering with a question of your own."
-    "你选择了另一张长椅上，小心翼翼地坐下，生怕弄坏了这雕刻精美的椅子。摸了摸你那被好好搓过的毛发，你问道："
+    "你挑了另一张长椅，小心翼翼地坐下，生怕弄坏这雕刻精美的座椅。你摸了摸自己的毛，然后反问了一句："
 
 # game/script morocco samuel.rpy:812
 translate Chinese day15_samuel_raj_bathhouse_intro_585baac8:
@@ -1144,13 +1144,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_31d6c65f:
 translate Chinese day15_samuel_raj_bathhouse_intro_29e136d3:
 
     # "Rajeeyah does not seem bothered—of course, she also knew what was coming. Still, the cheetah's laugh is perhaps the most animated you've seen her."
-    "Rajeeyah似乎并不觉得这得搓澡服务用力过猛，她肯定早有预料。不过，猎豹那笑声是我认识她以来最活泼的一次。"
+    "Rajeeyah似乎并不在意——当然，她早就知道会怎样。不过，猎豹这会儿的笑声大概是你见过她最活泼的一次。"
 
 # game/script morocco samuel.rpy:829
 translate Chinese day15_samuel_raj_bathhouse_intro_900599d5:
 
     # r "What did you expect? How else do you get your fur clean? You do the same to the {i}Conway{/i}'s deck, don't you?"
-    r "要不然呢？不然怎么把你们得毛洗干净，就像对待 {i}Conway{/i}甲板一样。"
+    r "不然你还指望怎样？不这样，怎么把毛洗干净？你们擦{i}Conway{/i}号的甲板不也是这样吗？"
 
 # game/script morocco samuel.rpy:831
 translate Chinese day15_samuel_raj_bathhouse_intro_97cf8223:
@@ -1162,7 +1162,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_97cf8223:
 translate Chinese day15_samuel_raj_bathhouse_intro_22c03401:
 
     # r "I expect so, or something else ground finely. It's good for getting ones fur truly clean. The steam is good for us, too."
-    r "我想是，或是其他磨得很细的东西。这都是清洗干净毛发所必需的。这些蒸汽也对我们有好处。"
+    r "我想是吧，或者别的什么磨得很细的东西。用来把毛彻底洗干净很管用。蒸汽对我们也有好处。"
 
 # game/script morocco samuel.rpy:837
 translate Chinese day15_samuel_raj_bathhouse_intro_a563a8e9:
@@ -1186,13 +1186,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_6c97de8c:
 translate Chinese day15_samuel_raj_bathhouse_intro_10408a57:
 
     # s "I suppose I do feel cleaner. You feel cleaner, [name]?"
-    s "我感觉我的身心都被净化了，你觉得呢, [name]?"
+    s "我倒是觉得干净多了。你呢，[name]，觉得干净点了吗？"
 
 # game/script morocco samuel.rpy:847
 translate Chinese day15_samuel_raj_bathhouse_intro_05235a7f:
 
     # p "You didn't know my fur was supposed to be white, huh?"
-    p "是啊，我都不知道我的猫原来是白色的。"
+    p "是啊，我都不知道我的毛原来是白色的。"
 
 # game/script morocco samuel.rpy:851
 translate Chinese day15_samuel_raj_bathhouse_intro_59d00568:
@@ -1204,13 +1204,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_59d00568:
 translate Chinese day15_samuel_raj_bathhouse_intro_80a19323:
 
     # s "We smell nice, too. That won't last for long, and a shame that is... are they going to come back and abuse us some more, Raj?"
-    s "我们也闻起来很像呢。真可惜香味持续不了太久...她们还会再来“特殊照顾”一下我们吗，Raj？"
+    s "我们闻着也挺香。可惜香不了多久……她们还会回来再“虐待”我们一回吗，Raj？"
 
 # game/script morocco samuel.rpy:857
 translate Chinese day15_samuel_raj_bathhouse_intro_75e430e2:
 
     # r "You have to do that yourself."
-    r "那你得自己去请她们了。"
+    r "接下来得你们自己动手了。"
 
 # game/script morocco samuel.rpy:859
 translate Chinese day15_samuel_raj_bathhouse_intro_6543a23a:
@@ -1234,7 +1234,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_8a6ed59f:
 translate Chinese day15_samuel_raj_bathhouse_intro_023dc344:
 
     # "She slides into the water, so smoothly that it barely seems disturbed by her entry. Rajeeyah closes her eyes again, tilting her head back as steam rises around her."
-    "她优雅地滑入水中，没有泛起一点涟漪。Rajeeyah再次闭上了双眼，后仰则头，感受着水汽在她周围蒸腾。"
+    "她优雅地滑入水中，没有泛起一点涟漪。Rajeeyah再次闭上了双眼，后仰着头，感受着水汽在她周围蒸腾。"
 
 # game/script morocco samuel.rpy:881
 translate Chinese day15_samuel_raj_bathhouse_intro_d681bb5d:
@@ -1258,7 +1258,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_e555f7de:
 translate Chinese day15_samuel_raj_bathhouse_intro_75949757:
 
     # s "You were here first..."
-    s "时你先来的..."
+    s "是你先来的……"
 
 # game/script morocco samuel.rpy:891
 translate Chinese day15_samuel_raj_bathhouse_intro_929b74c2:
@@ -1270,7 +1270,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_929b74c2:
 translate Chinese day15_samuel_raj_bathhouse_intro_e46bf5e3:
 
     # "You give her a little push. It's not until the maned wolf has risen to her feet that you realize it's the first time you've felt the long fur of her back. Even damp, it's plush and yielding."
-    "你轻轻推了她一下。知道她站起来你才第一次感觉到鬃狼背上长长的毛发。即使很湿，也依然蓬松柔软。"
+    "你轻轻推了她一下。直到鬃狼站起身，你才意识到这是你第一次摸到她背上的长毛。即使湿了，也依然蓬松柔软。"
 
 # game/script morocco samuel.rpy:897
 translate Chinese day15_samuel_raj_bathhouse_intro_134d491f:
@@ -1288,7 +1288,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_076e3789:
 translate Chinese day15_samuel_raj_bathhouse_intro_a04f6f5d:
 
     # s "You've been sittin' on this bench longer, [name]"
-    s "你已经在这长凳上坐了很久了。"
+    s "你在这长凳上坐得更久，[name]。"
 
 # game/script morocco samuel.rpy:905
 translate Chinese day15_samuel_raj_bathhouse_intro_4d934a34:
@@ -1306,7 +1306,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_1006bc9f:
 translate Chinese day15_samuel_raj_bathhouse_intro_ab47f677:
 
     # "She makes her way to the edge of the pool, dipping one paw in and drawing it back with a hiss."
-    "她走到浴池边，伸一只爪子到水中，有嘶嘶地缩了回来。"
+    "她走到浴池边，把一只爪子伸进水里，又嘶的一声缩了回来。"
 
 # game/script morocco samuel.rpy:923
 translate Chinese day15_samuel_raj_bathhouse_intro_1cb4df50:
@@ -1318,7 +1318,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_1cb4df50:
 translate Chinese day15_samuel_raj_bathhouse_intro_a155598f:
 
     # r "Well, now you're never going to get [name] in here."
-    r "唉，你在这样就别想把[name]弄进来了。"
+    r "唉，你再这样，就别想把[name]弄进来了。"
 
 # game/script morocco samuel.rpy:930
 translate Chinese day15_samuel_raj_bathhouse_intro_93e3ea24:
@@ -1330,13 +1330,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_93e3ea24:
 translate Chinese day15_samuel_raj_bathhouse_intro_5c86d618:
 
     # "Sam steels herself, and then slides into the water. It accepts her lanky form with more fuss than Rajeeyah's, sending water sluicing out and over the rim. Her ears have perked straight up, and her long muzzle hangs open."
-    "Sam鼓起勇气滑入到水中。Sam入水时的动静比Rajeeyah大得多，水一下子就漫过池边，哗啦地流了出去。她的耳朵竖了起来，鼻孔开得大大地。"
+    "Sam鼓起勇气，滑进水里。她瘦长的身子入水时动静比Rajeeyah大得多，水一下子漫过池边哗哗流了出去。她的耳朵竖得笔直，长长的嘴巴张着。"
 
 # game/script morocco samuel.rpy:940
 translate Chinese day15_samuel_raj_bathhouse_intro_2b5a8cc5:
 
     # s "You've done this before?"
-    s "你之前也经常这样洗澡吗。"
+    s "你以前泡过这个？"
 
 # game/script morocco samuel.rpy:944
 translate Chinese day15_samuel_raj_bathhouse_intro_d6279ec8:
@@ -1360,13 +1360,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_9a74a67f:
 translate Chinese day15_samuel_raj_bathhouse_intro_63f30e89:
 
     # "The longer you put this off, the more you're going to have to deal with Sam's teasing when you're back aboard the {i}Conway{/i}."
-    "这件事你拖得越久，在{i}Conway{/i}越是要忍受Sam得揶揄"
+    "这件事你拖得越久，回到{i}Conway{/i}号上就越要忍受Sam的揶揄。"
 
 # game/script morocco samuel.rpy:956
 translate Chinese day15_samuel_raj_bathhouse_intro_13956aa1:
 
     # "Consciously, you decide that you want to make your entrance more like Rajeeyah than Sam. After all, feline grace has a reputation to uphold."
-    "深思熟虑后，你决定决定你要像Rajeeyah一样优雅地入水，至少要比Sam做得好。毕竟，猫科的优雅可不能丢。"
+    "你有意让自己入水的样子更像Rajeeyah，而不是Sam。毕竟，猫科的优雅可不能丢。"
 
 # game/script morocco samuel.rpy:964
 translate Chinese day15_samuel_raj_bathhouse_intro_363a0ac1:
@@ -1378,13 +1378,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_363a0ac1:
 translate Chinese day15_samuel_raj_bathhouse_intro_7e19826a:
 
     # "And immediately learn how Bandile's stew must feel!"
-    "嘶，你马上意识到这汤有多烫。快成麻辣烫了。"
+    "嘶——你立刻体会到了Bandile那锅炖菜的感受！"
 
 # game/script morocco samuel.rpy:969
 translate Chinese day15_samuel_raj_bathhouse_intro_c48ae0aa:
 
     # "The amount of steam should've been your first clue. Rajeeyah's uncharacteristically toothy grin should've been your second. Sam's reaction should've been your third. But now here you are, trying to keep your composure while you gradually cook."
-    "看起来寥寥无几的蒸汽，Rajeeyah异常享受的笑容以及Sam的反应都让你觉得这水不烫。但事实是你要在慢慢被煮熟的过程中还要强装镇定。"
+    "那么多蒸汽本该是第一个提示，Rajeeyah罕见的咧嘴笑是第二个，Sam的反应是第三个。可现在，你只能一边慢慢被煮熟，一边强装镇定。"
 
 # game/script morocco samuel.rpy:971
 translate Chinese day15_samuel_raj_bathhouse_intro_c807e878:
@@ -1420,19 +1420,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_68fc43eb:
 translate Chinese day15_samuel_raj_bathhouse_intro_879bc10c:
 
     # "Astonishingly, she turns out to be right. The initial discomfort gives way to a curious lassitude, as though the steam is drawing more than air from you when you exhale."
-    "她说对了，这种感觉让我很吃惊。一开始的不适感慢慢消退，取而代之的是一种奇特的慵懒感，就像你每一次呼吸，这里的水汽都会带走你体内积压已久的毒素。"
+    "没想到她说对了。一开始的不适慢慢退去，取而代之的是一种奇特的慵懒，仿佛你每呼一口气，水汽带走的都不只是空气。"
 
 # game/script morocco samuel.rpy:989
 translate Chinese day15_samuel_raj_bathhouse_intro_b17b711a:
 
     # r "You can find these in Rome, and Athens... as far east as Istanbul. But we perfected them here. The cool water and the scrub is just for cleaning."
-    r "你在罗马，雅典...甚至更东边的伊斯坦布尔都找不到这么完美的浴场。凉水和擦洗仅仅是为了清洁。"
+    r "这种浴场在罗马、雅典……往东一直到伊斯坦布尔都有。但我们这里做得最好。凉水和搓洗只是为了清洁。"
 
 # game/script morocco samuel.rpy:993
 translate Chinese day15_samuel_raj_bathhouse_intro_54aca645:
 
     # r "The oils, though... it takes the heat to activate them, and to allow your body to draw them in."
-    r "而那些油需要热量来激发它门，让身体吸收。"
+    r "不过那些油……得靠热气激发，身体才能吸收。"
 
 # game/script morocco samuel.rpy:995
 translate Chinese day15_samuel_raj_bathhouse_intro_3368126d:
@@ -1444,13 +1444,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_3368126d:
 translate Chinese day15_samuel_raj_bathhouse_intro_58092096:
 
     # "The maned wolf has splayed her ears, and her long arms are spread out to either side along the edge of the bath. Hearing her name, one of those ears flicks gently, and she gives a slow nod."
-    "鬃狼张开她的耳朵，修长的手臂沿着浴池的边缘伸展开来。听到了她的名字，她轻轻地抖了抖耳朵，缓缓地点了点头。"
+    "鬃狼的耳朵松松地向两边摊开，修长的手臂沿着池边向两侧伸展。听到自己的名字，她的一只耳朵轻轻一抖，缓缓点了点头。"
 
 # game/script morocco samuel.rpy:999
 translate Chinese day15_samuel_raj_bathhouse_intro_d236202b:
 
     # s "Now that you make it sound so medical and all that... do think it be what I came here for, aye..."
-    s "现在听你说这个浴池的药用价值这么大...这确实是我来这里的目的，嗯......"
+    s "现在听你说这个浴池的药用价值这么大……这确实是我来这里的目的，嗯……"
 
 # game/script morocco samuel.rpy:1001
 translate Chinese day15_samuel_raj_bathhouse_intro_8d15e612:
@@ -1468,19 +1468,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_a1ccece9:
 translate Chinese day15_samuel_raj_bathhouse_intro_27eb0118:
 
     # r "For more... well-bred women, it can be the center of social life. You might spend hours here, away from the pressures of home and hearth."
-    r "对于更...有教养的女性来说，这里可是社交的大好场所。你会在这待上几个小时，远离来自家庭和琐事的烦恼。"
+    r "对于更……有教养的女性来说，这里可是社交的大好场所。你会在这待上几个小时，远离来自家庭和琐事的烦恼。"
 
 # game/script morocco samuel.rpy:1009
 translate Chinese day15_samuel_raj_bathhouse_intro_e0abb3c3:
 
     # r "Not in {i}this{/i} pool, though, obviously."
-    r "不过不是在{i}这个{/i}浴池里。"
+    r "不过显然不是在{i}这个{/i}浴池里。"
 
 # game/script morocco samuel.rpy:1011
 translate Chinese day15_samuel_raj_bathhouse_intro_3060e0cb:
 
     # p "Obviously?"
-    p "不是吗？"
+    p "显然？"
 
 # game/script morocco samuel.rpy:1013
 translate Chinese day15_samuel_raj_bathhouse_intro_216c7794:
@@ -1498,7 +1498,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_355b725a:
 translate Chinese day15_samuel_raj_bathhouse_intro_2d32966d:
 
     # s "What does 'too long' mean, woman?"
-    s "“太久”是什么意思，女士"
+    s "“太久”是多久啊，女士？"
 
 # game/script morocco samuel.rpy:1024
 translate Chinese day15_samuel_raj_bathhouse_intro_12021497:
@@ -1522,13 +1522,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_3ea186d8:
 translate Chinese day15_samuel_raj_bathhouse_intro_f5588f79:
 
     # p "I mean, I suppose so. Although, now that you mention it. Are you..."
-    p "我是说，我认为是。不过，既然你这么说了。你是不是..."
+    p "我是说，我认为是。不过，既然你这么说了。你是不是……"
 
 # game/script morocco samuel.rpy:1039
 translate Chinese day15_samuel_raj_bathhouse_intro_26575cfb:
 
     # p "Is she looking a bit {i}redder{/i} than usual to you, doctor?"
-    p "觉得她看起来比平时{i}redder{/i}了？"
+    p "医生，你不觉得她看起来比平时{i}红{/i}了点吗？"
 
 # game/script morocco samuel.rpy:1041
 translate Chinese day15_samuel_raj_bathhouse_intro_a0ce262e:
@@ -1576,13 +1576,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_11ff5a2e:
 translate Chinese day15_samuel_raj_bathhouse_intro_7fb4d07e:
 
     # r "She's ready. Help me, would you, [name]?"
-    r "她有点泡过头了，帮我一下好吗，[name]?"
+    r "她泡好了。帮我一下好吗，[name]？"
 
 # game/script morocco samuel.rpy:1074
 translate Chinese day15_samuel_raj_bathhouse_intro_08d85266:
 
     # "Having interrupted Samuel's indignant protest, she pushes herself easily from the pool, water coursing over her sleek pelt. You do the same, and when Raj takes Samuel's right arm, you grab her left."
-    "打断了Samuel愤愤不平的抗议，她轻易地将自己从浴池中拉了起来，水流淌过她光滑的毛发。你也起身，和Raj一左一右拉住了她地手臂。"
+    "打断了Samuel愤愤的抗议后，她轻松地撑出浴池，水顺着她光滑的毛流下。你也跟着出来，Raj拉住Samuel的右臂，你拉住她的左臂。"
 
 # game/script morocco samuel.rpy:1079
 translate Chinese day15_samuel_raj_bathhouse_intro_2aa3283c:
@@ -1594,19 +1594,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_2aa3283c:
 translate Chinese day15_samuel_raj_bathhouse_intro_488cb990:
 
     # s "Can still do it myself, I can.{w} 'Certain types of shellfish'..."
-    s "我还可以，我没事。就像{w} '某种甲壳类动物一样'..."
+    s "我自己能行，真的。{w}“某种甲壳类动物”……"
 
 # game/script morocco samuel.rpy:1083
 translate Chinese day15_samuel_raj_bathhouse_intro_f32f9892:
 
     # s "Didn't know you two'd be so difficult together..."
-    s "没想到把你们两个凑在一块会这么难。"
+    s "没想到你们俩凑一块儿这么难缠……"
 
 # game/script morocco samuel.rpy:1089
 translate Chinese day15_samuel_raj_bathhouse_intro_8838aae8:
 
     # p "Well, she knows this better than we do, Sam. Besides, she'd have to explain to Arthur how two of his sailors got cooked."
-    p "呃，Sam，她比我们更懂这个。而且她得向Arthur解释她的两个水手是怎么被煮熟的。"
+    p "呃，Sam，她比我们更懂这个。而且她还得向Arthur解释，他的两个水手是怎么被煮熟的。"
 
 # game/script morocco samuel.rpy:1093
 translate Chinese day15_samuel_raj_bathhouse_intro_13b1c8a3:
@@ -1618,19 +1618,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_13b1c8a3:
 translate Chinese day15_samuel_raj_bathhouse_intro_1c4323b0:
 
     # "Mollified, the maned wolf relaxes again. It's not more than another minute or so before Rajeeyah takes a deep breath and gets out of the pool, offering Samuel one of her paws to take."
-    "被这么安慰后，鬃狼有放松下来。还没有过一分钟，Rajeeyah深吸一口气，从浴池里出来，向Samuel伸出了爪子。"
+    "被这么一劝，鬃狼又放松下来。还没过一分钟，Rajeeyah就深吸一口气，从浴池里出来，向Samuel伸出一只爪子。"
 
 # game/script morocco samuel.rpy:1099
 translate Chinese day15_samuel_raj_bathhouse_intro_ea949a70:
 
     # r "You have spent enough time here, by now.{w} Both of you."
-    r "现在，你们两个已经在这待得够久的了。"
+    r "你在这儿待得够久了。{w}你们俩都是。"
 
 # game/script morocco samuel.rpy:1101
 translate Chinese day15_samuel_raj_bathhouse_intro_2aab80e0:
 
     # "You look down on yourself to see if you spot any redness on yourself."
-    "你低头看看自己的身体是否也被“煮”红温了。"
+    "你低头看看自己的身体是否也被“煮”红了。"
 
 # game/script morocco samuel.rpy:1110
 translate Chinese day15_samuel_raj_bathhouse_intro_88c755b6:
@@ -1672,7 +1672,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_562f3882:
 translate Chinese day15_samuel_raj_bathhouse_intro_f95969e3:
 
     # "Next to you, you hear the same from Samuel.{w} And, a few seconds later, the regular rattle of water being cast off from her wagging tail."
-    "Samuel就在你旁边也倒吸一口气。{w}几秒钟后，身边又传来她摇尾巴拍打水面发出的啪嗒声。"
+    "Samuel就在你旁边，也倒吸了一口气。{w}几秒钟后，又传来她摇着尾巴甩水的啪嗒声。"
 
 # game/script morocco samuel.rpy:1152
 translate Chinese day15_samuel_raj_bathhouse_intro_a29aaf08:
@@ -1684,61 +1684,61 @@ translate Chinese day15_samuel_raj_bathhouse_intro_a29aaf08:
 translate Chinese day15_samuel_raj_bathhouse_intro_c702d8d7:
 
     # "Geometric patterns work their way up the wall, tracing the edges of the doorframes and calling attention to the ornate wood."
-    "充满活力的几何图案一直延申到墙壁，勾勒出门框的形状，凸显出华丽的木材。"
+    "几何图案一直延伸到墙上，勾勒出门框的轮廓，衬托出华美的木料。"
 
 # game/script morocco samuel.rpy:1156
 translate Chinese day15_samuel_raj_bathhouse_intro_58e3d52f:
 
     # "Mogador lacks for the towering forests of your own homeland: the door itself is an act of pure ostentatiousness."
-    "Mogador并不像你家乡一样处处都有高耸入云的树林。而眼前优雅的木门就足够凸显这浴场的奢华。"
+    "莫加多尔并不像你家乡一样处处都有高耸入云的树林。而眼前优雅的木门就足够凸显这浴场的奢华。"
 
 # game/script morocco samuel.rpy:1161
 translate Chinese day15_samuel_raj_bathhouse_intro_476393c6:
 
     # "But crossing through it would mean leaving, and so your eyes slide from the door to the tall columns, inlaid with blue stones fine as gems."
-    "穿过那扇们，你的眼睛不由自主地被高大柱子上那如蓝宝石般精细美丽的石头吸引了。"
+    "但穿过那扇门就意味着离开，于是你的目光从门上移到高大的柱子上，柱身镶嵌着宝石般精细的蓝色石头。"
 
 # game/script morocco samuel.rpy:1163
 translate Chinese day15_samuel_raj_bathhouse_intro_49e12962:
 
     # "Shafts of light pierce through the open hall, glittering on the rippling pool. As the day wanes, the brilliant sky above will darken to the same color as the tile."
-    "一束束光从露天的屋顶上散落下来，在波光粼粼的水池上煜煜生辉。日薄西山之时天空也成了那华丽瓷砖的颜色。"
+    "一束束光从露天的屋顶上散落下来，在波光粼粼的水池上熠熠生辉。等到日暮，天空也会变成那华丽瓷砖的颜色。"
 
 # game/script morocco samuel.rpy:1165
 translate Chinese day15_samuel_raj_bathhouse_intro_0e496fbe:
 
     # "An artist's {i}intent{/i} assembled this chamber. It feels as though it warrants a throne—as though you don't truly belong."
-    "一位艺术家构筑了这个浴场。它是如此的冠冕堂皇，以至于你仿佛不属于这个地方。"
+    "这间屋子是照着艺术家的{i}构想{/i}建起来的。这里仿佛该摆一张王座——仿佛你并不属于这里。"
 
 # game/script morocco samuel.rpy:1167
 translate Chinese day15_samuel_raj_bathhouse_intro_5369da80:
 
     # "But Rajeeyah has set her towel aside, and sits on the edge of the bath, her legs swaying in the sunlit water. This side of the pool is deep enough to sit neck-deep in. The far side has a shelf cut in it; reclining, the water would barely lap at your sides."
-    "但Rajeeyah已经把她的毛巾放在一边，舒服地坐在浴池的边缘，她的腿在波光粼粼的水中来回摇摆。这边的池水足以没过你的肩膀。另一测得浴池边则凿有一个台子，若是侧身依靠，水刚刚好可以轻拍你的身体。"
+    "但Rajeeyah已经把毛巾放到一边，坐在池边，双腿在阳光照耀的水里来回晃。这一侧的池水深得能没到脖子。另一侧凿出了一层台子，半躺在上面，水刚好轻拍你的身侧。"
 
 # game/script morocco samuel.rpy:1172
 translate Chinese day15_samuel_raj_bathhouse_intro_067044e3:
 
     # "You and Samuel both take Rajeeyah's side, and sit as the cheetah does."
-    "你和Samuel在Rajeeyah得身边有样学样地坐了下来。"
+    "你和Samuel在Rajeeyah的身边有样学样地坐了下来。"
 
 # game/script morocco samuel.rpy:1182
 translate Chinese day15_samuel_raj_bathhouse_intro_e900b101:
 
     # "This is not the refreshing bite of the basin when you were being bathed, or the teakettle of the previous room. It has the subtle warmth of a lazy summer afternoon, turned liquid and soothing."
-    "这里的池水不像你冲澡时那样冰冷刺骨，也不像刚才那间的池水犹如茶汤。这很微妙，就像一个慵懒的夏日午后融进了这潭水，舒缓着我们的心灵。"
+    "这既不像冲澡时水盆里那股清爽的凉意，也不像上一个房间那样烫得像水壶。它像是把慵懒夏日午后那种淡淡的暖意化作了一池水，抚慰着你。"
 
 # game/script morocco samuel.rpy:1184
 translate Chinese day15_samuel_raj_bathhouse_intro_049d6cc1:
 
     # p "{i}This{/i} is where you'd spend hours, then?"
-    p "那么，你愿意在{i}这里{/i} 里泡上几个小时吗？"
+    p "所以，你说会泡上几个小时的就是{i}这里{/i}？"
 
 # game/script morocco samuel.rpy:1188
 translate Chinese day15_samuel_raj_bathhouse_intro_48d72bce:
 
     # r "Indeed. Its own version of a town square."
-    r "你说对了。这就像某种城镇广场。"
+    r "没错。算是这里的城镇广场。"
 
 # game/script morocco samuel.rpy:1192
 translate Chinese day15_samuel_raj_bathhouse_intro_7c51a542:
@@ -1750,13 +1750,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_7c51a542:
 translate Chinese day15_samuel_raj_bathhouse_intro_55cd1266:
 
     # "When she trails off, there is, indeed, only the gentle lapping of the water, occasionally rising over the lip to drain away. After a moment, Raj pulls her legs free and stands, holding up a paw to stop you when you start to do the same."
-    "当她话音渐落时，只剩下水波轻柔的拍打声，偶尔漫过池边流走。过了一会，Raj把她的腿从水中抽出并站了起来。当你也要起身离开时，她举起一直爪示意你停下。"
+    "当她话音渐落时，只剩下水波轻柔的拍打声，偶尔漫过池边流走。过了一会儿，Raj把腿从水中抽出，站了起来。你也要起身时，她举起一只爪子示意你别动。"
 
 # game/script morocco samuel.rpy:1203
 translate Chinese day15_samuel_raj_bathhouse_intro_52fa0532:
 
     # "She goes to the far wall, which has another, smaller door cut in it. This one slides away; a shadow briefly falls from the chamber beyond, and you hear murmured conversation."
-    "她向远处的一面墙走去，那里嵌着另一扇更小的门。这扇门缓缓滑开了；前面阴暗的房间迅速地被照亮，你能听到有人在里面低声交谈。"
+    "她走到远处的墙边，那里开着另一扇更小的门。这扇门是推拉的；门一拉开，里面的房间投出一道短暂的阴影，你听到有人在低声交谈。"
 
 # game/script morocco samuel.rpy:1207
 translate Chinese day15_samuel_raj_bathhouse_intro_828233bd:
@@ -1786,19 +1786,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_097caa9a:
 translate Chinese day15_samuel_raj_bathhouse_intro_822190ae:
 
     # r "{i}Tamrati{/i}, [name]. Dates. The {i}tamar al-majul{/i} was also perfected here, as the {i}hammam{/i} was."
-    r "这是{i}椰枣{/i},[name]。一种枣子。这的{i}椰枣{/i}和{i}土耳其浴{/i}都近乎完美。"
+    r "{i}Tamrati{/i}，[name]。椰枣。{i}tamar al-majul{/i}也和{i}浴场{/i}一样，是在这里做到极致的。"
 
 # game/script morocco samuel.rpy:1227
 translate Chinese day15_samuel_raj_bathhouse_intro_5b72f8f8:
 
     # "Samuel takes the cup she offers her, sniffs it, and takes a drink. From the way her shoulders relax, and her ears splay, you're surprised when your own nose detects no scent at all. It's just water..."
-    "Samuel接过她递过来的杯子，闻了闻，然后喝了一口。看着她放松的肩膀和舒展的耳朵，你很惊讶因为你闻不到任何气味。这只是水而已。"
+    "Samuel接过她递来的杯子，闻了闻，喝了一口。看她肩膀放松、耳朵摊开的样子，你本以为会闻到什么，结果什么气味也没闻到，有些意外。只是水而已……"
 
 # game/script morocco samuel.rpy:1229
 translate Chinese day15_samuel_raj_bathhouse_intro_e7e2cc29:
 
     # "When it hits your tongue, though, you decide the cold, crisp water might be the best thing you've ever tasted. You are immediately revivified, and the chill keeps you from drinking it too quickly. It has to be sipped, the way you imagine noblemen take their wine."
-    "可当水触碰到你的舌头时，你觉得这冰凉可口的水是你喝过最美妙的东西。你立刻感到精神焕发但这透心凉的水让你没法喝太快。必须小口啜饮，就像想象中贵族们品酒那样。"
+    "可当水触碰到你的舌头时，你觉得这冰凉可口的水是你喝过最美妙的东西。你立刻感到精神焕发，但这透心凉的水让你没法喝太快。必须小口啜饮，就像想象中贵族们品酒那样。"
 
 # game/script morocco samuel.rpy:1233
 translate Chinese day15_samuel_raj_bathhouse_intro_9abf81c0:
@@ -1840,7 +1840,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_75112dbe:
 translate Chinese day15_samuel_raj_bathhouse_intro_d1563b44:
 
     # s "I don't steal it from you. I win my tipple at dice, like a good sailor.{w} After {i}they{/i} steal it from you."
-    s "我又没有直接从你那偷酒。我可是像个好水手一样用投色子赢得我的酒的。{w}在{i}他们{/i}从你那儿偷走之后。"
+    s "我又没从你那儿偷。我是像个好水手一样掷骰子赢来的。{w}在{i}他们{/i}从你那儿偷走之后。"
 
 # game/script morocco samuel.rpy:1254
 translate Chinese day15_samuel_raj_bathhouse_intro_00f847fb:
@@ -1864,7 +1864,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_5f815775:
 translate Chinese day15_samuel_raj_bathhouse_intro_2faeea4e:
 
     # s "Raj said it's like the town square. What do... how'd you say it? What do well-bred ladies like [name] an' me talk about?"
-    s "Raj说这就像城镇广场。那...你会怎么评价。我是说像[name]和我一样有教养的淑女会说些什么。"
+    s "Raj说这就像城镇广场。那……你怎么说来着？像[name]和我这样有教养的淑女，都聊些什么？"
 
 # game/script morocco samuel.rpy:1266
 translate Chinese day15_samuel_raj_bathhouse_intro_8cecefcb:
@@ -1888,13 +1888,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_15debd53:
 translate Chinese day15_samuel_raj_bathhouse_intro_0e9b5000:
 
     # "As before, when the cheetah is compelled to talk about her past, there's always a faint tinge of melancholy. You realize that Sam isn't the only one who really wanted the experience of a bathhouse..."
-    "和之前一样，当被迫谈及这只猎豹的过去室，她总是带着淡淡的悲伤。你意识到，Sam不是唯一一个真正渴望体验澡堂的兽..."
+    "和以前一样，每当被逼着谈起过去，猎豹总带着一丝淡淡的忧伤。你意识到，真正想体验澡堂的兽不只Sam一个……"
 
 # game/script morocco samuel.rpy:1278
 translate Chinese day15_samuel_raj_bathhouse_intro_fcf7c18e:
 
     # "Or who took the opportunity of being in a new town to experience it."
-    "或者说，不是唯一一个利用来到新城镇的机会去体验它的人。"
+    "或者说，想趁着初到新城镇体验一番的，也不只Sam一个。"
 
 # game/script morocco samuel.rpy:1284
 translate Chinese day15_samuel_raj_bathhouse_intro_00d0ffbe:
@@ -1912,7 +1912,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_11375a49:
 translate Chinese day15_samuel_raj_bathhouse_intro_194f966d:
 
     # s "Thought you were, like, silk merchants or somesuch? That sounds pretty well-bred."
-    s "我以为你们家是想丝绸商人或者类似的一听就很有教养的那种。"
+    s "我还以为你们家是丝绸商人什么的？听着就挺有教养的。"
 
 # game/script morocco samuel.rpy:1294
 translate Chinese day15_samuel_raj_bathhouse_intro_ba50df9d:
@@ -1924,7 +1924,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_ba50df9d:
 translate Chinese day15_samuel_raj_bathhouse_intro_f16fd035:
 
     # "The cheetah clearly does not seem interested in continuing the conversation, although—given how freely Sam brought the topic up—you have to wonder if it's not the maned wolf's presence she's bothered by."
-    "猎豹显然对接下来的对话不感兴趣，不过考虑到Sam如此随意地提出这个话题，你不禁怀疑是鬃狼在场而让她感到困扰。"
+    "猎豹显然不想再聊下去了。不过，既然Sam能这么随意地提起这个话题，你不禁怀疑，让她不自在的，或许并不是鬃狼。"
 
 # game/script morocco samuel.rpy:1300
 translate Chinese day15_samuel_raj_bathhouse_intro_cd32308f:
@@ -1936,7 +1936,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_cd32308f:
 translate Chinese day15_samuel_raj_bathhouse_intro_161b8f2e:
 
     # r "But what they'd do is gossip, mostly. Who's been getting into what kind of trouble... whose husband had a windfall he's concealing from the taxman..."
-    r "但是她们主要是闲聊。谁惹上了什么麻烦......谁的丈夫发了横财瞒着税官......"
+    r "但是她们主要是闲聊。谁惹上了什么麻烦……谁的丈夫发了横财瞒着税官……"
 
 # game/script morocco samuel.rpy:1304
 translate Chinese day15_samuel_raj_bathhouse_intro_f7fc4598:
@@ -1954,37 +1954,37 @@ translate Chinese day15_samuel_raj_bathhouse_intro_6690795c:
 translate Chinese day15_samuel_raj_bathhouse_intro_23d68c21:
 
     # r "Some of that, yes. But also: how best to size up a bride for your son than to see what the town has on offer?"
-    r "有一部分是。但也有在镇子上到处打听你儿子的最佳新娘这样的。"
+    r "有一些吧。不过还有：想给儿子挑新娘，还有什么比看看镇上都有哪些姑娘更好的办法？"
 
 # game/script morocco samuel.rpy:1310
 translate Chinese day15_samuel_raj_bathhouse_intro_2692b54f:
 
     # r "I'm glad I left that part behind."
-    r "我很庆幸我没遇到这样的人。"
+    r "我很庆幸自己把那些都抛在身后了。"
 
 # game/script morocco samuel.rpy:1314
 translate Chinese day15_samuel_raj_bathhouse_intro_c934e2eb:
 
     # s "My mum and her friends, too. Come time we was preserving things, or mending the clothing and all, sitting in a circle after church... be yapping like a pack of seagulls, they do."
-    s "我妈妈和她的朋友也是这样。每当我们腌制东西，缝补衣服或者做完礼拜之后。她们就会围坐一圈，叽叽喳喳得像一群鸟一样。"
+    s "我妈和她那帮朋友也这样。每到腌东西、缝补衣服的时候，或者做完礼拜围坐一圈……就像一群海鸥似的叽叽喳喳个没完。"
 
 # game/script morocco samuel.rpy:1316
 translate Chinese day15_samuel_raj_bathhouse_intro_5c2ab4cd:
 
     # r "I imagine you don't miss that, either."
-    r "我猜你不喜欢那些。"
+    r "我猜你也不怀念那些吧。"
 
 # game/script morocco samuel.rpy:1320
 translate Chinese day15_samuel_raj_bathhouse_intro_b7925063:
 
     # s "Hell, no. And they wouldn't understand, neither. The salt in me fur... sight and sound of a new harbor."
-    s "我当然不喜欢。而且她们也不会理解的。我毛发里咸咸的气息...一个未知港口的新鲜事物。"
+    s "见鬼，当然不。她们也不会懂的。我毛里的盐味……新港口的景象和声音。"
 
 # game/script morocco samuel.rpy:1322
 translate Chinese day15_samuel_raj_bathhouse_intro_61d510d7:
 
     # s "Hoarding those fools like..."
-    s "和这些傻瓜聚在一起就像..."
+    s "要管住那帮傻瓜，就跟……"
 
 # game/script morocco samuel.rpy:1324
 translate Chinese day15_samuel_raj_bathhouse_intro_54221a24:
@@ -1996,13 +1996,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_54221a24:
 translate Chinese day15_samuel_raj_bathhouse_intro_9379ec47:
 
     # s "Like the cats they are!"
-    s "就像猫那样！"
+    s "就跟赶猫一样！"
 
 # game/script morocco samuel.rpy:1328
 translate Chinese day15_samuel_raj_bathhouse_intro_abc8aa14:
 
     # p "We're not that bad."
-    p "我们猫没有那么糟。"
+    p "我们猫没那么难管。"
 
 # game/script morocco samuel.rpy:1332
 translate Chinese day15_samuel_raj_bathhouse_intro_8f5dfab5:
@@ -2014,7 +2014,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_8f5dfab5:
 translate Chinese day15_samuel_raj_bathhouse_intro_810ef6cc:
 
     # s "This is the life, though."
-    s "不过，生活就是这样啊。"
+    s "不过，这才叫生活啊。"
 
 # game/script morocco samuel.rpy:1341
 translate Chinese day15_samuel_raj_bathhouse_intro_5d791723:
@@ -2026,7 +2026,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_5d791723:
 translate Chinese day15_samuel_raj_bathhouse_intro_5491841a:
 
     # s "This the life, [name]?"
-    s "这就是生活吗,[name]？"
+    s "这才叫生活吧，[name]？"
 
 # game/script morocco samuel.rpy:1345
 translate Chinese day15_samuel_raj_bathhouse_intro_b8ba5209:
@@ -2038,19 +2038,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_b8ba5209:
 translate Chinese day15_samuel_raj_bathhouse_intro_14050ef0:
 
     # s "Just {i}'can't complain?'{/i}"
-    s "只是{i}'没有什么可抱怨的?'{/i}"
+    s "就只是{i}“没什么可抱怨的”？{/i}"
 
 # game/script morocco samuel.rpy:1351
 translate Chinese day15_samuel_raj_bathhouse_intro_c38e7589:
 
     # p "Fine, perhaps I didn't give this the appreciation it deservers.{w} It's pretty good right now."
-    p "好吧，我们确实该好好享受当下。{w}现在感觉真不错。"
+    p "好吧，也许是我小看它了。{w}现在确实挺好的。"
 
 # game/script morocco samuel.rpy:1353
 translate Chinese day15_samuel_raj_bathhouse_intro_3b2ef628:
 
     # "Rajeeyah watches Sam's actions with a wry, amused smile turning the corners of her muzzle. A few seconds later, she turns her attention upwards, as if she can tell the time by the color of the sky."
-    "Rajeeyah看着Sam的举动，露出了有趣又滑稽的微笑，嘴角上扬。过了一会，她又向上看去，好像她可以根据天空的颜色来分辨时间。"
+    "Rajeeyah看着Sam的举动，嘴角挂着一丝揶揄又好笑的微笑。过了一会儿，她抬头望去，好像能从天空的颜色看出时间。"
 
 # game/script morocco samuel.rpy:1357
 translate Chinese day15_samuel_raj_bathhouse_intro_61b89ebd:
@@ -2068,19 +2068,19 @@ translate Chinese day15_samuel_raj_bathhouse_intro_5f18c8c8:
 translate Chinese day15_samuel_raj_bathhouse_intro_769cf658:
 
     # s "Work to do, Raj?"
-    s "你有工作要忙吗？Raj。"
+    s "有活要干吗，Raj？"
 
 # game/script morocco samuel.rpy:1370
 translate Chinese day15_samuel_raj_bathhouse_intro_f263937a:
 
     # r "Some catching up of my own. It's been too long since I heard my own tongue. I'm curious about news from the north—my home, Safi. I couldn't quite place the attendant's accent, but I don't believe she's from Mogador."
-    r "有一些我自己的事要处理。我太久没有听到乡音了。我很想打听到我北方的家乡的消息，Safi。我有点听不出来那位侍者的口音，但是我觉得她不是Mogador本地人。"
+    r "我自己也想打听打听消息。我太久没听到乡音了。我很想知道北方的消息——我的家乡萨菲。我听不太出那位侍者的口音，但我觉得她不是莫加多尔本地人。"
 
 # game/script morocco samuel.rpy:1374
 translate Chinese day15_samuel_raj_bathhouse_intro_f87a4257:
 
     # "Some of that must surely be true. And, you suppose, it would be an opportunity for her to learn what she can about Arezki."
-    "你猜这些话只有一部分是真的。而且，这是她趁机打听Arezki消息的机会。"
+    "这里面肯定有几分是真的。而且你猜，这也是她趁机打听Arezki消息的机会。"
 
 # game/script morocco samuel.rpy:1376
 translate Chinese day15_samuel_raj_bathhouse_intro_8bef6b54:
@@ -2098,13 +2098,13 @@ translate Chinese day15_samuel_raj_bathhouse_intro_7329fa67:
 translate Chinese day15_samuel_raj_bathhouse_intro_d36f63f9:
 
     # "You can't recall exactly how long it's been since Rajeeyah has been back in her homeland, so some of her reasoning must be true."
-    "你不清楚Rajeeyah已经回到家乡多久了，所以她的一部分推理肯定是正确的。"
+    "你记不清Rajeeyah有多久没回过家乡了，所以她的理由里肯定有几分是真的。"
 
 # game/script morocco samuel.rpy:1384
 translate Chinese day15_samuel_raj_bathhouse_intro_e0cdfa9b:
 
     # "At the same time, you saw the look she was giving Sam. Much as she enjoys her friend's company, she's offering to give the two of you some of those elusive moments of privacy."
-    "与此同时，你看到了她给Sam的眼神。虽然她很享受朋友们的陪伴，但她还是想给你们俩留难得的私人空间。"
+    "与此同时，你也看到了她看Sam的眼神。虽然她很享受朋友的陪伴，但她还是想给你们俩留出难得的独处时间。"
 
 # game/script morocco samuel.rpy:1414
 translate Chinese day15_samuel_raj_bathhouse_intro_4946331c:
@@ -2260,7 +2260,7 @@ translate Chinese day15_sam_raj_catchup_9df5fe93:
 translate Chinese day15_sam_raj_catchup_e0e11f25:
 
     # r "I believe you do, yes."
-    r "确实还没吃完。"
+    r "我想你们是还没吃完。"
 
 # game/script morocco samuel.rpy:1508
 translate Chinese day15_sam_raj_catchup_b5e0fb2e:
@@ -2278,13 +2278,13 @@ translate Chinese day15_sam_raj_catchup_eacf3772:
 translate Chinese day15_sam_raj_catchup_c6a31bfa:
 
     # s "We've never heard 'your own tongue,' have we? Like as not they'd press-gang us onto another ship... steal our clothes and all that. You'd feel proper guilty, then."
-    s "我们从没有听过你的“口音”，对吧？他们很有可能会把我们强征到另一艘船上....偷走我们的衣服什么的。到时候你就会感到内疚。"
+    s "我们可从没听过你的“乡音”，对吧？说不定他们会把我们强征到别的船上……偷走我们的衣服什么的。那你可就要内疚死了。"
 
 # game/script morocco samuel.rpy:1518
 translate Chinese day15_sam_raj_catchup_7fa5e977:
 
     # r "Well, that would all depend on how much they paid me, wouldn't it? A skilled sailor like yourself..."
-    r "嗯，这就看他们会付我多少薪水了，不是吗？像你这样老练地水手..."
+    r "嗯，那得看他们付我多少了，不是吗？像你这样老练的水手……"
 
 # game/script morocco samuel.rpy:1520
 translate Chinese day15_sam_raj_catchup_35d28267:
@@ -2296,25 +2296,25 @@ translate Chinese day15_sam_raj_catchup_35d28267:
 translate Chinese day15_sam_raj_catchup_b669d771:
 
     # "The way Rajeeyah looks Sam over, teeth showing in her smile, you find yourself wondering just how close the two are."
-    "Rajeeyah打量着Sam，笑着露出了牙齿，你不禁好奇她们两个地关系究竟有多近。"
+    "Rajeeyah打量着Sam，笑着露出了牙齿，你不禁好奇她们俩的关系究竟有多近。"
 
 # game/script morocco samuel.rpy:1526
 translate Chinese day15_sam_raj_catchup_f53e5172:
 
     # "Especially when Sam widens her eyes, pretending to be scandalized."
-    "尤其是Sam睁大眼睛假装被冒犯地时候。"
+    "尤其是Sam睁大眼睛假装被冒犯的时候。"
 
 # game/script morocco samuel.rpy:1533
 translate Chinese day15_sam_raj_catchup_a5cd91ac:
 
     # s "A stone and some rags?{p}Raj!"
-    s "一块石头和一些破布？{p}Raj!"
+    s "一块石头和一些破布？{p}Raj！"
 
 # game/script morocco samuel.rpy:1540
 translate Chinese day15_sam_raj_catchup_df8d0066:
 
     # r "I said 'at least.' And [name] looks like he's nimble. How is he at getting around in the rigging?"
-    r "我说的是“至少”。而且[name]看起来身手矫健。他能在船上地绳索间来去自如吗？"
+    r "我说的是“至少”。而且[name]看起来身手矫健。他能在船上的绳索间来去自如吗？"
 
 # game/script morocco samuel.rpy:1542
 translate Chinese day15_sam_raj_catchup_1c0153b1:
@@ -2326,25 +2326,25 @@ translate Chinese day15_sam_raj_catchup_1c0153b1:
 translate Chinese day15_sam_raj_catchup_2041a96a:
 
     # "She nods, her furrowed brow hinting at deep reflection."
-    "她点点头，皱起眉毛陷入深深地思考。"
+    "她点点头，皱起眉毛陷入深深的思考。"
 
 # game/script morocco samuel.rpy:1548
 translate Chinese day15_sam_raj_catchup_bcfcabed:
 
     # r "First leg of the journey, a new landsman, and I haven't had to patch you up..."
-    r "在旅程的第一站，一个陆地菜鸟水手，我居然还没给你封过伤口。"
+    r "航程的第一段，一个新来的旱鸭子水手，我居然还没给你包扎过……"
 
 # game/script morocco samuel.rpy:1550
 translate Chinese day15_sam_raj_catchup_5f4e2d24:
 
     # r "Really, he's got a leg up on you in that regard, Hannah.{w} Quite the feat, given how impossible it is to imagine {i}anyone{/i} having a leg up on you."
-    r "说真的，他在这一方面比你强，Hannah。{w}这挺了不起的，毕竟很难想象能 {i}有人{/i}比你强。"
+    r "说真的，在这方面他可比你高出一截，Hannah。{w}这可真了不起，毕竟很难想象{i}有谁{/i}能比你高出一截。"
 
 # game/script morocco samuel.rpy:1557
 translate Chinese day15_sam_raj_catchup_9a1848ef:
 
     # s "Very funny."
-    s "真有意思"
+    s "真有意思。"
 
 # game/script morocco samuel.rpy:1561
 translate Chinese day15_sam_raj_catchup_abb86e41:
@@ -2368,7 +2368,7 @@ translate Chinese day15_sam_raj_catchup_52605fac:
 translate Chinese day15_sam_raj_catchup_6f5f15b4:
 
     # "Rajeeyah covers her muzzle to stifle her laugh."
-    "Rajeeyah捂嘴想止住笑声"
+    "Rajeeyah捂住嘴，想忍住笑。"
 
 # game/script morocco samuel.rpy:1578
 translate Chinese day15_sam_raj_catchup_d096ba91:
@@ -2392,7 +2392,7 @@ translate Chinese day15_sam_raj_catchup_7b5c1fa5:
 translate Chinese day15_sam_raj_catchup_deaafa63:
 
     # "You're used to Sam's playfulness, but not this kind of tone from the ship's surgeon. The longer you spend in the bath, though, the more comfortable she's becoming."
-    "你已经习惯了Sam的玩笑，但还不习惯船医用这种语气说话。虽然在浴池里面待得越久，她就越感到自在。"
+    "你已经习惯了Sam的玩笑，但还不习惯船医用这种语气说话。不过在浴池里待得越久，她就越放松。"
 
 # game/script morocco samuel.rpy:1590
 translate Chinese day15_sam_raj_catchup_3fd0b422:
@@ -2410,43 +2410,43 @@ translate Chinese day15_sam_raj_catchup_0ad7338a:
 translate Chinese day15_sam_raj_catchup_43a267b1:
 
     # r "You have someone in mind? Is it... do you remember that shipping agent in Lisbon? The dog with the one ear that..."
-    r "你在心里面有人选了？是不是...记得在LIsbon那地货物代理吗？那只只有一只耳朵的犬兽人，他..."
+    r "你心里有人选了？是不是……你还记得里斯本那个货运代理吗？那只只有一只耳朵的犬兽人，他……"
 
 # game/script morocco samuel.rpy:1606
 translate Chinese day15_sam_raj_catchup_c8980850:
 
     # "She folds a paw over, pantomiming it. Sam cocks her head... then groans, rolling her eyes, before turning to explain to you."
-    "她弯起一只爪子比划着。Sam歪着头...又翻了个白眼，嘴忍不住唏嘘，之后转身向你解释。"
+    "她把一只爪子折下来比划着。Sam歪着头……然后哀叹一声，翻了个白眼，转身向你解释。"
 
 # game/script morocco samuel.rpy:1613
 translate Chinese day15_sam_raj_catchup_9f8f4b0f:
 
     # s "{i}That{/i} bastard. I had to tell him Raj were promised to an eastern bey. I said he'd kill this dog with a scimitar if he touched her one more time."
-    s "{i}那个{/i}混蛋。我要告诉他Raj已经许配给了一位东方总督。我说如果他再敢碰一下Raj总督的弯刀就不会留情。"
+    s "{i}那个{/i}混蛋。我只好跟他说Raj已经许配给了一位东方的贝伊。我说要是他再敢碰她一下，贝伊就会用弯刀宰了他这条狗。"
 
 # game/script morocco samuel.rpy:1620
 translate Chinese day15_sam_raj_catchup_e09a8244:
 
     # r "You {i}said{/i} he would 'cut his dick off with a scimitar' and add it to the ones around his neck."
-    r "你{i}说{/i}总督会割下他的老二挂在他的脖子上。"
+    r "你{i}说的{/i}是，贝伊会“用弯刀割下他的屌”，和他脖子上挂的那些串在一起。"
 
 # game/script morocco samuel.rpy:1627
 translate Chinese day15_sam_raj_catchup_1f16f49f:
 
     # s "Aye, well. I'd had a bit. My hackles were up. He left you alone, didn't he?"
-    s "Aye，好吧。我当时喝了点。我的毛都竖起来了。他最后放弃你了不是吗？"
+    s "哎，好吧。我当时喝了点，火气上来了。他后来不就没再缠着你了吗？"
 
 # game/script morocco samuel.rpy:1634
 translate Chinese day15_sam_raj_catchup_545363e5:
 
     # r "He did. So: is it the able seaman who looks like his brother?"
-    r "是的。那么，像他这样的的可以当水手吗？"
+    r "是的。那么，是那个长得像他兄弟的一等水手吗？"
 
 # game/script morocco samuel.rpy:1641
 translate Chinese day15_sam_raj_catchup_2587cb6e:
 
     # s "Michael, I think his name is? No, t'isn't him. He's fine. Can't get rid of him, anyway. Konrad uses his skull as an anvil."
-    s "我猜他的名字是Michael，不，不是他。他很好。而且我们也甩不掉他。Konrad拿他的头当铁砧用。"
+    s "他叫Michael，是吧？不，不是他。他没问题。反正也甩不掉他。Konrad拿他的脑袋当铁砧使。"
 
 # game/script morocco samuel.rpy:1643
 translate Chinese day15_sam_raj_catchup_37e3377d:
@@ -2464,7 +2464,7 @@ translate Chinese day15_sam_raj_catchup_d80e1857:
 translate Chinese day15_sam_raj_catchup_fd1e07e4:
 
     # "Raj grimaces, looking into her cup of water as though—teetotaler that she is—she wishes it had been filled with something else."
-    "Raj做了个鬼脸，看着她那杯水，作为一位禁酒主义者，仿佛希望被子里面装的是别的什么东西。"
+    "Raj做了个鬼脸，盯着自己那杯水——她这个滴酒不沾的人，此刻仿佛希望杯子里装的是别的东西。"
 
 # game/script morocco samuel.rpy:1656
 translate Chinese day15_sam_raj_catchup_5130465e:
@@ -2494,19 +2494,19 @@ translate Chinese day15_sam_raj_catchup_860fe6d3:
 translate Chinese day15_sam_raj_catchup_2048f22a:
 
     # r "Perce, though?{w} {i}Perce{/i}?"
-    r "但Perce？{w}Perce{w}？"
+    r "但是Perce？{w}{i}Perce{/i}？"
 
 # game/script morocco samuel.rpy:1673
 translate Chinese day15_sam_raj_catchup_9d80dcc9:
 
     # s "He has experience. And a dick.{w} That hasn't been cut off with a scimitar.{w} Yet."
-    s "他很有经验。而且他有根屌。{w}还没有被镰刀切掉的那种{w}。"
+    s "他有经验。还有根屌。{w}还没被弯刀割掉的那种。{w}暂时还没有。"
 
 # game/script morocco samuel.rpy:1675
 translate Chinese day15_sam_raj_catchup_718f2aa5:
 
     # r "Still... are you sure?"
-    r "不过...你确定？"
+    r "不过……你确定？"
 
 # game/script morocco samuel.rpy:1679
 translate Chinese day15_sam_raj_catchup_425d5aad:
@@ -2518,13 +2518,13 @@ translate Chinese day15_sam_raj_catchup_425d5aad:
 translate Chinese day15_sam_raj_catchup_40bcc546:
 
     # p "I saw them talking when we left the ship yesterday. Arthur has Perce taking a lot of responsibility while we're docked."
-    p "昨天我们离开船的时候，我看见他们在谈论什。Perce还承担了大部分的泊船的事务。"
+    p "昨天我们下船的时候，我看见他们在说话。我们靠港这段时间，Arthur让Perce管了很多事。"
 
 # game/script morocco samuel.rpy:1688
 translate Chinese day15_sam_raj_catchup_71d53e40:
 
     # "The cheetah shakes her head in lingering disbelief. Even another date, chewed slowly, isn't enough to banish her frown."
-    "猎豹难以置信地摇摇头。皱着眉头吃下了另一颗椰枣。"
+    "猎豹摇了摇头，还是不敢相信。她又吃了一颗椰枣，慢慢嚼着，眉头却还是没舒展开。"
 
 # game/script morocco samuel.rpy:1692
 translate Chinese day15_sam_raj_catchup_becdd17b:
@@ -2554,7 +2554,7 @@ translate Chinese day15_sam_raj_catchup_63d9cc71:
 translate Chinese day15_sam_raj_catchup_9019d5e2:
 
     # r "Reporting to that jackal would do me harm. I'll... find a way to leave your name out of it, Hannah."
-    r "向那只豺狼汇报对我百害无一利。我...我会想办法不牵扯你的，Hannah。"
+    r "向那只豺狼汇报对我百害无一利。我……我会想办法不牵扯你的，Hannah。"
 
 # game/script morocco samuel.rpy:1709
 translate Chinese day15_sam_raj_catchup_8b259d72:
@@ -2584,7 +2584,7 @@ translate Chinese day15_sam_raj_catchup_bd94a301:
 translate Chinese day15_sam_raj_catchup_f0e4e9e3:
 
     # s "I missed out."
-    s "上次可没有我。"
+    s "我错过了好多。"
 
 # game/script morocco samuel.rpy:1729
 translate Chinese day15_sam_raj_catchup_13c24e7f:
@@ -2596,19 +2596,19 @@ translate Chinese day15_sam_raj_catchup_13c24e7f:
 translate Chinese day15_sam_raj_catchup_0b21ad3d:
 
     # s "The joys of being a sailor unable to speak a lick of the local language..."
-    s "这就是一个不会说本地话地水手的好处啊..."
+    s "这就是一句本地话都不会说的水手的“乐趣”啊……"
 
 # game/script morocco samuel.rpy:1740
 translate Chinese day15_sam_raj_catchup_152e575f:
 
     # r "I'm glad I was able to brush away that impression of my homeland, then."
-    r "那么，我也很高兴我能刷洗对我故乡的那种印象。"
+    r "那我很高兴能帮你洗掉对我家乡的那种印象。"
 
 # game/script morocco samuel.rpy:1742
 translate Chinese day15_sam_raj_catchup_cf07559a:
 
     # r "[name]?"
-    r "[name]?"
+    r "[name]？"
 
 # game/script morocco samuel.rpy:1744
 translate Chinese day15_sam_raj_catchup_f27119c0:
@@ -2674,7 +2674,7 @@ translate Chinese day15_sam_raj_catchup_bec3b4af:
 translate Chinese day15_sam_raj_catchup_420b50c7:
 
     # s "Have you thought about how you'll..."
-    s "你想过你可以..."
+    s "你想过你可以……"
 
 # game/script morocco samuel.rpy:1777
 translate Chinese day15_sam_raj_catchup_2cd3568b:
@@ -2686,7 +2686,7 @@ translate Chinese day15_sam_raj_catchup_2cd3568b:
 translate Chinese day15_sam_raj_catchup_91b8f934:
 
     # r "I told him about Arezki."
-    r "我和他说了Areki的事。"
+    r "我和他说了Arezki的事。"
 
 # game/script morocco samuel.rpy:1785
 translate Chinese day15_sam_raj_catchup_a0d24bb3:
@@ -2710,7 +2710,7 @@ translate Chinese day15_sam_raj_catchup_8e9ed7fa:
 translate Chinese day15_sam_raj_catchup_01a5b1fc:
 
     # r "Be the victim of indiscretion."
-    r "都怪你风口不紧呗。"
+    r "你是被别人的嘴不严给连累了。"
 
 # game/script morocco samuel.rpy:1804
 translate Chinese day15_sam_raj_catchup_bb1e0b77:
@@ -2728,7 +2728,7 @@ translate Chinese day15_sam_raj_catchup_6a47e46c:
 translate Chinese day15_sam_raj_catchup_291a92aa:
 
     # r "I had a partner.{w} Have.{w} Had. He is Amazigh—one of the inland tribes."
-    r "我有一个伴侣。曾经...有过。他是Amazigh，来自内陆的一个部落。"
+    r "我有过一个伴侣。{w}不，现在也还算有。{w}……还是说有过吧。他是阿马齐格人，来自内陆的一个部落。"
 
 # game/script morocco samuel.rpy:1815
 translate Chinese day15_sam_raj_catchup_d7e7113c:
@@ -2740,7 +2740,7 @@ translate Chinese day15_sam_raj_catchup_d7e7113c:
 translate Chinese day15_sam_raj_catchup_73ae705d:
 
     # r "No."
-    r "没有"
+    r "不是。"
 
 # game/script morocco samuel.rpy:1819
 translate Chinese day15_sam_raj_catchup_1dbedbf5:
@@ -2764,7 +2764,7 @@ translate Chinese day15_sam_raj_catchup_de0adcc9:
 translate Chinese day15_sam_raj_catchup_b392bc94:
 
     # s "He is not good for you, woman."
-    s "这对你不好，女人。"
+    s "他不适合你，女人。"
 
 # game/script morocco samuel.rpy:1836
 translate Chinese day15_sam_raj_catchup_112ab8fe:
@@ -2800,19 +2800,19 @@ translate Chinese day15_sam_raj_catchup_f7dd5c02:
 translate Chinese day15_sam_raj_catchup_915d602d:
 
     # s "What if he were in Mogador himself? Wouldn't that be something?"
-    s "要是他就在Mogador呢？那岂不是..."
+    s "要是他就在莫加多尔呢？那岂不是太巧了？"
 
 # game/script morocco samuel.rpy:1868
 translate Chinese day15_sam_raj_catchup_1c81c312:
 
     # r "The odds are astronomical."
-    r "那真是太阳打西边迟来了。"
+    r "那真是太阳打西边出来了。"
 
 # game/script morocco samuel.rpy:1870
 translate Chinese day15_sam_raj_catchup_ec3a85b3:
 
     # "Yet it goes without saying that the odds, no matter how long, are better than they would be of meeting him aboard the {i}Conway{/i}."
-    "但不用说，无论几率多小，也比在{i}Conway{/i}上遇见他的几率要大。"
+    "但不用说，无论几率多小，也比在{i}Conway{/i}号上遇见他的几率要大。"
 
 # game/script morocco samuel.rpy:1872
 translate Chinese day15_sam_raj_catchup_eaa0e586:
@@ -2830,7 +2830,7 @@ translate Chinese day15_sam_raj_catchup_2e7bcd74:
 translate Chinese day15_sam_raj_catchup_d3827f9d:
 
     # r "I have thought about it... a lot, truth be told.{w} But..."
-    r "我...有想过，但是，说真的..."
+    r "我想过……说实话，想过很多次。{w}但是……"
 
 # game/script morocco samuel.rpy:1880
 translate Chinese day15_sam_raj_catchup_75615e6b:
@@ -2842,19 +2842,19 @@ translate Chinese day15_sam_raj_catchup_75615e6b:
 translate Chinese day15_sam_raj_catchup_8c585607:
 
     # "She trails off. Sam has heard this conversation before, you suppose, and has offered all the advice she has to give."
-    "他的声音渐弱。你猜Sam以前肯定听过这样的对话，并且已经给出了她能给的所有建议。"
+    "她的声音渐渐低了下去。你猜Sam以前肯定听过这样的对话，也已经给出了她能给的所有建议。"
 
 # game/script morocco samuel.rpy:1886
 translate Chinese day15_sam_raj_catchup_fa6941bd:
 
     # "It's unusual to see her so uncertain amidst her otherwise fierce professionalism."
-    "有着如此强烈的职业素养，看到她如此的由于不接属实稀奇。"
+    "她平时总是那么专业干练，像这样犹豫不决实在少见。"
 
 # game/script morocco samuel.rpy:1888
 translate Chinese day15_sam_raj_catchup_d36bfd87:
 
     # p "If two nomads from different worlds happened to meet where they touched... Perhaps it would mean..."
-    p "如果两个来自不同世界的人还能在此相遇...这可能意味着..."
+    p "如果两个来自不同世界的人还能在此相遇……这可能意味着……"
 
 # game/script morocco samuel.rpy:1890
 translate Chinese day15_sam_raj_catchup_0d044d47:
@@ -2878,7 +2878,7 @@ translate Chinese day15_sam_raj_catchup_dafbdb95:
 translate Chinese day15_sam_raj_catchup_256de52b:
 
     # p "More than letters, crossing months apart. Neither of you knowing where the other is, or what they want..."
-    p "胜过好几个月的书信。你们两个都不知道对方身处何处或者想要什么。"
+    p "而不只是隔着几个月才能收到的书信。你们俩谁都不知道对方在哪儿，想要什么……"
 
 # game/script morocco samuel.rpy:1904
 translate Chinese day15_sam_raj_catchup_89f20bab:
@@ -2896,7 +2896,7 @@ translate Chinese day15_sam_raj_catchup_99a187cf:
 translate Chinese day15_sam_raj_catchup_02e26958:
 
     # "The cheetah offers you the tray of dates, and you help yourself to another one."
-    "猎豹递给你一盘的椰枣，你再给自己抓了一个。"
+    "猎豹把那盘椰枣递给你，你又拿了一颗。"
 
 # game/script morocco samuel.rpy:1917
 translate Chinese day15_sam_raj_catchup_e21856ff:
@@ -2920,13 +2920,13 @@ translate Chinese day15_sam_raj_catchup_a46c133a:
 translate Chinese day15_sam_raj_catchup_459a2ba1:
 
     # s "That's two of us now, how much more convincing do you need?"
-    s "现在是二比一了，你还不想相信我们吗？"
+    s "现在是二比一了，你还要怎样才信？"
 
 # game/script morocco samuel.rpy:1925
 translate Chinese day15_sam_raj_catchup_23624b70:
 
     # s "And he don't know you like I do, that's how obvious it is, Rajeeyah."
-    s "而且他不像我一样那么地了解你，这很明显了，Rajeeyah。"
+    s "而且他还不像我这么了解你，可见这事有多明显，Rajeeyah。"
 
 # game/script morocco samuel.rpy:1927
 translate Chinese day15_sam_raj_catchup_eb6ca183:
@@ -2968,19 +2968,19 @@ translate Chinese day15_sam_raj_catchup_21ea92b0:
 translate Chinese day15_sam_raj_catchup_3eeae57d:
 
     # r "No more water. There's a room above the furnace for the water. The hot air should dry that long fur of yours nicely. Then we dress ourselves again."
-    r "不要再泡了。在烧热水火炉上有一间房。那里的热空气可以很好地烘干你们长长的毛发。然后我们穿回我们的衣服。"
+    r "不泡了。烧水的炉子上面有个房间，那里的热气能把你那身长毛烘干。然后我们再穿上衣服。"
 
 # game/script morocco samuel.rpy:1955
 translate Chinese day15_sam_raj_catchup_d2442046:
 
     # p "And then back to..."
-    p "然后回到..."
+    p "然后回到……"
 
 # game/script morocco samuel.rpy:1957
 translate Chinese day15_sam_raj_catchup_e91a8c30:
 
     # "You look upwards, at blue sky framed by the clean white stone. The city, and the port, and the {i}Conway{/i} seem a distant memory."
-    "你抬头向上望去，看那被洁白的石墙框住的蓝天。这座城，港口还有{i}Conway{/i}就像遥远而模糊的记忆。"
+    "你抬头向上望去，看那被洁白的石墙框住的蓝天。这座城，港口还有{i}Conway{/i}号就像遥远而模糊的记忆。"
 
 # game/script morocco samuel.rpy:1959
 translate Chinese day15_sam_raj_catchup_b0128392:
@@ -2998,7 +2998,7 @@ translate Chinese day15_sam_raj_catchup_a935e2d2:
 translate Chinese day15_sam_raj_catchup_0244644c:
 
     # s "But not quite yet."
-    s "但不全是。"
+    s "但还不是现在。"
 
 # game/script morocco samuel.rpy:1975
 translate Chinese day15_sam_bathhouse_scene_e9e4b7ec:
@@ -3010,7 +3010,7 @@ translate Chinese day15_sam_bathhouse_scene_e9e4b7ec:
 translate Chinese day15_sam_bathhouse_scene_b70b9c5e:
 
     # r "I got what I came here for—clean."
-    r "我们达成了来这的目的，清洗干净。"
+    r "我来这儿要的已经得到了——洗干净。"
 
 # game/script morocco samuel.rpy:1986
 translate Chinese day15_sam_bathhouse_scene_6cbfc21c:
@@ -3034,7 +3034,7 @@ translate Chinese day15_sam_bathhouse_scene_8d47e4a2:
 translate Chinese day15_sam_bathhouse_scene_ad6d13b0:
 
     # p "When I talked with Arthur he mentioned that some of the crew helped convince him to let me stay."
-    p "之前和Arthur谈话的时候，他提到过有些船员试图挽留我。"
+    p "之前和Arthur谈话的时候，他提到有些船员帮忙说服他让我留下来。"
 
 # game/script morocco samuel.rpy:2001
 translate Chinese day15_sam_bathhouse_scene_053e9be3:
@@ -3076,7 +3076,7 @@ translate Chinese day15_sam_bathhouse_scene_4ec90259:
 translate Chinese day15_sam_bathhouse_scene_a278df2c:
 
     # p "But you did."
-    p "但你确实睡着了"
+    p "但你还是做了。"
 
 # game/script morocco samuel.rpy:2015
 translate Chinese day15_sam_bathhouse_scene_76b8ae1b:
@@ -3100,13 +3100,13 @@ translate Chinese day15_sam_bathhouse_scene_6f3d15ca:
 translate Chinese day15_sam_bathhouse_scene_11b2dbf1:
 
     # s "An' Arthur told me at some point that I should never be afraid to speak my mind with him in private."
-    s "而且Arthur也告诉我，有些时候，私下谈话时不能把想说的压在心里。"
+    s "而且Arthur有一回跟我说过，私下跟他说话的时候，有什么想法尽管直说，别怕。"
 
 # game/script morocco samuel.rpy:2027
 translate Chinese day15_sam_bathhouse_scene_77cd872d:
 
     # s "So I did.{w} But I don't think it was my doing that you got to stay, I'm sure he just needed a nudge to right his thoughts."
-    s "所以我才这么做。{w}但是单凭我一个人肯定无法让你留下，我想Arthur本来也打算看你接下来的表现来决定你的去留。"
+    s "所以我就说了。{w}不过你能留下，我觉得不是我的功劳，他只是需要有人推一把，把想法摆正。"
 
 # game/script morocco samuel.rpy:2029
 translate Chinese day15_sam_bathhouse_scene_dd5bdf78:
@@ -3130,7 +3130,7 @@ translate Chinese day15_sam_bathhouse_scene_05d81b66:
 translate Chinese day15_sam_bathhouse_scene_fab943c5:
 
     # s "Thank you for coming with me, by the way."
-    s "顺便感谢你能陪我们来。"
+    s "顺便说一句，谢谢你陪我来。"
 
 # game/script morocco samuel.rpy:2037
 translate Chinese day15_sam_bathhouse_scene_da29af37:
@@ -3148,25 +3148,25 @@ translate Chinese day15_sam_bathhouse_scene_4118a2a3:
 translate Chinese day15_sam_bathhouse_scene_54802112:
 
     # p "You thought I was going to say 'no'?"
-    p "你认为我会说’不‘？"
+    p "你以为我会说“不”？"
 
 # game/script morocco samuel.rpy:2045
 translate Chinese day15_sam_bathhouse_scene_486b3f83:
 
     # s "Wasn't sure what you'd want to do."
-    s "我可不知道你在想什么。"
+    s "我不确定你想做些什么。"
 
 # game/script morocco samuel.rpy:2047
 translate Chinese day15_sam_bathhouse_scene_5d156a2f:
 
     # p "Do?"
-    p "想什么？"
+    p "做什么？"
 
 # game/script morocco samuel.rpy:2051
 translate Chinese day15_sam_bathhouse_scene_044ee185:
 
     # "She smiles, far more shyly than you've come to expect from her. But then, it also makes it obvious what she means."
-    "她笑得更害羞了。但是之后你马上明白了她的意思。"
+    "她笑了，比你平时见她的样子害羞得多。不过这样一来，她的意思也就很明显了。"
 
 # game/script morocco samuel.rpy:2053
 translate Chinese day15_sam_bathhouse_scene_7b017e31:
@@ -3178,13 +3178,13 @@ translate Chinese day15_sam_bathhouse_scene_7b017e31:
 translate Chinese day15_sam_bathhouse_scene_4aa1b5b6:
 
     # s "Here's the thing, [name]."
-    s "就是这样，[name]。"
+    s "是这样的，[name]。"
 
 # game/script morocco samuel.rpy:2059
 translate Chinese day15_sam_bathhouse_scene_5cd21d85:
 
     # s "Problem on the {i}Conway{/i} is, it's hard to get time to yourself.{w} And, y'know, we was talking about how folks like to gossip, well—isn't nobody be gossiping more than sailors."
-    s "在{i}康威{/i}号上有个问题就是无法给自己空出时间。{w}而且水手可是出了名的爱说闲话。"
+    s "在{i}Conway{/i}号上的麻烦是，很难有自己的时间。{w}而且，你知道，我们刚才还在说别人爱嚼舌根——哪有人比水手更爱说闲话的。"
 
 # game/script morocco samuel.rpy:2061
 translate Chinese day15_sam_bathhouse_scene_5768a9ef:
@@ -3196,7 +3196,7 @@ translate Chinese day15_sam_bathhouse_scene_5768a9ef:
 translate Chinese day15_sam_bathhouse_scene_757d312a:
 
     # "You can, you tell her, imagine this."
-    "你可以，你告诉她，现象一下这种场景。"
+    "你告诉她，你能想象得到。"
 
 # game/script morocco samuel.rpy:2069
 translate Chinese day15_sam_bathhouse_scene_470e8c0c:
@@ -3214,7 +3214,7 @@ translate Chinese day15_sam_bathhouse_scene_636386da:
 translate Chinese day15_sam_bathhouse_scene_101ad0fe:
 
     # p "Sam, do you remember how you asked me how I slept after my first night?"
-    p "萨姆，你还记得你问我第一晚睡得怎么样吗？"
+    p "Sam，你还记得你问我第一晚睡得怎么样吗？"
 
 # game/script morocco samuel.rpy:2079
 translate Chinese day15_sam_bathhouse_scene_dc1cd401:
@@ -3226,25 +3226,25 @@ translate Chinese day15_sam_bathhouse_scene_dc1cd401:
 translate Chinese day15_sam_bathhouse_scene_1b636f43:
 
     # s "It's called common courtesy, yes."
-    s "这只是基本礼貌。"
+    s "那叫基本礼貌，没错。"
 
 # game/script morocco samuel.rpy:2085
 translate Chinese day15_sam_bathhouse_scene_53976138:
 
     # "You shake your head."
-    "你摇摇头"
+    "你摇摇头。"
 
 # game/script morocco samuel.rpy:2087
 translate Chinese day15_sam_bathhouse_scene_629d1dbe:
 
     # p "No, well... yes."
-    p "不是，呃...好吧是的。"
+    p "不是，呃……好吧是的。"
 
 # game/script morocco samuel.rpy:2089
 translate Chinese day15_sam_bathhouse_scene_4835cb2a:
 
     # p "I didn't tell you at the time—obviously—but I dreamt of you."
-    p "我当时没有告诉你，但确实，我梦到你了。"
+    p "我当时当然没告诉你，但我梦到过你。"
 
 # game/script morocco samuel.rpy:2093
 translate Chinese day15_sam_bathhouse_scene_2cef3882:
@@ -3274,7 +3274,7 @@ translate Chinese day15_sam_bathhouse_scene_c2722fc4:
 translate Chinese day15_sam_bathhouse_scene_305624db:
 
     # p "And I mean {i}nothing.{/i}"
-    p "更确切说，只有背心。"
+    p "我是说，除此之外{i}什么都没有{/i}。"
 
 # game/script morocco samuel.rpy:2105
 translate Chinese day15_sam_bathhouse_scene_12ce8f45:
@@ -3310,13 +3310,13 @@ translate Chinese day15_sam_bathhouse_scene_d348b327:
 translate Chinese day15_sam_bathhouse_scene_033aa278:
 
     # s "Right... forgot about that."
-    s "对....忘了这茬。"
+    s "对……忘了这茬。"
 
 # game/script morocco samuel.rpy:2123
 translate Chinese day15_sam_bathhouse_scene_3ab7c27b:
 
     # s "My dream self is a whore, don't trust him. {w}Was I packing, though?"
-    s "那就...在梦里我是个男婊子，别相信他。{w}还有，我那家伙大吗？"
+    s "那就……在梦里我是个男婊子，别相信他。{w}还有，我那家伙大吗？"
 
 # game/script morocco samuel.rpy:2125
 translate Chinese day15_sam_bathhouse_scene_1b640dae:
@@ -3328,13 +3328,13 @@ translate Chinese day15_sam_bathhouse_scene_1b640dae:
 translate Chinese day15_sam_bathhouse_scene_737a961b:
 
     # "You look at her like a deer in the headlights."
-    "你怔怔地看着他。"
+    "你怔怔地看着她。"
 
 # game/script morocco samuel.rpy:2129
 translate Chinese day15_sam_bathhouse_scene_52d1879b:
 
     # s "Was I packing?{w} Balls.{w} Cock.{w} Come on, dream me better have been a damn stud, like."
-    s "我下面雄伟吗？{w}蛋蛋。{w}鸡巴。{w}拜托，梦里地我最好是个该死的猛男。"
+    s "我下面有货吗？{w}蛋蛋。{w}鸡巴。{w}拜托，梦里的我最好是个该死的猛男。"
 
 # game/script morocco samuel.rpy:2133
 translate Chinese day15_sam_bathhouse_scene_e7cf0d08:
@@ -3346,13 +3346,13 @@ translate Chinese day15_sam_bathhouse_scene_e7cf0d08:
 translate Chinese day15_sam_bathhouse_scene_14fae233:
 
     # p "No, no. You were well equipped. We didn't do anything though because you actually woke me up."
-    p "不，我看了。你非常英俊健美。不过我们什么都没做就被你叫醒了。"
+    p "没有，没有。你那家伙可不小。不过我们什么都没做，因为你真的把我叫醒了。"
 
 # game/script morocco samuel.rpy:2141
 translate Chinese day15_sam_bathhouse_scene_916b855b:
 
     # s "You wanted to?"
-    s "你想做吗。"
+    s "你想做吗？"
 
 # game/script morocco samuel.rpy:2143
 translate Chinese day15_sam_bathhouse_scene_24afd8d3:
@@ -3370,13 +3370,13 @@ translate Chinese day15_sam_bathhouse_scene_0dc33169:
 translate Chinese day15_sam_bathhouse_scene_0c290821:
 
     # p "Hardly a crime, is it? Besides, you looked positively stunning. Just as you do now."
-    p "男的互相看又不犯法。而且你看起来美极了。就像现在这样。"
+    p "这又不犯法，对吧？而且你看起来美极了。就像现在这样。"
 
 # game/script morocco samuel.rpy:2153
 translate Chinese day15_sam_bathhouse_scene_49835e43:
 
     # s "As do you, [name]."
-    s "你也是，[name]."
+    s "你也是，[name]。"
 
 # game/script morocco samuel.rpy:2155
 translate Chinese day15_sam_bathhouse_scene_d440031e:
@@ -3400,7 +3400,7 @@ translate Chinese day15_sam_bathhouse_scene_c9170687:
 translate Chinese day15_sam_bathhouse_scene_a5c96341:
 
     # s "Right now, we're the only ones in this bath.{w} And if anybody saw us, and they wanted to gossip, isn't anyone but Raj could understand what they was saying..."
-    s "此时此刻，浴池里只有我们两个人。{w}就算有人发现了我们并传开来，除了Raj，船上还有谁能听得懂本地人在讲什么..."
+    s "此时此刻，浴池里只有我们两个人。{w}就算有人发现了我们并传开来，除了Raj，船上还有谁能听得懂本地人在讲什么……"
 
 # game/script morocco samuel.rpy:2169
 translate Chinese day15_sam_bathhouse_scene_5a690567:
@@ -3418,37 +3418,37 @@ translate Chinese day15_sam_bathhouse_scene_f70b1d50:
 translate Chinese day15_sam_bathhouse_scene_3afca668:
 
     # "Your opportunity to stop her, if there was one at all, is fleeting.{w} The kiss that follows is not."
-    "你已经无法阻止她。{w}尽情地享受接下来地吻。"
+    "就算你有机会阻止她，那机会也转瞬即逝。{w}接下来的吻却不是。"
 
 # game/script morocco samuel.rpy:2175
 translate Chinese day15_sam_bathhouse_scene_61192e3e:
 
     # "The contact is deep—and fierce, like Sam was making up for lost time. The two weeks you've spent on the ship shouldn't have given you much to make up..."
-    "这个吻深情又热烈，仿佛Sam在弥补你和她失去的时间。在船上的这两周你本没有时间和Sam独处..."
+    "这个吻深情又热烈，仿佛Sam在弥补你和她失去的时间。在船上的这两周你本没有时间和Sam独处……"
 
 # game/script morocco samuel.rpy:2177
 translate Chinese day15_sam_bathhouse_scene_8399cf79:
 
     # "...But the intensity of it is a strong counterargument to that objection."
-    "...但此时这热烈的吻完全驱散了这种想法。"
+    "……但此时这热烈的吻完全驱散了这种想法。"
 
 # game/script morocco samuel.rpy:2182
 translate Chinese day15_sam_bathhouse_scene_8c5e4287:
 
     # "Sam's smile is boyishly toothy when she leans back, arms still draped over your shoulders, crossing behind your neck. You don't have to ask what the maned wolf {i}wants{/i}. Propriety means you should ask if it's a good idea..."
-    "Sam稍稍向后靠，笑着露出了她男孩子气的牙齿，手臂依然环抱在你肩膀上。不必猜鬃狼{i}想{/i}要什么。但是出于廉耻，你该问问这是否合适。"
+    "Sam稍稍向后靠，咧嘴笑着露出男孩子气的牙齿，手臂依然搭在你肩上，在你脖子后面交叉。不必问鬃狼{i}想{/i}要什么。但出于礼数，你该问问这样是否合适……"
 
 # game/script morocco samuel.rpy:2189
 translate Chinese day15_sam_bathhouse_scene_ff11df6a:
 
     # p "Is this... allowed?"
-    p "我可以吗..."
+    p "这样……可以吗？"
 
 # game/script morocco samuel.rpy:2191
 translate Chinese day15_sam_bathhouse_scene_2f62daf6:
 
     # s "Bit of sport in a nice place like this? Why not? No harm done... nobody has to know, unless you tell 'em.{w} And you won't."
-    s "在这么好的地方找点乐子？为什么不呢？没有坏处...也没人知道，除非你告诉他们。{w}但你不会。"
+    s "在这么好的地方找点乐子？为什么不呢？没有坏处……也没人知道，除非你告诉他们。{w}但你不会。"
 
 # game/script morocco samuel.rpy:2193
 translate Chinese day15_sam_bathhouse_scene_67347814:
@@ -3472,19 +3472,19 @@ translate Chinese day15_sam_bathhouse_scene_d5e9592f:
 translate Chinese day15_sam_bathhouse_scene_009fe096:
 
     # p "Well... if you're sure..."
-    p "嗯...如果你确定..."
+    p "嗯……如果你确定……"
 
 # game/script morocco samuel.rpy:2205
 translate Chinese day15_sam_bathhouse_scene_29eca5aa:
 
     # "Despite everything, you can just imagine Arthur finding out somehow. Or Julian, and you're not sure which would be worse. You'd definitely never hear the end of it, either way."
-    "尽管如此，你不怕Arthur通过某种方式发现吗？或者Julian，你不知道那个更糟。无论如何，都有后患。"
+    "尽管如此，你还是忍不住想象Arthur不知怎么发现了这事。或者是Julian，你都说不准哪个更糟。不管是谁，你肯定都会被念叨个没完。"
 
 # game/script morocco samuel.rpy:2209
 translate Chinese day15_sam_bathhouse_scene_3c1fea2e:
 
     # s "Look, bein' honest—it's well and good for one of you boys to make acquaintance with your paws in the cargo hold. Takes a minute, and if anybody comes looking, hey..."
-    s "听着，说实话，你们这些男孩在货舱里面用爪子自己解决也好。花个几分钟，如果正巧有人过来，嘿..."
+    s "听着，说实话，你们这些男孩在货舱里面用爪子自己解决也好。花个几分钟，如果正巧有人过来，嘿……"
 
 # game/script morocco samuel.rpy:2211
 translate Chinese day15_sam_bathhouse_scene_435dbb3b:
@@ -3496,13 +3496,13 @@ translate Chinese day15_sam_bathhouse_scene_435dbb3b:
 translate Chinese day15_sam_bathhouse_scene_0791e43f:
 
     # s "I don't get it so easy."
-    s "我不常去那里。"
+    s "我可没这么容易。"
 
 # game/script morocco samuel.rpy:2217
 translate Chinese day15_sam_bathhouse_scene_96fa26b5:
 
     # s "Along comes a cute lookin' sailor who's actually fun and compassionate."
-    s "但是我这来了一个长相可爱，又有同情心的水手。"
+    s "偏偏来了个长得可爱的水手，还真挺有趣，又会体贴人。"
 
 # game/script morocco samuel.rpy:2219
 translate Chinese day15_sam_bathhouse_scene_942979d3:
@@ -3520,7 +3520,7 @@ translate Chinese day15_sam_bathhouse_scene_7ef98e74:
 translate Chinese day15_sam_bathhouse_scene_d79a1f70:
 
     # "You can't imagine doing so."
-    "你不知道接下来要做什么。"
+    "你根本想不出自己会阻止她。"
 
 # game/script morocco samuel.rpy:2227
 translate Chinese day15_sam_bathhouse_scene_0bcbd0ca:
@@ -3544,7 +3544,7 @@ translate Chinese day15_sam_bathhouse_scene_aa2ba359:
 translate Chinese day15_sam_bathhouse_scene_ef25caa0:
 
     # "But when are you going to get another opportunity like this? You embrace the maned wolf, tugging her tightly against you, and when your muzzles meet for the second time you hear a breathless whine of approval."
-    "但是你什么时候能再有这样的机会？你抱住了鬃狼，迅速地拉向自己，当你们的吻部再次相遇时，你听到了一声几乎喘不上气地呜咽表示允许。"
+    "但你什么时候还能再有这样的机会？你抱住鬃狼，把她紧紧拉向自己，当你们的吻部再次相触时，你听到一声喘不过气的、表示赞许的呜咽。"
 
 # game/script morocco samuel.rpy:2243
 translate Chinese day15_sam_bathhouse_scene_416ee679:
@@ -3556,7 +3556,7 @@ translate Chinese day15_sam_bathhouse_scene_416ee679:
 translate Chinese day15_sam_bathhouse_scene_999efc80:
 
     # "She isn't any warmer than the pleasant temperature of the water, but it doesn't take long with her hips pressed down and into your crotch for your body to begin responding."
-    "你享受着她和池水一样温暖地身体，但一会她的臀部挤压你的下面的时候，你的老二不自觉也有了反应。"
+    "她的身子并不比宜人的池水更暖，可她的臀部往你胯间一压，没多久你的身体就起了反应。"
 
 # game/script morocco samuel.rpy:2249
 translate Chinese day15_sam_bathhouse_scene_916d116e:
@@ -3568,13 +3568,13 @@ translate Chinese day15_sam_bathhouse_scene_916d116e:
 translate Chinese day15_sam_bathhouse_scene_81e3a2ec:
 
     # "Each new moment of contact is firmer. For that matter, each lets Sam drop slightly less far into your lap, the distance marked by your stiffening arousal."
-    "每一次摩擦都使你老二愈加坚硬。事已至此，你随心所欲地控摩擦的幅度，内心满是欲望和渴求。"
+    "每一次接触都更结实。或者说，每一次Sam坐进你怀里的距离都比上次短一点——那段距离正是被你越来越硬的勃起顶住的。"
 
 # game/script morocco samuel.rpy:2253
 translate Chinese day15_sam_bathhouse_scene_0434d86f:
 
     # "You groan Sam's name into her lips, and she gasps your own back to you, her panting ragged and hoarse."
-    "你靠近她地双唇，轻轻的呻吟着Sam的名字，Sam也颤抖着回应着你，声音粗重而嘶哑。"
+    "你贴着她的唇呻吟着Sam的名字，她也喘着回应你的名字，呼吸粗重而嘶哑。"
 
 # game/script morocco samuel.rpy:2257
 translate Chinese day15_sam_bathhouse_scene_2f5a0872:
@@ -3586,7 +3586,7 @@ translate Chinese day15_sam_bathhouse_scene_2f5a0872:
 translate Chinese day15_sam_bathhouse_scene_404bf10b:
 
     # s "I think... ah, I think I'm gonna have to fuck you, [name]."
-    s "啊啊...我想我得干你了，[name]。"
+    s "啊啊……我想我得干你了，[name]。"
 
 # game/script morocco samuel.rpy:2261
 translate Chinese day15_sam_bathhouse_scene_a58aee3c:
@@ -3604,13 +3604,13 @@ translate Chinese day15_sam_bathhouse_scene_7bc5033c:
 translate Chinese day15_sam_bathhouse_scene_fef557be:
 
     # "Both of you—unlike Raj, more accustomed to the degree of immodesty allowed by the bathhouse—are still wearing underwear, of a sort; Sam's, you saw, were slightly oversized and laced loosely, the better to keep anyone from noticing how the fabric gathers."
-    "你们俩不像Raj一样奔放，在澡堂里面还穿着某种内衣。你看到Sam的内衣松垮垮地挂在她身上，这样更好，不会出现难看的褶皱。"
+    "你们俩——不像Raj那样习惯澡堂里的这种坦露——都还穿着某种内衣；你看到Sam的内衣稍大一号，系带也松松的，这样别人就不容易注意到布料是怎么堆起来的。"
 
 # game/script morocco samuel.rpy:2267
 translate Chinese day15_sam_bathhouse_scene_8fe43bd6:
 
     # "A second advantage is that it proves much easier for Sam to get out of them. You weren't yet fully grown when yours were made, and they've always been a little snug."
-    "第二个好处就是，Sam很容易就可以脱下它们。然而随着年龄增长，你的旧内衣显得格外紧。"
+    "第二个好处是Sam脱起来容易得多。你的内衣是在你还没长成时做的，一直有点紧。"
 
 # game/script morocco samuel.rpy:2269
 translate Chinese day15_sam_bathhouse_scene_2f67eab4:
@@ -3634,25 +3634,25 @@ translate Chinese day15_sam_bathhouse_scene_310e1505:
 translate Chinese day15_sam_bathhouse_scene_b1824b70:
 
     # "On the other, her expression suggests the appraisal is a good one."
-    "但是从她的表情可以看出她很喜欢你的“表演”"
+    "但从她的表情看，她对你的评价不错。"
 
 # game/script morocco samuel.rpy:2282
 translate Chinese day15_sam_bathhouse_scene_b9610930:
 
     # s "Next question is... how."
-    s "接下来...要怎么做。"
+    s "接下来……要怎么做。"
 
 # game/script morocco samuel.rpy:2286
 translate Chinese day15_sam_bathhouse_scene_8ee54d7f:
 
     # p "It'll fit..."
-    p "我会插进去。"
+    p "会塞得进去的……"
 
 # game/script morocco samuel.rpy:2290
 translate Chinese day15_sam_bathhouse_scene_6bddf22c:
 
     # "Sam clicks her teeth together, grin playful but sharp enough to tell you what you should've already guessed—that the maned wolf is accustomed to being in charge."
-    "萨姆咂了咂嘴，露出顽皮但锐利的笑容，提醒你Sam喜欢占据主导。"
+    "Sam咔哒地磕了磕牙，笑得顽皮却又带着锋芒，提醒了你本该早就猜到的事——鬃狼习惯了掌控局面。"
 
 # game/script morocco samuel.rpy:2292
 translate Chinese day15_sam_bathhouse_scene_add0090d:
@@ -3664,7 +3664,7 @@ translate Chinese day15_sam_bathhouse_scene_add0090d:
 translate Chinese day15_sam_bathhouse_scene_50157eb4:
 
     # "You glance around, and tilt your head towards the shallower ledge at the other side of the pool."
-    "你环顾四周，之后往池水另一边较浅的池边翘了翘头。"
+    "你环顾四周，朝浴池另一边较浅的台子歪了歪头。"
 
 # game/script morocco samuel.rpy:2296
 translate Chinese day15_sam_bathhouse_scene_da7dacdf:
@@ -3676,7 +3676,7 @@ translate Chinese day15_sam_bathhouse_scene_da7dacdf:
 translate Chinese day15_sam_bathhouse_scene_b5dfb32b:
 
     # s "Or you could, yes."
-    s "或者你躺在那里，好吗。"
+    s "或者你躺那儿也行，嗯。"
 
 # game/script morocco samuel.rpy:2304
 translate Chinese day15_sam_bathhouse_scene_c0266c54:
@@ -3694,19 +3694,19 @@ translate Chinese day15_sam_bathhouse_scene_b9598ec6:
 translate Chinese day15_sam_bathhouse_scene_3e1055fb:
 
     # "It's as good of an idea as any, and while nobody's bothered you {i}yet{/i}, you are aware of how conspicuous you look, shaft proudly jutting from your damp sheath."
-    "这就是最好的办法了，虽然{i}目前{/i}还没有人注意到你，但你清楚自己退下潮湿的包皮而挺立的阴茎有多么显眼。"
+    "这主意不比别的差，虽然{i}暂时{/i}还没人来打扰你们，但你很清楚自己有多显眼——阴茎从湿漉漉的鞘里骄傲地挺立着。"
 
 # game/script morocco samuel.rpy:2312
 translate Chinese day15_sam_bathhouse_scene_9bdc5e1c:
 
     # "It is a display rather more obscene than the ornate artistry of the room's carvings. {w}So you'd rather not argue over specifics."
-    "在房间华丽的雕刻衬托下眼前的场景显得更为淫秽。{w}所以你不再注意细节。"
+    "这副景象可比房间里华丽的雕刻淫秽多了。{w}所以你也不想再为细节争论。"
 
 # game/script morocco samuel.rpy:2316
 translate Chinese day15_sam_bathhouse_scene_01602002:
 
     # "You slide over and recline on your back. Sam straddles you, leaning down to rub her nose against yours. Then her expression changes, and she frowns, glancing behind her."
-    "你滑过去，仰面躺下。Sam跨坐在你身上，俯身靠向你的鼻子，暧昧地摩擦起来。随后，她的神情改变了，她皱起了眉头，瞥向了她的后背。"
+    "你滑过去，仰面躺下。Sam跨坐在你身上，俯下身用鼻子蹭你的鼻子。随后她的表情变了，皱起眉头，回头瞥了一眼。"
 
 # game/script morocco samuel.rpy:2318
 translate Chinese day15_sam_bathhouse_scene_c01280b2:
@@ -3718,13 +3718,13 @@ translate Chinese day15_sam_bathhouse_scene_c01280b2:
 translate Chinese day15_sam_bathhouse_scene_7890164e:
 
     # s "Can't find a good place for these legs..."
-    s "我的腿不好放..."
+    s "我的腿不好放……"
 
 # game/script morocco samuel.rpy:2322
 translate Chinese day15_sam_bathhouse_scene_112c64f9:
 
     # "You stroke along her thighs distractedly, lifting your head to investigate."
-    "你心不在焉的抚摸着她的大腿，抬起头查看。"
+    "你心不在焉地抚摸着她的大腿，抬起头查看。"
 
 # game/script morocco samuel.rpy:2324
 translate Chinese day15_sam_bathhouse_scene_8cadd001:
@@ -3742,7 +3742,7 @@ translate Chinese day15_sam_bathhouse_scene_efd16cdb:
 translate Chinese day15_sam_bathhouse_scene_8b4e260e:
 
     # s "We're about to find out..."
-    s "我还没弄好。"
+    s "马上就知道了……"
 
 # game/script morocco samuel.rpy:2330
 translate Chinese day15_sam_bathhouse_scene_389f376f:
@@ -3754,19 +3754,19 @@ translate Chinese day15_sam_bathhouse_scene_389f376f:
 translate Chinese day15_sam_bathhouse_scene_31beb690:
 
     # "There's no hesitation: no sooner is your tip nestled between the lips of her sex than Sam is pushing downwards, pressing you slickly up and inside."
-    "每一丝毫犹豫，你的龟头一碰到Sam的性器唇瓣之间，Sam就重重地往下坐，压着你的阴茎深深地滑入到她的体内。"
+    "没有一丝犹豫：你的龟头刚抵进她的阴唇之间，Sam就往下一坐，把你湿滑地压了进去。"
 
 # game/script morocco samuel.rpy:2350
 translate Chinese day15_sam_bathhouse_scene_ea59449c:
 
     # "Her muzzle drops open, and from the way she tenses you almost expect a shout, or a yelp."
-    "她嘴巴张开，从她全身紧绷的样子来看，你几乎要叫出声来。"
+    "她的嘴张开了，看她浑身绷紧的样子，你几乎以为她会大喊或尖叫出来。"
 
 # game/script morocco samuel.rpy:2352
 translate Chinese day15_sam_bathhouse_scene_0bbcf146:
 
     # "Something more than the breathy, gratified sigh as she takes you to the hilt. Sam's tail sways and twitches, brushing over your chest excitedly."
-    "当她坐到你的根部时，发出了一声满足的，带着喘息的长叹。Sam的尾巴摇动着，抽动着，兴奋地扫过你的胸膛"
+    "结果却只是一声带着喘息的满足长叹，她把你整根吞了进去。Sam的尾巴摇摆着、抽动着，兴奋地扫过你的胸口。"
 
 # game/script morocco samuel.rpy:2354
 translate Chinese day15_sam_bathhouse_scene_8c2c3217:
@@ -3790,25 +3790,25 @@ translate Chinese day15_sam_bathhouse_scene_8491bf8a:
 translate Chinese day15_sam_bathhouse_scene_c08948c3:
 
     # "And as you come to terms with that, she begins to move, raising her hips and then letting them fall again in a purposeful, steady rhythm, slow enough to give you plenty of time to savor each moment of penetration."
-    "现在你已经完全接受了这个事实，Sam也开始动了起来，抬起她的臀部在重重坐下，节奏很稳定，很缓慢，让你有足够的时间体验每一次插入时的快感。"
+    "现在你已经接受了这个事实，Sam也开始动了起来，抬起臀部再坐下，节奏稳定而缓慢，让你有足够的时间体会每一次插入的快感。"
 
 # game/script morocco samuel.rpy:2364
 translate Chinese day15_sam_bathhouse_scene_873722b5:
 
     # "You reach out, taking her hips in both paws. It isn't as though she needs the help for you to guide her. But, when you squeeze your fingers into that slim, ruddy-furred rump, and your claws rake through Sam's pelt, the maned wolf lets out an appreciative moan."
-    "你伸出双爪，抓住了她的翘臀。倒不是她需要你的帮助引导，而是为了双方更爽。当你的手指深深陷入她纤细，长着红褐色毛发的臀部，再轻轻抚摸她的毛皮时，鬃狼就会发出满足的呻吟。"
+    "你伸出双爪，握住她的臀部。倒不是她需要你帮着引导。但当你的手指陷进那纤细的、红褐色毛发的臀部，爪子划过Sam的皮毛时，鬃狼发出了一声满足的呻吟。"
 
 # game/script morocco samuel.rpy:2366
 translate Chinese day15_sam_bathhouse_scene_bd275b2c:
 
     # "And, when you {i}do{/i} give an encouraging tug, pulling Sam back and against you, she swiftly begins to buck faster, throaty moans filling the room as she pleasures herself on you."
-    "而且，当你{i}确实{/i}给她一些肯定的拉拽，将Sam拉回并背紧贴着你，她就迅速地开始更快更猛烈的起伏，喉咙里发出的呻吟响彻整个房间，她在你身上取悦自己。"
+    "而当你{i}真的{/i}鼓励地一拉，把Sam拉回来贴紧你时，她立刻起伏得更快了，喉咙里的呻吟充满了整个房间，她在你身上取悦着自己。"
 
 # game/script morocco samuel.rpy:2368
 translate Chinese day15_sam_bathhouse_scene_5462cdbf:
 
     # "You rise to meet her, unable to stifle your own heated groaning."
-    "你顶起来迎合他，感觉异常火热，不由地呻吟起来。"
+    "你向上迎合她，忍不住发出火热的呻吟。"
 
 # game/script morocco samuel.rpy:2370
 translate Chinese day15_sam_bathhouse_scene_94abddd9:
@@ -3832,13 +3832,13 @@ translate Chinese day15_sam_bathhouse_scene_8998605d:
 translate Chinese day15_sam_bathhouse_scene_117423fd:
 
     # "She rides you smoothly, but with every passing second you can feel her tempo building as she sets about pleasuring herself on your straining erection."
-    "她流畅自如地“骑”在你身上，用你硬如铁阴茎取悦自己，每过一秒速度越来越快。"
+    "她流畅自如地“骑”在你身上，用你硬如铁的阴茎取悦自己，每过一秒速度都在加快。"
 
 # game/script morocco samuel.rpy:2380
 translate Chinese day15_sam_bathhouse_scene_85c6753b:
 
     # "You reach up, stroking her thighs, the fur soft and inviting despite the lingering dampness."
-    "你伸出手抚摸着她的大腿，她的毛发虽然有些潮湿但柔然而诱人。"
+    "你伸手抚摸着她的大腿，她的毛虽然还有些潮湿，却柔软而诱人。"
 
 # game/script morocco samuel.rpy:2382
 translate Chinese day15_sam_bathhouse_scene_4ee1fc93:
@@ -3850,7 +3850,7 @@ translate Chinese day15_sam_bathhouse_scene_4ee1fc93:
 translate Chinese day15_sam_bathhouse_scene_d4efbe91:
 
     # "And the moment she stops trying, the maned wolf's back bows, and you see her eyes squeeze shut. She slams herself down and into your crotch. Her hips jerk once... twice... then she shudders, and lets out an oddly strangled squeak."
-    "就在她快要缴械投降的那一刻，鬃狼弯起背，你看见她眼睛紧紧闭上。她猛地向下坐入你的胯部。她的臀部一次两次地震动...然后她浑身颤抖，发出了一声奇怪的像是被扼住的尖叫。"
+    "就在她不再强忍的那一刻，鬃狼弓起背，你看见她紧紧闭上眼睛。她猛地向下坐进你的胯间。她的臀部抽动了一下……两下……然后她浑身颤抖，发出一声奇怪的、像被掐住的尖叫。"
 
 # game/script morocco samuel.rpy:2386
 translate Chinese day15_sam_bathhouse_scene_60e06056:
@@ -3886,7 +3886,7 @@ translate Chinese day15_sam_bathhouse_scene_9d73f1c5:
 translate Chinese day15_sam_bathhouse_scene_5e40e50f:
 
     # "You're holding her close, possessively, when your cock jerks, and you feel heat bloom around your well-buried tip."
-    "你紧紧地抱着她，展现出慢慢地占有欲，你的阴茎深深地插在Sam体内，抽动着，一股温暖热流在你的龟头周围绽放开来。"
+    "你占有般紧紧抱着她，阴茎一跳，你感到深埋其中的龟头周围绽开一股热流。"
 
 # game/script morocco samuel.rpy:2400
 translate Chinese day15_sam_bathhouse_scene_78d55d27:
@@ -3898,7 +3898,7 @@ translate Chinese day15_sam_bathhouse_scene_78d55d27:
 translate Chinese day15_sam_bathhouse_scene_f9e64bbf:
 
     # s "[name]!"
-    s "[name]!"
+    s "[name]！"
 
 # game/script morocco samuel.rpy:2404
 translate Chinese day15_sam_bathhouse_scene_696ab189:
@@ -3910,7 +3910,7 @@ translate Chinese day15_sam_bathhouse_scene_696ab189:
 translate Chinese day15_sam_bathhouse_scene_33ac8bad:
 
     # "Watching climax overtake Sam is enough to drive home just how close you are, yourself. She seems to be able to tell from the way you tense up underneath her; glancing over her shoulder, the maned wolf favors you with her blazing eyes shot through with lust."
-    "看着Sam沉静在高潮里惹得你也快憋不住了。她似乎可以从身下你紧绷着的阴茎察觉出来；鬃狼扭过头，之后又用那双充满欲火的炙热眼眸凝视着你。"
+    "看着Sam沉浸在高潮里，你也意识到自己快到了。她似乎从你在她身下绷紧的样子察觉到了；鬃狼回头看了一眼，那双燃着欲火的眼睛望着你。"
 
 # game/script morocco samuel.rpy:2410
 translate Chinese day15_sam_bathhouse_scene_c384545c:
@@ -3922,7 +3922,7 @@ translate Chinese day15_sam_bathhouse_scene_c384545c:
 translate Chinese day15_sam_bathhouse_scene_cb9b238a:
 
     # p "I-inside?"
-    p "在...在里面？"
+    p "在……在里面？"
 
 # game/script morocco samuel.rpy:2414
 translate Chinese day15_sam_bathhouse_scene_6311ff2b:
@@ -3958,31 +3958,31 @@ translate Chinese day15_sam_bathhouse_scene_679ec7db:
 translate Chinese day15_sam_bathhouse_scene_0d2fea45:
 
     # "Soon enough she's crying out, squirming frantically on you as you empty yourself."
-    "很快，她哭了出来，当你清空你的弹夹的时候她疯狂地在你的身上扭动。"
+    "很快她就叫出声来，在你射空自己的时候，在你身上疯狂地扭动。"
 
 # game/script morocco samuel.rpy:2426
 translate Chinese day15_sam_bathhouse_scene_3ec2e571:
 
     # "You're so thoroughly drained by the time your prick stops twitching that you half expect your tail to have shortened. But even as you recover your wits, Sam trembles unsteadily. Her toes clench and relax a few times, and she pants into the water, but another full minute goes by before she can say anything."
-    "当你的阴茎停止抽搐的时候，你已经筋疲力尽，你甚至认为你的尾巴短了一截。当你缓过神来的时候，Sam仍在不断地颤抖。她的脚趾头收紧又放松了好几次，她对着水面喘着气，过了好几分钟才能开口说话。"
+    "当你的阴茎停止抽动时，你已经被榨得一干二净，甚至怀疑自己的尾巴都短了一截。你缓过神来的时候，Sam仍在不停地颤抖。她的脚趾蜷起又放松了好几次，对着水面喘着气，又过了整整一分钟才能开口说话。"
 
 # game/script morocco samuel.rpy:2428
 translate Chinese day15_sam_bathhouse_scene_27bf24da:
 
     # s "God's sake, [name], that was intense... oh, I needed that. You needed that?"
-    s "天哪，[name]，这太刺激了...啊，我需要那个。你需要吗？"
+    s "天哪，[name]，这太刺激了……啊，我需要那个。你需要吗？"
 
 # game/script morocco samuel.rpy:2430
 translate Chinese day15_sam_bathhouse_scene_f76a2054:
 
     # p "Y-yeah."
-    p "是...是啊。"
+    p "是……是啊。"
 
 # game/script morocco samuel.rpy:2432
 translate Chinese day15_sam_bathhouse_scene_5f3c0b91:
 
     # "Not as much, you admit to yourself, as Sam seems to have. But it doesn't need to be said that it was clearly worth it."
-    "你暗自承认，Sam没有那么需要那个。但是，无需多言，这显然值得。"
+    "你暗自承认，你没有Sam看起来那么需要。但不用说，这显然很值得。"
 
 # game/script morocco samuel.rpy:2434
 translate Chinese day15_sam_bathhouse_scene_deaa7b69:
@@ -4000,7 +4000,7 @@ translate Chinese day15_sam_bathhouse_scene_28497cbc:
 translate Chinese day15_sam_bathhouse_scene_21fc6066:
 
     # p "I guess, uh. Sorry for the mess..."
-    p "我想，呃。抱歉弄得这么乱..."
+    p "我想，呃。抱歉弄得这么乱……"
 
 # game/script morocco samuel.rpy:2450
 translate Chinese day15_sam_bathhouse_scene_a4169dc8:
@@ -4030,25 +4030,25 @@ translate Chinese day15_sam_bathhouse_scene_647066d7:
 translate Chinese day15_sam_bathhouse_scene_217e22c9:
 
     # s "The bathhouse. Have to find a way to be more discreet on the {i}Conway{/i}, I hope you know."
-    s "和在这里的澡堂不一样，在康威上要找个更加隐蔽的地方，我希望你明白。"
+    s "澡堂。你得明白，在{i}Conway{/i}号上，我们得想办法更隐蔽些。"
 
 # game/script morocco samuel.rpy:2463
 translate Chinese day15_sam_bathhouse_scene_0f80f4c1:
 
     # p "Or wait until the next port..."
-    p "或者说等到下一个港口..."
+    p "或者说等到下一个港口……"
 
 # game/script morocco samuel.rpy:2465
 translate Chinese day15_sam_bathhouse_scene_0681ae03:
 
     # s "No bloody way I'd want to wait 'til the next port for that... But, we'll have to see."
-    s "我才不要等到下一个港口才...但是，我们得看看情况。"
+    s "我才不要等到下一个港口才……但是，我们得看看情况。"
 
 # game/script morocco samuel.rpy:2467
 translate Chinese day15_sam_bathhouse_scene_217fed73:
 
     # p "How do you usually do it, if you want to... you know.{w} Spend some time."
-    p "如果你想...你会怎么做，你知道的。{w}释放一下压力。"
+    p "如果你想……你会怎么做，你知道的。{w}释放一下压力。"
 
 # game/script morocco samuel.rpy:2469
 translate Chinese day15_sam_bathhouse_scene_3bbca04b:
@@ -4060,7 +4060,7 @@ translate Chinese day15_sam_bathhouse_scene_3bbca04b:
 translate Chinese day15_sam_bathhouse_scene_1e3491ce:
 
     # s "I don't."
-    s "没"
+    s "我不弄。"
 
 # game/script morocco samuel.rpy:2473
 translate Chinese day15_sam_bathhouse_scene_f3bca45a:
@@ -4072,7 +4072,7 @@ translate Chinese day15_sam_bathhouse_scene_f3bca45a:
 translate Chinese day15_sam_bathhouse_scene_ed09e29d:
 
     # s "In ports sometimes. Not with crew, though. And other times-...{w} Never mind."
-    s "在港口的时候偶尔会。虽然不会和船员们一起。但是其他时候...{w}还是算了。"
+    s "在港口的时候偶尔会。虽然不会和船员们一起。但是其他时候……{w}还是算了。"
 
 # game/script morocco samuel.rpy:2477
 translate Chinese day15_sam_bathhouse_scene_4790bc6c:
@@ -4084,7 +4084,7 @@ translate Chinese day15_sam_bathhouse_scene_4790bc6c:
 translate Chinese day15_sam_bathhouse_scene_c3cd65a9:
 
     # "A smile spreads across her muzzle and tugs on the edges of her lips. Warm as the water you're in."
-    "一抹微笑在她的在她的吻部舒展开来，牵动着她的嘴唇。温暖如你所浸泡的池水。"
+    "一抹微笑在她的吻部舒展开来，牵动着嘴角。温暖得就像你们泡着的池水。"
 
 # game/script morocco samuel.rpy:2481
 translate Chinese day15_sam_bathhouse_scene_78596d65:
@@ -4096,13 +4096,13 @@ translate Chinese day15_sam_bathhouse_scene_78596d65:
 translate Chinese day15_sam_bathhouse_scene_cd28964f:
 
     # "Sam beckons you with a paw, and when you slide yourself over to the maned wolf, she wraps her arms tightly behind your back. She is, after all, still {i}Sam{/i}, despite everything—still with that affable grin, and her tail wagging."
-    "Sam招收示意你过去，当你滑到她的身边的时候，她用双手环抱住你的背。毕竟，她还是Sam，抛开这一切，她还是带着那和善的笑容，尾巴摇晃着。"
+    "Sam招手示意你过去，你滑到鬃狼身边时，她用双臂紧紧环住你的背。毕竟，不管怎样，她还是{i}Sam{/i}——还是那副和善的笑容，尾巴摇个不停。"
 
 # game/script morocco samuel.rpy:2490
 translate Chinese day15_sam_bathhouse_scene_c56c2ef4:
 
     # s "I {i}like{/i} you, [name].{w} You're fun."
-    s "我{i}喜欢{/i} 你, [name]。{w}你很有趣。"
+    s "我{i}喜欢{/i}你，[name]。{w}你很有趣。"
 
 # game/script morocco samuel.rpy:2492
 translate Chinese day15_sam_bathhouse_scene_46b7d185:
@@ -4114,7 +4114,7 @@ translate Chinese day15_sam_bathhouse_scene_46b7d185:
 translate Chinese day15_sam_bathhouse_scene_657b5943:
 
     # s "Thanks for letting me go to a bathhouse. This is proper cultured, right?"
-    s "谢谢你让我和你一起来这个澡堂。这句话真有文化，是吧？"
+    s "谢谢你陪我来澡堂。这可算是很有文化了，对吧？"
 
 # game/script morocco samuel.rpy:2496
 translate Chinese day15_sam_bathhouse_scene_a6781e96:
@@ -4126,7 +4126,7 @@ translate Chinese day15_sam_bathhouse_scene_a6781e96:
 translate Chinese day15_sam_bathhouse_scene_fb7b8a53:
 
     # "Later, though. Right now, what matters is your own arms, circling the maned wolf. More than just the afterglow of your impulsive coupling, blending as it does with the pleasantly humid air of the bath, you're taken by conviction that you've made the right choice."
-    "不过那是之后的事了。现在唯一重要的，是此时此刻抱在怀里的鬃狼。不止是你们冲动交合后的余韵，还有相互衬托的氤氲水汽，都让你深信这次不白来。"
+    "不过那是之后的事了。现在唯一重要的，是此时此刻抱在怀里的鬃狼。冲动交合后的余韵和氤氲的水汽交融在一起，但这不只是余韵：你深信自己做了正确的选择。"
 
 # game/script morocco samuel.rpy:2500
 translate Chinese day15_sam_bathhouse_scene_57d0daf8:
@@ -4150,7 +4150,7 @@ translate Chinese day15_communal_bath_26849b3c:
 translate Chinese day15_communal_bath_6161cdda:
 
     # "As nice as it would be to spend more time with her, you don't want to cause problems—or to be a distraction. The two of them know each other well, and you don't just feel like ruining their opportunity to relax."
-    "尽管继续和她待一会很美好，但是你不想惹麻烦，或者说你不想成为显眼包。她们两位都很了解对方，而且你不想毁掉她们放松的机会。"
+    "尽管能多陪她一会儿很好，但你不想惹麻烦，也不想让她分心。她们俩彼此很熟，你也不想坏了她们放松的机会。"
 
 # game/script morocco samuel.rpy:2552
 translate Chinese day15_communal_bath_9d02feca:
@@ -4192,7 +4192,7 @@ translate Chinese day15_communal_bath_f980da4e:
 translate Chinese day15_communal_bath_d8a439fc:
 
     # "Right... you don't really speak of lick of the local language."
-    "对...你确实不会说当地的语言。"
+    "对……你确实不会说当地的语言。"
 
 # game/script morocco samuel.rpy:2584
 translate Chinese day15_communal_bath_f3534669:
@@ -4204,7 +4204,7 @@ translate Chinese day15_communal_bath_f3534669:
 translate Chinese day15_communal_bath_c5547495:
 
     # "You wait a little longer, until—you assume—they might have been taken care of by someone. Pushing open the door you're greeted by the same wall of steam as you slip through it."
-    "你又等了一会，直到你猜他们已经被其他人招待了。推开门，迎接你的是同样的水汽墙，你快步走了进去。"
+    "你又等了一会儿，猜她们大概已经有人招待了。你推开门，迎面还是那堵水汽墙，你快步走了进去。"
 
 # game/script morocco samuel.rpy:2599
 translate Chinese day15_communal_bath_0767ee94:
@@ -4276,7 +4276,7 @@ translate Chinese day15_communal_bath_e4efd126:
 translate Chinese day15_communal_bath_a25ef8dd:
 
     # "She welcomes you—Or so you assume at least—whatever she said sounded a bit like 'harbor'."
-    "她欢迎你，至少你是这么认为的，不管她说什么，她的话听起来就像一个“港口”一样，给你提供庇护。"
+    "她在欢迎你——至少你是这么猜的——她说的话听着有点像“harbor”。"
 
 # game/script morocco samuel.rpy:2631
 translate Chinese day15_communal_bath_88d7e084:
@@ -4288,7 +4288,7 @@ translate Chinese day15_communal_bath_88d7e084:
 translate Chinese day15_communal_bath_5b0e1f94:
 
     # "You must look absolutely clueless, so she motions for you to take off your clothes and withdraws an example from the nook, unfurling it into a towel to show you what she means."
-    "你想起来完全不知所措，所以她示意你脱掉衣服，又从壁龛里拿出一条布料展开成毛巾，让你有样学样。"
+    "你看起来完全不知所措，所以她示意你脱掉衣服，又从壁龛里拿出一条布料展开成毛巾，让你有样学样。"
 
 # game/script morocco samuel.rpy:2635
 translate Chinese day15_communal_bath_129bdc52:
@@ -4300,13 +4300,13 @@ translate Chinese day15_communal_bath_129bdc52:
 translate Chinese day15_communal_bath_a0b406c1:
 
     # "Once she gives you some privacy you begin to undress. Somewhat wearily so, and wrap the towel around your waist to keep your modesty."
-    "当她给你一点隐私以后你就开始脱衣服。有些疲惫地脱下后，你在你的腰间围了一条毛巾来保持体面。"
+    "等她留给你一点私人空间，你就开始脱衣服。你有些小心翼翼，脱完后把毛巾围在腰间遮羞。"
 
 # game/script morocco samuel.rpy:2648
 translate Chinese day15_communal_bath_ba20b278:
 
     # "With that done you step out of the nook again and search for the attendant, who begins to usher you into the next room."
-    "完成后，你再次走出壁龛，寻找引导你去下一个房间的澡堂侍者。"
+    "脱好后，你再次走出壁龛，找到侍者，她开始领你去下一个房间。"
 
 # game/script morocco samuel.rpy:2660
 translate Chinese day15_communal_bath_e9731313:
@@ -4318,7 +4318,7 @@ translate Chinese day15_communal_bath_e9731313:
 translate Chinese day15_communal_bath_f6fac43d:
 
     # "When you sit, she takes you by the shoulder, guiding you down to lay flat on your stomach. She speaks, but perhaps only to herself—once again you don't recognize any of it."
-    "当你坐下，她扶住你的肩膀，示意你平躺放松。她说着话，或者是自言自语，因为你一个字也听不懂。"
+    "你坐下后，她扶住你的肩膀，引着你趴下。她又说了些什么，也可能只是自言自语——你还是一个字也听不懂。"
 
 # game/script morocco samuel.rpy:2667
 translate Chinese day15_communal_bath_e0580b4f:
@@ -4432,13 +4432,13 @@ translate Chinese day15_communal_bath_a556293f:
 translate Chinese day15_communal_bath_f6e837a4:
 
     # "Your caution at making your way through is allayed by the sight of several people sharing a large pool in a room filled with dense steam."
-    "你看见几个人在一个充满厚厚水汽的房间里共同泡在一个大池子里，这缓解了你穿行过程中的谨慎。"
+    "看到一个蒸汽弥漫的房间里有几个人共泡在一个大池子里，你一路上的谨慎才放了下来。"
 
 # game/script morocco samuel.rpy:2732
 translate Chinese day15_communal_bath_25205919:
 
     # "That probably means that you haven't gotten lost.{w} Yet."
-    "那可能意味着你走对了。至少现在是。"
+    "这大概说明你没走错。{w}至少现在还没有。"
 
 # game/script morocco samuel.rpy:2734
 translate Chinese day15_communal_bath_aac66aae:
@@ -4450,7 +4450,7 @@ translate Chinese day15_communal_bath_aac66aae:
 translate Chinese day15_communal_bath_55a5fb2d:
 
     # "Self consciousness begins to rear its head as you step through the hallways and into the room."
-    "当你穿过走廊走进房间时，你开始回过神来。"
+    "穿过走廊走进房间时，你开始有点难为情了。"
 
 # game/script morocco samuel.rpy:2742
 translate Chinese day15_communal_bath_477947fc:
@@ -4474,7 +4474,7 @@ translate Chinese day15_communal_bath_1c53b6fe:
 translate Chinese day15_communal_bath_872b79a9:
 
     # "You choose to take another bench, sitting down carefully—almost afraid to break the delicately carved seat—and feeling over your pelt, surprises that there is anything left."
-    "你选择了另一张长椅，小心翼翼地坐下，害怕弄坏了这雕刻精美的长椅，之后你抚摸自己的毛发，竟然一点脏东西都没有留下。"
+    "你挑了另一张长椅，小心翼翼地坐下，生怕弄坏这雕刻精美的座椅。你摸了摸自己的毛，惊讶地发现毛居然还在。"
 
 # game/script morocco samuel.rpy:2752
 translate Chinese day15_communal_bath_8534ca42:
@@ -4486,7 +4486,7 @@ translate Chinese day15_communal_bath_8534ca42:
 translate Chinese day15_communal_bath_4ef71cba:
 
     # "Do you just... set aside the towel?"
-    "你就这样...把毛巾放在一边吗？"
+    "你就这样……把毛巾放在一边吗？"
 
 # game/script morocco samuel.rpy:2756
 translate Chinese day15_communal_bath_4ab70451:
@@ -4504,7 +4504,7 @@ translate Chinese day15_communal_bath_8758ed77:
 translate Chinese day15_communal_bath_87810ec6:
 
     # "It takes another minute or so before you manage to collect enough confidence to undo the towel and set it aside."
-    "又过了一分钟左右，你终于鼓起鼓起足够的勇气揭开毛巾，并把它放在一边。"
+    "又过了一分钟左右，你终于鼓起足够的勇气解开毛巾，把它放在一边。"
 
 # game/script morocco samuel.rpy:2762
 translate Chinese day15_communal_bath_f9aa69c9:
@@ -4528,19 +4528,19 @@ translate Chinese day15_communal_bath_7e19826a:
 translate Chinese day15_communal_bath_7a5e9a25:
 
     # "Can hardly chicken out now... Not with all these people around, who seem to not have the same problem as you."
-    "现在可不能退缩啊...别人都没有你这样的问题。"
+    "现在可不能退缩啊……别人都没有你这样的问题。"
 
 # game/script morocco samuel.rpy:2774
 translate Chinese day15_communal_bath_99735e73:
 
     # "In for a penny, in for a pound.{w} You mentally prepare yourself, take a deep breath and slip into the pool and immediately find yourself fighting to keep your composure as you gradually begin to cook."
-    "一不做二不休。{w} 你做好心理准备之后就深吸一口气，滑入池中。但是很快你发现自己很难强装镇定，因为你感觉到自己快被煮熟了。"
+    "一不做二不休。{w}你做好心理准备，深吸一口气，滑入池中。但很快你就发现自己很难强装镇定，因为你感觉自己快被煮熟了。"
 
 # game/script morocco samuel.rpy:2776
 translate Chinese day15_communal_bath_210eda5c:
 
     # "Thankfully the water isn't very deep, and it's supposed to be healthy, right?"
-    "幸运的是着水并不深，而且也很健康，是吧？"
+    "幸好这水不深，而且据说对身体有好处，是吧？"
 
 # game/script morocco samuel.rpy:2778
 translate Chinese day15_communal_bath_8f80bf50:
@@ -4576,13 +4576,13 @@ translate Chinese day15_communal_bath_d1d89d00:
 translate Chinese day15_communal_bath_6748a87c:
 
     # "Though, after a minute the initial discomfort gives way to a curious lassitude, as though the steam is drawing more than air from you when you exhale."
-    "不过，几分钟后，原本的不适慢慢转为了一种奇特的慵懒感，仿佛你呼出来的蒸汽也带出了其他东西。"
+    "不过，过了一会儿，最初的不适慢慢变成了一种奇特的慵懒，仿佛你每呼一口气，水汽带走的都不只是空气。"
 
 # game/script morocco samuel.rpy:2806
 translate Chinese day15_communal_bath_61f634a5:
 
     # "Maybe this is something you could grow used to."
-    "也许你会逐渐习惯上这样的洗浴。"
+    "也许你会逐渐习惯这样的洗浴。"
 
 # game/script morocco samuel.rpy:2808
 translate Chinese day15_communal_bath_f2d7b3c8:
@@ -4600,13 +4600,13 @@ translate Chinese day15_communal_bath_05af723f:
 translate Chinese day15_communal_bath_c47fa910:
 
     # "You thought the work you did at home would have prepared you, but something about your time on the {i}Conway{/i} drained you in different ways."
-    "你以为在家乡的劳作能让你有所准备，但是{i}康威{/i}号上的时光总是用全新的方式消耗着你的精力。"
+    "你以为在家乡的劳作能让你有所准备，但是{i}Conway{/i}号上的时光总是用全新的方式消耗着你的精力。"
 
 # game/script morocco samuel.rpy:2814
 translate Chinese day15_communal_bath_1b34baed:
 
     # "You lift your arms pull your whole body into a stretch, basking in that immediate blissful release it brings."
-    "你抬起手臂，全身伸了一个大大的懒腰，沉浸在着即刻带来的愉悦和放松中。"
+    "你抬起手臂，全身伸了一个大大的懒腰，沉浸在这立刻带来的愉悦和放松中。"
 
 # game/script morocco samuel.rpy:2816
 translate Chinese day15_communal_bath_1b14347d:
@@ -4636,13 +4636,13 @@ translate Chinese day15_communal_bath_8cf12cab:
 translate Chinese day15_communal_bath_2b0d502d:
 
     # "Or perhaps it is the exact opposite, and the topic of conversation is as banal as a vendor trying to overcharge for some apples...{w} Or whatever these small fruits were you saw being offered everywhere in town."
-    "或许恰恰相反，他们的话题可能平淡无奇，就像市场上大妈讨价还价一样..."
+    "又或许恰恰相反，他们聊的不过是些家常，就像小贩想在苹果上多收几个钱……{w}或者是城里到处都在卖的那种小果子，不管它叫什么。"
 
 # game/script morocco samuel.rpy:2826
 translate Chinese day15_communal_bath_e0be3c5b:
 
     # "You make a mental note to try them."
-    "你在心里面记下来他们。"
+    "你暗暗记下，回头要尝尝那些果子。"
 
 # game/script morocco samuel.rpy:2828
 translate Chinese day15_communal_bath_c9ad8e86:
@@ -4654,7 +4654,7 @@ translate Chinese day15_communal_bath_c9ad8e86:
 translate Chinese day15_communal_bath_d1ce2ed1:
 
     # "Someone leaves the pool and begins to dry himself off and you chide yourself for staring."
-    "有些兽离开了水池，开始擦干身体，你责备自己不该盯着看的。"
+    "有些兽离开了水池，开始擦干身体，你责备自己不该盯着看。"
 
 # game/script morocco samuel.rpy:2834
 translate Chinese day15_communal_bath_08fc4aca:
@@ -4672,7 +4672,7 @@ translate Chinese day15_communal_bath_cf95efe1:
 translate Chinese day15_communal_bath_0f9c4087:
 
     # "The water lapping gently against your sheath and your mind begins to wander..."
-    "水轻轻拍打着你的包皮，你的思绪开始游荡。"
+    "池水轻轻拍打着你的鞘，你的思绪开始飘荡……"
 
 # game/script morocco samuel.rpy:2840
 translate Chinese day15_communal_bath_d24a0ce0:
@@ -4702,7 +4702,7 @@ translate Chinese day15_communal_bath_ad0e2b0b:
 translate Chinese day15_communal_bath_4aec2ede:
 
     # "You begin to imagine her fur settling on you."
-    "你开始现象她的毛发贴在你身上的感觉。"
+    "你开始想象她的毛贴在你身上的感觉。"
 
 # game/script morocco samuel.rpy:2853
 translate Chinese day15_communal_bath_760527d8:
@@ -4720,7 +4720,7 @@ translate Chinese day15_communal_bath_82900d1e:
 translate Chinese day15_communal_bath_87c716d3:
 
     # "You imagine her smile as boyishly toothy when she leans back, arms still draped over your shoulders, crossing behind your neck. You don't have to ask what the maned wolf {i}wants{/i}."
-    "你想象着她向后靠时露出的男孩子般咧嘴的笑，双臂仍然搭在你的双肩上，在后颈处交叉。你不必问着鬃狼想{i}想{/i}要什么。"
+    "你想象着她向后靠时露出男孩子气的咧嘴笑，双臂仍然搭在你肩上，在你脖子后面交叉。你不必问鬃狼{i}想{/i}要什么。"
 
 # game/script morocco samuel.rpy:2859
 translate Chinese day15_communal_bath_67c81f84:
@@ -4732,13 +4732,13 @@ translate Chinese day15_communal_bath_67c81f84:
 translate Chinese day15_communal_bath_be858144:
 
     # "You frown, though not in your imagination."
-    "你也皱起眉头，不过不是在在幻想中。"
+    "你也皱起眉头，不过这次不是在幻想中。"
 
 # game/script morocco samuel.rpy:2873
 translate Chinese day15_communal_bath_b32c6523:
 
     # "Ah, you shouldn't!{w} And most certainly not here..."
-    "啊，你不应该！{w}而且绝对不该在这里..."
+    "啊，你不应该！{w}而且绝对不该在这里……"
 
 # game/script morocco samuel.rpy:2875
 translate Chinese day15_communal_bath_8b3c1b02:
@@ -4786,7 +4786,7 @@ translate Chinese day15_communal_bath_ae19991f:
 translate Chinese day15_communal_bath_a00bd965:
 
     # "You're led into another hallway that's branching two ways. You pick one and the door it leads to welcomes you back into the main area."
-    "你被引导了一条分岔的走廊，你选了一条路，然后你回到了大厅。"
+    "你走进了另一条分成两路的走廊。你选了一条，尽头的门把你带回了大厅。"
 
 # game/script morocco samuel.rpy:2903
 translate Chinese day15_communal_bath_f36dc465:
@@ -4798,7 +4798,7 @@ translate Chinese day15_communal_bath_f36dc465:
 translate Chinese day15_communal_bath_a7e0b870:
 
     # "You see neither Samuel nor Rajeeyah, and wonder if they'll just come out looking like boiled chicken at this rate."
-    "你没有看到Samuel和Rajeeyah，你很想知道她们走出来的时候是不是红得像煮熟的鸡肉。"
+    "你没有看到Samuel和Rajeeyah，你很想知道照这样下去，她们走出来的时候会不会像煮熟的鸡一样。"
 
 # game/script morocco samuel.rpy:2907
 translate Chinese day15_communal_bath_0ca96b5f:
@@ -5038,19 +5038,19 @@ translate Chinese day15_communal_bath_6f9ba99b:
 translate Chinese day15_sam_hotel_intro_e5b946f5:
 
     # p "You don't suppose Perce is back already, do you?"
-    p "你觉得Perce回来的吗？"
+    p "你觉得Perce不会已经回来了吧？"
 
 # game/script morocco samuel.rpy:3079
 translate Chinese day15_sam_hotel_intro_4a8d2e85:
 
     # "The maned wolf scowls, flicking her left ear, although you can't help but notice how she searches the {i}Conway{/i}'s railings from the dockside, just in case."
-    "鬃狼皱起眉头，抖了抖她的左耳，尽管你不禁注意到她是怎么从码头边上扫视着{i}康威{/i}号的栏杆，为了以防万一。"
+    "鬃狼皱起眉头，抖了抖左耳，不过你还是注意到，她从码头上仔细扫视了一遍{i}Conway{/i}号的栏杆，以防万一。"
 
 # game/script morocco samuel.rpy:3081
 translate Chinese day15_sam_hotel_intro_79c25bdc:
 
     # s "Hopin' he's not. Wouldn't be good for me plans an' all if I had to deck the bloody jackal. Just want to get something from below-decks, and ask a question or two."
-    s "希望他还没回来。揍那只该死的豺狼对我的计划可不好。我只是想从甲板下面拿一点东西，再吻一两个问题。"
+    s "希望他还没回来。要是我得揍那只该死的豺狼，我的计划可就泡汤了。我只是想从甲板下面拿点东西，再问一两个问题。"
 
 # game/script morocco samuel.rpy:3083
 translate Chinese day15_sam_hotel_intro_750e8dc3:
@@ -5074,19 +5074,19 @@ translate Chinese day15_sam_hotel_intro_ff978d6e:
 translate Chinese day15_sam_hotel_intro_2c585842:
 
     # r "Mr. O'Connor. And-ah, Mr. [family_name], I see. Can I help you two?"
-    r "O'Connor先生。啊，还有[family_name]先生，我明白了。有什么需要帮助的？"
+    r "O'Connor先生。还有——啊，[family_name]先生也来了。有什么需要我帮忙的吗？"
 
 # game/script morocco samuel.rpy:3110
 translate Chinese day15_sam_hotel_intro_dfd438a3:
 
     # s "Me, yes, you can. Not him."
-    s "是的，我需要你的帮助，但是不是他。"
+    s "我需要，你帮得上。他不用。"
 
 # game/script morocco samuel.rpy:3112
 translate Chinese day15_sam_hotel_intro_f429ce9f:
 
     # s "I've a question. An' you, though, [name]..."
-    s "我有个问题。不过你呢，[name]..."
+    s "我有个问题。不过你呢，[name]……"
 
 # game/script morocco samuel.rpy:3116
 translate Chinese day15_sam_hotel_intro_8a9cd7be:
@@ -5098,7 +5098,7 @@ translate Chinese day15_sam_hotel_intro_8a9cd7be:
 translate Chinese day15_sam_hotel_intro_c340c888:
 
     # s "In me chest, there's a bag—a coin purse. You'll know, 'cause it jingles like a coin purse. And I know how many of them be in it, so..."
-    s "在我的箱子里，有一个袋子，准确来说是一个钱袋。你认得出来，一摇就知道。并且，我知道里面有多少钱，所以..."
+    s "在我的箱子里，有一个袋子，准确来说是一个钱袋。你认得出来，一摇就知道。并且，我知道里面有多少钱，所以……"
 
 # game/script morocco samuel.rpy:3120
 translate Chinese day15_sam_hotel_intro_2762664e:
@@ -5116,7 +5116,7 @@ translate Chinese day15_sam_hotel_intro_91eacbdb:
 translate Chinese day15_sam_hotel_intro_e161d9d7:
 
     # "You do wonder what the two are discussing."
-    "你真的很像知道她们在聊些什么。"
+    "你真的很想知道她们在聊些什么。"
 
 # game/script morocco samuel.rpy:3141
 translate Chinese day15_sam_hotel_intro_88cba52b:
@@ -5140,7 +5140,7 @@ translate Chinese day15_sam_hotel_intro_32c9a970:
 translate Chinese day15_sam_hotel_intro_e5ddb8e0:
 
     # "You find Sam's chest without too much difficulty. Inside are her clothes, some utensils, a deck of cards you spot, and a collection of small... jewelry?"
-    "你轻易地找到了Sam的箱子。里面是她的衣服，一些个人用品，你还发现了一叠纸牌，还有一堆...小首饰？"
+    "你轻易地找到了Sam的箱子。里面是她的衣服，一些个人用品，你还发现了一叠纸牌，还有一堆……小首饰？"
 
 # game/script morocco samuel.rpy:3156
 translate Chinese day15_sam_hotel_intro_0fba9d7a:
@@ -5170,7 +5170,7 @@ translate Chinese day15_sam_hotel_intro_400add30:
 translate Chinese day15_sam_hotel_intro_27fc134e:
 
     # "So, no great mystery about where they've gone to—probably desiring even more privacy."
-    "所以，她们来这里并没有什么奇怪的，也许是想要更多的隐私。"
+    "所以她们去了哪儿也就不难猜了——大概是想更私密些。"
 
 # game/script morocco samuel.rpy:3186
 translate Chinese day15_sam_hotel_intro_8b3e3484:
@@ -5188,7 +5188,7 @@ translate Chinese day15_sam_hotel_intro_143820d7:
 translate Chinese day15_sam_hotel_intro_68be7f6b:
 
     # r "Well... him."
-    r "嗯...他的事。"
+    r "嗯……他的事。"
 
 # game/script morocco samuel.rpy:3192
 translate Chinese day15_sam_hotel_intro_d7992274:
@@ -5212,13 +5212,13 @@ translate Chinese day15_sam_hotel_intro_93096b23:
 translate Chinese day15_sam_hotel_intro_7d7f2f20:
 
     # r "Anyway..."
-    r "总之..."
+    r "总之……"
 
 # game/script morocco samuel.rpy:3202
 translate Chinese day15_sam_hotel_intro_9b7411eb:
 
     # r "And... well."
-    r "还有...好吧。"
+    r "还有……好吧。"
 
 # game/script morocco samuel.rpy:3204
 translate Chinese day15_sam_hotel_intro_4da92668:
@@ -5254,7 +5254,7 @@ translate Chinese day15_sam_hotel_intro_d0f9f0ba:
 translate Chinese day15_sam_hotel_intro_1bd85ecf:
 
     # r "Or just ask him. He can interpret."
-    r "或者直接问他。他会理解的。"
+    r "或者直接问他。他可以当翻译。"
 
 # game/script morocco samuel.rpy:3232
 translate Chinese day15_sam_hotel_intro_fdcde99f:
@@ -5272,7 +5272,7 @@ translate Chinese day15_sam_hotel_intro_2a2355a5:
 translate Chinese day15_sam_hotel_intro_98d2f54e:
 
     # s "So if we turn up kidnapped..."
-    s "那么，如果我们被绑了..."
+    s "那么，如果我们被绑了……"
 
 # game/script morocco samuel.rpy:3242
 translate Chinese day15_sam_hotel_intro_649b9c5c:
@@ -5302,7 +5302,7 @@ translate Chinese day15_sam_hotel_intro_dbf89b40:
 translate Chinese day15_sam_hotel_intro_de91c49d:
 
     # "You hold up the purse, and she takes it, judging the weight in her paw—though, from the glint in her eyes, she's not seriously accusing you."
-    "你举起钱袋，她接过去摇了摇，又在爪中掂量掂量它的重量，眼睛一闪，看来数量没错了。"
+    "你举起钱袋，她接过去，在爪里掂了掂分量——不过从她眼里的闪光来看，她并不是真的在怀疑你。"
 
 # game/script morocco samuel.rpy:3269
 translate Chinese day15_sam_hotel_intro_8d47e4a2:
@@ -5404,7 +5404,7 @@ translate Chinese day15_sam_hotel_intro_bd8810a6:
 translate Chinese day15_sam_hotel_intro_c96607a6:
 
     # s "Still don't feel like bein' on the ship. So, unless you've got strong feelings otherwise, you're enlisted on an errand."
-    s "我看你还是不想待在船上。所以，除非你强烈反对，要不然你就要被征召去跑个差事。"
+    s "我还是不想待在船上。所以，除非你强烈反对，你就被征去跑个腿了。"
 
 # game/script morocco samuel.rpy:3307
 translate Chinese day15_sam_hotel_intro_d86e0ec8:
@@ -5422,7 +5422,7 @@ translate Chinese day15_sam_hotel_intro_ed8e19d1:
 translate Chinese day15_sam_hotel_intro_81c82914:
 
     # p "No!{w} Of course not, I'd love to!"
-    p "不！{w}当然没有，我很乐意。"
+    p "不！{w}当然没有，我很乐意！"
 
 # game/script morocco samuel.rpy:3315
 translate Chinese day15_sam_hotel_intro_7429a8a1:
@@ -5446,13 +5446,13 @@ translate Chinese day15_sam_hotel_intro_0cd0579f:
 translate Chinese day15_sam_hotel_intro_d72aa207:
 
     # p "What is that? An herb, or something?"
-    p "那是什么？草药，还是其他的什么。"
+    p "那是什么？草药还是别的什么？"
 
 # game/script morocco samuel.rpy:3333
 translate Chinese day15_sam_hotel_intro_5459cb9d:
 
     # s "No. Supposed to be a great market."
-    s "不。据说是一个大市场。"
+    s "不是。据说是一个大市场。"
 
 # game/script morocco samuel.rpy:3337
 translate Chinese day15_sam_hotel_intro_ebf4f429:
@@ -5470,7 +5470,7 @@ translate Chinese day15_sam_hotel_intro_90319b69:
 translate Chinese day15_sam_hotel_intro_90b1580d:
 
     # s "Well, I don't suppose they're selling used chamberpots, do you?"
-    s "呃，我想他们总不会再卖用过的夜壶吧，你觉得呢？"
+    s "呃，我想他们总不会在卖用过的夜壶吧，你说呢？"
 
 # game/script morocco samuel.rpy:3347
 translate Chinese day15_sam_hotel_intro_9b34fdb3:
@@ -5482,7 +5482,7 @@ translate Chinese day15_sam_hotel_intro_9b34fdb3:
 translate Chinese day15_sam_hotel_intro_ad953af9:
 
     # "She ducks behind you, giving you a shove to push you aside and make room for a passing wagon."
-    "她闪到你身后，把你猛猛推开，给疾驰而过的马车让路。"
+    "她闪到你身后，把你一把推开，给一辆经过的马车让路。"
 
 # game/script morocco samuel.rpy:3355
 translate Chinese day15_sam_hotel_intro_248c07a3:
@@ -5512,13 +5512,13 @@ translate Chinese day15_sam_hotel_intro_31db4c95:
 translate Chinese day15_sam_hotel_intro_f40b983c:
 
     # p "We have enough time for dice on the ship. I don't need to spend my time out here with it as well."
-    p "我们在船上有足够的时间投色子。我可不想在外面浪费时间做这个。"
+    p "我们在船上有的是时间掷骰子。我可不想出来了还玩这个。"
 
 # game/script morocco samuel.rpy:3379
 translate Chinese day15_sam_hotel_intro_3c7a9299:
 
     # p "This market beats it by a mile. As does spending some time with you."
-    p "这个市场可比赌博好强多了。和你待一起也是。"
+    p "这个市场可比赌博强多了。和你待在一起也是。"
 
 # game/script morocco samuel.rpy:3383
 translate Chinese day15_sam_hotel_intro_8a97c79c:
@@ -5536,13 +5536,13 @@ translate Chinese day15_sam_hotel_intro_875ce35a:
 translate Chinese day15_sam_hotel_intro_fff163da:
 
     # p "You can play just for the fun of it."
-    p "我们存粹是为了好玩。"
+    p "也可以只是玩着图个乐嘛。"
 
 # game/script morocco samuel.rpy:3391
 translate Chinese day15_sam_hotel_intro_f6ce71c2:
 
     # s "Why did that take you so long to answer?"
-    s "你为啥沉默了这么久才回答。"
+    s "你为啥沉默了这么久才回答？"
 
 # game/script morocco samuel.rpy:3393
 translate Chinese day15_sam_hotel_intro_4c437084:
@@ -5554,7 +5554,7 @@ translate Chinese day15_sam_hotel_intro_4c437084:
 translate Chinese day15_sam_hotel_intro_36567dc2:
 
     # s "Sure you were."
-    s "是吗？"
+    s "是是是，你分心了。"
 
 # game/script morocco samuel.rpy:3397
 translate Chinese day15_sam_hotel_intro_e8fe8700:
@@ -5566,7 +5566,7 @@ translate Chinese day15_sam_hotel_intro_e8fe8700:
 translate Chinese day15_sam_hotel_intro_ffda04aa:
 
     # "The aroma of spices, and cooked meat, was both immediately recognizable... and immediately exotic. Sam lifts her muzzle, sniffing pointedly."
-    "空气中弥漫着香料和肉类的香气，充满着异域风情。Sam抬起了她的口鼻，特意地嗅了嗅。"
+    "空气中弥漫着香料和肉类的香气，既熟悉，又充满异域风情。Sam抬起了她的口鼻，特意地嗅了嗅。"
 
 # game/script morocco samuel.rpy:3401
 translate Chinese day15_sam_hotel_intro_59c30cc4:
@@ -5590,19 +5590,19 @@ translate Chinese day15_sam_hotel_intro_de849386:
 translate Chinese day15_sam_hotel_intro_1eb2124a:
 
     # "All around you are stalls filled with fruit, and candied dates, and carved wooden utensils. A seller has books, their titles inlaid with gold."
-    "你周围都摆满了水果，蜜枣还有雕刻过的木制器具。有个商人再卖书，书名镶着金边。"
+    "你周围都是摊位，摆满了水果、蜜枣和雕花木器。有个商人在卖书，书名用金线烫印。"
 
 # game/script morocco samuel.rpy:3420
 translate Chinese day15_sam_hotel_intro_1f7c47ef:
 
     # "You wonder what they're about. Something of incomparable value, you assume."
-    "你好奇这些书是关于什么的。你猜，有些书可能是无价之宝吧。"
+    "你好奇这些书写的是什么。你猜，大概都是些无价之宝吧。"
 
 # game/script morocco samuel.rpy:3422
 translate Chinese day15_sam_hotel_intro_880c5a11:
 
     # "One of the books is open, though, and you see columns of neat Arabic, facing columns of neat printed characters you {i}can{/i} read:"
-    "不过，其中一本书是翻开的，你看到一栏整齐的阿拉伯文，下面是一行行你{i}确实{/i}能读懂的印刷得整整齐齐的文字："
+    "不过有一本是翻开的，你看到一栏栏整齐的阿拉伯文，旁边对照着一栏栏你{i}能{/i}读懂的整齐印刷字："
 
 # game/script morocco samuel.rpy:3424
 translate Chinese day15_sam_hotel_intro_93d230a1:
@@ -5632,7 +5632,7 @@ translate Chinese day15_sam_hotel_intro_870c7854:
 translate Chinese day15_sam_hotel_intro_f871baeb:
 
     # "It's a guidebook, you realize: a simple commodity, but leatherbound and illuminated as if a fabled alchemical text."
-    "你意识到这是一本指南。虽然是一件简单的商品，但是皮革装订，闪闪发光，仿佛传说中的炼金术典籍。"
+    "你意识到这是一本旅行用语手册：不过是件普通商品，却用皮革装订、饰以彩绘，仿佛传说中的炼金术典籍。"
 
 # game/script morocco samuel.rpy:3434
 translate Chinese day15_sam_hotel_intro_81a7d44a:
@@ -5650,7 +5650,7 @@ translate Chinese day15_sam_hotel_intro_e88cb74e:
 translate Chinese day15_sam_hotel_intro_4eafd7e1:
 
     # p "{i}Shukran{/i}!"
-    p "{i}Shukran{/i}!"
+    p "{i}Shukran{/i}！"
 
 # game/script morocco samuel.rpy:3445
 translate Chinese day15_sam_hotel_intro_038bd88b:
@@ -5704,7 +5704,7 @@ translate Chinese day15_sam_hotel_intro_51fd7b01:
 translate Chinese day15_sam_hotel_intro_44c4695e:
 
     # "You lose her twice more before you finally regroup—significantly later—at the {i}souk{/i}'s entrance."
-    "你又跟丢她两次，过了好一会儿后，你们终于在{i}souk{/i}的入口重新会和了。"
+    "你又跟丢了她两次，过了好一会儿，你们终于在{i}souk{/i}的入口重新会合。"
 
 # game/script morocco samuel.rpy:3494
 translate Chinese day15_sam_hotel_intro_9be9410c:
@@ -5734,7 +5734,7 @@ translate Chinese day15_sam_hotel_intro_fbaadd89:
 translate Chinese day15_sam_hotel_intro_101c6241:
 
     # "She lifts up a small bundle for your inspection."
-    "你举起一个小包给你看看。"
+    "她举起一个小包给你看。"
 
 # game/script morocco samuel.rpy:3508
 translate Chinese day15_sam_hotel_intro_8b0a3260:
@@ -5764,7 +5764,7 @@ translate Chinese day15_sam_hotel_intro_ef2d4a2f:
 translate Chinese day15_sam_hotel_intro_b9f39000:
 
     # "You weren't, but still shift your expression to appear more... professional, perhaps."
-    "你并没有想喝，但是你仍然转变了你的表情，让你显得更....专业？可能吧。"
+    "你并没有想喝，但是你仍然转变了你的表情，让你显得更……专业？可能吧。"
 
 # game/script morocco samuel.rpy:3520
 translate Chinese day15_sam_hotel_intro_12456a21:
@@ -5806,19 +5806,19 @@ translate Chinese day15_sam_hotel_intro_3f53c747:
 translate Chinese day15_sam_hotel_intro_df6d04af:
 
     # p "N-... well, no. {w}I don't have any money on me."
-    p "不....呃，不了。{w}我没有带钱。"
+    p "不……呃，不了。{w}我没有带钱。"
 
 # game/script morocco samuel.rpy:3536
 translate Chinese day15_sam_hotel_intro_25e8de8e:
 
     # s "Oh. {i}of course.{/i}"
-    s "哦{i}当然。{/i}"
+    s "哦。{i}那当然了。{/i}"
 
 # game/script morocco samuel.rpy:3538
 translate Chinese day15_sam_hotel_intro_87a8f35d:
 
     # "You thought it was a good excuse..."
-    "你以为这是一个好借口..."
+    "你以为这是一个好借口……"
 
 # game/script morocco samuel.rpy:3542
 translate Chinese day15_sam_hotel_intro_d8f80067:
@@ -5842,7 +5842,7 @@ translate Chinese day15_sam_hotel_intro_db8e0325:
 translate Chinese day15_sam_hotel_intro_fea00cb5:
 
     # p "Well... there must be things to do. Work, right? Arthur..."
-    p "嗯...船上一定有更重要的事去做。工作，是吧？Arthur..."
+    p "嗯……船上一定有更重要的事去做。工作，是吧？Arthur……"
 
 # game/script morocco samuel.rpy:3552
 translate Chinese day15_sam_hotel_intro_3a38f06c:
@@ -5860,7 +5860,7 @@ translate Chinese day15_sam_hotel_intro_adfa9fa6:
 translate Chinese day15_sam_hotel_intro_120a54f6:
 
     # s "Got somewhere else to go, still. I don't suppose..."
-    s "我们还有别的地方要去。我猜..."
+    s "我们还有别的地方要去。我猜……"
 
 # game/script morocco samuel.rpy:3562
 translate Chinese day15_sam_hotel_intro_fda4de7c:
@@ -5884,7 +5884,7 @@ translate Chinese day15_sam_hotel_intro_964dc38c:
 translate Chinese day15_sam_hotel_intro_343ba29b:
 
     # p "Uh. No."
-    p "呃...看不懂。"
+    p "呃……看不懂。"
 
 # game/script morocco samuel.rpy:3614
 translate Chinese day15_sam_hotel_9bd84c7a:
@@ -5902,13 +5902,13 @@ translate Chinese day15_sam_hotel_df35e6e8:
 translate Chinese day15_sam_hotel_5a01337f:
 
     # "Perhaps he, too, has a friend lost in the sights and smells of the bazaar."
-    "或许他也有朋友迷失在了这里的灯火和香气之中了。"
+    "或许他也有朋友迷失在这巴扎的热闹景象和气味里了。"
 
 # game/script morocco samuel.rpy:3630
 translate Chinese day15_sam_hotel_3824ba62:
 
     # p "I suppose so..."
-    p "我想是吧..."
+    p "我想是吧……"
 
 # game/script morocco samuel.rpy:3632
 translate Chinese day15_sam_hotel_1ef3a65e:
@@ -5920,13 +5920,13 @@ translate Chinese day15_sam_hotel_1ef3a65e:
 translate Chinese day15_sam_hotel_2fa256fa:
 
     # "Taking the piece of paper from her, the lion scans it, tucks his tongue into his muzzle, and then nods."
-    "狮子兽人从她的手中接过纸条，扫视着它，再将手头卷回口中，点了点头。"
+    "狮子兽人从她手里接过纸条扫了一眼，把舌头收回嘴里，点了点头。"
 
 # game/script morocco samuel.rpy:3638
 translate Chinese day15_sam_hotel_48306a7a:
 
     # reggie "{i}Al-nazla? Na'am, min al-sa'al wasulah.{/i}"
-    reggie "{i}阿尔-纳兹拉？嗯，从阿尔-萨阿尔瓦苏拉。{/i}"
+    reggie "{i}Al-nazla? Na'am, min al-sa'al wasulah.{/i}（阿拉伯语：那家客栈？嗯，很好找。）"
 
 # game/script morocco samuel.rpy:3645
 translate Chinese day15_sam_hotel_ebfb8814:
@@ -5956,7 +5956,7 @@ translate Chinese day15_sam_hotel_bd1bbf58:
 translate Chinese day15_sam_hotel_c02af1ce:
 
     # p "{i}Min fadlak. Arabi bitakalam kuwa...{/i} uh... uh. {i}Kuwayes...{/i}"
-    p "{i}Min fadlak. Arabi bitakalam kuwa...{/i} uh... uh. {i}Kuwayes...{/i}(阿拉伯语，大意：“你不会说阿拉伯语”)"
+    p "{i}Min fadlak. Arabi bitakalam kuwa...{/i}呃……呃。{i}Kuwayes...{/i}（阿拉伯语，磕磕绊绊：请……阿拉伯语……说……好……）"
 
 # game/script morocco samuel.rpy:3662
 translate Chinese day15_sam_hotel_d31ffe88:
@@ -5992,7 +5992,7 @@ translate Chinese day15_sam_hotel_0adaa033:
 translate Chinese day15_sam_hotel_e12eb3d6:
 
     # p "Er... No Arab.{w} Sorry."
-    p "呃....不会阿拉伯语。{w}抱歉。"
+    p "呃……不会阿拉伯语。{w}抱歉。"
 
 # game/script morocco samuel.rpy:3681
 translate Chinese day15_sam_hotel_23cac935:
@@ -6004,7 +6004,7 @@ translate Chinese day15_sam_hotel_23cac935:
 translate Chinese day15_sam_hotel_c56ddd69:
 
     # reggie "{i}Mash. Ant' la tatakalam alarabiyyat.{/i}"
-    reggie "{i}Mash. Ant' la tatakalam alarabiyyat.{/i}（阿拉伯语，大意：“行了，你别说阿拉伯语了。”）"
+    reggie "{i}Mash. Ant' la tatakalam alarabiyyat.{/i}（阿拉伯语：不对。你不会说阿拉伯语。）"
 
 # game/script morocco samuel.rpy:3685
 translate Chinese day15_sam_hotel_79863af4:
@@ -6016,7 +6016,7 @@ translate Chinese day15_sam_hotel_79863af4:
 translate Chinese day15_sam_hotel_0178279c:
 
     # reggie "Good. You... go to it? You want?"
-    reggie "很好。你...要去那吗？想去吗？"
+    reggie "很好。你……要去那吗？想去吗？"
 
 # game/script morocco samuel.rpy:3694
 translate Chinese day15_sam_hotel_924c7666:
@@ -6040,7 +6040,7 @@ translate Chinese day15_sam_hotel_763355bf:
 translate Chinese day15_sam_hotel_213df0ef:
 
     # reggie "Mm. Go. {i}Pour aller, euh... la... ce rue.{/i}"
-    reggie "嗯。走。{i}Pour aller, euh... la... ce rue.{/i}（法语：要去，呃……那条……这条街。）"
+    reggie "嗯。走。{i}Pour aller, euh... la... ce rue.{/i}（法语：要去的话，呃……那……这条街。）"
 
 # game/script morocco samuel.rpy:3709
 translate Chinese day15_sam_hotel_fd9c738f:
@@ -6064,7 +6064,7 @@ translate Chinese day15_sam_hotel_fc4c7d61:
 translate Chinese day15_sam_hotel_cc36c547:
 
     # reggie "Street. {i}Ce{/i} street... {i}amshi, jusqu'a... batiment bleu. Bleu{/i}."
-    reggie "街。{i}Ce{/i}（法语：这）街……{i}amshi, jusqu'a... batiment bleu. Bleu{/i}（阿拉伯语/法语混合：走，直到……蓝色建筑。蓝色）。"
+    reggie "街。{i}Ce{/i}（法语：这）街……{i}amshi, jusqu'a... batiment bleu. Bleu{/i}（阿拉伯语夹法语：走，一直到……蓝色的房子。蓝色）。"
 
 # game/script morocco samuel.rpy:3727
 translate Chinese day15_sam_hotel_bc346d8e:
@@ -6082,13 +6082,13 @@ translate Chinese day15_sam_hotel_7ccec57a:
 translate Chinese day15_sam_hotel_61d419a2:
 
     # p "Bleu?..."
-    p "Bleu？（法语：蓝色？）"
+    p "Bleu？……（法语：蓝色？）"
 
 # game/script morocco samuel.rpy:3736
 translate Chinese day15_sam_hotel_508623ae:
 
     # p "Bleu, bleu, bleu..."
-    p "Bleu, bleu, bleu...（法语：蓝，蓝，蓝……）"
+    p "Bleu，bleu，bleu……（法语：蓝，蓝，蓝……）"
 
 # game/script morocco samuel.rpy:3738
 translate Chinese day15_sam_hotel_769e9e51:
@@ -6100,7 +6100,7 @@ translate Chinese day15_sam_hotel_769e9e51:
 translate Chinese day15_sam_hotel_1a37738a:
 
     # reggie "Blue! {i}Batiment{/i} blue, and you... you turn {i}gauche{/i}, so..."
-    reggie "蓝色! {i}Batiment{/i}（法语：建筑） 蓝色, 然后你...向 {i}gauche{/i}（法语：左）转, 所以..."
+    reggie "蓝色！{i}Batiment{/i}（法语：房子）蓝色，然后你……你向{i}gauche{/i}（法语：左）转，所以……"
 
 # game/script morocco samuel.rpy:3742
 translate Chinese day15_sam_hotel_2525cc66:
@@ -6118,7 +6118,7 @@ translate Chinese day15_sam_hotel_eed04d61:
 translate Chinese day15_sam_hotel_e1dd21c8:
 
     # reggie "{i}Nom{/i}. Name. {i}Cela{/i}. Name."
-    reggie "{i}Nom{/i}（法语：名字）。名字。{i}Cela{/i}（法语：那个）。名字。"
+    reggie "{i}Nom{/i}（法语：名字）。名字。{i}Cela{/i}（法语：这个）。名字。"
 
 # game/script morocco samuel.rpy:3750
 translate Chinese day15_sam_hotel_3e8b7b99:
@@ -6136,13 +6136,13 @@ translate Chinese day15_sam_hotel_206700d3:
 translate Chinese day15_sam_hotel_33ffdf70:
 
     # "That fetches another grin from the lion, who hands the note back to Sam and then pats you, his fellow feline, on the shoulder, repeating his earlier praise:"
-    "着又惹得狮子笑了起来，他把纸条交还给Sam并且拍了拍同为猫科动物的你的肩膀，重复了他先前的赞扬。"
+    "这又惹得狮子笑了起来，他把纸条还给Sam，又拍了拍同为猫科的你的肩膀，重复了刚才的夸奖："
 
 # game/script morocco samuel.rpy:3756
 translate Chinese day15_sam_hotel_1b98887d:
 
     # reggie "Good."
-    reggie "不错"
+    reggie "很好。"
 
 # game/script morocco samuel.rpy:3765
 translate Chinese day15_sam_hotel_83e0bc86:
@@ -6160,7 +6160,7 @@ translate Chinese day15_sam_hotel_8bee5d54:
 translate Chinese day15_sam_hotel_8fbb37e5:
 
     # s "Hm... walk to the blue place and then turn..."
-    s "呃...走到一个蓝色的地方，之后转..."
+    s "呃……走到一个蓝色的地方，之后转……"
 
 # game/script morocco samuel.rpy:3773
 translate Chinese day15_sam_hotel_aff21e2a:
@@ -6178,13 +6178,13 @@ translate Chinese day15_sam_hotel_886c2c9e:
 translate Chinese day15_sam_hotel_a58e6ded:
 
     # s "Then left. Then...{w} Name?"
-    s "然后左转。之后...{w}就找到那个名字？"
+    s "然后左转。之后……{w}就找到那个名字？"
 
 # game/script morocco samuel.rpy:3779
 translate Chinese day15_sam_hotel_e8993390:
 
     # "That fetches another grin from the lion, who hands the note back to Sam."
-    "这又让狮子笑了笑，之后把纸条还给Sam"
+    "这又惹得狮子笑了起来，他把纸条还给了Sam。"
 
 # game/script morocco samuel.rpy:3781
 translate Chinese day15_sam_hotel_1b98887d_1:
@@ -6214,7 +6214,7 @@ translate Chinese day15_sam_hotel_c3c3eaaa:
 translate Chinese day15_sam_hotel_70b9906f:
 
     # "She playfully shoves you aside."
-    "她顽皮地把你推倒一边。"
+    "她顽皮地把你推到一边。"
 
 # game/script morocco samuel.rpy:3798
 translate Chinese day15_sam_hotel_20d5b2fe:
@@ -6244,7 +6244,7 @@ translate Chinese day15_sam_hotel_aa727cfe:
 translate Chinese day15_sam_hotel_4939fc4c:
 
     # s "And if we got lost, well, all them's back at the {i}souk{/i} were selling things that looked proper delicious."
-    s "如果我们迷路了，嗯，{i}souk{/i}里面的美食看起来都很美味。"
+    s "要是迷路了，嗯，{i}souk{/i}那边卖的东西看着都挺好吃的。"
 
 # game/script morocco samuel.rpy:3812
 translate Chinese day15_sam_hotel_694fb37a:
@@ -6268,7 +6268,7 @@ translate Chinese day15_sam_hotel_81c80f29:
 translate Chinese day15_sam_hotel_306c7a71:
 
     # p "It's a nice thing about Mogador, at least-the locals are friendly."
-    p "至少Mogador这的居民都很友善。"
+    p "至少莫加多尔这儿的人都很友善。"
 
 # game/script morocco samuel.rpy:3826
 translate Chinese day15_sam_hotel_9ef580a8:
@@ -6286,7 +6286,7 @@ translate Chinese day15_sam_hotel_9431b309:
 translate Chinese day15_sam_hotel_6bc70772:
 
     # "Sam holds up the note: one of the words was circled on it."
-    "Sam拿起纸条，其中有一些文字被画了圈。"
+    "Sam举起纸条：上面有一个词被圈了出来。"
 
 # game/script morocco samuel.rpy:3847
 translate Chinese day15_sam_hotel_4d2e694c:
@@ -6298,7 +6298,7 @@ translate Chinese day15_sam_hotel_4d2e694c:
 translate Chinese day15_sam_hotel_80834f40:
 
     # s "If you recognize these letters any, or know what they mean..."
-    s "如果你认识这些字母，或者知道它们的意思..."
+    s "如果你认识这些字母，或者知道它们的意思……"
 
 # game/script morocco samuel.rpy:3851
 translate Chinese day15_sam_hotel_67d7d499:
@@ -6310,13 +6310,13 @@ translate Chinese day15_sam_hotel_67d7d499:
 translate Chinese day15_sam_hotel_064a934e:
 
     # "But you could match the script enough to find it written on a shingle, above the words {i}Jardins et Brouillard{/i}."
-    "但是你可以一个个地对比字母发现它被写在一块木牌上，在{i}Jardins et Brouillard{/i}（法语：花园与雾）上方。"
+    "但你能对照字形，在一块木招牌上找到它，就在{i}Jardins et Brouillard{/i}（法语：花园与雾霭）这几个字上方。"
 
 # game/script morocco samuel.rpy:3863
 translate Chinese day15_sam_hotel_fef76570:
 
     # "A robed wolf is sitting on a bench outside, but stands when you approach. Sam gives her the note, and then lifts her coin purse, jingling it slightly."
-    "一个穿着长袍的狼坐在外面的长椅上，但当你们过来时，她站了起来。Sam递给她那张纸条，再举起她的钱袋，发出清脆的叮当声。"
+    "一只穿着长袍的狼坐在外面的长椅上，但当你们过来时，她站了起来。Sam递给她那张纸条，再举起她的钱袋，发出清脆的叮当声。"
 
 # game/script morocco samuel.rpy:3867
 translate Chinese day15_sam_hotel_d8c73fd9:
@@ -6364,7 +6364,7 @@ translate Chinese day15_sam_hotel_907bfda4:
 translate Chinese day15_sam_hotel_4f9c4830:
 
     # s "Somethin' else she suggested, back at the {i}hammam{/i}.{w} Take a look."
-    s "是她在{i}hammam{/i}（阿拉伯语：土耳其浴室）时建议的别的事。{w}看看吧。"
+    s "是她在{i}浴场{/i}的时候提议的另一件事。{w}看看吧。"
 
 # game/script morocco samuel.rpy:3905
 translate Chinese day15_sam_hotel_b2b8d73f:
@@ -6376,7 +6376,7 @@ translate Chinese day15_sam_hotel_b2b8d73f:
 translate Chinese day15_sam_hotel_0403995b:
 
     # "There is a window, the panes open and admitting gentle afternoon light that floods a tidily—if sparsely-furnished room. A single bed, albeit wider than any you've seen before, dominates the chamber."
-    "那里有一扇窗，窗玻璃敞开着，让午后温暖柔和的阳光倾泻在这整洁而略显简陋的房间。一张单人床，尽管比你以前看到的任何一张都宽，占据了房间的主要位置。"
+    "那里有一扇窗，窗扇敞开着，让午后温暖柔和的阳光倾泻在这整洁而略显简陋的房间。只有一张床，却比你以前看到的任何一张都宽，占据了房间的主要位置。"
 
 # game/script morocco samuel.rpy:3921
 translate Chinese day15_sam_hotel_af88836e:
@@ -6418,7 +6418,7 @@ translate Chinese day15_sam_hotel_61491bc2:
 translate Chinese day15_sam_hotel_f8577acd:
 
     # "She scoots over to make room, lending emphasis to her insistence."
-    "她挪了挪身子流出空间，让你赶快试试。"
+    "她挪了挪身子留出空间，催你赶快试试。"
 
 # game/script morocco samuel.rpy:3948
 translate Chinese day15_sam_hotel_b002e39f:
@@ -6448,19 +6448,19 @@ translate Chinese day15_sam_hotel_45fb8589:
 translate Chinese day15_sam_hotel_41a54e62:
 
     # "Perhaps, back home, you might not have considered it luxurious. But it's better than your childhood cot."
-    "可能，到家乡，你不会认为这很豪华。但是这比你童年的小床好。"
+    "换作在家乡，你也许不会觉得这有多豪华。但它比你小时候睡的小床好多了。"
 
 # game/script morocco samuel.rpy:3962
 translate Chinese day15_sam_hotel_a963b63b:
 
     # "And—once you really {i}feel{/i} it under your back—the difference to a swaying hammock on the {i}Conway{/i} is almost enough to make you sob."
-    "而且，一旦你{i}感受到{/i}你背下的床垫是何等舒适，和{i}Conway{/i}上摇摇晃晃的吊床相比，这几乎足以让你哭出来。"
+    "而且，一旦你{i}感受到{/i}你背下的床垫是何等舒适，和{i}Conway{/i}号上摇摇晃晃的吊床相比，这几乎足以让你哭出来。"
 
 # game/script morocco samuel.rpy:3966
 translate Chinese day15_sam_hotel_6ea4a5f9:
 
     # "Sam, grinning madly next to you, shoves you playfully."
-    "Sam在你旁边疯狂地笑你，开玩笑的推你一下。"
+    "Sam在你旁边笑得合不拢嘴，开玩笑地推了你一下。"
 
 # game/script morocco samuel.rpy:3968
 translate Chinese day15_sam_hotel_05f85def:
@@ -6478,19 +6478,19 @@ translate Chinese day15_sam_hotel_4c1d1127:
 translate Chinese day15_sam_hotel_48ce2b47:
 
     # s "Couldn't drag me from this with the whole damn crew workin' the capstan. The baths were nice and all, but when am I gettin' the chance for this?"
-    s "就算那一船该死的水手一起用转盘拽我也休想把我拽走。浴室是很不错，但是我什么时候能有这种机会？"
+    s "就算一船该死的水手一起推绞盘，也休想把我从这儿拽走。浴场是不错，但我什么时候能有这种机会？"
 
 # game/script morocco samuel.rpy:3978
 translate Chinese day15_sam_hotel_9033bea0:
 
     # s "It be a piss-poor substitute, but a feckin' nice,{w} plush,{w} comfortable,..."
-    s "这是个差劲的替代品，但是这他妈也太好，太{w}柔软，太{w}舒服了..."
+    s "这是个差劲的替代品，但这他妈的也太好了，{w}太软了，{w}太舒服了……"
 
 # game/script morocco samuel.rpy:3982
 translate Chinese day15_sam_hotel_0a2e3907:
 
     # s "Couldn't drag me from this with the whole damn crew workin' the capstan. I were thinkin' about... you know, thinkin' about the baths and all, an' that'd be nice, I reckon, sure. But when am I gettin' the chance for this?"
-    s "就算一船该死的船员一同拉绞盘也别想把我从这拽走。我一直在想...呃，在想浴室什么的，那当然好，我承认。但是什么时候我有这种机会？"
+    s "就算一船该死的船员一同推绞盘也别想把我从这拽走。我一直在想……呃，在想浴场什么的，那当然好，我承认。但是什么时候我有这种机会？"
 
 # game/script morocco samuel.rpy:3984
 translate Chinese day15_sam_hotel_c209b452:
@@ -6502,7 +6502,7 @@ translate Chinese day15_sam_hotel_c209b452:
 translate Chinese day15_sam_hotel_a0d8457e:
 
     # s "It's a poor substitute, but a feckin' nice,{w} plush,{w} comfortable,..."
-    s "这是个差劲的替代品，但是这他妈也太好，太{w}柔软，太{w}舒服了..."
+    s "这是个差劲的替代品，但这他妈的也太好了，{w}太软了，{w}太舒服了……"
 
 # game/script morocco samuel.rpy:3988
 translate Chinese day15_sam_hotel_0c9996ea:
@@ -6520,7 +6520,7 @@ translate Chinese day15_sam_hotel_e3164ba6:
 translate Chinese day15_sam_hotel_9827cb0b:
 
     # p "Mhm, ain't that the truth..."
-    p "嗯，那可不是嘛..."
+    p "嗯，那可不是嘛……"
 
 # game/script morocco samuel.rpy:3996
 translate Chinese day15_sam_hotel_9f35f3b7:
@@ -6532,7 +6532,7 @@ translate Chinese day15_sam_hotel_9f35f3b7:
 translate Chinese day15_sam_hotel_b84e080b:
 
     # s "So 'tis. 'Til the mornin', then, I'm living in luxury, I am. Prince -{w} sultan? They's gots sultans here, don't they?"
-    s "确实是。那么到明天早上为止，我都在过奢华的生活。就像王子{w}苏丹。他们这有苏丹吧？"
+    s "确实。那么到明天早上为止，我都要过奢华日子了。就像王子——{w}苏丹？他们这儿有苏丹吧？"
 
 # game/script morocco samuel.rpy:4002
 translate Chinese day15_sam_hotel_d87eae33:
@@ -6544,7 +6544,7 @@ translate Chinese day15_sam_hotel_d87eae33:
 translate Chinese day15_sam_hotel_27e71b3f:
 
     # s "Sultan O'Connor."
-    s "苏丹·奥康纳。"
+    s "苏丹O'Connor。"
 
 # game/script morocco samuel.rpy:4008
 translate Chinese day15_sam_hotel_8ebb0435:
@@ -6562,13 +6562,13 @@ translate Chinese day15_sam_hotel_700ae620:
 translate Chinese day15_sam_hotel_763924fa:
 
     # "The pitcher is full of clear liquid. Water, you think. {i}Perhaps{/i}."
-    "水罐里面盛满干净的液体。你想{i}可能{/i}是水。"
+    "水罐里盛满了清澈的液体。你想，是水吧。{i}也许{/i}。"
 
 # game/script morocco samuel.rpy:4016
 translate Chinese day15_sam_hotel_b73a1341:
 
     # p "Water? With something in it—flowers, it smells like?"
-    p "水吗？但是里面有东西，闻起来像是...花？"
+    p "水吗？但是里面有东西，闻起来像是……花？"
 
 # game/script morocco samuel.rpy:4020
 translate Chinese day15_sam_hotel_7b546c37:
@@ -6604,19 +6604,19 @@ translate Chinese day15_sam_hotel_b12455bf:
 translate Chinese day15_sam_hotel_a47112d7:
 
     # "You follow Sam's order. She is unwrapping the parcel she'd acquired at the market, tied loosely with a bit of hemp twine."
-    "你听从Sam的命令。她正在解开从市场买来的那个包裹，包裹用一根麻绳松散地系这。"
+    "你听从了Sam的命令。她正在解开从市场买来的那个包裹，包裹用一根麻绳松松地系着。"
 
 # game/script morocco samuel.rpy:4038
 translate Chinese day15_sam_hotel_c09a3442:
 
     # "There are several dark glass bottles, and a paper box, folded shut."
-    "里面有几个黑色的玻璃瓶，一个被叠得严严实实的纸盒子。"
+    "里面有几个深色玻璃瓶，还有一个折得严严实实的纸盒。"
 
 # game/script morocco samuel.rpy:4042
 translate Chinese day15_sam_hotel_19220b60:
 
     # s "Let's see..."
-    s "让我们看看..."
+    s "让我们看看……"
 
 # game/script morocco samuel.rpy:4044
 translate Chinese day15_sam_hotel_d929a38d:
@@ -6640,7 +6640,7 @@ translate Chinese day15_sam_hotel_528d09c6:
 translate Chinese day15_sam_hotel_d29d82d0:
 
     # s "Raj said it was... {i}balka{/i}-something—she wrote it down for me to show them stall—keepers, but you know... fat lot of good that does us fools, what can't read it."
-    s "Raj说这叫...{i}巴尔卡{/i}，她写下来让我们给摊主看看，但是你也知道...这对我们这样不认得本地字的傻瓜一点用都没有。"
+    s "Raj说这叫……{i}balka{/i}什么的——她写下来让我拿给摊主看，可你也知道……对我们这些不识字的傻瓜来说，那可没多大用。"
 
 # game/script morocco samuel.rpy:4056
 translate Chinese day15_sam_hotel_1ac424e2:
@@ -6664,19 +6664,19 @@ translate Chinese day15_sam_hotel_15cbdf5e:
 translate Chinese day15_sam_hotel_e9baf500:
 
     # "Crunchy dough on the top gives way to a sweet, dense filling: honey, and a hint of lemon, and..."
-    "咬碎顶层酥脆的面皮下面是香甜扎实的馅料，有蜂蜜，一点点柠檬风味，和..."
+    "咬碎顶层酥脆的面皮下面是香甜扎实的馅料，有蜂蜜，一点点柠檬风味，和……"
 
 # game/script morocco samuel.rpy:4067
 translate Chinese day15_sam_hotel_9397740c:
 
     # p "Nuts, I think, yes... It's very good."
-    p "应该是坚果，嗯...很好吃。"
+    p "应该是坚果，嗯……很好吃。"
 
 # game/script morocco samuel.rpy:4069
 translate Chinese day15_sam_hotel_28621663:
 
     # "Sam plucks it back from your fingers, and eats half of the remaining pastry, licking her muzzle and reaching for the cup of rose water."
-    "Sam从你手中抢回点心，吃掉剩下的半块，舔了舔嘴又伸手去拿那杯玫瑰水。"
+    "Sam从你手中抢回点心，吃掉了剩下那块的一半，舔了舔嘴又伸手去拿那杯玫瑰水。"
 
 # game/script morocco samuel.rpy:4073
 translate Chinese day15_sam_hotel_874a2870:
@@ -6688,7 +6688,7 @@ translate Chinese day15_sam_hotel_874a2870:
 translate Chinese day15_sam_hotel_d7d494d9:
 
     # s "Shame Bandile don't carry those on the ship. Nor enough honey, I imagine, either. Mm?"
-    s "可惜班迪尔船上没有这些。而且蜂蜜估计也没有，你觉得呢？"
+    s "可惜Bandile船上没备这个。我猜蜂蜜也不够。嗯？"
 
 # game/script morocco samuel.rpy:4077
 translate Chinese day15_sam_hotel_5748b910:
@@ -6718,7 +6718,7 @@ translate Chinese day15_sam_hotel_c6ca78bd:
 translate Chinese day15_sam_hotel_4a9480b2:
 
     # "The maned wolf looks at the open box, as if considering whether or not to help herself to a second piece."
-    "鬃狼看着这个被打开的盒子，好像再考虑是否再吃一块。"
+    "鬃狼看着打开的盒子，好像在考虑要不要再吃一块。"
 
 # game/script morocco samuel.rpy:4093
 translate Chinese day15_sam_hotel_cbdb7665:
@@ -6730,13 +6730,13 @@ translate Chinese day15_sam_hotel_cbdb7665:
 translate Chinese day15_sam_hotel_67e9f00b:
 
     # s "Could be a good port call. Yours?"
-    s "这是一次不错的靠港精力。你呢？"
+    s "这次靠港还挺不错。你呢？"
 
 # game/script morocco samuel.rpy:4099
 translate Chinese day15_sam_hotel_6a0c803d:
 
     # p "Well... it's my first. So it's the best I've ever had by default."
-    p "嗯...这是我的第一次靠港。所以我想这就是目前我最好的一次。"
+    p "嗯……这是我的第一次靠港。所以我想这就是目前我最好的一次。"
 
 # game/script morocco samuel.rpy:4104
 translate Chinese day15_sam_hotel_fc8901f3:
@@ -6748,7 +6748,7 @@ translate Chinese day15_sam_hotel_fc8901f3:
 translate Chinese day15_sam_hotel_2111acdf:
 
     # "The ceiling, like the walls, is a warm, comforting ochre, almost orange if the warmth of the sun hits it just right."
-    "天花板和墙壁一样，是用温暖舒适的赭石做的，如果阳光恰到好处，颜色就几乎变成橙色。"
+    "天花板和墙壁一样，是温暖舒适的赭色，阳光照得恰到好处时，几乎会变成橙色。"
 
 # game/script morocco samuel.rpy:4108
 translate Chinese day15_sam_hotel_b719a71f:
@@ -6766,7 +6766,7 @@ translate Chinese day15_sam_hotel_15dce2d0:
 translate Chinese day15_sam_hotel_a9ba007a:
 
     # p "I suppose. I mean... I'd said I was going to help Raj."
-    p "我想是吧。我意思是...我说我是过来帮Raj的。"
+    p "我想是吧。我意思是……我说我是过来帮Raj的。"
 
 # game/script morocco samuel.rpy:4116
 translate Chinese day15_sam_hotel_8a953b16:
@@ -6796,7 +6796,7 @@ translate Chinese day15_sam_hotel_94660227:
 translate Chinese day15_sam_hotel_f75d83bb:
 
     # s "{i}Are{/i} you headed back?"
-    s "{i}你{/i}要回去吗？"
+    s "你{i}真的{/i}要回去吗？"
 
 # game/script morocco samuel.rpy:4130
 translate Chinese day15_sam_hotel_f7a6d6e9:
@@ -6808,13 +6808,13 @@ translate Chinese day15_sam_hotel_f7a6d6e9:
 translate Chinese day15_sam_hotel_22a69307:
 
     # p "Well... it's your room, not mine."
-    p "呃...这是你的房间，不是我的。"
+    p "呃……这是你的房间，不是我的。"
 
 # game/script morocco samuel.rpy:4136
 translate Chinese day15_sam_hotel_33daddf8:
 
     # s "And you're my friend, same as Raj is. You could stay here."
-    s "而你是我的朋友，和Raj一样。你可以带着这里。"
+    s "而你是我的朋友，和Raj一样。你可以待在这儿。"
 
 # game/script morocco samuel.rpy:4138
 translate Chinese day15_sam_hotel_71ae4769:
@@ -6826,19 +6826,19 @@ translate Chinese day15_sam_hotel_71ae4769:
 translate Chinese day15_sam_hotel_6608b902:
 
     # "The ship's mates know where you are—Rajeeyah gave Sam the address, after all."
-    "船上地伙计知道你在哪里，毕竟Rajeeyah给了Sam地址。"
+    "船上的伙计知道你在哪儿——毕竟Rajeeyah给了Sam地址。"
 
 # game/script morocco samuel.rpy:4144
 translate Chinese day15_sam_hotel_1ad205d2:
 
     # "Sam rolls onto her side. You can feel her eyes on you. Waiting."
-    "Sam测过身。你能感觉她的眼神在你身上。等着。"
+    "Sam侧过身。你能感觉到她的目光落在你身上。等着。"
 
 # game/script morocco samuel.rpy:4146
 translate Chinese day15_sam_hotel_51c15ac8:
 
     # p "Well... yes."
-    p "嗯...好吧。"
+    p "嗯……是吧。"
 
 # game/script morocco samuel.rpy:4148
 translate Chinese day15_sam_hotel_a8c2b9b4:
@@ -6862,7 +6862,7 @@ translate Chinese day15_sam_hotel_0c3503d7:
 translate Chinese day15_sam_hotel_3656dbb5:
 
     # "Or nothing at all: sitting, the heat of the canid lanky body at your side, to watch the wheeling gulls."
-    "或者什么都不做，就坐着感受鬃狼修长身体散发过来的提问，看着盘旋的海鸥。"
+    "或者什么都不做，就这么坐着，感受着身边犬科那修长身体的温度，看着盘旋的海鸥。"
 
 # game/script morocco samuel.rpy:4156
 translate Chinese day15_sam_hotel_3b88c420:
@@ -6880,7 +6880,7 @@ translate Chinese day15_sam_hotel_10491695:
 translate Chinese day15_sam_hotel_e77d880f:
 
     # s "Weren't a 'yes' kinda question."
-    s "这不是个“是或否”的问题。"
+    s "这不是能用“是”回答的问题。"
 
 # game/script morocco samuel.rpy:4164
 translate Chinese day15_sam_hotel_2e0d62a1:
@@ -6904,25 +6904,25 @@ translate Chinese day15_sam_hotel_07371539:
 translate Chinese day15_sam_hotel_1c0d3897:
 
     # s "'Stay' or 'go'?"
-    s "'留'还是'走'？"
+    s "“留”还是“走”？"
 
 # game/script morocco samuel.rpy:4175
 translate Chinese day15_sam_hotel_531ee7b3:
 
     # "Whether she {i}intended{/i} it or not, her muzzle is so near to yours that you can {i}feel{/i} her words in the warmth of the maned wolf's breath, even as she lowers the volume to a whisper."
-    "不知道是否有意为之，她的嘴唇离你的那么近，你可以{i}感觉到{/i}她说话时带出来的热气，即使她压低声音说悄悄话。"
+    "不知道是否{i}有意{/i}为之，她的嘴唇离你的那么近，你可以{i}感觉到{/i}她说话时带出来的热气，即使她压低声音说悄悄话。"
 
 # game/script morocco samuel.rpy:4177
 translate Chinese day15_sam_hotel_2549c1ff:
 
     # "You do, too, instinctively."
-    "你也本能的压低声音。"
+    "你也本能地压低声音。"
 
 # game/script morocco samuel.rpy:4179
 translate Chinese day15_sam_hotel_a8bf56d5:
 
     # p "Stay, I meant."
-    p "留下。"
+    p "我是说，留下。"
 
 # game/script morocco samuel.rpy:4183
 translate Chinese day15_sam_hotel_e88ef654:
@@ -6934,7 +6934,7 @@ translate Chinese day15_sam_hotel_e88ef654:
 translate Chinese day15_sam_hotel_b81127fa:
 
     # "Her arm tightens, which has the effect of drawing the maned wolf closer still. Her brush of a tail thumps twice."
-    "她的胳膊抱得更紧了，也因此鬃狼你离更近了。她刷子般的尾巴怕打了两下。"
+    "她的胳膊收紧了，鬃狼离你更近了。她那刷子似的尾巴拍了两下。"
 
 # game/script morocco samuel.rpy:4192
 translate Chinese day15_sam_hotel_70b7213d:
@@ -6958,7 +6958,7 @@ translate Chinese day15_sam_hotel_8e335ab4:
 translate Chinese day15_sam_hotel_67460790:
 
     # p "Did you?"
-    p "你回应了吗？"
+    p "你猜到了？"
 
 # game/script morocco samuel.rpy:4202
 translate Chinese day15_sam_hotel_b97662a7:
@@ -7000,25 +7000,25 @@ translate Chinese day15_sam_hotel_e64d3b5c:
 translate Chinese day15_sam_hotel_194b9d10:
 
     # "And you, despite the faint huskiness in the last thing she'd said, hadn't {i}known{/i}, exactly, it was going to happen."
-    "她最后那句话带着一丝沙哑，而你{i}不知道{/i}这会发生。"
+    "尽管她最后那句话带着一丝沙哑，你还是没{i}料到{/i}这一刻真会到来。"
 
 # game/script morocco samuel.rpy:4222
 translate Chinese day15_sam_hotel_39752969:
 
     # "And you gasp, for a heartbeat or two, before you tug her closer."
-    "你倒吸了一口气，心脏砰砰跳，之后将她拉得更近。"
+    "你倒吸一口气，愣了一两秒，才把她拉得更近。"
 
 # game/script morocco samuel.rpy:4224
 translate Chinese day15_sam_hotel_2d5b08e8:
 
     # "Her own embrace tightens; abruptly, she is pushed up next to you, the heat of her lean body tight and irresistible."
-    "她自己也抱得更紧了；突然，她推了你，她修长身体散发出的热量紧紧贴着你，无法抗拒。"
+    "她也抱得更紧了；转眼间，她已紧紧贴在你身旁，精瘦的身体散发出的热量让你无法抗拒。"
 
 # game/script morocco samuel.rpy:4226
 translate Chinese day15_sam_hotel_5cb4fa56:
 
     # "One of those long legs is hooked around your own. Someone growls."
-    "她的一条大长腿钩住了你的腿。之后发出了低吼声。"
+    "她的一条长腿勾住了你的腿。不知是谁低吼了一声。"
 
 # game/script morocco samuel.rpy:4228
 translate Chinese day15_sam_hotel_c221584d:
@@ -7036,7 +7036,7 @@ translate Chinese day15_sam_hotel_d3c35375:
 translate Chinese day15_sam_hotel_4ee34473:
 
     # "No: five trails, in the shape of her splayed fingers."
-    "不是五条印记，而是她展开手指的形状。"
+    "不，是五道印记，形状正如她张开的手指。"
 
 # game/script morocco samuel.rpy:4239
 translate Chinese day15_sam_hotel_ce204d28:
@@ -7048,19 +7048,19 @@ translate Chinese day15_sam_hotel_ce204d28:
 translate Chinese day15_sam_hotel_86eeaea1:
 
     # s "See, now..."
-    s "瞧，现在..."
+    s "瞧，现在……"
 
 # game/script morocco samuel.rpy:4243
 translate Chinese day15_sam_hotel_7e10c768:
 
     # "That preface is the last thing you hear before the grin disappears from view, when she steals another deep kiss."
-    "这预告是你听见的最后一句话，之后她笑容从你眼前消失，随后又偷走你又一个深吻。"
+    "这句开场白是你听到的最后一句话，接着她的笑容从你眼前消失，她又偷走了一个深吻。"
 
 # game/script morocco samuel.rpy:4245
 translate Chinese day15_sam_hotel_7e94aa54:
 
     # "She is, at least, out of breath herself."
-    "至少，她自己也去喘吁吁了。"
+    "至少，她自己也气喘吁吁了。"
 
 # game/script morocco samuel.rpy:4249
 translate Chinese day15_sam_hotel_66f36753:
@@ -7072,7 +7072,7 @@ translate Chinese day15_sam_hotel_66f36753:
 translate Chinese day15_sam_hotel_81f9bf22:
 
     # p "So, we-"
-    p "所以，我们-"
+    p "所以，我们——"
 
 # game/script morocco samuel.rpy:4253
 translate Chinese day15_sam_hotel_08e931e8:
@@ -7090,13 +7090,13 @@ translate Chinese day15_sam_hotel_b83edb8f:
 translate Chinese day15_sam_hotel_aecf59dd:
 
     # "The maned wolf extricates herself and stands, tugging off her shirt. White, warm afternoon light frames her: perked ears, her shaggy fur crisply picked out by the silhouette."
-    "鬃狼抽身站起来，脱掉了衬衫。午后白色温暖的阳光打在她身上，勾勒出她的轮廓。竖起的耳朵蓬松的毛发显得格外耀眼。"
+    "鬃狼抽身站起来，脱掉了衬衫。午后白色温暖的阳光打在她身上，勾勒出她的轮廓。竖起的耳朵、蓬松的毛发显得格外耀眼。"
 
 # game/script morocco samuel.rpy:4266
 translate Chinese day15_sam_hotel_ec5cd812:
 
     # "When she turns, you can see the hint of her breasts—subtle enough, anyhow, that you suppose you might never have noticed, even if she was topless, if you'd not-"
-    "当她转过身来，你能隐约看到她的胸部，朦朦胧胧的，你猜即使她没穿上衣，你可能也不会注意到，如果你没有-"
+    "当她转过身来，你能隐约看到她的胸部，朦朦胧胧的，你猜即使她没穿上衣，你可能也不会注意到，如果你没有——"
 
 # game/script morocco samuel.rpy:4270
 translate Chinese day15_sam_hotel_af456643:
@@ -7120,7 +7120,7 @@ translate Chinese day15_sam_hotel_683d5ade:
 translate Chinese day15_sam_hotel_fb6237be:
 
     # "At least what's covering your lower half."
-    "至少你的下半身还挂着衣服。"
+    "至少下半身的衣服是脱掉了。"
 
 # game/script morocco samuel.rpy:4295
 translate Chinese day15_sam_hotel_40b22163:
@@ -7144,13 +7144,13 @@ translate Chinese day15_sam_hotel_fad97440:
 translate Chinese day15_sam_hotel_6f1da77c:
 
     # "Her long arms and legs are dark as the silhouette had been; the creamy white ruff of her neck plunges to frame her breasts and give way to subtle, supple russet."
-    "她修长的手臂和腿就像影子一样黝黑；颈部地乳白色鬃毛向下延申，勾勒出胸部的轮廓，并逐步渐变为微妙，柔和的赤褐色。"
+    "她修长的手臂和腿就像刚才的剪影一样黝黑；颈部乳白色的鬃毛向下延伸，衬托出胸部的轮廓，然后逐渐过渡为柔和的赤褐色。"
 
 # game/script morocco samuel.rpy:4305
 translate Chinese day15_sam_hotel_4837ab86:
 
     # "You think of every time you've seen her move, sinuous and strong, working a sheet or leaning into the capstan."
-    "你回想起她在船上的每次行动，柔韧而有力，无论是操作帆布还是依靠在起锚机上"
+    "你回想起她在船上的每个动作，柔韧而有力，无论是拉帆脚索，还是用身体顶着绞盘发力。"
 
 # game/script morocco samuel.rpy:4311
 translate Chinese day15_sam_hotel_101ad0fe:
@@ -7252,7 +7252,7 @@ translate Chinese day15_sam_hotel_d348b327:
 translate Chinese day15_sam_hotel_1c4bb65b:
 
     # s "Right..."
-    s "好吧"
+    s "好吧……"
 
 # game/script morocco samuel.rpy:4345
 translate Chinese day15_sam_hotel_3ab7c27b:
@@ -7282,7 +7282,7 @@ translate Chinese day15_sam_hotel_52d1879b:
 translate Chinese day15_sam_hotel_f7310828:
 
     # s "Oh now you look at me like that. Ya brought it up yourself!"
-    s "哦，现在你就像那样看着我。这可是你自己起的。"
+    s "哦，现在倒这样看着我了。这可是你自己提起来的！"
 
 # game/script morocco samuel.rpy:4355
 translate Chinese day15_sam_hotel_e7cf0d08:
@@ -7312,7 +7312,7 @@ translate Chinese day15_sam_hotel_24afd8d3:
 translate Chinese day15_sam_hotel_d771e591:
 
     # s "Mhm, Mr. [family_name] dreaming of guys, I'm learning so much."
-    s "呃[family_name]先生梦到男人了呢，我可学到了很多东西。"
+    s "嗯，[family_name]先生梦到男人了呢，我可真是长见识了。"
 
 # game/script morocco samuel.rpy:4365
 translate Chinese day15_sam_hotel_0c290821:
@@ -7330,7 +7330,7 @@ translate Chinese day15_sam_hotel_49835e43:
 translate Chinese day15_sam_hotel_009f2e5f:
 
     # "The maned wolf is, you think, the most elegant creature you've ever seen. And yet, still a predator: sharp angles and sharper teeth, bared in a grin when she rejoins you on the bed."
-    "你认为鬃狼是你见过最优雅的生物。然而，也不失捕食者的风采，有着尖锐的棱角和更尖锐的牙齿，但她再回到床上时，从她的笑容中露了出来"
+    "你觉得鬃狼是你见过最优雅的生物。然而她依旧是个捕食者：棱角分明，牙齿更加锋利，她回到床上时咧嘴一笑，露出了那些牙。"
 
 # game/script morocco samuel.rpy:4386
 translate Chinese day15_sam_hotel_24837ef0:
@@ -7342,7 +7342,7 @@ translate Chinese day15_sam_hotel_24837ef0:
 translate Chinese day15_sam_hotel_e19e6a16:
 
     # p "So—Sam..."
-    p "那么...Sam"
+    p "那么——Sam……"
 
 # game/script morocco samuel.rpy:4390
 translate Chinese day15_sam_hotel_3bbca04b:
@@ -7366,19 +7366,19 @@ translate Chinese day15_sam_hotel_143fb289:
 translate Chinese day15_sam_hotel_ecfa4a76:
 
     # "{i}Fuck{/i}. Beyond that agreement, it's proving difficult to think straight; your paws are at her sides, claws running through the soft fur, feeling her tense above you."
-    "{i}操{/i}。除了Hannah，我脑子简直是一团浆糊。你的爪子放在她的身侧，抚摸着她身上柔软的毛发，感受骑着你时她紧绷的身体。"
+    "{i}操{/i}。除了这一点，你几乎没法正常思考；你的爪子搭在她身侧，爪尖划过柔软的毛，感受着她在你上方绷紧身体。"
 
 # game/script morocco samuel.rpy:4398
 translate Chinese day15_sam_hotel_d0255da6:
 
     # p "How far did you, ah... did you want to go?"
-    p "呃...你想进展到哪一步？"
+    p "呃……你想进展到哪一步？"
 
 # game/script morocco samuel.rpy:4400
 translate Chinese day15_sam_hotel_2805aae3:
 
     # "Another shrug."
-    "她有耸了耸肩。"
+    "她又耸了耸肩。"
 
 # game/script morocco samuel.rpy:4402
 translate Chinese day15_sam_hotel_060abdb9:
@@ -7408,19 +7408,19 @@ translate Chinese day15_sam_hotel_6acada79:
 translate Chinese day15_sam_hotel_2e85c11b:
 
     # s "Gonna use it against me?{w} Grab me in the cargo hold and say it's your due or some rot like that?{w} Brag to Julian about your newest conquest?"
-    s "想用这个来对付我吗？{w}在船舱里面抓住我说这是你的责任这样的屁话吗？{w}向Julian炫耀你的新战利品？"
+    s "想拿这个要挟我吗？{w}在货舱里抓住我，说这是你应得的，或者诸如此类的屁话？{w}还是向Julian炫耀你的新战利品？"
 
 # game/script morocco samuel.rpy:4412
 translate Chinese day15_sam_hotel_56067459:
 
     # "She has an odd, quirky grin when she asks it. Her body shifts, ever so slightly, and you feel soft fur dragging over something too sensitive to have merely been your sheath."
-    "当她问这些是，脸上挂着古怪而俏皮的笑容。她的身体微微挪动，你能感觉到她柔软的毛发擦过你的某个敏感部位，绝对不仅仅是你的包皮。"
+    "她问这些时，脸上挂着古怪而俏皮的笑容。她的身体微微挪动，你感觉到她柔软的毛擦过某个敏感的地方——那绝不只是你的鞘。"
 
 # game/script morocco samuel.rpy:4414
 translate Chinese day15_sam_hotel_7f8b785b:
 
     # "Pinned under her, and feeling how close she is with every pulse that forces you to confront how achingly aroused you've grown, you think several things."
-    "被她压在身下，和你紧紧贴在一起，你能感受到她跳动的的脉搏，时刻提醒你你现在是多么饥渴亢奋，你想了几件事情。"
+    "被她压在身下，感受着她贴得那么近，每一下脉搏都逼着你直面自己硬得发疼的事实，你想到了几件事。"
 
 # game/script morocco samuel.rpy:4416
 translate Chinese day15_sam_hotel_f2a4318f:
@@ -7432,31 +7432,31 @@ translate Chinese day15_sam_hotel_f2a4318f:
 translate Chinese day15_sam_hotel_52f12442:
 
     # "The second is that, no: of course you wouldn't tell anyone. The idea has come nowhere near to crossing your mind."
-    "第二个念头是你绝对不会告诉任何人。绝不！"
+    "第二个念头是，不：你当然不会告诉任何人。你压根就没起过这个念头。"
 
 # game/script morocco samuel.rpy:4420
 translate Chinese day15_sam_hotel_8865765f:
 
     # "And the third is how she already knew that, which was the reason for the grin. The reason she hadn't hesitated before slipping from her clothes."
-    "第三个念头就是她早知道会这样，因此她才会露出那样的笑容。这也是为什么她会毫不犹豫脱下衬衫的原因"
+    "第三个念头是，她早就知道这一点，所以才会露出那样的笑容。所以她才会毫不犹豫地脱掉衣服。"
 
 # game/script morocco samuel.rpy:4422
 translate Chinese day15_sam_hotel_b6a72c7a:
 
     # "The reason you are in a room together, a dense and alien world away from anyone and anything else familiar."
-    "也是你们共处一室，远离一切熟悉的人与事，之身这个稠密陌生的世外的原因。"
+    "也是你们俩共处一室的原因——置身于一个浓稠而陌生的世界，远离一切熟悉的人和事。"
 
 # game/script morocco samuel.rpy:4424
 translate Chinese day15_sam_hotel_a6c214a4:
 
     # "On the other hand, nothing else matters."
-    "再说，一切都不重要了"
+    "再说，别的一切都不重要了。"
 
 # game/script morocco samuel.rpy:4426
 translate Chinese day15_sam_hotel_edb9ef46:
 
     # "You squeeze her hips."
-    "你紧紧地捏着她的臀部"
+    "你紧紧捏住她的臀部。"
 
 # game/script morocco samuel.rpy:4428
 translate Chinese day15_sam_hotel_d629a7ad:
@@ -7474,7 +7474,7 @@ translate Chinese day15_sam_hotel_167f6fd8:
 translate Chinese day15_sam_hotel_f52fd180:
 
     # "She raises herself up. One paw is at your chest, for balance."
-    "她抬起绳子，一只爪子搭在你的胸膛保持平均。"
+    "她抬起身子，一只爪子撑在你胸口保持平衡。"
 
 # game/script morocco samuel.rpy:4434
 translate Chinese day15_sam_hotel_4f75404e:
@@ -7498,7 +7498,7 @@ translate Chinese day15_sam_hotel_5fa5bf74:
 translate Chinese day15_sam_hotel_73136e90:
 
     # "And when she lowers herself onto you, and you enter her, a guttural moan empties her lungs like it had punched the breath from her lean body."
-    "当她慢慢俯下用身下面吞噬你的老二，你也毫不客气地插进去时，她挤出了一声低沉的呻吟，好似带出了她身体里面的全部灵气。"
+    "当她坐下去，你进入她体内时，一声低沉的呻吟从她胸腔挤出，仿佛一拳打空了她精瘦身体里的气息。"
 
 # game/script morocco samuel.rpy:4455
 translate Chinese day15_sam_hotel_7d37f785:
@@ -7516,13 +7516,13 @@ translate Chinese day15_sam_hotel_3adce2ef:
 translate Chinese day15_sam_hotel_02490c39:
 
     # "Every gentle shift of her hips, every throb of your buried cock is perceptible, even subtly. And presently, both of her paws resting on you now, she starts to rock her body atop you."
-    "她臀部的每一次轻柔的挪动，你阴茎的每一次跳动，你都感受得清清楚楚，细致入微。现在，她两支爪子都搭在你身上，开始在你身上摇摆着。"
+    "她臀部的每一次轻微挪动，你埋在她体内的阴茎的每一次跳动，都清晰可辨，哪怕再细微。现在，她两只爪子都搭在你身上，开始在你身上摇摆起来。"
 
 # game/script morocco samuel.rpy:4461
 translate Chinese day15_sam_hotel_7083a76c:
 
     # "{i}That{/i} is decidedly less than subtle."
-    "{i}那样{/i}可不算细致入微的体验。"
+    "{i}这{/i}可就一点也不细微了。"
 
 # game/script morocco samuel.rpy:4463
 translate Chinese day15_sam_hotel_83fa1cf6:
@@ -7534,13 +7534,13 @@ translate Chinese day15_sam_hotel_83fa1cf6:
 translate Chinese day15_sam_hotel_97c21a6e:
 
     # "Each downward shove is dominated instead by the gratifying shock of her engulfing you, of your stiff prick being pushed deep—and her throaty, huffing groans when she takes you."
-    "每一次猛乱的坐下你的阴茎都伴随着她满意的颤抖，你的大脑完全被你坚硬的鸡巴顶入更深处而产生的震动和快感所占据，以及她被你上时发出的沙哑带着喘息的呻吟。"
+    "而每一次往下坐，占据一切的都是被她吞没时那令人满足的冲击——你坚硬的阴茎被推进深处——还有她容纳你时喉咙里沙哑的喘息呻吟。"
 
 # game/script morocco samuel.rpy:4467
 translate Chinese day15_sam_hotel_04da3a07:
 
     # "After you'd said {i}you can trust me{/i}—when she was committed to the act—and before she'd actually taken you, you'd managed to briefly wonder how long you might last."
-    "当你说出{i}你相信我{/i}之后。当她沉浸于做向下容纳你的阴茎而没有完全吞下时，你有一瞬间想过你能坚持多久。"
+    "在你说出{i}你可以相信我{/i}之后——在她已经决定要做、却还没真正坐下去之前——你曾短暂地想过自己能坚持多久。"
 
 # game/script morocco samuel.rpy:4469
 translate Chinese day15_sam_hotel_dedcf5a0:
@@ -7558,7 +7558,7 @@ translate Chinese day15_sam_hotel_8dfad51d:
 translate Chinese day15_sam_hotel_cdfe6ae8:
 
     # "The energy of her tempo lets you be distracted. You permit yourself to wonder what it might take, instead, to get her to lose her poise and self-control."
-    "如此猛烈的进攻让你无法思考。你转而去想，到底怎么反攻才能让她失去那份从容和自持。"
+    "她节奏里的那股劲儿让你得以分神。你转而去想，到底怎样才能让她失去那份从容和自持。"
 
 # game/script morocco samuel.rpy:4475
 translate Chinese day15_sam_hotel_ccc989e7:
@@ -7576,13 +7576,13 @@ translate Chinese day15_sam_hotel_d5631973:
 translate Chinese day15_sam_hotel_1e9fa3a2:
 
     # "{i}That{/i} would've given her away, topless."
-    "{i}那{/i}早就出卖了她，即使没穿上衣。"
+    "要是她赤着上身，{i}这{/i}早就把她出卖了。"
 
 # game/script morocco samuel.rpy:4481
 translate Chinese day15_sam_hotel_c625e427:
 
     # "Particularly when you coax her, between thumb and forefinger, and she squirms her way to an unsteady halt, and a blasphemed oath she chokes back badly."
-    "特别是你用拇指个食指挑逗她时,她扭动着身体让自己勉强停下来，好不容易咽下一句不成调的咒骂。"
+    "特别是你用拇指和食指挑逗她时，她扭动着身体勉强停了下来，一句咒骂没咽好，漏出了半句。"
 
 # game/script morocco samuel.rpy:4483
 translate Chinese day15_sam_hotel_e3ba758d:
@@ -7612,7 +7612,7 @@ translate Chinese day15_sam_hotel_5dd6bc4b:
 translate Chinese day15_sam_hotel_b0105f9d:
 
     # "You don't know what you might've {i}expected{/i}, but the abrupt arch to Hannah's spine is plenty telling, even before she lets out a high, strangled yelp, and her eyes roll back, her muzzle pointing to the ceiling."
-    "你不知道自己在{i}期待{/i}什么，但是Hannah突然弯下腰说明了一切，之后她亢奋而又窒息地叫了起来，爽得翻起了白眼，头仰面向上对着天花板。"
+    "你不知道自己原本{i}期待{/i}的是什么，但Hannah突然弓起的背已经说明了一切，紧接着她发出一声高亢而压抑的尖叫，翻起白眼，嘴巴直指天花板。"
 
 # game/script morocco samuel.rpy:4493
 translate Chinese day15_sam_hotel_b83e70fa:
@@ -7630,7 +7630,7 @@ translate Chinese day15_sam_hotel_f1b6bfe3:
 translate Chinese day15_sam_hotel_3da3d0d6:
 
     # "She stays that way, muzzle lifted and breathing strained, even after the spasms had subsided."
-    "她保持着节奏，仰着头，气喘吁吁，即使痉挛平息了也是如此。"
+    "即使痉挛平息了，她也保持着那个姿势，仰着头，呼吸急促。"
 
 # game/script morocco samuel.rpy:4501
 translate Chinese day15_sam_hotel_8bcd952b:
@@ -7642,55 +7642,55 @@ translate Chinese day15_sam_hotel_8bcd952b:
 translate Chinese day15_sam_hotel_b2dcfe05:
 
     # s "Oh..."
-    s "哦...."
+    s "哦……"
 
 # game/script morocco samuel.rpy:4505
 translate Chinese day15_sam_hotel_cd1e513d:
 
     # "She gasps, and has to try a few more times before speaking again."
-    "她喘息着，试了好几次才又能说出话"
+    "她喘息着，试了好几次才又能说出话。"
 
 # game/script morocco samuel.rpy:4507
 translate Chinese day15_sam_hotel_c35d0fe4:
 
     # s "Hff. Needed that. Weren't—weren't too loud, were I?"
-    s "哈。真需要这个。我....应该没有太大声吧？"
+    s "哈。真需要这个。我……应该没有太大声吧？"
 
 # game/script morocco samuel.rpy:4509
 translate Chinese day15_sam_hotel_fd1a432b:
 
     # p "I... I don't think so."
-    p "我...我想没有。"
+    p "我……我想没有。"
 
 # game/script morocco samuel.rpy:4511
 translate Chinese day15_sam_hotel_64199c68:
 
     # "In truth your mind had been elsewhere."
-    "实际上你的脑子已经飘往别处"
+    "实际上你的脑子已经飘到别处去了。"
 
 # game/script morocco samuel.rpy:4513
 translate Chinese day15_sam_hotel_e95e64e7:
 
     # "She seems to decide it doesn't matter."
-    "她似乎觉得着无关紧要。"
+    "她似乎觉得这无关紧要。"
 
 # game/script morocco samuel.rpy:4515
 translate Chinese day15_sam_hotel_834b45f2:
 
     # s "Well, I'm sure they knew what I wanted. No glass in the window. Ah-awh, fuck, [name]..."
-    s "好吧，我确定他们知道我们要什么。没有玻璃的窗户。啊-嗷，操，[name]。"
+    s "好吧，我敢肯定他们知道我想要什么。窗户上又没有玻璃。啊——嗷，操，[name]……"
 
 # game/script morocco samuel.rpy:4517
 translate Chinese day15_sam_hotel_a63f630b:
 
     # "Whatever Hannah intended to follow that has to wait half a minute for her to catch her breath again. She ruffles the fur of your shoulder."
-    "无论Hannah接下来想做什么，都要等她几分钟喘口气。她揉了揉你肩上的毛。"
+    "不管Hannah接下来想说什么，都得等她再喘上半分钟。她揉了揉你肩上的毛。"
 
 # game/script morocco samuel.rpy:4519
 translate Chinese day15_sam_hotel_3c7314b5:
 
     # s "Did you... er—y'don't got knots, I can't tell."
-    s "你...呃，毛没有打结吧，我看不出来。"
+    s "你……呃——你又没那个结，我摸不准你完事没有。"
 
 # game/script morocco samuel.rpy:4521
 translate Chinese day15_sam_hotel_cde92cc7:
@@ -7720,7 +7720,7 @@ translate Chinese day15_sam_hotel_bdbd5257:
 translate Chinese day15_sam_hotel_ee666900:
 
     # "Grinning, she sits up in your lap, and gets a paw under you to pull you upright with her."
-    "笑着，她在你腿上坐直了身子，有伸出一只爪子到你身下把你和她一起拉了起来。"
+    "她笑着在你腿上坐直身子，又伸一只爪子到你身下，把你也拉了起来。"
 
 # game/script morocco samuel.rpy:4533
 translate Chinese day15_sam_hotel_738ffb85:
@@ -7732,7 +7732,7 @@ translate Chinese day15_sam_hotel_738ffb85:
 translate Chinese day15_sam_hotel_2651d98b:
 
     # s "Means we're not done, then."
-    s "我们还要继续。"
+    s "那就是说，我们还没完。"
 
 # game/script morocco samuel.rpy:4537
 translate Chinese day15_sam_hotel_163d1159:
@@ -7744,7 +7744,7 @@ translate Chinese day15_sam_hotel_163d1159:
 translate Chinese day15_sam_hotel_fed2063e:
 
     # "The bed doesn't have a headboard, properly, but the wall behind you serves as leverage."
-    "着床上并没有真正的床头板，但是身后的墙支撑着你。"
+    "这床其实没有床头板，但身后的墙可以借力。"
 
 # game/script morocco samuel.rpy:4541
 translate Chinese day15_sam_hotel_2a38928f:
@@ -7762,7 +7762,7 @@ translate Chinese day15_sam_hotel_a6a19547:
 translate Chinese day15_sam_hotel_1986a148:
 
     # "You only manage to hold the contact for a few seconds before the need for breath breaks it for you."
-    "你们缠绵地接吻，直到喘不过气来才不舍地分开。"
+    "你们只吻了几秒，就不得不分开喘气。"
 
 # game/script morocco samuel.rpy:4547
 translate Chinese day15_sam_hotel_1d4aa145:
@@ -7774,7 +7774,7 @@ translate Chinese day15_sam_hotel_1d4aa145:
 translate Chinese day15_sam_hotel_a14e0092:
 
     # "The kiss is sloppy, and when her moan melts into your muzzle and her back arches you realize how tightly you've gathered her in your embrace-how your claws have extended, pulling her close."
-    "这个吻非常潦草，你张开爪子，紧紧把她抱入怀，当她在你的唇齿间呻吟，她的背弓起时，你才意识到你把她楼得多紧。"
+    "这个吻吻得一塌糊涂，当她的呻吟融化在你的唇齿间、她的背弓起来时，你才意识到自己把她搂得有多紧——你的爪子已经伸了出来，把她紧紧拉向自己。"
 
 # game/script morocco samuel.rpy:4551
 translate Chinese day15_sam_hotel_664c0b39:
@@ -7804,7 +7804,7 @@ translate Chinese day15_sam_hotel_83d33d3f:
 translate Chinese day15_sam_hotel_fa3ce639:
 
     # p "Getting there...."
-    p "我快了..."
+    p "我快了……"
 
 # game/script morocco samuel.rpy:4561
 translate Chinese day15_sam_hotel_0f7dc42c:
@@ -7828,13 +7828,13 @@ translate Chinese day15_sam_hotel_2b6d657b:
 translate Chinese day15_sam_hotel_3c98ab13:
 
     # s "Tell me..."
-    s "告诉我..."
+    s "告诉我……"
 
 # game/script morocco samuel.rpy:4569
 translate Chinese day15_sam_hotel_d9b106aa:
 
     # "And with that, the rolling gives way to steady pumping: movements you begin to meet, lifting yourself up to drive more firmly into the maned wolf."
-    "随着这句话，摇摆变成了稳定的抽吸，你开始迎合她的动作，将你的身体抬高，以便长驱直入进入鬃狼的更深处。"
+    "随着这句话，摇摆变成了稳定的抽送，你开始迎合她的动作，向上挺身，更深地顶进鬃狼体内。"
 
 # game/script morocco samuel.rpy:4571
 translate Chinese day15_sam_hotel_bccc026c:
@@ -7852,7 +7852,7 @@ translate Chinese day15_sam_hotel_ddf9bd1f:
 translate Chinese day15_sam_hotel_d27eed8c:
 
     # "The sensation of snug velvet enveloping you—opening, slickly, beckoning you to push deep and stay deep, is becoming insistent and demanding."
-    "那种像被天鹅绒包裹的感觉带来越来越多得快感，时刻准备击溃你的防线，又湿又滑的阴道，仿佛在祈求你插入更深处。"
+    "那种被天鹅绒紧紧包裹的感觉——湿滑地张开，引诱你深深插进去、留在里面——变得越来越强烈，越来越不容抗拒。"
 
 # game/script morocco samuel.rpy:4577
 translate Chinese day15_sam_hotel_9bb194f1:
@@ -7882,7 +7882,7 @@ translate Chinese day15_sam_hotel_a1ba578b:
 translate Chinese day15_sam_hotel_59cd60b3:
 
     # "She is as constrained to monosyllables as you are, and when you nod urgently you can see a brief conflict play out over her angular features. Whatever it is ends with a throaty:"
-    "她和你一样在这场疯狂的性爱中沉沦，说不出一句完整的话，当你急切地点头时，你能看见她的脸上闪过短暂的挣扎。之后又是一阵沙哑的低语。"
+    "她和你一样只能蹦出单个的字，当你急切地点头时，你看见她棱角分明的脸上闪过一阵短暂的挣扎。不管是什么，最后都化成了一声沙哑的："
 
 # game/script morocco samuel.rpy:4587
 translate Chinese day15_sam_hotel_21ad5ec7:
@@ -7894,13 +7894,13 @@ translate Chinese day15_sam_hotel_21ad5ec7:
 translate Chinese day15_sam_hotel_9ed138be:
 
     # "You mean to—{i}want to{/i}—ask something like: {i}are you sure?{/i}"
-    "犹豫着，你本{i}想{/i}装模作样地问问{i}你确定吗？{/i}"
+    "你本想——{i}很想{/i}——问一句{i}你确定吗？{/i}"
 
 # game/script morocco samuel.rpy:4591
 translate Chinese day15_sam_hotel_620d9d39:
 
     # "Need, and your rapidly fading resolve, reduces it to a guttural grunt with only the barest rising tone of a question. Your baser instincts neither demand the query nor care about its answer."
-    "极致的渴望和你迅速消磨的意志力都将一切简化为了一声带低吼，顶多再带一点疑问的语调。但你的老二既不需要这个问题，也不需要答案，一切都遵循着本能的欲望。"
+    "但渴望和迅速消退的意志把它压成了一声低沉的咕哝，只带着一点点疑问的升调。你更原始的本能既不需要这个问题，也不在乎它的答案。"
 
 # game/script morocco samuel.rpy:4593
 translate Chinese day15_sam_hotel_999f1bbb:
@@ -7936,7 +7936,7 @@ translate Chinese day15_sam_hotel_2179c946:
 translate Chinese day15_sam_hotel_a164f66f:
 
     # "You bring her own movements to a halt, but are no longer truly {i}aware{/i} of that, or of how desperately you're bucking under her to make up the difference."
-    "你止住了她的动作，但是你不是真正{i}意识到{/i}那样，也没察觉你在她的下面疯狂顶她来弥补。"
+    "你让她停下了动作，但你其实并没有真正{i}意识到{/i}这一点，也没意识到自己正在她身下拼命向上顶，来弥补这份停顿。"
 
 # game/script morocco samuel.rpy:4605
 translate Chinese day15_sam_hotel_d1e7f050:
@@ -7948,13 +7948,13 @@ translate Chinese day15_sam_hotel_d1e7f050:
 translate Chinese day15_sam_hotel_9b8db9a3:
 
     # "Hannah holds on, gasping your name in the breathless sprint between when you know your climax is inevitable and when it actually hits."
-    "当高潮真的来临，在那个即将射精的临界点，Hannah紧紧抓住你，喘息着你的名字。"
+    "在你知道高潮已经无法避免、到它真正来临之间那段喘不过气的冲刺里，Hannah紧紧抱着你，喘着你的名字。"
 
 # game/script morocco samuel.rpy:4609
 translate Chinese day15_sam_hotel_63dafd77:
 
     # "For a few seconds, you're rutting frantically between her spread thighs, rapid hitching followed by shaky halts, followed by renewed, sharper, faster pounding."
-    "过了几秒，你在她大开的大腿间疯狂抽动，急促的抽插后是颤抖的停顿，接着开始新的一轮，更猛烈，更快速的撞击。"
+    "接下来的几秒里，你在她大开的大腿间疯狂抽动，急促的抽插后是颤抖的停顿，接着开始新的一轮，更猛烈，更快速的撞击。"
 
 # game/script morocco samuel.rpy:4611
 translate Chinese day15_sam_hotel_ffc4c788:
@@ -7990,7 +7990,7 @@ translate Chinese day15_sam_hotel_3cdcb4f9:
 translate Chinese day15_sam_hotel_dae8b80f:
 
     # "Distantly, you perceive her fluttering grip on your length, continuing even after you've finished emptying yourself in her."
-    "恍惚中，你隐隐感受到在清空弹夹后她仍然阵阵地夹着你的阴茎。"
+    "恍惚中，你隐隐感到她还在一下一下地轻颤着收紧，裹着你的阴茎，哪怕你已经在她体内射空。"
 
 # game/script morocco samuel.rpy:4631
 translate Chinese day15_sam_hotel_a2cc904f:
@@ -8002,7 +8002,7 @@ translate Chinese day15_sam_hotel_a2cc904f:
 translate Chinese day15_sam_hotel_3d4add5f:
 
     # "But your first conscious awareness is of an equally uncharacteristic giggle, and a firm shove beneath your jaw."
-    "但当你恢复神智后首先听到的是一声同样不寻常的轻笑，之后她抵住你的下巴，猛猛向后推去。"
+    "但你恢复神智后首先注意到的，是一声同样不寻常的咯咯笑，还有一只爪子在你下巴底下用力一推。"
 
 # game/script morocco samuel.rpy:4654
 translate Chinese day15_sam_hotel_29d43802:
@@ -8032,13 +8032,13 @@ translate Chinese day15_sam_hotel_dea7f2dc:
 translate Chinese day15_sam_hotel_7d228493:
 
     # p "I—yes. I guess so."
-    p "我想...是的。"
+    p "我想……是的。"
 
 # game/script morocco samuel.rpy:4664
 translate Chinese day15_sam_hotel_17e48c02:
 
     # s "Didn't know to expect that, now. Don't stop..."
-    s "没想到会这样呢。继续，别停下..."
+    s "没想到会这样呢。继续，别停下……"
 
 # game/script morocco samuel.rpy:4666
 translate Chinese day15_sam_hotel_f39debf4:
@@ -8050,13 +8050,13 @@ translate Chinese day15_sam_hotel_f39debf4:
 translate Chinese day15_sam_hotel_bdaa893c:
 
     # "Intermittent aftershocks do plenty to remind you that you're still buried to the hilt in the maned wolf; every shift and squirm nudges your softening cock through the generous load you've pumped into her."
-    "你阴茎时不时的抽动提醒你，你还深深地插在鬃狼身体里面；每一次挪动和扭蹭都让你逐渐软下去的阴茎在被你填满的缝缝里面轻轻划过。"
+    "时不时的余震提醒着你，你还整根埋在鬃狼体内；每一次挪动和扭蹭，都让你渐渐变软的阴茎在你灌进她体内的那一大股精液里滑动。"
 
 # game/script morocco samuel.rpy:4670
 translate Chinese day15_sam_hotel_96d69e28:
 
     # "You relax your hold on her hips, and begin to smooth the fur of her back."
-    "你松开捧着她胯部地手，并开始顺她背后的毛发。"
+    "你松开扶着她臀部的手，开始顺着抚摸她背上的毛。"
 
 # game/script morocco samuel.rpy:4674
 translate Chinese day15_sam_hotel_0f9646ee:
@@ -8068,13 +8068,13 @@ translate Chinese day15_sam_hotel_0f9646ee:
 translate Chinese day15_sam_hotel_73b499a5:
 
     # s "Gonna have to pull off, though. Can already feel you dripping..."
-    s "你不得不抽出你的阴茎了。已经可以感觉到它在往外滑了。"
+    s "不过你得出来了。我已经感觉到你在往外淌了……"
 
 # game/script morocco samuel.rpy:4680
 translate Chinese day15_sam_hotel_823e5915:
 
     # p "Oh. Sure..."
-    p "哦。好吧..."
+    p "哦。好吧……"
 
 # game/script morocco samuel.rpy:4687
 translate Chinese day15_sam_hotel_e85ae0c1:
@@ -8086,7 +8086,7 @@ translate Chinese day15_sam_hotel_e85ae0c1:
 translate Chinese day15_sam_hotel_7a450448:
 
     # "You slide free with a lewd pop, and stare blankly at your half-hard erection, glistening obscenely, slowly shrinking back into its sheath."
-    "随着一声淫荡的啵响，你抽出你的阴茎，茫然地盯着你那半硬这的老二，上面还沾着淫水，正缓缓缩回包皮中。"
+    "随着一声淫靡的轻响，你滑了出来，茫然地盯着自己半硬的阴茎，湿亮得不堪入目，正慢慢缩回鞘里。"
 
 # game/script morocco samuel.rpy:4691
 translate Chinese day15_sam_hotel_275e939c:
@@ -8098,7 +8098,7 @@ translate Chinese day15_sam_hotel_275e939c:
 translate Chinese day15_sam_hotel_d59904d7:
 
     # p "Are those my pants?"
-    p "那是我的裤子吗。"
+    p "那是我的裤子吗？"
 
 # game/script morocco samuel.rpy:4697
 translate Chinese day15_sam_hotel_79125631:
@@ -8110,7 +8110,7 @@ translate Chinese day15_sam_hotel_79125631:
 translate Chinese day15_sam_hotel_140a3cca:
 
     # "She teases you rhetorically; it's not like you can feel too regretful about it."
-    "她戏虐地反问；毕竟是你们两一起做的。"
+    "她只是在打趣你，并不是真要你回答；何况你也没法为这事太过后悔。"
 
 # game/script morocco samuel.rpy:4701
 translate Chinese day15_sam_hotel_201e2407:
@@ -8122,13 +8122,13 @@ translate Chinese day15_sam_hotel_201e2407:
 translate Chinese day15_sam_hotel_ab3d4455:
 
     # p "I guess..."
-    p "我想是吧..."
+    p "我想是吧……"
 
 # game/script morocco samuel.rpy:4707
 translate Chinese day15_sam_hotel_8fe6e20c:
 
     # "She snickers, twisting onto her side and eyeing you."
-    "她窃笑地测过身，目光落在你身上。"
+    "她窃笑着侧过身，目光落在你身上。"
 
 # game/script morocco samuel.rpy:4709
 translate Chinese day15_sam_hotel_260b21ff:
@@ -8158,25 +8158,25 @@ translate Chinese day15_sam_hotel_9a218939:
 translate Chinese day15_sam_hotel_c9d8ccef:
 
     # s "Cheeky. Ohhh..."
-    s "真调皮。哦..."
+    s "真调皮。哦……"
 
 # game/script morocco samuel.rpy:4726
 translate Chinese day15_sam_hotel_4611da2a:
 
     # "She sighs heavily, drumming her long fingers on your side."
-    "他重重地叹了口气，用修长地手指在身侧戳了戳你。"
+    "她重重地叹了口气，修长的手指在你身侧轻轻敲着。"
 
 # game/script morocco samuel.rpy:4730
 translate Chinese day15_sam_hotel_a8e2a774:
 
     # s "Oh, but I had forgot what that was like. You's better than a bath, sure, and no mistake."
-    s "啊，我都忘记那是什么感觉了。你确实比泡澡舒服，一点都对。"
+    s "啊，我都忘了那是什么滋味了。你可比泡澡舒服，一点没错。"
 
 # game/script morocco samuel.rpy:4732
 translate Chinese day15_sam_hotel_7df94117:
 
     # s "Now a nice comfy bed...{w} nice comfy cat..."
-    s "现在有舒服的床...{w}还有只舒服的猫..."
+    s "现在有舒服的床……{w}还有只舒服的猫……"
 
 # game/script morocco samuel.rpy:4734
 translate Chinese day15_sam_hotel_cd1d413a:
@@ -8206,7 +8206,7 @@ translate Chinese day15_sam_hotel_b6ddd63b:
 translate Chinese day15_sam_hotel_547307cb:
 
     # p "Hold on. You said if I hadn't stayed, you'd ask for a smaller bed..."
-    p "等等。你说如果我没有留下，你会要一张更小的床..."
+    p "等等。你说如果我没有留下，你会要一张更小的床……"
 
 # game/script morocco samuel.rpy:4748
 translate Chinese day15_sam_hotel_d5b252fc:
@@ -8218,7 +8218,7 @@ translate Chinese day15_sam_hotel_d5b252fc:
 translate Chinese day15_sam_hotel_eb40172a:
 
     # p "But... Rajeeyah wrote you the directions. You asked {i}her{/i} for a big bed."
-    p "但...是Rajeeyah给你了地址。你是向{i}她{/i}要的大床。"
+    p "但是……路线是Rajeeyah帮你写的。你是向{i}她{/i}要的大床。"
 
 # game/script morocco samuel.rpy:4754
 translate Chinese day15_sam_hotel_2eef3694:
@@ -8230,25 +8230,25 @@ translate Chinese day15_sam_hotel_2eef3694:
 translate Chinese day15_sam_hotel_9bddcbc8:
 
     # s "Well... Now..."
-    s "这个嘛...现在..."
+    s "这个嘛……现在……"
 
 # game/script morocco samuel.rpy:4758
 translate Chinese day15_sam_hotel_47ef8af8:
 
     # p "So {i}she{/i} knows..."
-    p "所以{i}她{/i}知道了..."
+    p "所以{i}她{/i}知道了……"
 
 # game/script morocco samuel.rpy:4760
 translate Chinese day15_sam_hotel_212dee01:
 
     # s "We're friends. She'd figure it out. You really mind?"
-    s "她是我朋友。她会明白的。你真的介意吗。"
+    s "我们是朋友。她自己会猜到的。你真的介意吗？"
 
 # game/script morocco samuel.rpy:4762
 translate Chinese day15_sam_hotel_9236b5ea:
 
     # p "I was trying to make a better impression..."
-    p "我本来想留个好印象的..."
+    p "我本来想留个好印象的……"
 
 # game/script morocco samuel.rpy:4764
 translate Chinese day15_sam_hotel_3be1bc5b:
@@ -8260,7 +8260,7 @@ translate Chinese day15_sam_hotel_3be1bc5b:
 translate Chinese day15_sam_hotel_3c26238a:
 
     # p "She already probably thinks I'm a... you know, an ordinary sailor..."
-    p "她大概觉得我可能是一个...普通水手..."
+    p "她大概觉得我可能是一个……普通水手……"
 
 # game/script morocco samuel.rpy:4770
 translate Chinese day15_sam_hotel_f70c79f2:
@@ -8272,7 +8272,7 @@ translate Chinese day15_sam_hotel_f70c79f2:
 translate Chinese day15_sam_hotel_c1e4a14b:
 
     # s "Trust me... after that, sure, I'm not about to say otherwise."
-    s "相信我...经过刚才的狂欢，我当然不会否认。"
+    s "相信我……经过刚才的狂欢，我当然不会否认。"
 
 # game/script morocco samuel.rpy:4776
 translate Chinese day15_sam_hotel_4fea565e:
@@ -8284,19 +8284,19 @@ translate Chinese day15_sam_hotel_4fea565e:
 translate Chinese day15_sam_hotel_32a8e615:
 
     # s "And we ran her errand, just as asked, so..."
-    s "我们已经照着她的要求跑完差事了，所以..."
+    s "我们已经照着她的要求跑完差事了，所以……"
 
 # game/script morocco samuel.rpy:4782
 translate Chinese day15_sam_hotel_41faeba6:
 
     # "The afterglow has begun to melt into a lengthier, more sated lassitude."
-    "欢快后的余韵开始融成更加绵长，更餍足的慵懒。"
+    "欢爱后的余韵渐渐化成一种更绵长、更餍足的慵懒。"
 
 # game/script morocco samuel.rpy:4784
 translate Chinese day15_sam_hotel_f3080537:
 
     # "Rajeeyah will understand, you suppose—or she won't, but then that would be Sam's problem as much as your own."
-    "Rajeeyah会理解的，你猜，就算她不，这也成了Sam和你共同面对的问题。"
+    "你猜，Rajeeyah会理解的——就算她不理解，那也是Sam的麻烦，不只是你的。"
 
 # game/script morocco samuel.rpy:4786
 translate Chinese day15_sam_hotel_af9e5888:
@@ -8308,13 +8308,13 @@ translate Chinese day15_sam_hotel_af9e5888:
 translate Chinese day15_sam_hotel_46fe9fd3:
 
     # "And, resting on your side, the maned wolf's tattooed arm. You trace the marks contemplatively, until she takes note of what you're doing and tilts her head questioningly."
-    "还有，躺在你旁边的鬃狼那纹在手臂上的图案。你在记忆里面翻找这这些图案，知道她注意到你的举动，疑惑地歪了歪头。"
+    "还有，搭在你身侧的鬃狼那条有纹身的手臂。你若有所思地用指尖描着那些纹路，直到她注意到你在做什么，疑惑地歪了歪头。"
 
 # game/script morocco samuel.rpy:4790
 translate Chinese day15_sam_hotel_9128de76:
 
     # "You have plenty of time to ask her for an explanation, and to recount the previous adventures that have brought her here: to the neatly tiled room, and the lingering scent of rosewater."
-    "你有很多的时间问她图案的含义，并听把她带到这整洁的，有着玫瑰花香氛萦绕的房间的冒险故事。"
+    "你们有的是时间，你可以让她讲讲这些纹身，讲讲把她带到这里来的那些冒险：带到这间铺着整洁瓷砖、萦绕着玫瑰水香气的房间。"
 
 # game/script morocco samuel.rpy:4792
 translate Chinese day15_sam_hotel_d7590522:

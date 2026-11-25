@@ -37104,7 +37104,7 @@ translate Chinese day12_perce_alcohol_41ae4bc8:
 translate Chinese day12_perce_alcohol_bebce6c5:
 
     # "Dutifully enough, you lap at his prick as it slowly softens, slipping back into his sheath."
-    "你尽职地舔舐着他慢慢软化、缩回包皮的阴茎。"
+    "你尽职地舔舐着他慢慢软化、缩回鞘里的阴茎。"
 
 # game/script day12.rpy:19405
 translate Chinese day12_perce_alcohol_39f6e9c1:
@@ -49974,7 +49974,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_8b24da1e:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_c76ddb39:
 
     # "A hint of slickened red pokes out from the tip of his sheath, the rest below fading into darkness."
-    "一抹湿润的红色从他的包皮尖端探出，其余部分则隐没在黑暗中。"
+    "一抹湿润的红色从他鞘的尖端探出，其余部分则隐没在黑暗中。"
 
 # game/script day12.rpy:25890
 translate Chinese day12_bioluminescence_nomax_lifedrawing_f377751f:
@@ -50136,7 +50136,7 @@ translate Chinese day12_bioluminescence_nomax_lifedrawing_b0edd8a7:
 translate Chinese day12_bioluminescence_nomax_lifedrawing_b21292e3:
 
     # "You expect the soft touch of a sheath."
-    "你期待着触碰到柔软的包皮。"
+    "你期待着触碰到柔软的鞘。"
 
 # game/script day12.rpy:25981
 translate Chinese day12_bioluminescence_nomax_lifedrawing_c8c2f76f_1:
