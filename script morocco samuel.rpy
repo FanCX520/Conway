@@ -232,7 +232,7 @@ translate Chinese day14_samuel_morocco_secret_2da5965c:
 translate Chinese day14_samuel_morocco_secret_565d25e4:
 
     # s "Is anything changed?"
-    s "有什么变了吗？"
+    s "有差吗？"
 
 # game/script morocco samuel.rpy:151
 translate Chinese day14_samuel_morocco_secret_0febc460:
@@ -292,7 +292,7 @@ translate Chinese day14_samuel_morocco_secret_2ce32b91:
 translate Chinese day14_samuel_morocco_secret_081471af:
 
     # s "Just keep your thoughts to yourself."
-    s "你怎么想，自己留着就行。"
+    s "管好你自己。"
 
 # game/script morocco samuel.rpy:203
 translate Chinese day15_morocco_samuel_15031261:
@@ -1108,7 +1108,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_f71b8f7b:
 translate Chinese day15_samuel_raj_bathhouse_intro_f418b902:
 
     # r "Did you enjoy yourself?"
-    r "搓得舒服吗？"
+    r "搓澡好玩吗？"
 
 # game/script morocco samuel.rpy:803
 translate Chinese day15_samuel_raj_bathhouse_intro_dde0d4dd:
@@ -1234,7 +1234,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_8a6ed59f:
 translate Chinese day15_samuel_raj_bathhouse_intro_023dc344:
 
     # "She slides into the water, so smoothly that it barely seems disturbed by her entry. Rajeeyah closes her eyes again, tilting her head back as steam rises around her."
-    "她滑进水里，动作轻得几乎没有搅动水面。Rajeeyah又闭上眼睛，仰起头，任水汽在身边蒸腾。"
+    "她优雅地滑入水中，没有泛起一点涟漪。Rajeeyah再次闭上了双眼，后仰着头，感受着水汽在她周围蒸腾。"
 
 # game/script morocco samuel.rpy:881
 translate Chinese day15_samuel_raj_bathhouse_intro_d681bb5d:
@@ -1690,7 +1690,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_c702d8d7:
 translate Chinese day15_samuel_raj_bathhouse_intro_58e3d52f:
 
     # "Mogador lacks for the towering forests of your own homeland: the door itself is an act of pure ostentatiousness."
-    "莫加多尔不像你的家乡那样有高耸入云的森林：这扇门本身就是一种纯粹的炫耀。"
+    "莫加多尔并不像你家乡一样处处都有高耸入云的树林。而眼前优雅的木门就足够凸显这浴场的奢华。"
 
 # game/script morocco samuel.rpy:1161
 translate Chinese day15_samuel_raj_bathhouse_intro_476393c6:
@@ -2806,7 +2806,7 @@ translate Chinese day15_sam_raj_catchup_915d602d:
 translate Chinese day15_sam_raj_catchup_1c81c312:
 
     # r "The odds are astronomical."
-    r "那概率简直微乎其微。"
+    r "那真是太阳打西边出来了。"
 
 # game/script morocco samuel.rpy:1870
 translate Chinese day15_sam_raj_catchup_ec3a85b3:
@@ -3190,7 +3190,7 @@ translate Chinese day15_sam_bathhouse_scene_5cd21d85:
 translate Chinese day15_sam_bathhouse_scene_5768a9ef:
 
     # s "Ship runs on that as much as it does hardtack."
-    s "这船靠闲话撑着，跟靠硬饼干撑着一样。"
+    s "船员们就靠这样拧成一股绳的。"
 
 # game/script morocco samuel.rpy:2063
 translate Chinese day15_sam_bathhouse_scene_757d312a:
@@ -3328,7 +3328,7 @@ translate Chinese day15_sam_bathhouse_scene_1b640dae:
 translate Chinese day15_sam_bathhouse_scene_737a961b:
 
     # "You look at her like a deer in the headlights."
-    "你像被车灯照住的鹿一样，呆呆地看着她。"
+    "你怔怔地看着她。"
 
 # game/script morocco samuel.rpy:2129
 translate Chinese day15_sam_bathhouse_scene_52d1879b:
