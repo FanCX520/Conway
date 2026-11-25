@@ -106,7 +106,7 @@ translate Chinese day14_samuel_morocco_secret_a33a59b0:
 translate Chinese day14_samuel_morocco_secret_2b58262a:
 
     # p "No.{w} Yes. That's why you wanted to talk to Rajeeyah?"
-    p "不会。{w}对了，所以你才想找Rajeeyah聊聊？"
+    p "不会。{w}呃，其实也会。所以你才想找Rajeeyah聊聊？"
 
 # game/script morocco samuel.rpy:79
 translate Chinese day14_samuel_morocco_secret_72ea3231:
@@ -1378,7 +1378,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_363a0ac1:
 translate Chinese day15_samuel_raj_bathhouse_intro_7e19826a:
 
     # "And immediately learn how Bandile's stew must feel!"
-    "嘶——你立刻体会到了Bandile锅里那锅炖菜的感受！"
+    "嘶——你立刻体会到了Bandile那锅炖菜的感受！"
 
 # game/script morocco samuel.rpy:969
 translate Chinese day15_samuel_raj_bathhouse_intro_c48ae0aa:
@@ -1474,7 +1474,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_27eb0118:
 translate Chinese day15_samuel_raj_bathhouse_intro_e0abb3c3:
 
     # r "Not in {i}this{/i} pool, though, obviously."
-    r "不过不是在{i}这个{/i}浴池里。"
+    r "不过显然不是在{i}这个{/i}浴池里。"
 
 # game/script morocco samuel.rpy:1011
 translate Chinese day15_samuel_raj_bathhouse_intro_3060e0cb:
@@ -4060,7 +4060,7 @@ translate Chinese day15_sam_bathhouse_scene_3bbca04b:
 translate Chinese day15_sam_bathhouse_scene_1e3491ce:
 
     # s "I don't."
-    s "我从来不。"
+    s "我不弄。"
 
 # game/script morocco samuel.rpy:2473
 translate Chinese day15_sam_bathhouse_scene_f3bca45a:
@@ -6376,7 +6376,7 @@ translate Chinese day15_sam_hotel_b2b8d73f:
 translate Chinese day15_sam_hotel_0403995b:
 
     # "There is a window, the panes open and admitting gentle afternoon light that floods a tidily—if sparsely-furnished room. A single bed, albeit wider than any you've seen before, dominates the chamber."
-    "那里有一扇窗，窗玻璃敞开着，让午后温暖柔和的阳光倾泻在这整洁而略显简陋的房间。只有一张床，却比你以前看到的任何一张都宽，占据了房间的主要位置。"
+    "那里有一扇窗，窗扇敞开着，让午后温暖柔和的阳光倾泻在这整洁而略显简陋的房间。只有一张床，却比你以前看到的任何一张都宽，占据了房间的主要位置。"
 
 # game/script morocco samuel.rpy:3921
 translate Chinese day15_sam_hotel_af88836e:
@@ -7690,7 +7690,7 @@ translate Chinese day15_sam_hotel_a63f630b:
 translate Chinese day15_sam_hotel_3c7314b5:
 
     # s "Did you... er—y'don't got knots, I can't tell."
-    s "你……呃——你们猫没有肉结吧，我也说不准。"
+    s "你……呃——你又没那个结，我摸不准你完事没有。"
 
 # game/script morocco samuel.rpy:4521
 translate Chinese day15_sam_hotel_cde92cc7:
