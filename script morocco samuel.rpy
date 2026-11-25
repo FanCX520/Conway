@@ -22,7 +22,7 @@ translate Chinese day14_samuel_morocco_secret_061e5381:
 translate Chinese day14_samuel_morocco_secret_3cc13ca4:
 
     # s "How do you figure the {i}Conway{/i}'s luck is?"
-    s "你觉得 {i}Conway{/i}的运气如何？"
+    s "你觉得{i}Conway{/i}号的运气如何？"
 
 # game/script morocco samuel.rpy:27
 translate Chinese day14_samuel_morocco_secret_b0fae625:
@@ -1630,7 +1630,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_ea949a70:
 translate Chinese day15_samuel_raj_bathhouse_intro_2aab80e0:
 
     # "You look down on yourself to see if you spot any redness on yourself."
-    "你低头看看自己的身体是否也被“煮”红温了。"
+    "你低头看看自己的身体是否也被“煮”红了。"
 
 # game/script morocco samuel.rpy:1110
 translate Chinese day15_samuel_raj_bathhouse_intro_88c755b6:
@@ -2812,7 +2812,7 @@ translate Chinese day15_sam_raj_catchup_1c81c312:
 translate Chinese day15_sam_raj_catchup_ec3a85b3:
 
     # "Yet it goes without saying that the odds, no matter how long, are better than they would be of meeting him aboard the {i}Conway{/i}."
-    "但不用说，无论几率多小，也比在{i}Conway{/i}上遇见他的几率要大。"
+    "但不用说，无论几率多小，也比在{i}Conway{/i}号上遇见他的几率要大。"
 
 # game/script morocco samuel.rpy:1872
 translate Chinese day15_sam_raj_catchup_eaa0e586:
@@ -2980,7 +2980,7 @@ translate Chinese day15_sam_raj_catchup_d2442046:
 translate Chinese day15_sam_raj_catchup_e91a8c30:
 
     # "You look upwards, at blue sky framed by the clean white stone. The city, and the port, and the {i}Conway{/i} seem a distant memory."
-    "你抬头向上望去，看那被洁白的石墙框住的蓝天。这座城，港口还有{i}Conway{/i}就像遥远而模糊的记忆。"
+    "你抬头向上望去，看那被洁白的石墙框住的蓝天。这座城，港口还有{i}Conway{/i}号就像遥远而模糊的记忆。"
 
 # game/script morocco samuel.rpy:1959
 translate Chinese day15_sam_raj_catchup_b0128392:
@@ -6316,7 +6316,7 @@ translate Chinese day15_sam_hotel_064a934e:
 translate Chinese day15_sam_hotel_fef76570:
 
     # "A robed wolf is sitting on a bench outside, but stands when you approach. Sam gives her the note, and then lifts her coin purse, jingling it slightly."
-    "一个穿着长袍的狼坐在外面的长椅上，但当你们过来时，她站了起来。Sam递给她那张纸条，再举起她的钱袋，发出清脆的叮当声。"
+    "一只穿着长袍的狼坐在外面的长椅上，但当你们过来时，她站了起来。Sam递给她那张纸条，再举起她的钱袋，发出清脆的叮当声。"
 
 # game/script morocco samuel.rpy:3867
 translate Chinese day15_sam_hotel_d8c73fd9:
@@ -6454,7 +6454,7 @@ translate Chinese day15_sam_hotel_41a54e62:
 translate Chinese day15_sam_hotel_a963b63b:
 
     # "And—once you really {i}feel{/i} it under your back—the difference to a swaying hammock on the {i}Conway{/i} is almost enough to make you sob."
-    "而且，一旦你{i}感受到{/i}你背下的床垫是何等舒适，和{i}Conway{/i}上摇摇晃晃的吊床相比，这几乎足以让你哭出来。"
+    "而且，一旦你{i}感受到{/i}你背下的床垫是何等舒适，和{i}Conway{/i}号上摇摇晃晃的吊床相比，这几乎足以让你哭出来。"
 
 # game/script morocco samuel.rpy:3966
 translate Chinese day15_sam_hotel_6ea4a5f9:
@@ -7990,7 +7990,7 @@ translate Chinese day15_sam_hotel_3cdcb4f9:
 translate Chinese day15_sam_hotel_dae8b80f:
 
     # "Distantly, you perceive her fluttering grip on your length, continuing even after you've finished emptying yourself in her."
-    "恍惚中，你隐隐感受到在清空弹夹后她仍然阵阵地夹着你的阴茎。"
+    "恍惚中，你隐隐感到她还在一下一下地轻颤着收紧，裹着你的阴茎，哪怕你已经在她体内射空。"
 
 # game/script morocco samuel.rpy:4631
 translate Chinese day15_sam_hotel_a2cc904f:
