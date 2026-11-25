@@ -1378,7 +1378,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_363a0ac1:
 translate Chinese day15_samuel_raj_bathhouse_intro_7e19826a:
 
     # "And immediately learn how Bandile's stew must feel!"
-    "你立刻体会到了Bandile锅里那锅炖菜的感受！"
+    "嘶——你立刻体会到了Bandile锅里那锅炖菜的感受！"
 
 # game/script morocco samuel.rpy:969
 translate Chinese day15_samuel_raj_bathhouse_intro_c48ae0aa:
@@ -1702,7 +1702,7 @@ translate Chinese day15_samuel_raj_bathhouse_intro_476393c6:
 translate Chinese day15_samuel_raj_bathhouse_intro_49e12962:
 
     # "Shafts of light pierce through the open hall, glittering on the rippling pool. As the day wanes, the brilliant sky above will darken to the same color as the tile."
-    "一束束光穿过敞开的大厅，在波光粼粼的水池上熠熠生辉。等到日落时分，明亮的天空会暗成和瓷砖一样的颜色。"
+    "一束束光从露天的屋顶上散落下来，在波光粼粼的水池上熠熠生辉。等到日暮，天空也会变成那华丽瓷砖的颜色。"
 
 # game/script morocco samuel.rpy:1165
 translate Chinese day15_samuel_raj_bathhouse_intro_0e496fbe:
@@ -3556,7 +3556,7 @@ translate Chinese day15_sam_bathhouse_scene_416ee679:
 translate Chinese day15_sam_bathhouse_scene_999efc80:
 
     # "She isn't any warmer than the pleasant temperature of the water, but it doesn't take long with her hips pressed down and into your crotch for your body to begin responding."
-    "她的身体并不比宜人的池水更暖，但她的臀部压进你的胯间，没过多久，你的身体就有了反应。"
+    "她的身子并不比宜人的池水更暖，可她的臀部往你胯间一压，没多久你的身体就起了反应。"
 
 # game/script morocco samuel.rpy:2249
 translate Chinese day15_sam_bathhouse_scene_916d116e:
@@ -4126,7 +4126,7 @@ translate Chinese day15_sam_bathhouse_scene_a6781e96:
 translate Chinese day15_sam_bathhouse_scene_fb7b8a53:
 
     # "Later, though. Right now, what matters is your own arms, circling the maned wolf. More than just the afterglow of your impulsive coupling, blending as it does with the pleasantly humid air of the bath, you're taken by conviction that you've made the right choice."
-    "不过那是之后的事了。现在唯一重要的，是你环抱着鬃狼的双臂。不只是一时冲动交合后的余韵，也不只是浴场里宜人的湿热空气，你还确信自己做了正确的选择。"
+    "不过那是之后的事了。现在唯一重要的，是此时此刻抱在怀里的鬃狼。冲动交合后的余韵和氤氲的水汽交融在一起，但这不只是余韵：你深信自己做了正确的选择。"
 
 # game/script morocco samuel.rpy:2500
 translate Chinese day15_sam_bathhouse_scene_57d0daf8:
