@@ -186,6 +186,7 @@ Ren'Py game scripts for **Conway** (Chinese localization / translation files).
 | Fop | 纨绔子弟 / 花花公子 | 18世纪对衣着考究浮夸、做派矫揉造作的男子的蔑称，剧中Perce用来嘲讽Nomax。 |
 | Muzzle | 口吻 / 嘴巴侍奉 | 兽人设定中指面部凸出的口鼻吻部，在水手粗俗俚语中借指嘴部口交侍奉。 |
 | Knot | 锁结 / 肉结 | 犬科兽人交配高潮时阴茎基部膨大的球状海绵体（Bulbus glandis）。 |
+| Sheath | 鞘 | 兽人设定中包裹阴茎的毛皮鞘，统一译作“鞘”，不译作“包皮”。 |
 | Trust as far as one can throw | 毫无信任 / 戒心极重 | 英语经典俗语（Trust sb as far as you can throw him），意指连半点也不信任对方。 |
 | Grand Tour | 壮游 | 17至19世纪欧洲贵族与富家子弟盛行的欧洲大陆游学传统，常由导师陪同研习古典艺术与文化。 |
 | Tutor (Bear-leader) | 壮游导师 / 护游学者 | 18世纪壮游中受雇陪同青年贵族的学者或教士，负责监督学业、安排行程、管理开销并充当向导。 |
